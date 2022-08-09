@@ -4,7 +4,7 @@
 
 由于 limelight 的限制访问，这是对 [tfsci-sc/articles](https://github.com/tfsci-sc/articles) 的存档和整理工作。
 
-该存档工作 [Aly W](aly-w) 本人已知晓，并授权仅存档简体中文内容。
+该存档工作 [Aly W][aly-w] 本人已知晓，并授权仅存档简体中文内容。
 
 [aly-w]: https://transfemscience.org/articles-by-author/aly-w/
 
