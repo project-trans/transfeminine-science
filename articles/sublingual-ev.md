@@ -1,14 +1,14 @@
 # 关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介
 
-| 作者 [Aly W.][0] | 首次出版于 2019 年 1 月 5 日 | 最后修改于 2021 年 9 月 7 日 |
-| ---------------- | ---------------------------- | ---------------------------- |
+作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
 
-[0]: https://transfemscience.org/articles-by-author/aly-w/
+首次出版于 2019 年 1 月 5 日
 
-| 译者 [Bersella AI][1] | 翻译于 2022 年 2 月 18 日 |
-| --------------------- | ------------------------- |
+最后修改于 2021 年 9 月 7 日
 
-[1]: https://bersella-ai.cc
+译者 [Bersella AI](https://bersella-ai.cc)
+
+翻译于 2022 年 2 月 18 日
 
 ## 免责声明
 

@@ -1,14 +1,14 @@
 # 有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析
 
-| 作者 [Aly W.][author] | 首次发表于 2021 年 7 月 16 日 | 最后修改于 2022 年 2 月 5 日 |
-| --------------------- | ----------------------------- | ---------------------------- |
+作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
 
-[author]: https://transfemscience.org/articles-by-author/aly-w/
+首次发表于 2021 年 7 月 16 日
 
-| 译者 [Bersella AI][translator] | 翻译完成于 2022 年 5 月 22 日 |
-| ------------------------------ | ----------------------------- |
+最后修改于 2022 年 2 月 5 日
 
-[translator]: https://bersella-ai.cc
+译者 [Bersella AI](https://bersella-ai.cc)
+
+翻译于 2022 年 5 月 22 日
 
 ## 译者按
 

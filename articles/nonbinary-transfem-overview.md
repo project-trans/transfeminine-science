@@ -1,12 +1,14 @@
 # 对非二元女性倾向跨性别者的激素治疗可能性的探索
 
-| 作者 [Aly W.][1] | 首次出版于 二零一九年六月十三日 | 最后修改于 二零二一年八月六日 |
-| ---------------- | ------------------------------- | ----------------------------- |
+作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
 
-[1]: https://transfemscience.org/articles-by-author/aly-w/
+首次发表于 2019 年 6 月 13 日
 
-| 译者 yucandy | 翻译于 二零二一年七月二十一日 |
-| ------------ | ----------------------------- |
+最后修改于 2021 年 8 月 6 日
+
+译者 [yucandy](https://github.com/yucandy)
+
+翻译于 2021 年 7 月 21 日
 
 注意: 本页 [最初是作为 Reddit 上 r/MtFHRT 的一个主题发布的](https://transfemscience.org/articles/announcement/)，自从被转移到 Transfeminine Science 后，尚未进行适当或全面的修订。
 

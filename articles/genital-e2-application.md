@@ -1,14 +1,14 @@
 # 经阴囊及新阴唇给药对女性倾向跨性别者经皮雌二醇吸收的极大增强
 
-| 作者 [Aly W.][0] | 首次出版于 03/29/2019 | 最后修改于 10/23/2021 |
-| ---------------- | --------------------- | --------------------- |
+作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
 
-[0]: https://transfemscience.org/articles-by-author/aly-w/
+首次出版于 2019 年 3 月 29 日
 
-| 译者 [昭心][translator] | 翻译于 10/27/2021 |
-| ----------------------- | ----------------- |
+最后修改于 2021 年 10 月 23 日
 
-[translator]: https://limelight.moe/u/昭心
+译者 [昭心](https://limelight.moe/u/昭心)
+
+翻译于 翻译于 2021 年 10 月 27 日
 
 ## 免责声明
 

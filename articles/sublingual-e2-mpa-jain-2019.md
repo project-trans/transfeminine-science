@@ -1,12 +1,14 @@
 # 舌下含服雌二醇及口服醋酸甲羟孕酮在女性倾向跨性别者中的应用（基于 Jain 等人的研究）
 
-| 作者 [Aly W.][1] | 首次发表于 二零一九年六月十五日 | 最后修改于 二零二零年十一月二十一日 |
-| ---------------- | ------------------------------- | ----------------------------------- |
+作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
 
-[1]: https://transfemscience.org/articles-by-author/aly-w/
+首次发表于 2019 年 6 月 15 日
 
-| 译者 [Sue-e89893](https://github.com/Sue-e89893) | 翻译于 二零二一年九月二十六日 |
-| ------------------------------------------------ | ----------------------------- |
+最后修改于 2020 年 11 月 21 日
+
+译者 [Sue-e89893](https://github.com/Sue-e89893)
+
+翻译于 2021 年 9 月 26 日
 
 注意: 本页 [最初是作为 Reddit 上 r/MtFHRT 的一个主题发布的](https://transfemscience.org/articles/announcement/)，自从被转移到 Transfeminine Science 后，尚未进行适当或全面的修订。
 

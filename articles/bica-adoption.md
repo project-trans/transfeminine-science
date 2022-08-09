@@ -1,14 +1,14 @@
 # 比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况
 
-| 作者 [Aly W.][author] | 首次发表于 2020 年 7 月 1 日 | 最后修改于 2022 年 3 月 7 日 |
-| --------------------- | ---------------------------- | ---------------------------- |
+作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
 
-[author]: https://transfemscience.org/articles-by-author/aly-w/
+首次发表于 2020 年 7 月 1 日
 
-| 译者 [Bersella AI][translator] | 翻译完成于 2022 年 5 月 27 日 |
-| ------------------------------ | ----------------------------- |
+最后修改于 2022 年 3 月 7 日
 
-[translator]: https://bersella-ai.cc
+译者 [Bersella AI](https://bersella-ai.cc)
+
+翻译于 2022 年 5 月 27 日
 
 ## 译者按
 
