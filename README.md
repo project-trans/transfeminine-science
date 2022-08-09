@@ -19,9 +19,9 @@
 
 #### 雌激素
 
-- [舌下含服雌二醇及口服醋酸甲羟孕酮在女性倾向跨性别者中的应用](articles/sublingual-e2-mpa-jain-2019.md) (Aly W., 2020)
-- [经阴囊及新阴唇给药对女性倾向跨性别者经皮雌二醇吸收的极大增强](articles/genital-e2-application.md) (Aly W., 2019)
 - [关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](articles/sublingual-ev.md) (Aly W., 2019)
+- [经阴囊及新阴唇给药对女性倾向跨性别者经皮雌二醇吸收的极大增强](articles/genital-e2-application.md) (Aly W., 2019)
+- [舌下含服雌二醇及口服醋酸甲羟孕酮在女性倾向跨性别者中的应用](articles/sublingual-e2-mpa-jain-2019.md) (Aly W., 2020)
 - [性激素与性激素结合球蛋白及其对女性化激素治疗的意义](articles/shbg.md) (Aly W., 2020)
 - [有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析](articles/injectable-e2-meta-analysis.md) (Aly W., 2021)
 
