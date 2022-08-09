@@ -205,11 +205,11 @@
 [106]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol#Antigonadotropic_effects
 [107]: https://en.wikipedia.org/wiki/Template:Antigonadotropic_effects_of_estradiol
 [108]: https://transfemscience.org/articles/oral-e2-leinung-2018/
-[109]: https://transfemscience.org/articles/sublingual-e2-mpa-jain-2019/
+[109]: sublingual-e2-mpa-jain-2019.md
 [110]: https://transfemscience.org/articles/e2-patches-de-ronde/
 [111]: https://transfemscience.org/articles/cpa-dosage/#testosterone-suppression-in-combination-with-estrogen
 [112]: https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate#Antigonadotropic_effects
-[113]: https://transfemscience.org/articles/cpa-dosage/
+[113]: cpa-dosage.md
 
 ![Figure 114][114]
 
@@ -361,7 +361,7 @@
 [181]: https://doi.org/10.1089/trgh.2017.0035
 [182]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Sublingual_administration
 [183]: https://en.wikipedia.org/wiki/Estradiol_valerate#Sublingual_administration
-[184]: https://transfemscience.org/articles/sublingual-ev/
+[184]: sublingual-ev.md
 [185]: https://en.wikipedia.org/wiki/Buccal_administration
 
 透皮雌二醇包含贴片、凝胶、乳剂和喷雾剂 ([维基][186])。它们通常被贴在皮肤部位，如手臂、腹部和臀部。在雌激素单药治疗的情况下，可能需要两到四个最大剂量的贴片或许多泵或包的凝胶，以达到足够抑制睾酮的激素水平 ([维基][186])。在这种情况下，在生殖器部位应用透皮雌二醇，特别是在阴囊或新阴唇上的应用，可使雌二醇水平远高于常规皮肤部位 ([Aly W., 2019][187]; [Aly W., 2019][188])。
@@ -463,7 +463,7 @@
 [235]: http://en.wikipedia.org/wiki/Meningioma
 [236]: http://en.wikipedia.org/wiki/Prolactinoma
 [237]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Brain_tumors
-[238]: https://transfemscience.org/articles/cpa-meningioma/
+[238]: cpa-meningioma.md
 [239]: https://en.wikipedia.org/wiki/Blood_lipids
 [240]: https://doi.org/10.1186/s12944-017-0612-5
 [241]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Mood_changes
@@ -629,14 +629,14 @@ AR 拮抗剂螺内酯、比卡鲁胺和 CPA 都是以片剂形式口服的。
 
 比卡鲁胺主要用于治疗男性前列腺癌，但也被用于治疗其他雄性激素依赖性疾病，如女性面部和/或身体毛发过多，并越来越多地被采用于女性倾向跨性别者 ([Aly W., 2020][310]; [维基][311])。
 
-[310]: https://transfemscience.org/articles/bica-adoption/
+[310]: bica-adoption.md
 [311]: https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy
 
 比卡鲁胺有很小的 [肝脏毒性][312] 风险 ([维基][313]; [Aly W., 2020][314]) 和 [肺部毒性][315] ([维基][316])。在比卡鲁胺治疗期间，建议进行肝脏监测。与比卡鲁胺有关的较老的 AR 拮抗剂，如 [氟他胺][317] (Eulexin) 和 [尼鲁米特][318] (安得乐 (Anandron), Nilandron) ，相比之下，健康风险要大得多，且不应用于女性化激素治疗。
 
 [312]: http://en.wikipedia.org/wiki/Liver_toxicity
 [313]: https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide#Liver_toxicity
-[314]: https://transfemscience.org/articles/bica-adoption/
+[314]: bica-adoption.md
 [315]: https://en.wikipedia.org/wiki/Lung_disease
 [316]: https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide#Lung_toxicity
 [317]: https://en.wikipedia.org/wiki/Flutamide
@@ -646,7 +646,7 @@ AR 拮抗剂螺内酯、比卡鲁胺和 CPA 都是以片剂形式口服的。
 
 CPA 是一种孕激素，在更高的剂量下也作为 AR 拮抗剂 ([Aly W., 2019][319])。它已经以相对较高的剂量用于女性倾向跨性别者，以利用其 AR 拮抗作用 ([Aly W., 2019][319])。作为典型剂量的 CPA 所带来的强孕激素暴露的结果，除了其 AR 拮抗作用外，该药物还大幅抑制了睾酮水平 ([Aly W., 2019][319])。相对低剂量的 CPA (如 5–10 mg/天) 能够最大限度地抑制睾酮水平，甚至在与低剂量的雌激素结合使用的情况下 ([Aly W., 2019][319])。由于 CPA 存在各种剂量依赖性风险，近年来，该药物的给药剂量已大幅下降。较低剂量的 CPA 可能会只成为纯孕激素，仅有很小或不明显的 AR 拮抗作用。然而，较高剂量的 AR 拮抗作用是不必要的，因为 CPA 在与雌二醇结合后可以导致睾酮水平被抑制到女性范围。
 
-[319]: https://transfemscience.org/articles/cpa-dosage/
+[319]: cpa-dosage.md
 
 有报告指出，CPA 会产生疲劳和轻微体重增加的副作用 ([Belisle & Love, 1986][320]; [Hammerstein, 1990][321])。它可能导致性功能障碍 ([维基][322]; [Aly W., 2019][323]) ，并有小的抑郁情绪变化的风险 ([维基][324]; [Aly W., 2019][325])。CPA 会产生类似怀孕的乳房变化 ([Kanhai et al., 2000][326]) ，有时会在女性倾向跨性别者中引起 [泌乳][327] 的副作用 ([Gooren, Harmsen-Louman, & van Kessel, 1985][328]; [Schlatterer et al., 1998][329]; [Bazarra-Castro, 2009][330])。与其他孕激素一样，在雌激素治疗中加入低剂量的 CPA 与血栓和乳腺癌的风险增加有关 ([维基][331]; [维基][332]; [Aly W., 2020][333])。高剂量的 CPA 似乎比低剂量的血栓风险更大 ([维基][331])。CPA 还与 [高催乳素水平][334] 有关 ([维基][322]) ，并与某些非癌性脑瘤有关，包括催乳素瘤和脑膜瘤 ([维基][335]; [Aly W., 2020][336])。高剂量的 CPA 与 [肝脏的异常变化][337] 有关，并导致罕见的肝脏毒性病例 ([维基][338])。然而，在剂量低于 20mg/天时，这可能不是一个问题 ([维基][338])。在 CPA 治疗期间，监测 [催乳素][339] 水平以发现催乳素瘤，监测肝功能以发现肝脏毒性是被建议的。通过使用最低的有效剂量，CPA 的副作用和风险可能会降到最低，这比传统使用的剂量低得多 ([Aly W., 2019][340])。
 
@@ -666,11 +666,11 @@ CPA 是一种孕激素，在更高的剂量下也作为 AR 拮抗剂 ([Aly W., 2
 [333]: https://transfemscience.org/articles/breast-cancer/
 [334]: http://en.wikipedia.org/wiki/Hyperprolactinemia
 [335]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Brain_tumors
-[336]: https://transfemscience.org/articles/cpa-meningioma/
+[336]: cpa-meningioma.md
 [337]: https://en.wikipedia.org/wiki/Elevated_transaminases
 [338]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Liver_toxicity
 [339]: http://en.wikipedia.org/wiki/Prolactin
-[340]: https://transfemscience.org/articles/cpa-dosage/
+[340]: cpa-dosage.md
 
 值得注意的是，CPA 没有被批准在美国使用，但在大多数其他国家可以使用。
 

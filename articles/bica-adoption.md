@@ -137,7 +137,7 @@ _更新：_ 该《指南》的领衔作者——Anastacia Tomson 博士，是一
 [gap02]: https://doi.org/10.1002/0470853093.ch17
 [d16]: https://transcare.ucsf.edu/guidelines
 [alyw19_dose]: https://transfemscience.org/articles/bica-dosage/
-[alyw20_meni]: https://transfemscience.org/articles/cpa-meningioma/
+[alyw20_meni]: cpa-meningioma.md
 [a03]: https://doi.org/10.1046/j.1464-410X.2003.04026.x
 [i04]: https://doi.org/10.1097/01.ju.0000139719.99825.54
 [b96]: https://doi.org/10.1159/000473847
