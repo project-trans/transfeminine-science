@@ -13,7 +13,7 @@
 
 ## 译者按
 
-1. <u>**⚠免责声明：本文不构成任何医疗、处方建议。** 如有医疗需要，应于专业医师指导下进行。</u>
+1. **<u>⚠免责声明：本文不构成任何医疗、处方建议。如有医疗需要，应于专业医师指导下进行。</u>**
 1. **长文注意：本译文共计约 1.8 万个汉字。** 读者如希望立即翻阅分析结果的汇总，请[点此跳转](#所有雌二醇注射剂的汇总图表)；如希望了解本文作者推荐的剂量，可查阅[此小节](#对临床指南和剂量建议的剖析)。
 1. 原文还简短讨论了[睾酮注射剂](#环戊丙酸雌二醇ec油溶液与庚酸雌二醇een的持续时间比较)。
 1. 以下《指南》《跨性别……指南》等应当皆指代同一事物，原文如此。
@@ -43,7 +43,8 @@
 
 首先在文献中检索报告了和主要雌二醇注射剂（见表一）相关的雌二醇浓度—时间关系的研究项目。这些注射剂均已在世界不同地区至少一次用于女性化激素治疗，而其中戊酸雌二醇（油溶液）、环戊丙酸雌二醇（油溶液）如今正广泛使用。需要注意的是，部分注射剂现已停产。采用的数据包括雌二醇平均浓度、每名受试者单独的雌二醇浓度数据、平均峰值浓度（C<sub>max</sub>）以及达峰所需时间（T<sub>max</sub>）。检索过程在 PubMed, Google Scholar, 以及 WorldCat 等数据库上进行，使用了与此关联的关键词（如雌二醇酯名称、种类等，以及主要品牌名）。存在关联者被收录，以收集数据。其中，会被采用的，只有单次用药的数据，以及间隔时间足以使雌二醇水平回落至基准线的多次用药数据（例如间隔一个月用药的注射用复方避孕药）。收录文献时，并未将受试者的下丘脑-垂体-性腺轴（HPG 轴）之状态纳入考虑。部分注射剂资料稀缺，为此放宽了文献收录标准，以尽可能多地收集数据；但如果涉及同一注射剂的研究较多，其中仅包含 1\~2 名受试者的价值较低的研究文献会被排除。如果数据以附图的形式出现在文献中（这种情况很常见），其会通过 [WebPlotDigitizer][WEB_2A] 被提取出来。
 
-> 【表一】主要注射用雌二醇形式（按持久性从低到高排序）：  
+> 【表一】主要注射用雌二醇形式（按持久性从低到高排序）：
+>
 > | 雌二醇酯 | 缩写 | 形态 | 主要品牌名 |
 > |-|-|-|-|
 > | 苯甲酸雌二醇 | EB | 油溶液 | Progynon-B |
@@ -55,9 +56,9 @@
 > | 聚磷酸雌二醇<sup>(4)</sup> | PEP | 水溶液 | Estradurin |  
 >
 >(1) 作为注射用复方避孕药，也包含一种孕激素（醋酸炔诺酮、醋酸甲羟孕酮或苯乙酮缩二羟孕酮等）  
-(2) 俗称“富士日雌”——译者注  
-(3) 含微晶颗粒  
-(4) 不再上市
+>(2) 俗称“富士日雌”——译者注  
+>(3) 含微晶颗粒  
+>(4) 不再上市
 
 收集后的数据会经过一系列整合、建模等处理过程。所有数据均对雌二醇的内源性分泌做了修正：一般来说，会减去雌二醇水平之基准值；但某些情况下，则需减去 *（受试者）* 的雌二醇浓度谷底值，或者参照组的雌二醇浓度。之后，依用药量做了标准化，并依样本规模进行加权。为尽可能收录数据，在许多事例中，部分缺失的特定信息（如雌二醇浓度基准线、达峰用时，受试者体重等）使用了合理的估计量。  
 其后，数据汇总为平均雌二醇浓度曲线（而非单名受试者的曲线；排除了仅含一名受试者的个别研究项目）。再根据引自多篇论文的一级吸收与消除动力学资料<sup>(例如 [Colburn, 1981][COLB81]; [Wagner, 1993][W93]; [Fisher & Shafer, 2007][FS07]; [Lixoft, 2008][L08]; [Abuhelwa, Foster, & Upton, 2015][AFU15]; [Certara, 2020][C20])</sup>，对各种注射剂所对应的曲线做了最小二乘回归，以契合一室、二室、三室药代动力学模型；这些模型反过来和大多数研究项目各自的曲线相吻合。  
@@ -76,7 +77,8 @@
 
 EB 注射剂曾被广泛用于科学研究，尤其是在阐释 HPG 轴的功能及动力学上。EB 会用于雌激素激发试验，以测试 HPG 轴的功能。因其科研用途，相关的雌二醇浓度—时间关系数据很丰富。这里找到了来自 26 篇著述（表二）的 355 人次注射的数据。
 
-> 【表二】和 EB 注射剂相关的研究项目：  
+> 【表二】和 EB 注射剂相关的研究项目：
+> 
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | G75 | 3 | 已去势、或已绝经妇女 | 27.6mg | [Geppert (1975)][G75];<br/> [Leyendecker et al. (1975)][L75] |
@@ -108,15 +110,17 @@ EB 注射剂曾被广泛用于科学研究，尤其是在阐释 HPG 轴的功能
 
 拟合曲线排除了显著有别于平均水平的部分研究项目的曲线。一些仅报告了总雌激素水平（而非雌二醇水平）的研究项目亦被排除<sup>([Akande, 1974][A74]; [Weiss, Nachtigall, & Ganguly, 1976][WNG76])</sup>。两项研究因年代久远、使用了过时且不准确的验血方法而被排除<sup>([Varangot & Cedard, 1957][VC57]; [Ittrich & Pots, 1965][IP65], [表格][TABLE_31A])</sup>。经处理的源数据与拟合曲线见图一。
 
-> ![figure][FIG_1] 
-【图一】已发表的、单次肌注 EB 油溶液之后 7 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_31A]; [Plotly 表格][WEB_31B])</sup>。
+> ![figure][FIG_1]
+>
+> 【图一】已发表的、单次肌注 EB 油溶液之后 7 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_31A]; [Plotly 表格][WEB_31B])</sup>。
 
 
 ### 戊酸雌二醇（EV）
 
 EV 注射剂的相关浓度曲线资料来自：在更年期激素疗法、和其它需要雌激素的临床治疗当中的使用，注射用复方避孕药的使用，以及科研用途。这里找到了来自 28 篇著述（表三）的 309 人次注射的数据。
 
-> 【表三】和 EV 注射剂相关的研究项目：  
+> 【表三】和 EV 注射剂相关的研究项目：
+> 
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | S7175 | 12 | 患有经期偏头痛的绝经前妇女 10 人；<br />曾有经期偏头痛史的闭经或已绝经妇女 2 人 | 5-20mg | [Somerville (1971)][S71];<br/> [Somerville (1972a)][S72a];<br/> [Somerville (1972b)][S72b];<br/> [Somerville (1972c)][S72c];<br/> [Somerville (1975)][SOMER75] |
@@ -146,15 +150,17 @@ EV 注射剂的相关浓度曲线资料来自：在更年期激素疗法、和�
 
 拟合曲线排除了显著有别于平均水平、或仅表示 C<sub>max</sub> 的部分研究项目的曲线。一项研究仅报告了雌酮水平（而非雌二醇水平）而被排除<sup>([Ibrahim, 1996][I96])</sup>。另一项研究因涉及伴随妊娠终止的孕妇而被排除<sup>([Garner & Armstrong, 1977][GA77])</sup>。还有一项研究被排除，原因是年代久远、使用了过时且不准确的验血方法<sup>([Ittrich & Pots, 1965][IP65], [表格][TABLE_32A])</sup>。经处理的源数据与拟合曲线见图二。
 
-> ![figure][FIG_2]  
-【图二】已发表的、单次肌注 EV 油溶液之后 30 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 10mg，以与分室药代动力学模型相契合。由于对各曲线的拟合结果与此几乎一致，故直接用数据进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_32A]; [Plotly 表格][WEB_32B])</sup>。
+> ![figure][FIG_2]
+>
+> 【图二】已发表的、单次肌注 EV 油溶液之后 30 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 10mg，以与分室药代动力学模型相契合。由于对各曲线的拟合结果与此几乎一致，故直接用数据进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_32A]; [Plotly 表格][WEB_32B])</sup>。
 
 
 ### 环戊丙酸雌二醇（EC）油溶液
 
 EC 油溶液用于更年期激素疗法，以及其它需要雌激素的治疗当中。然而，其使用率相对于其它注射剂（例如 EV）较低。关于该注射剂的研究项目屈指可数。此处找到了来自 4 篇著述（表四）的 49 人次注射的数据。
 
-> 【表四】和 EC 油溶液注射剂相关的项目：  
+> 【表四】和 EC 油溶液注射剂相关的项目：
+>
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | R73 | 6 | 性腺发育不良的青春期女生 | 1-2mg |  [Rosenfield et al. (1973)][R73];<br/> [Rosenfield & Fang (1974)][RF74] |
@@ -164,15 +170,17 @@ EC 油溶液用于更年期激素疗法，以及其它需要雌激素的治疗�
 
 拟合过程没有任何曲线被排除。经处理的源数据与拟合曲线见图三。
 
-> ![figure][FIG_3]  
-【图三】已发表的、单次肌注 EC 油溶液之后 30 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_33A]; [Plotly 表格][WEB_33B])</sup>。
+> ![figure][FIG_3]
+>
+>【图三】已发表的、单次肌注 EC 油溶液之后 30 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_33A]; [Plotly 表格][WEB_33B])</sup>。
 
 
 ### 环戊丙酸雌二醇（EC）悬浮液
 
 EC 悬浮液仅用于注射用复方避孕药。许多高质量的相关研究项目因此被纳入。这里找到了来自 4 篇著述（表五）的 49 人次注射的数据。
 
-> 【表四】和 EC 悬浮液注射剂相关的项目：  
+> 【表四】和 EC 悬浮液注射剂相关的项目：
+>
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | F82 | 11 | 正常绝经前妇女 | 5mg | [Fotherby et al. (1982)][F82] |
@@ -193,15 +201,17 @@ EC 悬浮液仅用于注射用复方避孕药。许多高质量的相关研究�
 
 有一项研究尽管使用了皮下注射，但其曲线和同项目内常规肌注方式的曲线相当接近<sup>([Sierra-Ramírez et al., 2011][SR11], [表格][TABLE_34A])</sup>。拟合过程中，一些仅含 C<sub>max</sub> 的项目被排除；此外，还排除了一项仅测量了 EC 浓度（而非雌二醇浓度）的研究<sup>([Martins et al., 2019][M19], [表格][TABLE_34B])</sup>。经处理的源数据与拟合曲线见图四。
 
-> ![figure][FIG_4]  
-【图四】已发表的、单次肌注/皮下注射 EC 悬浮液之后 30 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_34A]; [Plotly 表格][WEB_34B])</sup>。
+> ![figure][FIG_4]
+>
+>【图四】已发表的、单次肌注/皮下注射 EC 悬浮液之后 30 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_34A]; [Plotly 表格][WEB_34B])</sup>。
 
 
 ### 庚酸雌二醇（EEn）
 
 EEn 仅用作注射用复方避孕药的成分。一些相关研究项目因此被纳入。此处找到了来自 7 篇著述（表六）的 270 人次注射的数据。
 
-> 【表六】和 EEn 注射剂相关的项目：  
+> 【表六】和 EEn 注射剂相关的项目：
+>
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | R86a | 1 | 正常绝经前妇女 | 5mg | [Recio et al. (1986)][R86] |
@@ -214,17 +224,19 @@ EEn 仅用作注射用复方避孕药的成分。一些相关研究项目因此�
 > | G94c | 7 | 正常绝经前妇女 | 10mg | 同上 |
 > | M95 | 216 | 正常绝经前妇女 | 10mg | [Martinez (1995)][M95] |
 
-以上数据中，有 216 人次注射出自同一项目，且基本仅包含 C<sub>max</sub> 数据。在拟合过程中，来自 Wiemeyer et al. (1986) 的论著因以较小样本数（3 人次）计算的曲线下面积异常偏高而被排除；因数据量稀缺，包含 C<sub>max</sub> 数据的项目也被纳入拟合。经处理的源数据与拟合曲线见图五。
+以上数据中，有 216 人次注射出自同一项目，且基本仅包含 C<sub>max</sub> 数据。在拟合过程中，来自 Wiemeyer 等人 (1986) 的论著因以较小样本数（3 人次）计算的曲线下面积异常偏高而被排除；因数据量稀缺，包含 C<sub>max</sub> 数据的项目也被纳入拟合。经处理的源数据与拟合曲线见图五。
 
-> ![figure][FIG_5]  
-【图五】已发表的、单次肌注 EEn 之后 30 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 10mg，以与分室药代动力学模型相契合。源数据在他处亦有提供<sup>([Google 文档][WEB_35A]; [Plotly 表格][WEB_35B])</sup>。
+> ![figure][FIG_5]
+>
+> 【图五】已发表的、单次肌注 EEn 之后 30 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 10mg，以与分室药代动力学模型相契合。源数据在他处亦有提供<sup>([Google 文档][WEB_35A]; [Plotly 表格][WEB_35B])</sup>。
 
 
 ### 十一酸雌二醇（EU）
 
 EU 曾用于前列腺癌的治疗、更年期激素疗法，以及其它需要雌激素的临床治疗当中。不过，其已停产多年，目前已不再使用。尽管如此，其仍然是雌二醇注射剂历史上一个重要的注脚。这里找到了来自 3 篇著述（表七）的 7 人次注射的数据。
 
-> 【表七】和 EU 注射剂相关的项目：  
+> 【表七】和 EU 注射剂相关的项目：
+>
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | G75 | 3 | 已去势、或已绝经妇女 | 32.3mg | [Geppert (1975)][GEPP75]/<br/>[Leyendecker et al. (1975)][L75], [表格][TABLE_36A]
@@ -232,15 +244,17 @@ EU 曾用于前列腺癌的治疗、更年期激素疗法，以及其它需要�
 
 不幸的是，以上数据的质量特别低：不仅样本数少，而且雌二醇水平差别明显。此外，尽管 EU 的持续时间长达数月，但上述项目仅跟踪了注射后两周内的数据。因此，无法基于这些数据为 EU 拟合一个相对准确的曲线——而是基于一种提议，即 EU 的雌二醇浓度曲线下面积约为其它非聚合物雌二醇酯的三分之一。另外还存在少量的多次注射数据，但其无法被整合<sup>([Jacobi & Altwein, 1979][JA79], [表格][TABLE_36A]; [Jacobi et al., 1980][J80], [表格][TABLE_36B]; [Derra, 1981][D81], [表格][TABLE_36C])</sup>。经处理的源数据与拟合曲线见图六。
 
-> ![figure][FIG_6]  
-【图六】已发表的、单次肌注 EU 油溶液之后 90 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 50mg，以与分室药代动力学模型相契合。源数据在他处亦有提供<sup>([Google 文档][WEB_36A]; [Plotly 表格][WEB_36B])</sup>。
+> ![figure][FIG_6]
+>
+> 【图六】已发表的、单次肌注 EU 油溶液之后 90 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 50mg，以与分室药代动力学模型相契合。源数据在他处亦有提供<sup>([Google 文档][WEB_36A]; [Plotly 表格][WEB_36B])</sup>。
 
 
 ### 聚磷酸雌二醇（PEP）
 
 PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临床治疗当中（包括乳腺癌治疗、更年期激素疗法）。其曾被广泛使用，近来似乎已然停产。此处找到了来自 11 篇著述（表八）的 114 人次注射的数据，均以患有前列腺癌的男性为对象。
 
-> 【表六】和 PEP 注射剂相关的项目：  
+> 【表六】和 PEP 注射剂相关的项目：
+>
 > | 项目代号 | 注射人次 | 受试对象 | 用药量 | 参考文献 |
 > |-|-|-|-|-|
 > | J76 | 16 | 患有前列腺癌的男性 | 160mg | [Jönsson (1976)][J76] |
@@ -261,21 +275,22 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 
 拟合过程中，几项年代较远而且数据偏移过大的研究被排除在外。经处理的源数据与拟合曲线见图七。
 
-> ![figure][FIG_7]  
-【图七】已发表的、单次肌注 PEP 水溶液之后 90 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。为更好地观察本图，浓度最大值被裁剪至 600 pg/mL (~2200 pmol/L)。曲线已依内源性分泌量进行修正、并调整摄入量为 160mg，以与分室药代动力学模型相契合。源数据在他处亦有提供<sup>([Google 文档][WEB_37A]; [Plotly 表格][WEB_37B])</sup>。
+> ![figure][FIG_7]
+>
+> 【图七】已发表的、单次肌注 PEP 水溶液之后 90 日内的雌二醇浓度—时间曲线，及源数据的拟合曲线（加粗黑/白线）。为更好地观察本图，浓度最大值被裁剪至 600 pg/mL (~2200 pmol/L)。曲线已依内源性分泌量进行修正、并调整摄入量为 160mg，以与分室药代动力学模型相契合。源数据在他处亦有提供<sup>([Google 文档][WEB_37A]; [Plotly 表格][WEB_37B])</sup>。
 
 
 ### 其它雌二醇注射剂种类
 
-在搜索文献时，一批有关其它雌二醇注射剂种类的临床项目也被发现（参考文献略）：
+在搜索文献时，一批有关其它雌二醇注射剂种类的临床项目也被发现 *（参考文献略）*：
 
 - 雌二醇油溶液，或水溶液（可能是微晶水悬浮液），或微球（例如 Juvenum-E）；
 - 雌二醇/孕酮微晶水悬浮液；
 - 雌二醇/醋酸甲地孕酮微晶水悬浮液（Mego-E，一种在中国使用的不知名的注射用复方避孕药）；
 - 二丙酸雌二醇油溶液（Agofollin）；
-- EB/苯丙酸雌二醇油溶液（Dimenformon Prolongatum）；
-- EB/苯丙酸雌二醇/丙酸睾酮/苯丙酸睾酮/异己酸睾酮油溶液（Estandron Prolongatum）；
-- EB/二壬酸雌二醇/庚酸苯甲酸腙睾酮油溶液（Climacteron）。
+- 苯甲酸雌二醇/苯丙酸雌二醇油溶液（Dimenformon Prolongatum）；
+- 苯甲酸雌二醇/苯丙酸雌二醇/丙酸睾酮/苯丙酸睾酮/异己酸睾酮油溶液（Estandron Prolongatum）；
+- 苯甲酸雌二醇/二壬酸雌二醇/庚酸苯甲酸腙睾酮油溶液（Climacteron）。
 
 这些注射剂因其知名度低、数据量少，而未纳入本次荟萃分析。此外，为含有多种雌二醇成分的剂型以及微球剂型匹配已有药代动力学模型，是存在难度的。
 
@@ -286,14 +301,16 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 
 图八汇总了各注射剂的雌二醇浓度拟合曲线（以摄入量 5mg 计）。聚磷酸雌二醇（PEP）除外：其摄入量需相对于其它注射剂高出约 6.5 倍，方可达到相似的雌二醇暴露量；图中其曲线下面积远小于其它雌二醇注射剂（见“讨论”一节）。十一酸雌二醇（EU）因其数据量过少，无法准确获取其曲线，故排除在图八之外。
 
-> ![figure][FIG_8]  
-【图八】对已发表的、单次肌注后 20 日内的雌二醇浓度—时间曲线进行拟合的汇总结果。曲线已调整摄入量为 5mg；但其中 PEP 在相同剂量下，雌二醇水平要低 6\~7 倍，故调整其剂量为其它雌二醇酯的 6.5 倍。  
+> ![figure][FIG_8]
+>
+> 【图八】对已发表的、单次肌注后 20 日内的雌二醇浓度—时间曲线进行拟合的汇总结果。曲线已调整摄入量为 5mg；但其中 PEP 在相同剂量下，雌二醇水平要低 6\~7 倍，故调整其剂量为其它雌二醇酯的 6.5 倍。  
 本图的[另一个版本][FIG_8_ALT]将 X 轴（时间线）延长至 30 天，并排除了苯甲酸雌二醇。
 
 图九显示了各类雌二醇注射剂每 7 日使用 5 mg（或等价）剂量，达到稳态之后的模拟曲线。类似于图八，PEP 的剂量也调整为较其它注射剂高出 6.5 倍；EU 则仍被排除。
 
-> ![figure][FIG_9]  
-【图九】各类雌二醇注射剂重复使用并达到稳态之后，三个肌注周期内的模拟曲线。该模拟结果基于已发表的、单次肌注后的雌二醇浓度—时间曲线的拟合结果。其中 PEP 在相同剂量下，雌二醇水平要低 6\~7 倍，故调整其剂量为其它雌二醇酯的 6.5 倍。  
+> ![figure][FIG_9]
+>
+> 【图九】各类雌二醇注射剂重复使用并达到稳态之后，三个肌注周期内的模拟曲线。该模拟结果基于已发表的、单次肌注后的雌二醇浓度—时间曲线的拟合结果。其中 PEP 在相同剂量下，雌二醇水平要低 6\~7 倍，故调整其剂量为其它雌二醇酯的 6.5 倍。  
 本图的[另一个版本][FIG_9_ALT]排除了苯甲酸雌二醇。
 
 如需更多重复用药后的雌二醇浓度—时间模拟曲线，请参见附属的[可互动的模拟器网页][WEB_1A]。
@@ -304,7 +321,8 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 下表显示了从各雌二醇注射剂的拟合曲线截取的一些特定药代动力学参数。  
 十一酸雌二醇（EU）因其数据量过少，无法准确获取其曲线及相关参数，故排除在外。
 
-> 【表九】各雌二醇注射剂单次肌注 5 mg 之后，雌二醇的一些特定药代动力学参数：  
+> 【表九】各雌二醇注射剂单次肌注 5 mg 之后，雌二醇的一些特定药代动力学参数：
+>
 > | 雌二醇注射剂 | 达峰用时（T<sub>max</sub>）<br />(天) | 浓度峰值（C<sub>max</sub>）<br />(pg/mL) | 消除半衰期（t<sub>1/2</sub>）<br />(天) | 消除90%用时（t<sub>90%</sub>）<br />(天) | 曲线下面积（AUC<sub>0-∞</sub>）<br />(pg•d/mL) |
 > |-|-|-|-|-|-|
 > | 苯甲酸雌二醇（油溶液） | 0.65 | 971 | 1.2 | 3.9 | 2410 |
@@ -319,7 +337,8 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 下表显示了从各类雌二醇注射剂重复使用并达到稳态的模拟曲线截取的一些特定药代动力学参数。  
 与表九类似，EU 被排除在外。
 
-> 【表十】各雌二醇注射剂每 7 日肌注 5 mg（或等价）剂量并达到稳态之后，雌二醇的一些特定药代动力学参数：  
+> 【表十】各雌二醇注射剂每 7 日肌注 5 mg（或等价）剂量并达到稳态之后，雌二醇的一些特定药代动力学参数：
+>
 > | 雌二醇注射剂 | 达峰用时（T<sub>max</sub>）<br />(天) | 浓度峰值（C<sub>max</sub>）<br />(pg/mL) | 浓度谷值（C<sub>min</sub>）<br />(pg/mL) | 峰谷之差<br />(pg/mL) | 峰谷比值 | 综合平均浓度（C<sub>avg</sub>）<br />(pg/mL) |
 > |-|-|-|-|-|-|-|
 > | 苯甲酸雌二醇（油溶液） | 0.64 | 990 | 29 | 962 | 35 | 344 |
@@ -407,7 +426,8 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 一些《跨性别健康临床指南》<sup>(又见 [Aly W., 2020][ALYW20_GUIDE])</sup>提供了有关注射用戊酸雌二醇（油溶液）与环戊丙酸雌二醇（油溶液）之剂量、注射间隔的建议（见表十一）；对于其它很少用于跨性别医学上的雌二醇注射剂，则未提供推荐剂量。在不同《指南》之间，戊酸雌二醇、环戊丙酸雌二醇的推荐剂量有较大差异；而推荐的注射间隔则恒定于每 1-2 周一次。戊酸雌二醇的剂量从 2-20 mg/周到 5-80 mg/两周不等；而环戊丙酸雌二醇的剂量从 <1 - 10 mg/周到 <2 - 80 mg/两周不等。  
 作为参考，当下最主流的用于跨性别激素治疗的《临床指南》，来自于美国内分泌学会和加州大学旧金山分校（UCSF）<sup>([Aly W., 2020][ALYW20_GUIDE])</sup>；其中，美国内分泌学会版《指南》对这两种注射剂的推荐剂量皆为 2-10 mg/周、或 5-30 mg/两周<sup>([Hembree et al., 2017][H17])</sup>；UCSF 版《指南》则推荐使用 <20 - 40 mg/两周的戊酸雌二醇，以及 <2 - 5mg/两周的环戊丙酸雌二醇（如发生周期性不良反应，亦可缩短至一周并将剂量减半）<sup>([Deutsch, 2016a][D16a])</sup>。
 
-> 【表十一】在《跨性别医学临床指南》中所推荐的雌二醇注射剂（尤指戊酸/环戊丙酸雌二醇）之用量与注射间隔<sup>(1)</sup>：  
+> 【表十一】在《跨性别医学临床指南》中所推荐的雌二醇注射剂（尤指戊酸/环戊丙酸雌二醇）之用量与注射间隔<sup>(1)</sup>：
+>
 > | 指南 | 雌二醇酯 | 用量范围及注射间隔 |
 > |-|-|-|
 > | [美国内分泌学会 / Hembree et al. (2017)][H17] | 戊酸/环戊丙酸雌二醇 | 肌注 2-10 mg/周或 5-30 mg/两周 |
@@ -433,8 +453,9 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 
 在本次非正式荟萃分析中，随着将主流《跨性别临床指南》推荐的戊酸/环戊丙酸雌二醇剂量与使用间隔纳入考虑并加以比较，许多顾虑浮出了水面。基于本次分析，相较对其它途径、或形式（如口服、透皮等）的雌二醇推荐使用的剂量，显然，这些对于注射剂的推荐剂量与间隔会导致雌二醇暴露量更高。以 5 mg/周的剂量注射任意一种非聚合物类雌二醇酯之后，已可达到超生理的平均约 300 pg/mL (约合 1,100 pmol/L) 的雌二醇水平；然而，这些《指南》的推荐剂量可高达 *15-20 mg* 每周。根据本次荟萃分析，如此剂量所导致的平均雌二醇浓度，将大大超过同一篇指南对女性倾向跨性别者所建议的雌二醇水平范围；例如，10-20 mg/周剂量下，雌二醇水平范围可达约 600-1,200 pg/mL（约合 2,200-4,400 pmol/L，见图十），而建议的范围则在 50-200 pg/mL（约合 180-730 pmol/L）<sup>([表格][TABLE_55A])</sup>。考虑到绝经前顺性别妇女体内雌二醇的正常分泌量——约 1.4 mg/周，或 6 mg 每月或每周期（可提供平均约 100 pg/mL、约合 370 pmol/L 的雌二醇水平）<sup>([Aly W., 2019][ALYW19_INTRO_N])</sup>，那么如此高度超生理的雌二醇水平也就不出所料了。当前，关于高剂量注射用雌二醇酯（如戊酸、环戊丙酸雌二醇）的临床安全性数据尚有所欠缺，不过已知过大的雌激素暴露量可增加血栓等并发症的健康风险<sup>([Aly W., 2020][ALYW20_CLOT])</sup>。此类由《指南》推荐的超高剂量应当对其安全性作相当程度的保留。
 
-> ![figure][FIG_10]  
-【图十】以当下主流的《跨性别护理指南》所优先推荐的剂量与间隔 (5-40 mg/两周) 注射戊酸雌二醇之后，雌二醇水平的模拟结果。在此间隔下，雌二醇水平在第二次或第三次注射后达到稳态，此后不再累积。  
+> ![figure][FIG_10]
+>
+> 【图十】以当下主流的《跨性别护理指南》所优先推荐的剂量与间隔 (5-40 mg/两周) 注射戊酸雌二醇之后，雌二醇水平的模拟结果。在此间隔下，雌二醇水平在第二次或第三次注射后达到稳态，此后不再累积。  
 本图的[另一个版本][FIG_10_ALT]将剂量与间隔减半，即 2.5-20 mg/周。
 
 本文作者已于他处列出有关雌二醇注射剂在总和雌二醇暴露量上可与其它形态、路径大致相当的，用于女性倾向跨性别者的剂量<sup>([Aly W., 2020][ALYW20_DOSE])</sup>。其中对于注射用非聚合物类雌二醇酯，剂量从 1-6 mg/周不等，对应于“低剂量”到“超高剂量”疗法<sup>([图表][TABLE_55B])</sup>。相较于许多现有《指南》所推荐的那样，上述剂量范围应该更适合女性倾向跨性别者使用。在女性化激素治疗中，尽管在不服用抗雄制剂的情况下，较高的雌二醇水平对睾酮的抑制效力，可较正常生理水平更强；但是，这显然只需适度超生理的水平（约 200-300 pg/mL，合 730-1,100 pmol/L）便可形成强力压制<sup>([Aly W., 2020][ALYW19_INTRO_G]; [Langley et al., 2021][L21])</sup>。有鉴于此，注射用雌二醇的剂量无需过高。
@@ -445,8 +466,9 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 当然，对于戊酸雌二醇，可采用更短的注射间隔（每 5 天一次），以进一步降低雌二醇水平的变化幅度；而另一方面，对于长效型的环戊丙酸（或庚酸）雌二醇油溶液，可采用每 10 天至两周一次的注射间隔——这里假定这些间隔时间皆可较好地被人体接受，且睾酮仍被充分抑制。（见图十一）  
 在选用不同注射间隔时，需要按间隔之长短来相应调整剂量之高低，以确保雌二醇总暴露量相当；例如，对于非聚合物类雌二醇酯，高剂量下：3.5 mg/五天、5 mg/七天、7 mg/十天、或 10 mg/十四天。
 
-> ![figure][FIG_11]  
-【图十一】高剂量戊酸雌二醇/环戊丙酸雌二醇（油溶液）在不同注射间隔下产生的雌二醇水平的模拟结果。剂量已依间隔之长短而相应调整，以使雌二醇总暴露量相当。
+> ![figure][FIG_11]
+>
+> 【图十一】高剂量戊酸雌二醇/环戊丙酸雌二醇（油溶液）在不同注射间隔下产生的雌二醇水平的模拟结果。剂量已依间隔之长短而相应调整，以使雌二醇总暴露量相当。
 
 前述对《跨性别护理指南》建议的雌二醇注射剂用量、间隔产生的担忧，引出了一个问题：这些建议用量是如何确立的？很遗憾，现有《指南》基本没有描述它们是如何得出这些用量建议的，也不常引用外部资料来支持之。需要注意，UCSF 版《指南》所推荐的用量与间隔，和 1960 年代末 Christian Hamburger 及 Harry Benjamin 在最早一部和跨性别者有关的医学课本上所建议的相比较，几乎完全一致<sup>([Hamburger & Benjamin, 1969][HB69])</sup>。后者的推荐剂量为：10-40 mg/两周（戊酸雌二醇），和 2-5 mg/两周（环戊丙酸雌二醇）；不过其作者还补充，在 4-8 个月过后，可每隔四周注射相同剂量。这些用量建议很明显是在对血浆雌二醇的检测得到普及、现代药代动力学的研究出现之前制定的；因此，至少在这些《指南》上的用量建议，显然主要基于过往专家建议和长期历史惯例，而非药代动力学或临床数据。早期为达到更长的持续时间、更便利的注射间隔，可能在特定雌二醇注射剂（即戊酸雌二醇）上采用了很高的剂量；但显然，当时尚未产生对过大的雌激素暴露量导致的风险（如血栓）的认知，而这些剂量也许从未经过修订。  
 之所以针对女性倾向跨性别者的注射用雌二醇推荐用量长期保持不变，可能是因为：1. 相比于其它雌二醇形态，注射雌二醇并不常用；2. 不少医师使用它们时，只会测量雌二醇水平的谷值。需要提及的是：该谷值仅代表雌二醇注射剂所产生的曲线的最低点，其会相当程度地误导对平均、总和雌二醇暴露量的认识。无论如何，关于由当下为女性倾向跨性别者推荐的雌二醇注射剂用量，所造成的超高雌二醇水平，文献上已经有所察觉<sup>(例如 [Gooren, 2005][G05]; [Spack, 2013][S13]; [Deutsch, 2014][D14]; [Chantrapanichkul et al., 2021][C21]; [Glintborg et al., 2021][G21]; [Tassinari & Maranghi, 2021][TM21])</sup>。
@@ -486,290 +508,290 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 略
 
 <!-- 第一章：前言 -->
-   [E59]: https://doi.org/10.1111/j.2042-7158.1959.tb10412.x
-   [V19]: https://doi.org/10.1007/978-981-13-3642-3_7
-   [G21]: https://doi.org/10.1530/EJE-21-0059
-   [ALYW19_AQUA]: https://transfemscience.org/articles/aqueous-suspensions/
-   [D16a]: https://transcare.ucsf.edu/guidelines
-   [H17]: https://doi.org/10.1210/jc.2017-01658
-   [K86]: https://pubmed.ncbi.nlm.nih.gov/3817596/
-   [K90]: https://doi.org/10.1016/0378-5122(90)90003-O
-   [G84]: https://doi.org/10.1016/0306-4530(84)90004-0
-   [H99]: https://doi.org/10.1002/(SICI)1097-0045(19990701)40:2%3C76::AID-PROS2%3E3.0.CO;2-Q
-   [JG00]: https://doi.org/10.1002/1097-0045(20000615)44:1%3C26::AID-PROS4%3E3.0.CO;2-P
-   [BON90]: https://doi.org/10.1007/978-3-662-00814-0_6
-   [BN98]: https://doi.org/10.1007/978-3-642-72185-4_11
-   [B04]: https://doi.org/10.1017/CBO9780511545221.015
-   [NB10]: https://doi.org/10.1007/978-3-540-78355-8_21
-   [NB12]: https://doi.org/10.1017/CBO9781139003353.016
+[E59]: https://doi.org/10.1111/j.2042-7158.1959.tb10412.x
+[V19]: https://doi.org/10.1007/978-981-13-3642-3_7
+[G21]: https://doi.org/10.1530/EJE-21-0059
+[ALYW19_AQUA]: https://transfemscience.org/articles/aqueous-suspensions/
+[D16a]: https://transcare.ucsf.edu/guidelines
+[H17]: https://doi.org/10.1210/jc.2017-01658
+[K86]: https://pubmed.ncbi.nlm.nih.gov/3817596/
+[K90]: https://doi.org/10.1016/0378-5122(90)90003-O
+[G84]: https://doi.org/10.1016/0306-4530(84)90004-0
+[H99]: https://doi.org/10.1002/(SICI)1097-0045(19990701)40:2%3C76::AID-PROS2%3E3.0.CO;2-Q
+[JG00]: https://doi.org/10.1002/1097-0045(20000615)44:1%3C26::AID-PROS4%3E3.0.CO;2-P
+[BON90]: https://doi.org/10.1007/978-3-662-00814-0_6
+[BN98]: https://doi.org/10.1007/978-3-642-72185-4_11
+[B04]: https://doi.org/10.1017/CBO9780511545221.015
+[NB10]: https://doi.org/10.1007/978-3-540-78355-8_21
+[NB12]: https://doi.org/10.1017/CBO9781139003353.016
 
-   [TABLE_1A]: https://en.wikipedia.org/wiki/Template:Structural_properties_of_selected_estradiol_esters
-   [TABLE_1B]: https://en.wikipedia.org/w/index.php?title=Template:Potencies_and_durations_of_natural_estrogens_by_intramuscular_injection&oldid=964345939
-   [TABLE_1C]: https://imgur.com/a/ef7b33G
+[TABLE_1A]: https://en.wikipedia.org/wiki/Template:Structural_properties_of_selected_estradiol_esters
+[TABLE_1B]: https://en.wikipedia.org/w/index.php?title=Template:Potencies_and_durations_of_natural_estrogens_by_intramuscular_injection&oldid=964345939
+[TABLE_1C]: https://imgur.com/a/ef7b33G
 
-   [WEB_1A]: https://transfemscience.org/misc/injectable-e2-simulator/
+[WEB_1A]: https://transfemscience.org/misc/injectable-e2-simulator/
 
 <!-- 第二章：研究方法 -->
-   [Z10]: https://doi.org/10.1016/j.cmpb.2010.01.007
-   [COLB81]: https://doi.org/10.1007/bf01059272
-   [W93]: https://books.google.com/books?id=gMuCDwAAQBAJ
-   [FS07]: https://web.archive.org/web/20210717084442if_/https://wiki.ucl.ac.uk/download/attachments/23206987/Shafer%20NONMEM.pdf
-   [L08]: http://mlxtran.lixoft.com/wp-content/uploads/sites/2/2016/02/PKPDlibrary.pdf
-   [AFU15]: https://doi.org/10.1016/j.vascn.2015.03.004
-   [C20]: https://onlinehelp.certara.com/phoenix/8.3/topics/pkmodelcalc.htm
+[Z10]: https://doi.org/10.1016/j.cmpb.2010.01.007
+[COLB81]: https://doi.org/10.1007/bf01059272
+[W93]: https://books.google.com/books?id=gMuCDwAAQBAJ
+[FS07]: https://web.archive.org/web/20210717084442if_/https://wiki.ucl.ac.uk/download/attachments/23206987/Shafer%20NONMEM.pdf
+[L08]: http://mlxtran.lixoft.com/wp-content/uploads/sites/2/2016/02/PKPDlibrary.pdf
+[AFU15]: https://doi.org/10.1016/j.vascn.2015.03.004
+[C20]: https://onlinehelp.certara.com/phoenix/8.3/topics/pkmodelcalc.htm
 
-   [WEB_2A]: https://automeris.io/WebPlotDigitizer/
-   [WEB_2B]: https://lmfit.github.io/lmfit-py/
+[WEB_2A]: https://automeris.io/WebPlotDigitizer/
+[WEB_2B]: https://lmfit.github.io/lmfit-py/
 
 <!-- 第三章：分析结果 -->
   <!-- 前言部分 -->
-   [WEB_30A]: https://www.desmos.com/calculator/ndgvp2avhj
-   [WEB_30B]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
+[WEB_30A]: https://www.desmos.com/calculator/ndgvp2avhj
+[WEB_30B]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
 
   <!-- 3.1 苯甲酸雌二醇 -->
-   [G75]: https://www.worldcat.org/title/untersuchungen-zur-pharmakokinetik-von-ostradiol-17-beta-ostradiol-benzoat-ostradiol-valerianat-und-ostradiol-undezylat-bei-der-frau-der-verlauf-der-konzentrationen-von-ostradiol-17-beta-ostron-lh-und-fsh-im-serum/oclc/311708827
-   [L75]: https://pubmed.ncbi.nlm.nih.gov/1150068/
-   [KL75]: https://doi.org/10.1210/jcem-41-6-1003
-   [S75]: https://doi.org/10.1111/j.1365-2265.1975.tb01534.x
-   [SBL75]: https://doi.org/10.1111/j.1365-2265.1975.tb01537.x
-   [L76]: https://doi.org/10.1007/BF00667679
-   [C78]: https://doi.org/10.1016/S0015-0282(16)43271-1
-   [S78]: https://doi.org/10.1016/S0300-595X(78)80008-5
-   [T78]: https://doi.org/10.1007/BF03346769
-   [T79]: https://doi.org/10.1007/BF03349341
-   [O80]: https://doi.org/10.1016/S0010-7824(80)80018-7
-   [C81]: https://doi.org/10.1016/0020-7292(81)90043-6
-   [W81]: https://doi.org/10.1016/S0140-6736(81)92571-X
-   [S82]: https://doi.org/10.1210/jcem-54-4-745
-   [BWL83]: https://doi.org/10.1016/S0015-0282(16)47174-8
-   [K84]: https://doi.org/10.1007/BF00570759
-   [V84]: https://doi.org/10.1210/jcem-59-1-133
-   [G85]: https://doi.org/10.1007/BF01541659
-   [A86]: https://doi.org/10.1507/endocrine1927.62.5_662
-   [C86]: https://doi.org/10.1016/0028-2243(86)90125-5
-   [MT87a]: https://doi.org/10.1111/j.1365-2265.1987.tb01173.x
-   [MT87b]: https://doi.org/10.1530/jrf.0.0790549
-   [S87]: https://doi.org/10.1507/endocrine1927.63.10_1289
-   [B89]: https://doi.org/10.1016/S0015-0282(16)60602-7
-   [V93]: https://pubmed.ncbi.nlm.nih.gov/8506068/
-   [E06]: https://doi.org/10.1016/j.psyneuen.2005.10.004
-   [A74]: https://doi.org/10.1111/j.1471-0528.1974.tb00383.x
-   [WNG76]: https://journals.lww.com/greenjournal/abstract/1976/04000/induction_of_an_lh_surge_with_estradiol_benzoate_.6.aspx
-   [VC57]: https://pubmed.ncbi.nlm.nih.gov/13547587/
-   [IP65]: https://docs.google.com/document/d/18BUGz-BuVOjc3eODsha5yWodifabu-uRuhxEUxUu7Go/view
+[G75]: https://www.worldcat.org/title/untersuchungen-zur-pharmakokinetik-von-ostradiol-17-beta-ostradiol-benzoat-ostradiol-valerianat-und-ostradiol-undezylat-bei-der-frau-der-verlauf-der-konzentrationen-von-ostradiol-17-beta-ostron-lh-und-fsh-im-serum/oclc/311708827
+[L75]: https://pubmed.ncbi.nlm.nih.gov/1150068/
+[KL75]: https://doi.org/10.1210/jcem-41-6-1003
+[S75]: https://doi.org/10.1111/j.1365-2265.1975.tb01534.x
+[SBL75]: https://doi.org/10.1111/j.1365-2265.1975.tb01537.x
+[L76]: https://doi.org/10.1007/BF00667679
+[C78]: https://doi.org/10.1016/S0015-0282(16)43271-1
+[S78]: https://doi.org/10.1016/S0300-595X(78)80008-5
+[T78]: https://doi.org/10.1007/BF03346769
+[T79]: https://doi.org/10.1007/BF03349341
+[O80]: https://doi.org/10.1016/S0010-7824(80)80018-7
+[C81]: https://doi.org/10.1016/0020-7292(81)90043-6
+[W81]: https://doi.org/10.1016/S0140-6736(81)92571-X
+[S82]: https://doi.org/10.1210/jcem-54-4-745
+[BWL83]: https://doi.org/10.1016/S0015-0282(16)47174-8
+[K84]: https://doi.org/10.1007/BF00570759
+[V84]: https://doi.org/10.1210/jcem-59-1-133
+[G85]: https://doi.org/10.1007/BF01541659
+[A86]: https://doi.org/10.1507/endocrine1927.62.5_662
+[C86]: https://doi.org/10.1016/0028-2243(86)90125-5
+[MT87a]: https://doi.org/10.1111/j.1365-2265.1987.tb01173.x
+[MT87b]: https://doi.org/10.1530/jrf.0.0790549
+[S87]: https://doi.org/10.1507/endocrine1927.63.10_1289
+[B89]: https://doi.org/10.1016/S0015-0282(16)60602-7
+[V93]: https://pubmed.ncbi.nlm.nih.gov/8506068/
+[E06]: https://doi.org/10.1016/j.psyneuen.2005.10.004
+[A74]: https://doi.org/10.1111/j.1471-0528.1974.tb00383.x
+[WNG76]: https://journals.lww.com/greenjournal/abstract/1976/04000/induction_of_an_lh_surge_with_estradiol_benzoate_.6.aspx
+[VC57]: https://pubmed.ncbi.nlm.nih.gov/13547587/
+[IP65]: https://docs.google.com/document/d/18BUGz-BuVOjc3eODsha5yWodifabu-uRuhxEUxUu7Go/view
 
-   [FIG_1]: https://transfemscience.org/assets/images/injectable-e2/eb_v3c.svg
-   [TABLE_31A]: https://imgur.com/a/62NBGrw
-   [WEB_31A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1819977282
-   [WEB_31B]: https://chart-studio.plotly.com/~transfemscience/1/#/
+[FIG_1]: https://transfemscience.org/assets/images/injectable-e2/eb_v3c.svg
+[TABLE_31A]: https://imgur.com/a/62NBGrw
+[WEB_31A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1819977282
+[WEB_31B]: https://chart-studio.plotly.com/~transfemscience/1/#/
 
   <!-- 3.2 戊酸雌二醇 -->
-   [S71]: https://unsworks.unsw.edu.au/fapi/datastream/unsworks:65652/SOURCE01?view=true#page=167
-   [S72a]: https://doi.org/10.1212/WNL.22.4.355
-   [S72b]: https://doi.org/10.1111/j.1526-4610.1972.hed1203093.x
-   [S72c]: https://doi.org/10.5694/j.1326-5377.1972.tb93039.x
-   [SOMER75]: https://doi.org/10.1212/wnl.25.3.239
-   [V75]: https://doi.org/10.1080/17843286.1975.11716973
-   [R80]: https://doi.org/10.1016/0378-5122(80)90060-2
-   [RPG81]: https://doi.org/10.1016/0378-5122(81)90010-4
-   [BBP82]: https://doi.org/10.1016/S0015-0282(16)46042-5
-   [DW83]: https://doi.org/10.1159/000179680
-   [A85]: https://doi.org/10.1016/0010-7824(85)90081-2
-   [DN82]: https://doi.org/10.1016/0378-5122(82)90064-0
-   [DSH85]: https://doi.org/10.1159/000180039
-   [R87]: https://doi.org/10.1007/BF00544558
-   [SANG87]: https://doi.org/10.13699/j.cnki.1001-6821.1987.01.002
-   [SHERW87]: https://doi.org/10.1016/0002-9378(87)90295-X
-   [SHERW88]: https://doi.org/10.1016/0165-0327(88)90061-4
-   [GR88]: https://doi.org/10.3109/09513598809023624
-   [GR90]: https://doi.org/10.1007/BF02442351
-   [GF94]: https://doi.org/10.1016/0010-7824(94)90032-9
-   [J94]: https://doi.org/10.1210/jcem.79.6.7527406
-   [GL98]: https://doi.org/10.1159/000023266
-   [G02]: https://www.kup.at/journals/summary/1071.html
-   [K06]: https://www.nel.edu/short-term-changes-in-melatonin-and-cortisol-serum-levels-after-a-single-administration-of-estrogen-to-menopausal-women-1766/
-   [VA11]: https://repositoriodigital.ipn.mx/handle/123456789/12490
-   [SDB12]: https://doi.org/10.5414/cp201589
-   [I96]: https://www.worldcat.org/oclc/722383126
-   [GA77]: https://doi.org/10.1016/0002-9378(77)90026-6
+[S71]: https://unsworks.unsw.edu.au/fapi/datastream/unsworks:65652/SOURCE01?view=true#page=167
+[S72a]: https://doi.org/10.1212/WNL.22.4.355
+[S72b]: https://doi.org/10.1111/j.1526-4610.1972.hed1203093.x
+[S72c]: https://doi.org/10.5694/j.1326-5377.1972.tb93039.x
+[SOMER75]: https://doi.org/10.1212/wnl.25.3.239
+[V75]: https://doi.org/10.1080/17843286.1975.11716973
+[R80]: https://doi.org/10.1016/0378-5122(80)90060-2
+[RPG81]: https://doi.org/10.1016/0378-5122(81)90010-4
+[BBP82]: https://doi.org/10.1016/S0015-0282(16)46042-5
+[DW83]: https://doi.org/10.1159/000179680
+[A85]: https://doi.org/10.1016/0010-7824(85)90081-2
+[DN82]: https://doi.org/10.1016/0378-5122(82)90064-0
+[DSH85]: https://doi.org/10.1159/000180039
+[R87]: https://doi.org/10.1007/BF00544558
+[SANG87]: https://doi.org/10.13699/j.cnki.1001-6821.1987.01.002
+[SHERW87]: https://doi.org/10.1016/0002-9378(87)90295-X
+[SHERW88]: https://doi.org/10.1016/0165-0327(88)90061-4
+[GR88]: https://doi.org/10.3109/09513598809023624
+[GR90]: https://doi.org/10.1007/BF02442351
+[GF94]: https://doi.org/10.1016/0010-7824(94)90032-9
+[J94]: https://doi.org/10.1210/jcem.79.6.7527406
+[GL98]: https://doi.org/10.1159/000023266
+[G02]: https://www.kup.at/journals/summary/1071.html
+[K06]: https://www.nel.edu/short-term-changes-in-melatonin-and-cortisol-serum-levels-after-a-single-administration-of-estrogen-to-menopausal-women-1766/
+[VA11]: https://repositoriodigital.ipn.mx/handle/123456789/12490
+[SDB12]: https://doi.org/10.5414/cp201589
+[I96]: https://www.worldcat.org/oclc/722383126
+[GA77]: https://doi.org/10.1016/0002-9378(77)90026-6
    
-   [FIG_2]: https://transfemscience.org/assets/images/injectable-e2/ev_v3c.svg
-   [TABLE_32A]: https://imgur.com/a/62NBGrw
-   [WEB_32A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=0
-   [WEB_32B]: https://chart-studio.plotly.com/~transfemscience/17/#/
+[FIG_2]: https://transfemscience.org/assets/images/injectable-e2/ev_v3c.svg
+[TABLE_32A]: https://imgur.com/a/62NBGrw
+[WEB_32A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=0
+[WEB_32B]: https://chart-studio.plotly.com/~transfemscience/17/#/
 
   <!-- 3.3 环戊丙酸雌二醇油溶液 -->
-   [R73]: https://doi.org/10.1210/jcem-37-4-574
-   [RF74]: https://doi.org/10.1016/S0022-3476(74)80355-0
-   [B80]: https://doi.org/10.1016/0026-0495(80)90117-1
-   [L96]: https://doi.org/10.1046/j.1526-4610.1996.3606367.x
+[R73]: https://doi.org/10.1210/jcem-37-4-574
+[RF74]: https://doi.org/10.1016/S0022-3476(74)80355-0
+[B80]: https://doi.org/10.1016/0026-0495(80)90117-1
+[L96]: https://doi.org/10.1046/j.1526-4610.1996.3606367.x
 
-   [FIG_3]: https://transfemscience.org/assets/images/injectable-e2/ec_oil_v3c.svg
-   [WEB_33A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=675753324
-   [WEB_33B]: https://chart-studio.plotly.com/~transfemscience/5/#/
+[FIG_3]: https://transfemscience.org/assets/images/injectable-e2/ec_oil_v3c.svg
+[WEB_33A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=675753324
+[WEB_33B]: https://chart-studio.plotly.com/~transfemscience/5/#/
 
   <!-- 3.4 环戊丙酸雌二醇悬浮液 -->
-   [F82]: https://doi.org/10.1016/0010-7824(82)90049-X
-   [GF87]: https://doi.org/10.1016/0010-7824(87)90093-X
-   [Z98]: https://doi.org/10.1016/S0010-7824(98)00048-1
-   [RR99]: https://doi.org/10.1016/s0010-7824(99)00081-5
-   [SR11]: https://doi.org/10.1016/j.contraception.2011.03.014
-   [T13]: https://doi.org/10.1016/j.contraception.2012.11.010
-   [M19]: https://doi.org/10.1016/j.jpba.2019.03.053
+[F82]: https://doi.org/10.1016/0010-7824(82)90049-X
+[GF87]: https://doi.org/10.1016/0010-7824(87)90093-X
+[Z98]: https://doi.org/10.1016/S0010-7824(98)00048-1
+[RR99]: https://doi.org/10.1016/s0010-7824(99)00081-5
+[SR11]: https://doi.org/10.1016/j.contraception.2011.03.014
+[T13]: https://doi.org/10.1016/j.contraception.2012.11.010
+[M19]: https://doi.org/10.1016/j.jpba.2019.03.053
 
-   [FIG_4]: https://transfemscience.org/assets/images/injectable-e2/ec_susp_v3c.svg
-   [TABLE_34A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_subcutaneous_or_intramuscular_injection_of_5_mg_estradiol_cypionate.png
-   [TABLE_34B]: https://commons.wikimedia.org/wiki/File:Estradiol_cypionate_levels_after_a_single_intramuscular_injection_of_5_mg_microcrystalline_estradiol_cypionate_in_aqueous_suspension_in_women.png
-   [WEB_34A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1561713713
-   [WEB_34B]: https://chart-studio.plotly.com/~transfemscience/7/#/
+[FIG_4]: https://transfemscience.org/assets/images/injectable-e2/ec_susp_v3c.svg
+[TABLE_34A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_subcutaneous_or_intramuscular_injection_of_5_mg_estradiol_cypionate.png
+[TABLE_34B]: https://commons.wikimedia.org/wiki/File:Estradiol_cypionate_levels_after_a_single_intramuscular_injection_of_5_mg_microcrystalline_estradiol_cypionate_in_aqueous_suspension_in_women.png
+[WEB_34A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1561713713
+[WEB_34B]: https://chart-studio.plotly.com/~transfemscience/7/#/
 
   <!-- 3.5 庚酸雌二醇 -->
-   [R86]: https://doi.org/10.1016/0010-7824(86)90046-6
-   [W86]: https://pubmed.ncbi.nlm.nih.gov/3814225/
-   [W87]: https://pesquisa.bvsalud.org/portal/resource/en/lil-42873
-   [S88]: https://doi.org/10.1016/0010-7824(88)90005-4
-   [GF89]: https://doi.org/10.1016/0010-7824(89)90107-8
-   [M95]: https://doi.org/10.1007/BF02436100
+[R86]: https://doi.org/10.1016/0010-7824(86)90046-6
+[W86]: https://pubmed.ncbi.nlm.nih.gov/3814225/
+[W87]: https://pesquisa.bvsalud.org/portal/resource/en/lil-42873
+[S88]: https://doi.org/10.1016/0010-7824(88)90005-4
+[GF89]: https://doi.org/10.1016/0010-7824(89)90107-8
+[M95]: https://doi.org/10.1007/BF02436100
 
-   [FIG_5]: https://transfemscience.org/assets/images/injectable-e2/een_v3c.svg
-   [WEB_35A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1683725929
-   [WEB_35B]: https://chart-studio.plotly.com/~transfemscience/9/#/
+[FIG_5]: https://transfemscience.org/assets/images/injectable-e2/een_v3c.svg
+[WEB_35A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1683725929
+[WEB_35B]: https://chart-studio.plotly.com/~transfemscience/9/#/
 
   <!-- 3.6 十一酸雌二醇 -->
-   [GEPP75]: https://www.worldcat.org/oclc/632312599
-   [JA79]: https://doi.org/10.1159/000280272
-   [J80]: https://doi.org/10.1111/j.1464-410X.1980.tb02961.x
-   [D81]: https://www.worldcat.org/oclc/774239518
-   [V77]: https://scholar.google.com/scholar?cluster=5963522046259984312
+[GEPP75]: https://www.worldcat.org/oclc/632312599
+[JA79]: https://doi.org/10.1159/000280272
+[J80]: https://doi.org/10.1111/j.1464-410X.1980.tb02961.x
+[D81]: https://www.worldcat.org/oclc/774239518
+[V77]: https://scholar.google.com/scholar?cluster=5963522046259984312
 
-   [FIG_6]: https://transfemscience.org/assets/images/injectable-e2/eu_v3c.svg
-   [TABLE_36A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_injections_of_estradiol,_estradiol_benzoate,_estradiol_valerate,_and_estradiol_undecylate_in_women.png
-   [TABLE_36B]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_intramuscular_injection_of_10_mg_estradiol_valerate_and_100_mg_estradiol_undecylate.png
-   [TABLE_36C]: https://imgur.com/a/ZYgpTsh
-   [WEB_36A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=467757621
-   [WEB_36B]: https://chart-studio.plotly.com/~transfemscience/11/#/
+[FIG_6]: https://transfemscience.org/assets/images/injectable-e2/eu_v3c.svg
+[TABLE_36A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_injections_of_estradiol,_estradiol_benzoate,_estradiol_valerate,_and_estradiol_undecylate_in_women.png
+[TABLE_36B]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_intramuscular_injection_of_10_mg_estradiol_valerate_and_100_mg_estradiol_undecylate.png
+[TABLE_36C]: https://imgur.com/a/ZYgpTsh
+[WEB_36A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=467757621
+[WEB_36B]: https://chart-studio.plotly.com/~transfemscience/11/#/
   
   <!-- 3.7 聚磷酸雌二醇 -->
-   [J76]: https://doi.org/10.1016/S0083-6729(08)60965-6
-   [L79]: https://pubmed.ncbi.nlm.nih.gov/571863/
-   [L80]: https://doi.org/10.1016/0022-4731(80)90225-3
-   [J82]: https://scholar.google.com/scholar?cluster=5512908264284113489
-   [N87]: https://doi.org/10.1159/000472772
-   [GN88]: https://doi.org/10.1002/pros.2990130405
-   [STEGE88]: https://doi.org/10.1097/00000421-198801102-00024
-   [STEGE89]: https://doi.org/10.1002/pros.2990140211
-   [STEGE96]: https://doi.org/10.1002/(SICI)1097-0045(199605)28:5%3C307::AID-PROS6%3E3.0.CO;2-8
+[J76]: https://doi.org/10.1016/S0083-6729(08)60965-6
+[L79]: https://pubmed.ncbi.nlm.nih.gov/571863/
+[L80]: https://doi.org/10.1016/0022-4731(80)90225-3
+[J82]: https://scholar.google.com/scholar?cluster=5512908264284113489
+[N87]: https://doi.org/10.1159/000472772
+[GN88]: https://doi.org/10.1002/pros.2990130405
+[STEGE88]: https://doi.org/10.1097/00000421-198801102-00024
+[STEGE89]: https://doi.org/10.1002/pros.2990140211
+[STEGE96]: https://doi.org/10.1002/(SICI)1097-0045(199605)28:5%3C307::AID-PROS6%3E3.0.CO;2-8
 
-   [FIG_7]: https://transfemscience.org/assets/images/injectable-e2/pep_v3c.svg
-   [WEB_37A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1263215142
-   [WEB_37B]: https://chart-studio.plotly.com/~transfemscience/13/#/
+[FIG_7]: https://transfemscience.org/assets/images/injectable-e2/pep_v3c.svg
+[WEB_37A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1263215142
+[WEB_37B]: https://chart-studio.plotly.com/~transfemscience/13/#/
 
   <!-- 3.9 汇总图表 -->
-   [FIG_8]: https://transfemscience.org/assets/images/injectable-e2/all_v3c.svg
-   [FIG_8_ALT]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_no_eb.svg
-   [FIG_9]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_repeated.svg
-   [FIG_9_ALT]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_repeated_no_eb.svg
+[FIG_8]: https://transfemscience.org/assets/images/injectable-e2/all_v3c.svg
+[FIG_8_ALT]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_no_eb.svg
+[FIG_9]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_repeated.svg
+[FIG_9_ALT]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_repeated_no_eb.svg
 
   <!-- 3.10 特定药代动力学参数 -->
-   [TB04]: https://doi.org/10.1111/j.1365-2885.2004.00600.x
-   [Y11]: https://doi.org/10.4155/tde.11.19
+[TB04]: https://doi.org/10.1111/j.1365-2885.2004.00600.x
+[Y11]: https://doi.org/10.4155/tde.11.19
 
 <!-- 第四章：讨论 -->
   <!-- 4.1 数据的质量、局限性 -->
-   [RRH99]: https://doi.org/10.1016/S0010-7824(99)00086-4
-   [SINKULA78]: https://scholar.google.com/scholar?cluster=12842077211931556704
-   [CHIEN81]: https://journal.pda.org/content/35/3/106.short
-   [M97]: https://jpet.aspetjournals.org/content/281/1/93.short
-   [LL09]: https://doi.org/10.1208/s12248-009-9153-9
-   [L09]: https://doi.org/10.1517/17425240903307431
-   [F10]: https://books.google.com/books?id=5wcyP2OBPhoC&pg=PA80
-   [LTL12]: https://doi.org/10.1007/978-1-4614-0554-2_7
-   [K17]: https://dspace.library.uu.nl/handle/1874/348465
-   [SA79]: https://doi.org/10.1111/j.1600-0773.1979.tb02404.x
-   [S98]: https://doi.org/10.1016/S0378-5173(98)00121-5
-   [L01]: https://doi.org/10.1016/S0378-5173(01)00860-2
-   [B78]: https://scholar.google.com/scholar?cluster=7643602853178335452
-   [B78_EXCERPT]: https://imgur.com/a/XXQEw8O
-   [KHL85]: https://doi.org/10.1111/j.1600-0447.1985.tb08535.x
-   [KSV16]: https://doi.org/10.1016/j.ejps.2015.12.011
+[RRH99]: https://doi.org/10.1016/S0010-7824(99)00086-4
+[SINKULA78]: https://scholar.google.com/scholar?cluster=12842077211931556704
+[CHIEN81]: https://journal.pda.org/content/35/3/106.short
+[M97]: https://jpet.aspetjournals.org/content/281/1/93.short
+[LL09]: https://doi.org/10.1208/s12248-009-9153-9
+[L09]: https://doi.org/10.1517/17425240903307431
+[F10]: https://books.google.com/books?id=5wcyP2OBPhoC&pg=PA80
+[LTL12]: https://doi.org/10.1007/978-1-4614-0554-2_7
+[K17]: https://dspace.library.uu.nl/handle/1874/348465
+[SA79]: https://doi.org/10.1111/j.1600-0773.1979.tb02404.x
+[S98]: https://doi.org/10.1016/S0378-5173(98)00121-5
+[L01]: https://doi.org/10.1016/S0378-5173(01)00860-2
+[B78]: https://scholar.google.com/scholar?cluster=7643602853178335452
+[B78_EXCERPT]: https://imgur.com/a/XXQEw8O
+[KHL85]: https://doi.org/10.1111/j.1600-0447.1985.tb08535.x
+[KSV16]: https://doi.org/10.1016/j.ejps.2015.12.011
 
-   [TABLE_51A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_5_mg_intramuscular_injection_of_estradiol_esters.png
-   [TABLE_51B]: https://docs.google.com/document/d/1XJRvPikYmJtxcjBV3ssK3C5v-N6gFrQXCIIVz1amK8o/view#bookmark=id.4o16xc1yn2yk
+[TABLE_51A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_5_mg_intramuscular_injection_of_estradiol_esters.png
+[TABLE_51B]: https://docs.google.com/document/d/1XJRvPikYmJtxcjBV3ssK3C5v-N6gFrQXCIIVz1amK8o/view#bookmark=id.4o16xc1yn2yk
 
-   [WIKI_51A]: https://en.wikipedia.org/wiki/Estrogen_provocation_test
+[WIKI_51A]: https://en.wikipedia.org/wiki/Estrogen_provocation_test
 
   <!-- 5.2 持续时间与曲线形状 -->
-   [SBN80]: https://doi.org/10.1016/S0015-0282(16)44543-7
-   [S07]: https://doi.org/10.1007/978-0-387-49785-3_9
-   [SMM18]: https://doi.org/10.1201/b22448-9
-   [E83]: https://doi.org/10.1016/0039-128x(83)90109-5
+[SBN80]: https://doi.org/10.1016/S0015-0282(16)44543-7
+[S07]: https://doi.org/10.1007/978-0-387-49785-3_9
+[SMM18]: https://doi.org/10.1201/b22448-9
+[E83]: https://doi.org/10.1016/0039-128x(83)90109-5
 
-   [TABLE_52A]: https://commons.wikimedia.org/wiki/File:Idealized_curves_of_estradiol_levels_after_injection_of_different_estradiol_esters_in_women.png
-   [TABLE_52B]: https://imgur.com/a/15LxI3o
-   [TABLE_52C]: https://docs.google.com/document/d/1nidcOcLjt4jIRUMv3rPgyrY_3zUz8Oa0B_noWnGPm4Q/view
-   [TABLE_52D]: https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Time%E2%80%93concentration_curves
-   [WEB_52A]: http://www.vcclab.org/lab/alogps/
-   [WEB_52B]: https://docs.chemaxon.com/display/docs/logp-plugin.md
-   [WEB_52C]: http://www.sioc-ccbg.ac.cn/skins/ccbgwebsite/software/xlogp3/
-   [WEB_52D]: https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/085470s015lbl.pdf
-   [WIKI_52A]: https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
+[TABLE_52A]: https://commons.wikimedia.org/wiki/File:Idealized_curves_of_estradiol_levels_after_injection_of_different_estradiol_esters_in_women.png
+[TABLE_52B]: https://imgur.com/a/15LxI3o
+[TABLE_52C]: https://docs.google.com/document/d/1nidcOcLjt4jIRUMv3rPgyrY_3zUz8Oa0B_noWnGPm4Q/view
+[TABLE_52D]: https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Time%E2%80%93concentration_curves
+[WEB_52A]: http://www.vcclab.org/lab/alogps/
+[WEB_52B]: https://docs.chemaxon.com/display/docs/logp-plugin.md
+[WEB_52C]: http://www.sioc-ccbg.ac.cn/skins/ccbgwebsite/software/xlogp3/
+[WEB_52D]: https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/085470s015lbl.pdf
+[WIKI_52A]: https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
   
   <!-- 5.3 雌二醇暴露量与效力 -->
-   [ALYW19_INTRO_N]: https://transfemscience.org/articles/transfem-intro/#normal-hormone-levels
-   [SG94]: https://doi.org/10.1016/0010-7824(94)90030-2
-   [ALYW20_CLOT]: https://transfemscience.org/articles/estrogens-blood-clots/
-   [P37]: https://doi.org/10.1042/bj0310579
-   [BLD53]: https://doi.org/10.1016/S0015-0282(16)31145-1
+[ALYW19_INTRO_N]: https://transfemscience.org/articles/transfem-intro/#normal-hormone-levels
+[SG94]: https://doi.org/10.1016/0010-7824(94)90030-2
+[ALYW20_CLOT]: https://transfemscience.org/articles/estrogens-blood-clots/
+[P37]: https://doi.org/10.1042/bj0310579
+[BLD53]: https://doi.org/10.1016/S0015-0282(16)31145-1
 
-   [WEB_53A]: https://web.archive.org/web/20180102072958/http://pharmanovia.com/product/estradurin/
-   [WIKI_53A]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate#Medical_uses
+[WEB_53A]: https://web.archive.org/web/20180102072958/http://pharmanovia.com/product/estradurin/
+[WIKI_53A]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate#Medical_uses
 
   <!-- 5.4 受试者个体间差异 -->
-   [K05]: https://doi.org/10.1080/13697130500148875
+[K05]: https://doi.org/10.1080/13697130500148875
    
-   [TABLE_54A]: https://imgur.com/a/qhDYTKX
-   [TABLE_54B]: https://imgur.com/a/NcmDDLV
-   [TABLE_54C]: https://imgur.com/a/nmkQhzV
-   [TABLE_54D]: https://imgur.com/qR2C2Zj
-   [TABLE_54E]: https://imgur.com/a/lh5Hpto
-   [WIKI_54A]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol
+[TABLE_54A]: https://imgur.com/a/qhDYTKX
+[TABLE_54B]: https://imgur.com/a/NcmDDLV
+[TABLE_54C]: https://imgur.com/a/nmkQhzV
+[TABLE_54D]: https://imgur.com/qR2C2Zj
+[TABLE_54E]: https://imgur.com/a/lh5Hpto
+[WIKI_54A]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol
 
   <!-- 5.5 对临床指南和剂量建议的剖析 -->
-   [ALYW20_GUIDE]: https://transfemscience.org/articles/transfem-hormone-guidelines/
-   [D16b]: https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy
-   [OK16]: https://transcare.ucsf.edu/guidelines/youth
-   [C15]: https://www.lgbtqiahealtheducation.org/publication/transgender-sod/
-   [C15_NEW]: https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/
-   [CL18]: https://callen-lorde.org/transhealth/
-   [D13]: https://www.sfdph.org/dph/comupg/oservices/medSvs/hlthCtrs/TransGendprotocols122006.pdf
-   [B19]: https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/
-   [TCB21]: http://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf
-   [D15]: http://www.phsa.ca/transcarebc/Documents/HealthProf/BC-Trans-Adult-Endocrine-Guidelines-2015.pdf
-   [T20]: https://doi.org/10.1016/j.jsxm.2020.01.012
-   [T19]: https://transline.zendesk.com/hc/en-us/articles/229373288-TransLine-Hormone-Therapy-Prescriber-Guidelines
-   [ALYW20_DOSE]: https://transfemscience.org/articles/e2-equivalent-doses/
-   [ALYW19_INTRO_G]: https://transfemscience.org/articles/transfem-intro/#gonadal-suppression
-   [L21]: https://doi.org/10.1016/S0140-6736(21)00100-8
-   [NAH94]: https://doi.org/10.3109/01443619409027641
-   [SANG94]: https://doi.org/10.1016/0010-7824(94)90033-7
-   [T94]: https://doi.org/10.1016/0010-7824(94)90029-9
-   [HB69]: https://scholar.google.com/scholar?cluster=17287240145299798098
-   [G05]: https://doi.org/10.1159/000087751
-   [S13]: https://doi.org/10.1001/jama.2012.165234
-   [D14]: https://books.google.com/books?id=EuB_AwAAQBAJ&pg=PA241
-   [C21]: https://doi.org/10.4158/EP-2020-0414
-   [TM21]: https://doi.org/10.3390/ijerph182312640
+[ALYW20_GUIDE]: https://transfemscience.org/articles/transfem-hormone-guidelines/
+[D16b]: https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy
+[OK16]: https://transcare.ucsf.edu/guidelines/youth
+[C15]: https://www.lgbtqiahealtheducation.org/publication/transgender-sod/
+[C15_NEW]: https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/
+[CL18]: https://callen-lorde.org/transhealth/
+[D13]: https://www.sfdph.org/dph/comupg/oservices/medSvs/hlthCtrs/TransGendprotocols122006.pdf
+[B19]: https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/
+[TCB21]: http://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf
+[D15]: http://www.phsa.ca/transcarebc/Documents/HealthProf/BC-Trans-Adult-Endocrine-Guidelines-2015.pdf
+[T20]: https://doi.org/10.1016/j.jsxm.2020.01.012
+[T19]: https://transline.zendesk.com/hc/en-us/articles/229373288-TransLine-Hormone-Therapy-Prescriber-Guidelines
+[ALYW20_DOSE]: https://transfemscience.org/articles/e2-equivalent-doses/
+[ALYW19_INTRO_G]: https://transfemscience.org/articles/transfem-intro/#gonadal-suppression
+[L21]: https://doi.org/10.1016/S0140-6736(21)00100-8
+[NAH94]: https://doi.org/10.3109/01443619409027641
+[SANG94]: https://doi.org/10.1016/0010-7824(94)90033-7
+[T94]: https://doi.org/10.1016/0010-7824(94)90029-9
+[HB69]: https://scholar.google.com/scholar?cluster=17287240145299798098
+[G05]: https://doi.org/10.1159/000087751
+[S13]: https://doi.org/10.1001/jama.2012.165234
+[D14]: https://books.google.com/books?id=EuB_AwAAQBAJ&pg=PA241
+[C21]: https://doi.org/10.4158/EP-2020-0414
+[TM21]: https://doi.org/10.3390/ijerph182312640
 
-   [FIG_10]: https://transfemscience.org/assets/images/injectable-e2/ev_guidelines.svg
-   [FIG_10_ALT]: https://transfemscience.org/assets/images/injectable-e2/ev_guidelines_weekly.svg
-   [FIG_11]: https://transfemscience.org/assets/images/injectable-e2/ev_ec_intervals.svg
-   [TABLE_55A]: https://en.wikipedia.org/wiki/Template:Target_ranges_for_hormone_levels_in_hormone_therapy_for_transgender_women
-   [TABLE_55B]: https://transfemscience.org/assets/images/injectable-e2/ev_better_doses.svg
+[FIG_10]: https://transfemscience.org/assets/images/injectable-e2/ev_guidelines.svg
+[FIG_10_ALT]: https://transfemscience.org/assets/images/injectable-e2/ev_guidelines_weekly.svg
+[FIG_11]: https://transfemscience.org/assets/images/injectable-e2/ev_ec_intervals.svg
+[TABLE_55A]: https://en.wikipedia.org/wiki/Template:Target_ranges_for_hormone_levels_in_hormone_therapy_for_transgender_women
+[TABLE_55B]: https://transfemscience.org/assets/images/injectable-e2/ev_better_doses.svg
 
 <!-- 第六章：模拟器网页 -->
-   [ALYW21]: https://transfemscience.org/articles/injectable-e2-simulator-release/
+[ALYW21]: https://transfemscience.org/articles/injectable-e2-simulator-release/
 
 <!-- 第八和第九章：鸣谢、阅读材料 -->
-   [WEB_8A]: https://github.com/tiliaqt/
-   [WEB_8B]: https://github.com/tiliaqt/transkit/
-   [WEB_9A]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
+[WEB_8A]: https://github.com/tiliaqt/
+[WEB_8B]: https://github.com/tiliaqt/transkit/
+[WEB_9A]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
