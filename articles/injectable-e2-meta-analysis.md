@@ -544,11 +544,10 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_2B]: https://lmfit.github.io/lmfit-py/
 
 <!-- 第三章：分析结果 -->
-  <!-- 前言部分 -->
+
 [WEB_30A]: https://www.desmos.com/calculator/ndgvp2avhj
 [WEB_30B]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
 
-  <!-- 3.1 苯甲酸雌二醇 -->
 [G75]: https://www.worldcat.org/title/untersuchungen-zur-pharmakokinetik-von-ostradiol-17-beta-ostradiol-benzoat-ostradiol-valerianat-und-ostradiol-undezylat-bei-der-frau-der-verlauf-der-konzentrationen-von-ostradiol-17-beta-ostron-lh-und-fsh-im-serum/oclc/311708827
 [L75]: https://pubmed.ncbi.nlm.nih.gov/1150068/
 [KL75]: https://doi.org/10.1210/jcem-41-6-1003
@@ -585,7 +584,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_31A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1819977282
 [WEB_31B]: https://chart-studio.plotly.com/~transfemscience/1/#/
 
-  <!-- 3.2 戊酸雌二醇 -->
 [S71]: https://unsworks.unsw.edu.au/fapi/datastream/unsworks:65652/SOURCE01?view=true#page=167
 [S72a]: https://doi.org/10.1212/WNL.22.4.355
 [S72b]: https://doi.org/10.1111/j.1526-4610.1972.hed1203093.x
@@ -620,7 +618,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_32A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=0
 [WEB_32B]: https://chart-studio.plotly.com/~transfemscience/17/#/
 
-  <!-- 3.3 环戊丙酸雌二醇油溶液 -->
 [R73]: https://doi.org/10.1210/jcem-37-4-574
 [RF74]: https://doi.org/10.1016/S0022-3476(74)80355-0
 [B80]: https://doi.org/10.1016/0026-0495(80)90117-1
@@ -630,7 +627,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_33A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=675753324
 [WEB_33B]: https://chart-studio.plotly.com/~transfemscience/5/#/
 
-  <!-- 3.4 环戊丙酸雌二醇悬浮液 -->
 [F82]: https://doi.org/10.1016/0010-7824(82)90049-X
 [GF87]: https://doi.org/10.1016/0010-7824(87)90093-X
 [Z98]: https://doi.org/10.1016/S0010-7824(98)00048-1
@@ -645,7 +641,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_34A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1561713713
 [WEB_34B]: https://chart-studio.plotly.com/~transfemscience/7/#/
 
-  <!-- 3.5 庚酸雌二醇 -->
 [R86]: https://doi.org/10.1016/0010-7824(86)90046-6
 [W86]: https://pubmed.ncbi.nlm.nih.gov/3814225/
 [W87]: https://pesquisa.bvsalud.org/portal/resource/en/lil-42873
@@ -657,7 +652,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_35A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1683725929
 [WEB_35B]: https://chart-studio.plotly.com/~transfemscience/9/#/
 
-  <!-- 3.6 十一酸雌二醇 -->
 [GEPP75]: https://www.worldcat.org/oclc/632312599
 [JA79]: https://doi.org/10.1159/000280272
 [J80]: https://doi.org/10.1111/j.1464-410X.1980.tb02961.x
@@ -670,8 +664,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [TABLE_36C]: https://imgur.com/a/ZYgpTsh
 [WEB_36A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=467757621
 [WEB_36B]: https://chart-studio.plotly.com/~transfemscience/11/#/
-  
-  <!-- 3.7 聚磷酸雌二醇 -->
+
 [J76]: https://doi.org/10.1016/S0083-6729(08)60965-6
 [L79]: https://pubmed.ncbi.nlm.nih.gov/571863/
 [L80]: https://doi.org/10.1016/0022-4731(80)90225-3
@@ -686,18 +679,16 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_37A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1263215142
 [WEB_37B]: https://chart-studio.plotly.com/~transfemscience/13/#/
 
-  <!-- 3.9 汇总图表 -->
 [FIG_8]: https://transfemscience.org/assets/images/injectable-e2/all_v3c.svg
 [FIG_8_ALT]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_no_eb.svg
 [FIG_9]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_repeated.svg
 [FIG_9_ALT]: https://transfemscience.org/assets/images/injectable-e2/all_v3c_repeated_no_eb.svg
 
-  <!-- 3.10 特定药代动力学参数 -->
 [TB04]: https://doi.org/10.1111/j.1365-2885.2004.00600.x
 [Y11]: https://doi.org/10.4155/tde.11.19
 
 <!-- 第四章：讨论 -->
-  <!-- 4.1 数据的质量、局限性 -->
+
 [RRH99]: https://doi.org/10.1016/S0010-7824(99)00086-4
 [SINKULA78]: https://scholar.google.com/scholar?cluster=12842077211931556704
 [CHIEN81]: https://journal.pda.org/content/35/3/106.short
@@ -720,7 +711,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 
 [WIKI_51A]: https://en.wikipedia.org/wiki/Estrogen_provocation_test
 
-  <!-- 5.2 持续时间与曲线形状 -->
 [SBN80]: https://doi.org/10.1016/S0015-0282(16)44543-7
 [S07]: https://doi.org/10.1007/978-0-387-49785-3_9
 [SMM18]: https://doi.org/10.1201/b22448-9
@@ -735,8 +725,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_52C]: http://www.sioc-ccbg.ac.cn/skins/ccbgwebsite/software/xlogp3/
 [WEB_52D]: https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/085470s015lbl.pdf
 [WIKI_52A]: https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
-  
-  <!-- 5.3 雌二醇暴露量与效力 -->
+
 [ALYW19_INTRO_N]: https://transfemscience.org/articles/transfem-intro/#normal-hormone-levels
 [SG94]: https://doi.org/10.1016/0010-7824(94)90030-2
 [ALYW20_CLOT]: https://transfemscience.org/articles/estrogens-blood-clots/
@@ -746,7 +735,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_53A]: https://web.archive.org/web/20180102072958/http://pharmanovia.com/product/estradurin/
 [WIKI_53A]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate#Medical_uses
 
-  <!-- 5.4 受试者个体间差异 -->
 [K05]: https://doi.org/10.1080/13697130500148875
    
 [TABLE_54A]: https://imgur.com/a/qhDYTKX
@@ -756,7 +744,6 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [TABLE_54E]: https://imgur.com/a/lh5Hpto
 [WIKI_54A]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol
 
-  <!-- 5.5 对临床指南和剂量建议的剖析 -->
 [ALYW20_GUIDE]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 [D16b]: https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy
 [OK16]: https://transcare.ucsf.edu/guidelines/youth
