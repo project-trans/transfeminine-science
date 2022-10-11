@@ -28,6 +28,10 @@
 - [法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](articles/cpa-meningioma.md) (Aly W., 2020)
 - [比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](articles/bica-adoption.md) (Aly W., 2020)
 
+#### 孕激素
+
+- [口服孕激素及其引起的低孕激素水平与较弱效力的简论](articles/oral-p4-low-levels.md) (Aly W., 2018)
+
 #### 激素治疗引起的普遍效果与风险
 
 - [关于女性化激素疗法与乳腺癌风险的简述](articles/breast-cancer.md) (Aly W., 2020)
