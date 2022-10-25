@@ -56,7 +56,7 @@
 
 对女性化激素治疗而言，舌下含服雌二醇片的目的是为了达到相比普通口服雌二醇片更高的雌二醇水平及抑制睾酮到更低水平。但舌下含服雌二醇片有许多缺陷，例如持续时间短，雌二醇水平波动大，以及因肝脏的高雌二醇暴露引发的更严重的健康风险，如血栓和心血管问题（[Sam S.，2021][14]；[Wiki][15]）。因此能提供更稳定和持续的雌二醇水平的替代方案将很受欢迎。
 
-[14]: https://transfemscience.org/articles/sublingual-e2-transfem/
+[14]: sublingual-e2-transfem.md
 [15]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Sublingual_administration
 
 ## 研究结果

@@ -256,6 +256,7 @@ SHBG 水平的升高除了会降低游离雌二醇比例之外，还会降低游
 [B05]: https://doi.org/10.1002/cncr.20857
 [D81]: https://scholar.google.com/scholar?cluster=13814186946311677814
 [S88]: http://doi.org/10.1097/00000421-198801102-00024
+[M11]: http://doi.org/10.1055/s-0030-1255074
 [K97]: https://doi.org/10.1007/PL00003042
 [WIKI-1]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol
 [AW20-E2]: https://transfemscience.org/articles/e2-equivalent-doses/
