@@ -1,18 +1,14 @@
 # 比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况
 
-作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
-
-首次发表于 2020 年 7 月 1 日
-
-最后修改于 2022 年 3 月 7 日
-
-译者 [Bersella AI](https://bersella-ai.cc)
-
-翻译于 2022 年 5 月 27 日
+> - 作者 [Aly W.](https://transfemscience.org/articles-by-author/aly-w/)
+>    + 首次发表于 2020 年 7 月 1 日
+>    + 最后修改于 2022 年 9 月 26 日
+> - 译者 [Bersella AI](https://bersella-ai.cc)
+>    + 翻译于 2022 年 11 月 14 日
 
 ## 译者按
 
-1. <u>**&#9888; 免责声明：本文不构成任何医疗、处方建议。** 如有医疗需要，应于专业医师指导下进行。</u>
+1. **<u>⚠免责声明：本文不构成任何医疗、处方建议。 如有医疗需要，应于专业医师指导下进行。</u>**
 1. 以下《指南》《跨性别……指南》等应当皆指代同一事物，原文如此。
 1. 因译者能力所限，部分术语之翻译或有纰漏，烦请指正。
 
@@ -34,7 +30,7 @@
 除了用于女性倾向跨性别者和患有前列腺癌的男性之外，比卡鲁胺还被研究用于治疗其他人群中由雄激素引起的症状。例如，其被用于治疗顺性别妇女的多毛症；部分人患有多囊卵巢综合征，其余则没有<sup>([Müderris, Bayram, & Güven, 1999][mbg99]; [Müderris et al., 2002][m02]; [Bahceci et al., 2004][b04]; [Müderris & Öner, 2009][mo09], [PDF][mo09_pdf], [英语译文][mo09_eng]; [Moretti et al., 2016][m16]; [Moretti et al., 2018][m18]; [维基百科][wiki_use_bica_s])</sup>。比卡鲁胺还被研究了结合阿那曲唑（Arimeidex 品牌；一种芳香化酶抑制剂）用于顺性别男孩的非促性腺激素相关性早熟的治疗上<sup>([Kreher et al., 2006][k06]; [Lewis et al., 2009][l09]; [Mitre & Lteif, 2009][ml09]; [Stenger et al., 2009][s09]; [Lenz et al., 2010][l10]; [Reiter et al., 2010][r10]; [Tessaris et al., 2012][t12]; [Özcabı et al., 2015][o15]; [Kor, 2018][k18]; [Arya & Davies, 2019][ad19]; [Nabhan & Eugster, 2019][ne19]; [Finkle et al., 2020][f20]; [Gurnurkar, DiLillo, & Carakushansky, 2021][gdc21]; [维基百科][wiki_use_bica_m])</sup>。此类性早熟很罕见，其中促性腺激素释放激素（GnRH）调节机制失去了作用。在美国，这种比卡鲁胺结合阿那曲唑的特定疗法已完成了二期临床试验，并提交了新药申请，但未获通过；原因是在主要疗效终点——限制身高上之效果的证据尚不充分<sup>([AstraZeneca, 2008][az08])</sup>。不过，尽管在适应症之外，比卡鲁胺仍被用于该疗法；而在经美国食品药品监管局（FDA）批准的 Casodex 药品标示中，亦提及了比卡鲁胺的这项用途<sup>([FDA, 2017][fda17])</sup>。
 
 到了 2015 年中，比卡鲁胺在女性倾向跨性别者当中的使用和相关讨论稀少的事实，开始有了改变。维基百科上有关比卡鲁胺的内容，从最基本的页面逐步扩充了起来；现在有了更丰富的用药信息。此外，在网络圈子里，一些女性倾向跨性别者开始提倡本群体使用比卡鲁胺——例如正叙述其较之于现成选项的优势、以及其用于女性化激素治疗的优良潜力的笔者。
-今后一段时间里，许多开明的医务工作者，都开始接纳比卡鲁胺用在女性倾向跨性别者上。其中，最早的一项对女性倾向跨性别者使用比卡鲁胺的临床研究，开始于 2013 年；其论文摘要于 2017 年发表，全文则于 2019 年发表<sup>([Neyman, Fuqua, & Eugster, 2017][nfe17]; [Neyman, Fuqua, & Eugster, 2019][nfe19])</sup>。该研究是一项规模较小的回顾性图表总结，针对的是比卡鲁胺作为二线青春期阻断剂用于跨性别女孩——其保险拒绝给付其 GnRH 类似物的费用。目前为止，该研究仍为在比卡鲁胺用于女性倾向跨性别者方面的唯一数据来源。虽然从各方面而言，其数据并不出色，但起码还算正规。该研究的发起者早前还发表了有关患有非促性腺激素相关性早熟的男孩们使用比卡鲁胺作为青春期阻断剂的论文<sup>(例如 Lenz et al., 2010; [Haddad & Eugster, 2012][he12])</sup>。Neyman, Fuqua 和 Eugster (2019) 的发现——尽管资料有限——有助于让医务工作者和学者对比卡鲁胺在女性化激素治疗当中的应用产生浓厚的兴趣。
+今后一段时间里，许多开明的医务工作者，都开始接纳比卡鲁胺用在女性倾向跨性别者上。其中，最早的一项对女性倾向跨性别者使用比卡鲁胺的临床研究，开始于 2013 年；其论文摘要于 2017 年发表，全文则于 2019 年发表<sup>([Neyman, Fuqua, & Eugster, 2017][nfe17]; [Neyman, Fuqua, & Eugster, 2019][nfe19])</sup>。该研究是一项规模较小的回顾性图表总结，针对的是比卡鲁胺作为二线青春期阻断剂用于跨性别女孩——其保险拒绝给付其 GnRH 类似物的费用。目前为止，该研究仍为在比卡鲁胺用于女性倾向跨性别者方面的唯一数据来源。虽然从各方面而言，其数据并不出色，但起码还算正规。该研究的发起者早前还发表了有关患有非促性腺激素相关性早熟的男孩们使用比卡鲁胺作为青春期阻断剂的论文<sup>(例如 [Lenz et al., 2010][l10]; [Haddad & Eugster, 2012][he12])</sup>。Neyman, Fuqua 和 Eugster (2019) 的发现——尽管资料有限——有助于让医务工作者和学者对比卡鲁胺在女性化激素治疗当中的应用产生浓厚的兴趣。
 
 无论如何，在当下，比卡鲁胺尚未在女性倾向跨性别者当中被广泛采用；这是因为，比卡鲁胺成为女性化激素治疗的一种选项的时间还不太久，而且关于女性倾向跨性别者使用之的研究与描述还很稀缺，其安全性亦引起担忧。事实上，《跨性别激素治疗指南》亦普遍未曾对此有过提及。目前，比卡鲁胺的使用基本上局限于一些思想更灵活的医务工作者、以及自行安排跨性别激素治疗用药（DIY）的人群里。
 
@@ -53,7 +49,8 @@
 
 比卡鲁胺在顺性别妇女改善和雄激素相关的皮肤及体毛状况上的使用，正被逐渐接受并加以描述。例如，在意大利进行的、有关比卡鲁胺用于多毛症的一项严谨的三期随机对照试验，近期已被公开发表<sup>([Moretti et al., 2018][m18])</sup>。此外，一项有关比卡鲁胺用于顺性别妇女脱发的回顾性图表总结，业已于近期公开发表<sup>([Fernandez-Nieto et al., 2019][fn19]; [Ismail et al., 2020][i20]; [Fernandez-Nieto et al., 2020][fn20]; [Moussa et al., 2021][m21])</sup>。这些有关体毛的研究发现了使用比卡鲁胺后的较低、但显著的肝功能病变发生率。
 
-一些跨性别医学研究者也对比卡鲁胺产生了兴趣<sup>([Aly W., 2019][alyw19_lit])</sup>。其中可能尤其要关注的是，美国内分泌学会 2009、2017 年版《跨性别激素治疗指南》<sup>(Hembree et al., 2009; Hembree et al., 2017)</sup>的领衔作者：Wylie Hembree，在近期的评述中对比卡鲁胺用于女性倾向跨性别者做了积极评价<sup>([Fishman, Paliou, Poretsky, & Hembree, 2019][fpph19])</sup>。Hembree 及其同行提到了近期有关比卡鲁胺用于顺性别妇女多毛症的三期试验，以及有关比卡鲁胺作为青春期阻断剂用于跨性别女孩的研究，以支持将其用于女性倾向跨性别者的可能性。另一位在跨性别医学领域的主要学者、美国内分泌学会版《指南》<sup>(Hembree et al., 2017; [Mitchell, 2020][m20])</sup>的联名作者：Guy T’Sjoen，在一篇与其同行创作的评述里，似乎也对比卡鲁胺持开放态度<sup>([Iwamoto et al., 2019][i19])</sup>。特别是在美国以外的学者，对比卡鲁胺的态度可能更开放，这归功于醋酸环丙孕酮——在美国以外使用最广泛的一种抗雄制剂——长期使用后引起的健康顾虑<sup>([Aly W., 2020][alyw20_meni])</sup>。密歇根州立大学的学者：John Randolph，同样对比卡鲁胺作出了积极评价<sup>([Randolph, 2018][r18])</sup>，不过此后他似乎改变了他的观点<sup>([Michigan Medicine, 2020][mm20])</sup>。而另一方面，其他学者并不那么欢迎比卡鲁胺在女性倾向跨性别者当中的使用<sup>(例如 [Hamidi & Davidge-Pitts, 2019][hdp19]; [Cocchetti et al., 2020][c20])</sup>。
+一些跨性别医学研究者也对比卡鲁胺产生了兴趣<sup>([Aly W., 2019][alyw19_lit])</sup>。其中可能尤其要关注的是，美国内分泌学会 2009、2017 年版《跨性别激素治疗指南》<sup>(Hembree et al., 2009; Hembree et al., 2017)</sup>的领衔作者：Wylie Hembree，在近期的评述中对比卡鲁胺用于女性倾向跨性别者做了积极评价<sup>([Fishman, Paliou, Poretsky, & Hembree, 2019][fpph19])</sup>。Hembree 及其同行提到了近期有关比卡鲁胺用于顺性别妇女多毛症的三期试验，以及有关比卡鲁胺作为青春期阻断剂用于跨性别女孩的研究，以支持将其用于女性倾向跨性别者的可能性。  
+另一位在跨性别医学领域的主要学者、美国内分泌学会版《指南》<sup>(Hembree et al., 2017; [Mitchell, 2020][m20])</sup>的联名作者：Guy T’Sjoen，在一篇与其同行创作的评述里，似乎也对比卡鲁胺持开放态度<sup>([Iwamoto et al., 2019][i19])</sup>。特别是在美国以外的学者，对比卡鲁胺的态度可能更开放，这归功于醋酸环丙孕酮——在美国以外使用最广泛的一种抗雄制剂——长期使用后引起的健康顾虑<sup>([Aly W., 2020][alyw20_meni])</sup>。密歇根州立大学的学者：John Randolph，同样对比卡鲁胺作出了积极评价<sup>([Randolph, 2018][r18])</sup>，不过此后他似乎改变了他的观点<sup>([Michigan Medicine, 2020][mm20])</sup>。而另一方面，其他学者并不那么欢迎比卡鲁胺在女性倾向跨性别者当中的使用<sup>(例如 [Hamidi & Davidge-Pitts, 2019][hdp19]; [Cocchetti et al., 2020][c20])</sup>。
 
 只要给以适当的健康监测，比卡鲁胺较低的风险应可为跨性别医学界所接受。这种情况就跟有极低的严重不良反应发生率的其它药品一样：诸如螺内酯（高钾血症），醋酸环丙孕酮（良性脑膜瘤、血栓、乳腺癌、肝毒性），等等。考虑到其风险，比卡鲁胺可能最终不会被推荐用于一线治疗。不过，如果其它抗雄制剂的可行性因为某些缘故（例如，未按预期起效、耐受度低、有禁忌症、无法获取等）而变得更低、以至不具备，那么比卡鲁胺可作为二线治疗的一种选项。跨性别医学界做的还不够。在比卡鲁胺可被女性倾向跨性别者广泛接纳、或者为《跨性别激素治疗指南》所广泛推荐之前，可能需要更多的相关进展才行——也即，对真正的女性倾向跨性别者使用比卡鲁胺进行研究并加以描述。
 
@@ -61,9 +58,9 @@
 
 ### 后记一
 
-2021 年 3 月，芬威健康版《跨性别健康临床实践指南》自 2015 年 10 月以来首次获得更新：
+2021 年 3 月，芬威健康版《跨性别健康临床实践指南》自 2015 年 10 月以来首次获得更新<sup>([Aly W., 2020][aw20-guide])</sup>：
 
-- Thompson, J., Hopwood, R. A., deNormand, S., & Cavanaugh, T. (2021). Medical Care of Trans and Gender Diverse Adults. Boston: Fenway Health. [[网址][T21] [PDF文档][T21_PDF]]
+- Thompson, J., Hopwood, R. A., deNormand, S., & Cavanaugh, T. (2021). Medical Care of Trans and Gender Diverse Adults. Boston: Fenway Health. [[网址][t21]] [[PDF文档][t21_pdf]]
 
 之所以提及此次更新，是因为该《指南》将比卡鲁胺列为女性倾向跨性别者的抗雄制剂选项之一。尽管该《指南》出于有关比卡鲁胺用于女性倾向跨性别者的描述有限、以及其微弱的肝毒性风险之缘故，并未推荐其作为一线用药；但允许了在女性化激素治疗当中谨慎使用之：
 
@@ -83,7 +80,16 @@
 
 本站在他处亦提供了从该《指南》节选的有关女性倾向跨性别者使用比卡鲁胺的内容<sup>([Aly W., 2019][alyw19_lit_sahiv])</sup>。
 
-_更新：_ 该《指南》的领衔作者——Anastacia Tomson 博士，是一名跨性别女性，其显然深受 [Will Powers 博士及其跨性别护理讲座][alyw19_powers]的影响。这可能解释了为何该《指南》的推荐有异于常规。
+### 后记三
+
+2022 年 9 月，[世界跨性别人士健康专业协会][WPATH]（WPATH）发布了第八版《[跨性别及性别多元化人群健康护理标准][SOC8]》（SOC8）<sup>([Coleman et al., 2022][C22])</sup>。该《标准》是现有最权威的跨性别护理指南之一，由健康护理专家担任顾问。此指南在以下两个片段中简要讨论了比卡鲁胺：
+
+> 比卡鲁胺是一种抗雄制剂，用于治疗前列腺癌。其竞争性结合于雄激素受体，从而阻止雄激素与受体结合。有关比卡鲁胺用于女性倾向跨性别群体的数据非常稀少，其安全性资料也很缺乏。有一项小型研究探索了将 50 mg/天的比卡鲁胺作为青春期阻断剂，用于 23 名无法获得 GnRH 类似物治疗的青少年女性倾向跨性别者<sup>(Neyman et al., 2019)</sup>。这 23 人均发生了乳房发育——这与接受比卡鲁胺治疗的前列腺癌患者的普遍现象一致。  
+比卡鲁胺已被指出可引起罕见的暴发性肝中毒，并导致死亡<sup>(O’Bryant et al., 2008)</sup>。考虑到比卡鲁胺用于女性倾向跨性别者的情况尚未得到充分研究，我们并不推荐其用于常规治疗。
+
+> 在药物的选择上，我们建议采用已被研究用于多名跨性别者的药物（如雌激素、醋酸环丙孕酮与 GnRH 激动剂），而非鲜少或从未经过有同行评议的科学研究的药物（如比卡鲁胺、直肠给药的孕酮等）<sup>(Angus et al., 2021; Butler et al., 2017; Efstathiou et al., 2019; Tosun et al., 2019)</sup>。
+
+如上文所述，由于缺乏相关研究、且有潜在风险，《标准》并未建议将比卡鲁胺用于女性倾向跨性别者的常规治疗。本文也已提到，在比卡鲁胺得到主流《跨性别护理指南》的认可之前，可能还需要更多研究探索其用于女性倾向跨性别者的情况。
 
 ## 参考文献
 
@@ -158,13 +164,17 @@ _更新：_ 该《指南》的领衔作者——Anastacia Tomson 博士，是一
 [mm20]: http://www.med.umich.edu/1libr/ComprehensiveGenderServicesProgram/MMapproachFemGenderAffirmingHormones.pdf
 [hdp19]: https://doi.org/10.1016/j.ecl.2019.02.001
 [c20]: https://doi.org/10.3390/jcm9061609
+[aw20-guide]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 [t21]: https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/
 [t21_pdf]: https://www.lgbtqiahealtheducation.org/wp-content/uploads/2021/07/Medical-Care-of-Trans-and-Gender-Diverse-Adults-Spring-2021.pdf
 [alyw19_lit_t]: https://transfemscience.org/articles/bica-literature/#thompson-et-al--fenway-health-2021
 [sahiv21]: https://doi.org/10.4102/sajhivmed.v22i1.1299
 [sahiv21_pdf]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8517808/pdf/HIVMED-22-1299.pdf
 [alyw19_lit_sahiv]: https://transfemscience.org/articles/bica-literature/#tomson-et-al-2021--southern-african-hiv-clinicians-society-sahcs
-[alyw19_powers]: https://transfemscience.org/articles/powers-fact-check/
+[WPATH]: https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E5%A3%AB%E5%81%A5%E5%BA%B7%E4%B8%93%E4%B8%9A%E5%8D%8F%E4%BC%9A
+[SOC8]: https://en.wikipedia.org/wiki/Standards_of_Care_for_the_Health_of_Transgender_and_Gender_Diverse_People
+[C22]: https://doi.org/10.1080/26895269.2022.2100644
+
 [table_2a]: https://en.wikipedia.org/wiki/Template:Published_case_reports_of_bicalutamide-associated_liver_injury
 [table_2b]: https://en.wikipedia.org/wiki/Template:Published_case_reports_of_bicalutamide-associated_lung_toxicity
 [table_2c]: https://en.wikipedia.org/wiki/Template:Side_effects_of_combined_androgen_blockade_with_nonsteroidal_antiandrogens
