@@ -18,7 +18,7 @@
 
 - [对女性倾向跨性别者舌下含服雌二醇以取代口服雌二醇的探索](articles/sublingual-e2-transfem.md) (Sam S., 2021)
 - [关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](articles/sublingual-ev.md) (Aly W., 2019)
-- [经阴囊及新阴唇给药对女性倾向跨性别者经皮雌二醇吸收的极大增强](articles/genital-e2-application.md) (Aly W., 2019)
+- [关于女性倾向跨性别者以阴囊及新阴唇给予透皮雌二醇可极大增强吸收率的简论](articles/genital-e2-application.md) (Aly W., 2019)
 - [性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义](articles/shbg.md) (Aly W., 2020)
 - [有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析](articles/injectable-e2-meta-analysis.md) (Aly W., 2021)
 
