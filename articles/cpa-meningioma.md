@@ -172,7 +172,7 @@ CPA 以外的孕激素和妊娠也被认为与脑膜瘤有关，也曾有过脑�
 
 - Weill, A., Nguyen, P., Labidi, M., Cadier, B., Passeri, T., Duranteau, L., Bernat, A., Yoldjian, I., Fontanel, S., Froelich, S., & Coste, J. (2021).
   Use of High Dose Cyproterone Acetate and Risk of Intracranial Meningioma in Women: Cohort Study.
-  BMJ, 372, n37. \[DOI:[10.1136/bmj.n37][doi-1136-1]\]
+  BMJ, 372, n37. [DOI:[10.1136/bmj.n37][doi-1136-1]]
 
 [doi-1136-1]: https://doi.org/10.1136/bmj.n37
 
@@ -184,7 +184,7 @@ CPA 以外的孕激素和妊娠也被认为与脑膜瘤有关，也曾有过脑�
 
 - Mikkelsen, A. P., Greiber, I. K., Scheller, N. M., Hilden, M., & Lidegaard, Ø.
   Cyproterone Acetate and Risk of Meningioma.
-  [medRxiv][medrxiv], 2020-12. \[DOI:[10.1101/2020.12.29.20248395][doi-1011-1]\]
+  [medRxiv][medrxiv], 2020-12. [DOI:[10.1101/2020.12.29.20248395][doi-1011-1]]
 
 [medscape-945218]: https://www.medscape.com/viewarticle/945218
 [medrxiv]: https://www.medrxiv.org
@@ -194,7 +194,7 @@ CPA 以外的孕激素和妊娠也被认为与脑膜瘤有关，也曾有过脑�
 
 - Mikkelsen, A. P., Greiber, I. K., Scheller, N. M., Hilden, M., & Lidegaard, Ø. (2021).
   Cyproterone acetate and risk of meningioma: a nationwide cohort study. Journal of Neurology, Neurosurgery & Psychiatry.
-  \[DOI:[10.1136/jnnp-2021-326138][doi-1136-2]\]
+  [DOI:[10.1136/jnnp-2021-326138][doi-1136-2]]
 
 [doi-1136-2]: https://doi.org/10.1136/jnnp-2021-326138
 
@@ -217,7 +217,7 @@ VUMC 是 [性别焦虑专家中心][gd-center] 的所在地，该中心是世界
 
 - Millward, C. P., Keshwara, S. M., Islim, A. I., Jenkinson, M. D., Alalade, A. F., & Gilkes, C. E. (2021).  
   Development and Growth of Intracranial Meningiomas in Transgender Women Taking Cyproterone Acetate as Gender-Affirming Progestogen Therapy: A Systematic Review.  
-  Transgender Health. \[[DOI:10.1089/trgh.2021.0025][M21]\]
+  Transgender Health. [[DOI:10.1089/trgh.2021.0025][M21]]
 
 [M21]: https://doi.org/10.1089/trgh.2021.0025
 
@@ -228,7 +228,7 @@ VUMC 是 [性别焦虑专家中心][gd-center] 的所在地，该中心是世界
 
 - Lee, K. S., Zhang, J., Kirollos, R., Santarius, T., Nga, V., & Yeo, T. T. (2022).  
   A systematic review and meta-analysis of the association between cyproterone acetate and intracranial meningiomas.  
-  Scientific Reports, 12(1), 1942. \[[DOI:10.1038/s41598-022-05773-z][L22]\]
+  Scientific Reports, 12(1), 1942. [[DOI:10.1038/s41598-022-05773-z][L22]]
 
 该论文为《[科学日报][L22-SD]》及《[医学快讯][L22-MX]》的新闻内容所提及。
 
@@ -243,7 +243,7 @@ VUMC 是 [性别焦虑专家中心][gd-center] 的所在地，该中心是世界
 
 - Samoyeau, T., Provost, C., Roux, A., Legrand, L., Dezamis, E., Plu-Bureau, G., Pallud, J., Oppenheim, C., & Benzakoun, J. (2022).  
   Meningioma in patients exposed to progestin drugs: results from a real-life screening program.  
-  Journal of Neuro-Oncology, advance online publication. \[[DOI:10.1007/s11060-022-04124-2][S22]\]
+  Journal of Neuro-Oncology, advance online publication. [[DOI:10.1007/s11060-022-04124-2][S22]]
 
 其结果显示，由 103 人组成的该群体，有 13 人因 CPA 而罹患脑膜瘤，发生率达到惊人的 13%。这项数字远比一般人群中约 1-2% 的诱导性脑膜瘤发生率要高。论文作者还提到，在该项目观测到的 13% 发生率很可能还被低估了，因为大多数因 CPA 引起的脑膜瘤病例或许在接受系统性筛查之前便已被确诊。相应地，脑膜瘤年化发生率则为每年每十万人 13.2 例。  
 和其它研究相似，脑膜瘤的发生也被认为和更长的 CPA 使用时间、更高的 CPA 累积剂量与更大的年龄有关。  

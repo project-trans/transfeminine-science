@@ -76,7 +76,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ## 关于此翻译项目
 
-本站系对“女性倾向跨性别者科学”（[Transfeminine Science][origin-en]）网站之原创文章的中文翻译存档站点，2022 年十月创立。本站基于 GitHub 仓库：[tfsci-sc/articles][origin-cn] 的早前工作而建，现正由 MtF.Wiki 工作组[自主维护][source]。  
+本站系对“女性倾向跨性别者科学”（[Transfeminine Science][origin-en]）网站之原创文章的中文翻译存档站点，2022 年十月创立。本站基于 GitHub 仓库：[tfsci-sc/articles][origin-cn] 的早前工作而建，现正由 MtF.wiki 工作组[自主维护][source]。  
 原站撰稿人兼维护者：[Aly W.][aly] 已知悉本站工作，并授权本站仅存档简体中文内容。
 
 ## 译者一览
@@ -84,7 +84,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 ### Bersella AI
 
 跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在网络社区 [Limelight][llt] 总计发布 9 篇文章的翻译。  
-随后加入 MtF.Wiki 工作组，正式开始系统性整理工作。
+随后加入 MtF.wiki 工作组，正式开始系统性整理工作。
 
 如需联系 Bersella AI，可发送邮件至 `tfsci@mtf.wiki`。
 
@@ -108,7 +108,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 #### [septs](https://github.com/septs)
 
-MtF.Wiki 工作组成员，高级前端工程师。设计并开发 Wiki 主站、[2345.LGBT][2345] 等站点。
+MtF.wiki 工作组成员，高级前端工程师。设计并开发 wiki 主站、[2345.LGBT][2345] 等站点。
 
 <!-- 页内跳转 -->
 [aly]: #aly-w

@@ -97,14 +97,14 @@ Fung 等人 (2017) 发现，女性倾向跨性别者结合 25/50 mg 每日的 CP
 
 迄今罕有研究了结合低剂量 CPA 与中、低剂量雌激素对睾酮之抑制的项目。不过，基于单服 5\~10 mg/天的 CPA 已可最大程度抑制睾酮的事实，可以认为其效果与高剂量的类似。根据部分研究，结合使用 5\~12.5 mg/天的 CPA 与用于生理替代的睾酮的健康年轻男性，已检测不出促性腺激素（小于 0.5 IU/L），睾丸功能因此被完全抑制<sup>([Meriggiola et al., 1998][M98]; [Meriggiola et al., 2002b][M02b])</sup>。雌二醇的促性腺激素拮抗效应，相对睾酮也更强<sup>([维基百科][WIKI-16])</sup>，因此这些发现或许也适用于结合 CPA 与用于生理替代的雌二醇的情况（例如平均 100\~200 pg/mL 的雌二醇浓度）。
 
-依据 [Meyer 等人 (2020)][M20] \[[PDF][M20-PDF]\] 对 155 名女性倾向跨性别者合用 CPA 与雌二醇进行的研究，10、25、50 mg/天剂量的 CPA 并未在睾酮水平上形成差异；三者皆达到较高抑制率（平均降至 15–20 ng/dL，落入女性正常范围的下限）。其中所用雌二醇形态包括：戊酸雌二醇口服片（剂量范围 3–10 mg/天、中位数 6 mg/天），以及雌二醇透皮贴片（100 μg/天）。雌二醇浓度平均达 100 pg/mL；而四分位间距（即第 25、第 75 百分位之差）则可达 100 pg/mL 左右。该研究表明，对于女性倾向跨性别者，如果其雌二醇水平合适，仅需不超过 10 mg/天的 CPA 即可完全抑制睾酮水平。  
+依据 [Meyer 等人 (2020)][M20] [[PDF][M20-PDF]] 对 155 名女性倾向跨性别者合用 CPA 与雌二醇进行的研究，10、25、50 mg/天剂量的 CPA 并未在睾酮水平上形成差异；三者皆达到较高抑制率（平均降至 15–20 ng/dL，落入女性正常范围的下限）。其中所用雌二醇形态包括：戊酸雌二醇口服片（剂量范围 3–10 mg/天、中位数 6 mg/天），以及雌二醇透皮贴片（100 μg/天）。雌二醇浓度平均达 100 pg/mL；而四分位间距（即第 25、第 75 百分位之差）则可达 100 pg/mL 左右。该研究表明，对于女性倾向跨性别者，如果其雌二醇水平合适，仅需不超过 10 mg/天的 CPA 即可完全抑制睾酮水平。  
 另一项研究也发现，女性倾向跨性别者使用小于 20 mg/天、和大于 50 mg/天的 CPA，在睾酮抑制率上无任何区别<sup>([Even-Zohar et al., 2020][EZ20])</sup>。
 
 在雌二醇水平合适的情况下，为抑制睾酮甚至仅需低于 5 mg/天剂量的 CPA（例如 2 mg/天），然而尚无任何研究予以证实。不过，这种概念在对其它孕激素的研究中已有先例。例如，在一项研究里，女性倾向跨性别者每日服用 10 mg 的醋酸甲羟孕酮（该剂量大致相当于可抑制绝经前妇女排卵的 CPA 剂量：1 mg/天<sup>([表格][TABLE-1])</sup>），其睾酮水平下降了 63%，达 215 ng/dL（相比之下，雌二醇—螺内酯联合疗法可达 79 ng/dL）<sup>([Jain, Kwan, & Forcier, 2019][JKF19])</sup>。因此，可以期望极低剂量的 CPA 也能达到类似效果；而且，这种剂量还具有将人体孕激素暴露量减至正常生理水平的益处。
 
 ## 更低剂量 CPA 的临床应用
 
-考虑到高剂量 CPA 的风险、以及其低剂量下较强的睾酮抑制能力，临床上低剂量 CPA 正更多地被用于女性化激素治疗。许多文献证实了这点，其中向女性倾向跨性别者推荐了更少的剂量<sup>(例如： [Lederbogen, 2009][L09]; [Fung, Hellstern-Layefsky, & Lega, 2017][FHL17]; [Heath & Wynne, 2019][HW19]; [Winkler-Crepaz et al., 2017][WC17]; [Mahfouda et al., 2018][M18]; [Oliphant et al., 2018][O18]; [Athanasoulia-Kaspar & Stalla, 2019][AKS19]; [Bourns, 2019][B19]; [Fuss et al., 2019][F19]; [Jacobeit, 2019][J19]; [Nota, den Heijer, & Gooren, 2019][NHG19]; [澳洲与新西兰临床试验登记系统, ANZCTR, 2020][A20]; [Meyer et al., 2020][M20] \[[PDF][M20-PDF]\]; [T’Sjoen et al., 2020][TS20])</sup>。其中，Nota, den Heijer, & Gooren (2019) 的文章将 CPA 推荐的、最低必要剂量定为 10\~50 mg/天，该剂量与先前过大的推荐及使用剂量（100 mg/天）<sup>([Asscheman & Gooren, 1993][AG93]; [Gooren, Giltay, & Bunck, 2008][GGB08])</sup>形成了鲜明反差。
+考虑到高剂量 CPA 的风险、以及其低剂量下较强的睾酮抑制能力，临床上低剂量 CPA 正更多地被用于女性化激素治疗。许多文献证实了这点，其中向女性倾向跨性别者推荐了更少的剂量<sup>(例如： [Lederbogen, 2009][L09]; [Fung, Hellstern-Layefsky, & Lega, 2017][FHL17]; [Heath & Wynne, 2019][HW19]; [Winkler-Crepaz et al., 2017][WC17]; [Mahfouda et al., 2018][M18]; [Oliphant et al., 2018][O18]; [Athanasoulia-Kaspar & Stalla, 2019][AKS19]; [Bourns, 2019][B19]; [Fuss et al., 2019][F19]; [Jacobeit, 2019][J19]; [Nota, den Heijer, & Gooren, 2019][NHG19]; [澳洲与新西兰临床试验登记系统, ANZCTR, 2020][A20]; [Meyer et al., 2020][M20] [[PDF][M20-PDF]]; [T’Sjoen et al., 2020][TS20])</sup>。其中，Nota, den Heijer, & Gooren (2019) 的文章将 CPA 推荐的、最低必要剂量定为 10\~50 mg/天，该剂量与先前过大的推荐及使用剂量（100 mg/天）<sup>([Asscheman & Gooren, 1993][AG93]; [Gooren, Giltay, & Bunck, 2008][GGB08])</sup>形成了鲜明反差。
 
 ## 更高剂量 CPA 的雄激素受体拮抗效应
 
@@ -162,7 +162,7 @@ CPA 的雄激素受体（AR）拮抗效应相对较弱。为达到有意义、�
 
 - Kuijpers, S. M., Wiepjes, C. M., Conemans, E. B., Fisher, A. D., T’Sjoen, G., & den Heijer, M. (2021).  
   Toward a lowest effective dose of cyproterone acetate in trans women: Results from the ENIGI study.  
-  The Journal of Clinical Endocrinology & Metabolism, 106(10), e3936–e3945. \[[DOI:10.1210/clinem/dgab427][K21]\]
+  The Journal of Clinical Endocrinology & Metabolism, 106(10), e3936–e3945. [[DOI:10.1210/clinem/dgab427][K21]]
 
 该项目结合使用了雌二醇与 CPA，所用剂量如下：
 
@@ -198,7 +198,7 @@ CPA 的雄激素受体（AR）拮抗效应相对较弱。为达到有意义、�
 
 - Even Zohar, N., Sofer, Y., Yaish, I., Serebro, M., Tordjman, K., & Greenman, Y. (2021).  
   Low-Dose Cyproterone Acetate Treatment for Transgender Women.  
-  The Journal of Sexual Medicine, 18(7), 1292–1298. \[[10.1016/j.jsxm.2021.04.008][EZ21]\]
+  The Journal of Sexual Medicine, 18(7), 1292–1298. [[10.1016/j.jsxm.2021.04.008][EZ21]]
 - 会议摘要：[Even-Zohar et al., 2020][EZ20]
 
 在该论文的前言部分，有如下叙述：
@@ -213,7 +213,7 @@ CPA 的雄激素受体（AR）拮抗效应相对较弱。为达到有意义、�
 
 > 我们建议，现有的《临床实践指南》应修订其为跨性别女性推荐的 CPA 剂量。
 
-这两篇论文皆声明，其为首次揭露女性倾向跨性别者服用低剂量 CPA 之疗效。不过，这项成就其实应该属于 [Meyer 等人 (2020)][M20] \[[PDF][M20-PDF]\]；其于 2020 年 2 月便已发现，女性倾向跨性别者合用雌二醇与 10、25、50 mg/天的 CPA 时，可获得一致的睾酮抑制效果。
+这两篇论文皆声明，其为首次揭露女性倾向跨性别者服用低剂量 CPA 之疗效。不过，这项成就其实应该属于 [Meyer 等人 (2020)][M20] [[PDF][M20-PDF]]；其于 2020 年 2 月便已发现，女性倾向跨性别者合用雌二醇与 10、25、50 mg/天的 CPA 时，可获得一致的睾酮抑制效果。
 
 [Lim 等人 (2020)][L20] 在 2020 年 5/7 月发表了一篇论文；其研究课题并非与 CPA 及睾酮抑制效果有关，不过，其报告了 26 名女性倾向跨性别者分别使用口服与透皮雌二醇时，睾酮水平中位数（范围）分别为 0.6 (0.4–1.0) nmol/L、0.9 (0.7–1.6) nmol/L；她们还分为了合用雌二醇与低剂量 CPA（12.5-18.8 mg/天，中位数 12.5；共 14 人）、摘除性腺后单用雌二醇（共 9 人）、以及合用雌二醇与螺内酯（共 3 人）等组别。
 
@@ -223,7 +223,7 @@ CPA 的雄激素受体（AR）拮抗效应相对较弱。为达到有意义、�
 
 - Kumar, P., Reddy, S., Kulkarni, A., Sharma, M., & Rao, P. N. (2021).  
   Cyproterone acetate induced Acute liver failure: Case report and review of the literature.  
-  Journal of Clinical and Experimental Hepatology, 11(6), 739–741. \[[DOI:10.1016/j.jceh.2021.01.003][KP21]\]
+  Journal of Clinical and Experimental Hepatology, 11(6), 739–741. [[DOI:10.1016/j.jceh.2021.01.003][KP21]]
 
 该病例描述了一名 30 岁顺性别妇女连续六个月服用 25 mg/天的 CPA 以治疗多毛症，但患上了急性肝衰竭；住院四天后不治身亡。这是迄今报告的第二起和低于 100 mg/天剂量的 CPA 之肝毒性有关的病例，也是第一起有关 CPA 对于顺性别妇女之肝毒性的病例。该病例表明，在肝毒性上，即便相对较低的 CPA 剂量：25 mg/天，也并非足够安全。  
 该论文还强调了女性倾向跨性别者应使用最低有效剂量（不大于 10-12.5 mg/天）之重要性。
@@ -242,7 +242,7 @@ CPA 的雄激素受体（AR）拮抗效应相对较弱。为达到有意义、�
 
 - Collet, S., Gieles, N., Wiepjes, C. M., Heijboer, A. C., Reyns, T., Fiers, T., Lapauw, B., den Heijer, M., & T’Sjoen, G. (2022).  
   Changes in serum testosterone and adrenal androgen levels in transgender women with and without gonadectomy.  
-  The Journal of Clinical Endocrinology & Metabolism, advance online publication. \[[DOI:10.1210/clinem/dgac576][CS20]\]
+  The Journal of Clinical Endocrinology & Metabolism, advance online publication. [[DOI:10.1210/clinem/dgac576][CS20]]
 
 该项目属于欧洲性别不一致调查组织网络（ENIGI）倡议之下的一部分，其中大多数患者来自荷兰阿姆斯特丹的诊所、以及比利时根特的诊所。
 
