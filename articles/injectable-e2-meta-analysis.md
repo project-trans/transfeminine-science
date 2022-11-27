@@ -546,7 +546,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 <!-- 第三章：分析结果 -->
 
 [WEB_30A]: https://www.desmos.com/calculator/ndgvp2avhj
-[WEB_30B]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
+[WEB_30B]: https://alyw234237.github.io/v3c-fitter/
 
 [G75]: https://www.worldcat.org/title/untersuchungen-zur-pharmakokinetik-von-ostradiol-17-beta-ostradiol-benzoat-ostradiol-valerianat-und-ostradiol-undezylat-bei-der-frau-der-verlauf-der-konzentrationen-von-ostradiol-17-beta-ostron-lh-und-fsh-im-serum/oclc/311708827
 [L75]: https://pubmed.ncbi.nlm.nih.gov/1150068/
@@ -781,4 +781,4 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 <!-- 第八和第九章：鸣谢、阅读材料 -->
 [WEB_8A]: https://github.com/tiliaqt/
 [WEB_8B]: https://github.com/tiliaqt/transkit/
-[WEB_9A]: https://alyw234237.github.io/injectable-e2-simulator/v3c-fitter/
+[WEB_9A]: https://alyw234237.github.io/v3c-fitter/
