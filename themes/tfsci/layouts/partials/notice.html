@@ -1,0 +1,3 @@
+{{- with .Params.notice }}
+<p class="notification"><b>{{ T "notice" }}</b>{{ . | markdownify }}</p>
+{{- end }}

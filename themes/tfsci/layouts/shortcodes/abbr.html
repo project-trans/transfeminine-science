@@ -1,0 +1,16 @@
+{{- $abbr := .Get 0 -}}
+{{- $abbreviation := index .Site.Data (print "abbreviation." .Page.Language.Lang) -}}
+{{- if $abbreviation }}
+{{- with index $abbreviation $abbr -}}
+  {{ $html := printf `<abbr title=%q data-origin=%q>%s</abbr>` .origin .title $abbr }}
+  {{- if .href -}}
+    <a href="{{ .href }}" target="_blank">{{ $html | safeHTML }}</a>
+  {{- else -}}
+    {{ $html | safeHTML }}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "%q not found with %q" $abbr .Page.Language -}}
+{{- end -}}
+{{- else }}
+<abbr>{{ $abbr }}</abbr>
+{{- end }}

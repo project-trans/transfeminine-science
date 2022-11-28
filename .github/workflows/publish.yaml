@@ -1,0 +1,32 @@
+name: Publish Site
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - .github
+      - README.md
+      - LICENSE
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+      - run: sudo apt-get install opencc
+      - run: npm ci
+      - run: ./scripts/opencc.sh
+      - run: hugo --minify
+        env:
+          HUGO_DISABLELANGUAGES: ''
+      - run: npx wrangler pages publish public --project-name tfsci --branch main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}

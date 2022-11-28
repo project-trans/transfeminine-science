@@ -1,0 +1,11 @@
+{{- if ne (.TableOfContents | plainify | len) 0 -}}
+<aside class="sidebar">
+<main>
+<header>
+<button class="toggle"><svg><use xlink:href="#sidebar"></use></svg></button>
+<span>{{ T "table-of-contents" }}</span>
+</header>
+{{ .TableOfContents }}
+</main>
+</aside>
+{{- end }}

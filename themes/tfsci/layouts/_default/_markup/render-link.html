@@ -1,0 +1,33 @@
+{{- $text := .Text -}}
+{{- $destination := .Destination -}}
+{{- $parsed := urls.Parse $destination -}}
+{{- if in (slice "http" "https") $parsed.Scheme -}}
+  {{- if eq .Destination .Text -}}
+    {{- $host := replaceRE `^www\.` "" $parsed.Host -}}
+    {{- $onlyPathHosts := slice "doi.org" "reddit.com" "github.com" -}}
+    {{- if in $onlyPathHosts (lower $host) }}
+      {{- $text = slicestr $parsed.Path 1 -}}
+    {{- else -}}
+      {{- $text = print $host $parsed.Path -}}
+    {{- end }}
+  {{- else -}}
+    {{- if and (eq $parsed.Host "transfemscience.org") (hasPrefix $parsed.Path "/articles/") }}
+      {{- $articleName := replaceRE `^/articles/(\S+)/$` "$1" $parsed.Path -}}
+      {{- with .Page.GetPage $articleName -}}
+        {{- if not .Params.hidden -}}
+          {{- $destination = .Permalink -}}
+          {{- with $parsed.Fragment -}}
+            {{- $destination = print $destination "#" $parsed.EscapedFragment -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end }}
+  {{- end -}}
+{{- end -}}
+{{- if eq $parsed.Scheme "mailto" -}}
+<a href="mailto:{{ $parsed.Opaque | base64Encode }}">{{ cond (eq $text $parsed.Opaque) "" $text | safeHTML }}</a>
+{{- else if .Title -}}
+<a href="{{ $destination | safeURL }}" title="{{ .Title }}">{{ $text | safeHTML }}</a>
+{{- else -}}
+<a href="{{ $destination | safeURL }}">{{ $text | safeHTML }}</a>
+{{- end -}}

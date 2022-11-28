@@ -1,0 +1,22 @@
+{{ hugo.Generator }}
+<meta name="page-key" content="{{ .TranslationKey }}">
+<meta name="google" content="notranslate">
+{{- with .Site.Params.ContentSecurityPolicy }}
+{{- $policy := delimit . "; " -}}
+<meta http-equiv="Content-Security-Policy" content="{{ $policy }}">
+{{- end }}
+{{- if .Params.hidden }}
+<meta name="robots" content="noindex, nofollow">
+{{- else }}
+<meta name="robots" content="noarchive">
+{{- end -}}
+{{- with .Description | default (cond .IsPage .Summary .Site.Params.description) }}
+<meta name="description" content="{{ . }}">
+{{- end }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{- range .Translations }}
+<link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Language }}">
+{{- end }}
+{{- range .AlternativeOutputFormats }}
+<link rel="{{ .Rel }}" href="{{ .Permalink }}" type="{{ .MediaType.Type }}">
+{{- end }}

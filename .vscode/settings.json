@@ -3,5 +3,16 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "**/archetypes/*": "plaintext",
+    "*.xml": "plaintext",
+    "_redirects": "plaintext",
+    "_headers": "plaintext"
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "/themes/**/*": true,
+    "/scripts/**/*": true
+  }
 }

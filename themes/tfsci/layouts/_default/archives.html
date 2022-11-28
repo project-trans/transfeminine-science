@@ -1,0 +1,20 @@
+{{- define "main" }}
+{{- $page := .Site.GetPage "articles" -}}
+<section class="container py-4">
+{{ partial "page-header" . }}
+<article class="content mt-6">
+{{- .Content }}
+<ul>
+{{- range $page.Pages.ByPublishDate.Reverse }}
+{{- if .Params.hidden }}{{- continue -}}{{- end }}
+<li data-author="{{ .Params.author }}">
+<p>
+<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+<span class="is-inline-block">({{ .Params.author }}, {{ .PublishDate.Format "2006/1" }})</span>
+</p>
+</li>
+{{- end }}
+</ul>
+</article>
+</section>
+{{- end }}

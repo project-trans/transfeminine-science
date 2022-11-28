@@ -1,49 +1,65 @@
-# “女性倾向跨性别者科学”中文译本存档站
+# Transfeminine Science (MtF.wiki Chinese Copy)
 
-“**女性倾向跨性别者科学**”是一个有关<u>女性倾向跨性别者激素疗法（transfeminine hormone therapy）</u>的原创信息资源站。对此类激素疗法，人们多称之为：女性化激素疗法（feminizing hormone therapy，FHT）；用于女性倾向跨性别者的性别肯定激素疗法（gender-affirming hormone therapy，GAHT）；以及男跨女（MtF）激素替代疗法（HRT）——后者在早年更为常见。该疗法需要服用女性性激素（包括雌激素及孕激素）和抗雄激素制剂，以达到跨性别女性及非二元性别（女性倾向）群体的女性化、去男性化、缓和性别焦虑的目的。
+→ *[English Introduction](#welcome)*
 
-本站的文章由多位撰稿人编写，皆与女性倾向跨性别者激素疗法有关。撰稿人及其资料已列于“[关于本站][about]”页面的“[作者][authors-about]”一节。  
-本站由跨性别者撰稿，为跨性别者及其医师服务。在“[文章][articles]”页面，可见本站文章的分类列表。此外，在“[最新文章][latest]”页面可见按发表时间倒序排列的文章列表。而在“[杂项][misc]”页面，则囊括了实用工具、重要的公开发表材料、网页链接等不同类型的内容。  
-本站文章随时可更新及优化，即“活的文章”。本站所有新文章在发表之前会经过合伙撰稿人的非正式同行评议。
+欢迎来到 [MtF.wiki][wiki] 附属的“女性倾向跨性别者科学”（*[Transfeminine Science][origin]*）中文译本存档站。原文由一群非相关专业出身、却热情洋溢的多国跨性别人士所作，旨在为**女性化激素治疗**提供力所能及的指引，行文严谨、讨论细致、引经据典，具有相当的可信度。本项目则旨在**忠实转达**这些文章的内容和观点，以资参考。
 
-## 译文分类一览
+为便于翻阅、减少翻译工作量，本站译者会从上百篇原文当中精心挑选一部分进行翻译；同时，边翻译边学习，促进 MtF.wiki 内容的完善。因此，本站内容可视作对 MtF.wiki 药物板块的先行或拓展参考。\
+由于原文内容随时会修订，而本站译者不一定有时间与精力实时跟进；因此，**译文修订间隔**暂定为 **3 - 12 个月**。如有不便，敬请谅解。
 
-### 综合性文章
+> 本站除簡體中文外，還提供繁體中文版本，以便港澳台用戶閱覽；需要注意，此版本從簡體中文底稿自動轉換而來，或與港澳台地區語言習慣不符。
 
-- [女性倾向跨性别者的激素治疗简介](articles/transfem-intro.md) (Aly W., 2018)
-- [对非二元女性倾向跨性别者的激素治疗可能性的探索](articles/nonbinary-transfem-overview.md) (Aly W., 2019)
+## 致谢
 
-### 特定主题类
+本项目已得到 *Transfeminine Science* 的维护者兼撰稿人：[Aly W.][aly] 的二次创作许可。\
+本项目基于 [tfsci-sc/articles][origin-cn] 项目的早前工作而建。没有 ta 们的先行，就没有如今的这个项目。
 
-#### 雌激素
+本站目前以 [Hugo][hugo] 构建，并部署于 [Cloudflare Pages][site-url]。
 
-- [对女性倾向跨性别者舌下含服雌二醇以取代口服雌二醇的探索](articles/sublingual-e2-transfem.md) (Sam S., 2021)
-- [关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](articles/sublingual-ev.md) (Aly W., 2019)
-- [关于女性倾向跨性别者以阴囊及新阴唇给予透皮雌二醇可极大增强吸收率的简论](articles/genital-e2-application.md) (Aly W., 2019)
-- [性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义](articles/shbg.md) (Aly W., 2020)
-- [有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析](articles/injectable-e2-meta-analysis.md) (Aly W., 2021)
+## 联系方式
 
-#### 抗雄激素制剂
-
-- [低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](articles/cpa-dosage.md) (Aly W., 2019)
-- [法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](articles/cpa-meningioma.md) (Aly W., 2020)
-- [比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](articles/bica-adoption.md) (Aly W., 2020)
-
-#### 孕激素
-
-- [口服孕酮及其引起的低孕酮水平与较弱效力的简论](articles/oral-p4-low-levels.md) (Aly W., 2018)
-
-#### 激素治疗引起的普遍效果与风险
-
-- [关于女性化激素疗法与乳腺癌风险的简述](articles/breast-cancer.md) (Aly W., 2020)
+如有任何对本站及诸译文的改进建议、勘误等，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
+此外，还可通过提交 Pull Request 对译文、[简繁术语对照表](scripts/CustomTW.txt)等进行改进。
 
 ## 版权声明
 
-[LICENSE](LICENSE.md)
+本站文章适用于 *Transfeminine Science* 的版权声明（[原文][license]）：
 
-[author-en]: about.md#aly-w
-[about]: about.md
-[authors-about]: about.md#作者一览
-[articles]: #译文分类一览
-[latest]: https://transfemscience.org/articles-by-date/
-[misc]: https://transfemscience.org/misc/
+> 本站版权归 Aly W. 及本站其他撰稿人所有；保留一切权利。未经 Aly W. 允许，请勿对本站内容进行二次创作（如翻译项目）。如获得许可，请准确署名，并设置指向本站原文的链接。
+
+此外，本站设计元素与其它补充内容的版权归 MtF.wiki 所有。
+
+--------
+
+## Welcome
+
+Welcome to the Archive Site of Chinese Translations, a project under [MtF.wiki][wiki], to *[Transfeminine Science][origin]*. The original articles were written by non-professional but highly dedicated transgender individuals from several countries, for the purpose of providing useful information on *feminizing hormone therapy*, and with causal analysis, detailed discussions and enormous references, all of which have made them highly acceptable and reliable.\
+Accordingly, this project aims to bring these valued contents to Chinese readers, as accurately and fluently as possible, for reference.
+
+For better experience and less workload for translation, the Translators would carefully pick up a subset of original articles to translate, and to further enhance the information on MtF.wiki. As such, this site can be considered as a reference or a pilot discussion for the subject of medications on MtF.wiki.\
+The original articles can be revised by their Authors *at any time*; also, the Translators may have little spare time or concentration on tracking such changes. Hence, **the interval of full revision** on translations has been determined to about **3 - 12 months**. The Translators would apologize for any inconvinience caused by out-dated contents.
+
+## Thank you
+
+The Translators would thank [Aly W.][aly], the maintainer and one of the authors of *Transfeminine Science*, for her permission on this project.\
+Also, the Translators would thank contributors from the previous translating project [tfsci-sc/articles][origin-cn]; without their previous fantastic work, this project might not be ever established.
+
+The archive site is built with [Hugo][hugo], and deployed onto [Cloudflare Pages][site-url].
+
+## Contact
+
+For any recommendations or erratum on this site or translations, please send an e-mail to <tfsci@mtf.wiki>; however, for any discussion on ideas from the articles, please contact directly to their corresponding Authors.\
+Pull requests are welcomed as well.
+
+## Licenses
+
+All of the translations on this site comply under the [License][license] from *Transfeminine Science*.\
+The design and other supplements of this site are copyrights of MtF.wiki.
+
+[wiki]: https://mtf.wiki
+[origin]: https://transfemscience.org
+[aly]: https://transfemscience.org/about/#aly-w
+[origin-cn]: https://github.com/tfsci-sc/articles
+[hugo]: https://gohugo.io
+[site-url]: https://tfsci.mtf.wiki
+[license]: LICENSE.md

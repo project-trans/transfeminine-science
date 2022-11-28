@@ -1,0 +1,21 @@
+comma: 、
+# language
+language: 语言
+# article metadata
+author: 作者
+translators: 译者
+original: 原文
+keywords: 关键词
+published: 首次发表于
+updated: 最后修订于
+translated: 翻译于
+word-count: 字数
+word-count-text: 共 {{ .WordCount }} 字，阅读约 {{ .ReadingTime }} 分钟
+date-format: 2006 年 1 月 2 日
+# article notice
+notice: 注意：
+# article see-also
+see-also: 相关文章
+# 404 page
+page-not-found: 页面未找到
+page-not-found-description: 您请求的页面无法找到，<a href="{{ . }}">返回首页</a>

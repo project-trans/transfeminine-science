@@ -1,0 +1,80 @@
+@import 'node_modules/bulma/bulma';
+@import 'node_modules/tippy.js/dist/tippy';
+@import 'node_modules/tippy.js/themes/light-border';
+
+:root {
+  touch-action: manipulation;
+  font-variant-numeric: tabular-nums;
+  scroll-padding-top: $navbar-height + 2rem;
+}
+
+body {
+  $font-family: Helvetica, Arial, '-apple-system', 'BlinkMacSystemFont', system-ui, sans-serif;
+  $font-family-tc: 'PingFang TC', 'Apple LiGothic Medium', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', $font-family;
+
+  @at-root :root:lang(zh-cn) & {
+    font-family: 'Noto Sans SC', 'PingFang SC', $font-family;
+  }
+
+  @at-root :root:lang(zh-tw) & {
+    font-family: 'Noto Sans TC', $font-family-tc;
+  }
+
+  @at-root :root:lang(zh-hk) & {
+    font-family: 'Noto Sans HK', $font-family-tc;
+  }
+
+  > main {
+    min-height: 100vh;
+  }
+}
+
+main > .container {
+  @include from($tablet) {
+    max-width: $tablet !important;
+  }
+}
+
+.content {
+  table.table {
+    width: auto;
+
+    white-space: nowrap;
+  }
+
+  figure {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .card-image img {
+    width: 100%;
+  }
+
+  dl.metadata {
+    display: grid;
+    overflow: hidden;
+
+    word-break: break-all;
+
+    grid-template-columns: max-content auto;
+
+    dt {
+      padding-right: 1em;
+
+      text-align: end;
+
+      grid-column-start: 1;
+    }
+
+    dd {
+      margin-left: 0;
+
+      grid-column-start: 2;
+    }
+
+    span {
+      display: inline-block;
+    }
+  }
+}

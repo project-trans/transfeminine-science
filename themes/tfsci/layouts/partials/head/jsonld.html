@@ -1,0 +1,90 @@
+{{- define "partials/parents.html" -}}
+  {{- $parents := slice . -}}
+  {{- if .Parent -}}
+    {{- $parents = partial "parents.html" .Parent | append $parents -}}
+  {{- end -}}
+  {{- return $parents -}}
+{{- end -}}
+{{- define "partials/breadcrumb-items.html" -}}
+  {{- $items := slice -}}
+  {{- range $index, $page := partial "parents" . -}}
+    {{-
+    $item := dict
+      "@type" "ListItem"
+      "position" (add $index 1)
+      "name" $page.Title
+      "item" $page.Permalink
+    -}}
+    {{- $items = $items | append $item -}}
+  {{- end -}}
+  {{- return $items -}}
+{{- end }}
+{{- $about := ref . "about" -}}
+{{-
+$publisher := dict
+  "@type" "Organization"
+  "name" .Site.Author.name
+  "url" .Site.Author.url
+  "email" .Site.Author.email
+-}}
+{{-
+$creator := dict
+  "@type" "Organization"
+  "name" "Transfeminine Science"
+  "url" "https://transfemscience.org"
+-}}
+{{- $authors := slice -}}
+{{- with .Params.author -}}
+  {{-
+  $author := dict
+    "@type" "Person"
+    "name" .
+    "url" (print $about "#" (. | anchorize))
+  -}}
+  {{- $authors = $authors | append $author -}}
+{{- end -}}
+{{- range .Params.translators -}}
+  {{-
+  $author := dict
+    "@type" "Person"
+    "name" .
+    "url" (print $about "#" (. | anchorize))
+  -}}
+  {{- $authors = $authors | append $author -}}
+{{- end -}}
+{{-
+$brand := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "name" .Site.Title
+  "url" .Site.Home.Permalink
+  "logo" (resources.GetMatch "favicon**").Permalink
+  "email" .Site.Author.email
+-}}
+{{-
+$article := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "name" .Title
+  "url" .Permalink
+  "author" $authors
+  "creator" $creator
+  "headline" .Title
+  "wordCount" .WordCount
+  "publisher" $publisher
+  "maintainer" $publisher
+  "description" .Description
+  "dateCreated" .PublishDate
+  "datePublished" .Date
+  "dateModified" .Lastmod
+  "copyrightNotice" (.Site.Copyright | markdownify | plainify)
+-}}
+{{-
+$breadcrumbs := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" (partial "breadcrumb-items" .)
+-}}
+<script type="application/ld+json">
+{{ slice $brand $article $breadcrumbs | jsonify (dict "indent" "  ") | safeJS }}
+</script>

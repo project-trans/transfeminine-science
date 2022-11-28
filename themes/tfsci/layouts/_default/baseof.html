@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Language }}" prefix="og: http://ogp.me/ns#" class="has-navbar-fixed-top">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<title>
+{{- block "title" . -}}
+{{- cond .IsHome .Site.Title (print .Title " - " .Site.Title) -}}
+{{- end -}}
+</title>
+{{ partial "head/meta" . }}
+{{ partial "head/resources" . }}
+{{ partial "head/opengraph" . }}
+{{ partial "head/twitter" . }}
+{{ partial "head/telegram" . }}
+{{ partial "head/jsonld" . }}
+</head>
+<body>
+{{ partial "header" . }}
+<main class="section">
+{{- block "main" . }}{{- end }}
+</main>
+{{ partial "footer" . }}
+</body>
+</html>

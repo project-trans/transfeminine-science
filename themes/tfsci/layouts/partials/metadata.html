@@ -1,0 +1,55 @@
+{{- $about := ref . "about" -}}
+{{- if or .Params.author .Params.translators }}
+<dl class="metadata">
+{{- with .Params.author }}
+  <dt>{{ T "author" }}</dt>
+  <dd><a href="{{ $about }}#{{ . | anchorize }}">{{ . }}</a></dd>
+{{- end }}
+{{- with .Params.translators }}
+  <dt>{{- T "translators" -}}</dt>
+  <dd>
+    {{- range $index, $name := . -}}
+    {{- if ne $index 0 -}}{{- T "comma" -}}{{- end -}}
+    <a href="{{ $about }}#{{ $name | anchorize }}">{{ $name }}</a>
+    {{- end -}}
+  </dd>
+{{- end }}
+{{- with .Params.original | default (print "https://transfemscience.org/articles/" .File.ContentBaseName) }}
+  <dt>{{ T "original" }}</dt>
+  <dd>{{ . | markdownify }}</dd>
+{{- end }}
+{{- with .Params.wordCount | default .WordCount }}
+  <dt>{{ T "word-count" }}</dt>
+  {{- $wordCount := . | lang.FormatNumber 0 }}
+  {{- $readingTime := div . 200 | math.Round }}
+  <dd>{{ T "word-count-text" (dict "WordCount" $wordCount "ReadingTime" $readingTime) }}</dd>
+{{- end }}
+{{- with .Params.keywords }}
+  <dt>{{ T "keywords" }}</dt>
+  <dd>
+    {{- range $index, $keyword := . -}}
+    {{- if ne $index 0 -}}{{- T "comma" -}}{{- end -}}
+    <span>{{ $keyword }}</span>
+    {{- end -}}
+  </dd>
+{{- end }}
+{{- with .PublishDate }}
+  <dt>{{ T "published" }}</dt>
+  <dd>{{ .Format (T "date-format") }}</dd>
+{{- end }}
+{{- if and .Date (ne .PublishDate .Date) }}
+  <dt>{{ T "updated" }}</dt>
+  <dd>{{ .Date.Format (T "date-format") }}</dd>
+{{- end }}
+{{- with .Lastmod }}
+  <dt>{{ T "translated" }}</dt>
+  <dd>{{ .Format (T "date-format") }}</dd>
+{{- end }}
+{{- with .Params.trackHash }}
+{{- if site.IsServer }}
+  <dt>Track</dt>
+  <dd><a href="https://github.com/mtf-wiki/tfsci-track/compare/{{ . }}..HEAD">{{ . }}</a></dd>
+{{- end }}
+{{- end }}
+</dl>
+{{- end }}

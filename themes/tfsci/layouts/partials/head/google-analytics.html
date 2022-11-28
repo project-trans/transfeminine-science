@@ -1,0 +1,4 @@
+{{- $defines := dict "MEASUREMENT_ID" (jsonify .Site.GoogleAnalytics) -}}
+{{- with resources.Get "gtag.ts" | js.Build (dict "defines" $defines) | minify | fingerprint }}
+<script async defer src="{{ .Permalink }}" integrity="{{ .Data.Integrity }}"></script>
+{{- end }}

@@ -1,0 +1,17 @@
+{{- $index := .Attributes.index }}
+{{- if not $index }}
+  {{- .Page.Scratch.Add "table-index" 1 -}}
+  {{- $index = .Page.Scratch.Get "table-index" -}}
+{{- end }}
+{{- $rows := .Inner | transform.Unmarshal -}}
+<table id="table-{{ $index }}">
+<thead>
+<tr>{{ range (index $rows 0) }}<th>{{ . | markdownify }}</th>{{ end }}</tr>
+</thead>
+{{- $rows = after 1 $rows }}
+<tbody>
+{{- range $rows }}
+<tr>{{ range . }}<td>{{ replace . `\n` "\\\n" | markdownify }}</td>{{ end }}</tr>
+{{- end }}
+</tbody>
+</table>

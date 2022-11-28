@@ -1,0 +1,16 @@
+<meta name="twitter:card" content="summary">
+{{- with cond .IsHome .Site.Title (print .Title " - " .Site.Title) }}
+<meta name="twitter:title" content="{{ . }}">
+{{- end }}
+{{- with .Description | default (cond .IsPage .Summary .Site.Params.description) }}
+<meta name="twitter:description" content="{{ . }}">
+{{- end }}
+{{- with .Site.Social.twitter }}
+<meta name="twitter:site" content="{{ . }}">
+{{- end }}
+{{- with .Params.twitter | default .Site.Social.twitter }}
+<meta name="twitter:creator" content="{{ . }}">
+{{- end }}
+{{- with resources.GetMatch "favicon**" | fingerprint }}
+<meta name="twitter:image" content="{{ .Permalink }}">
+{{- end }}

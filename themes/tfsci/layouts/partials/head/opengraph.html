@@ -1,0 +1,37 @@
+{{- $iso8601 := "2006-01-02T15:04:05Z07:00" -}}
+<meta property="og:title" content="{{ .Title }}">
+{{- with .Description | default (cond .IsPage .Summary .Site.Params.description) }}
+<meta property="og:description" content="{{ . }}">
+{{- end }}
+{{- with cond .IsPage "article" "website" }}
+<meta property="og:type" content="{{ . }}">
+{{- end }}
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="{{ .Language }}">
+{{- range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Language }}">
+{{- end }}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+{{- with .Lastmod }}
+<meta property="og:updated_time" content="{{ .Format $iso8601 }}">
+{{- end }}
+{{- with resources.GetMatch "favicon**" }}
+<meta property="og:image" content="{{ .Permalink }}">
+{{- end }}
+{{- if .IsPage }}
+<meta property="article:section" content="{{ .Section }}">
+{{- with .PublishDate }}
+<meta property="article:published_time" content="{{ .Format $iso8601 }}">
+{{- end }}
+{{- with .Date }}
+<meta property="article:modified_time" content="{{ .Format $iso8601 }}">
+{{- end }}
+{{- with .Params.author }}
+<meta property="article:author" content="{{ . }}">
+{{- end }}
+{{- with .Params.translators }}
+{{- range . }}
+<meta property="article:author" content="{{ . }}">
+{{- end }}
+{{- end }}
+{{- end }}

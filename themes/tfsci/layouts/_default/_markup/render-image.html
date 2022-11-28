@@ -1,0 +1,8 @@
+{{- if .Title }}
+<div class="card">
+<div class="card-image"><figure class="image"><img src="{{ .Destination | safeURL }}" alt="{{ .Text }}"></figure></div>
+<div class="card-content">{{ .Title }}</div>
+</div>
+{{- else }}
+<figure class="image"><img src="{{ .Destination | safeURL }}" alt="{{ .Text }}"></figure>
+{{- end }}

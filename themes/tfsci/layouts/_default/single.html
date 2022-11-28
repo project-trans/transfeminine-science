@@ -1,0 +1,16 @@
+{{- define "main" }}
+<section class="container py-4">
+{{ partial "page-header" . }}
+<article class="content mt-6">
+{{- if eq .Section "articles" }}
+{{- partial "metadata" . }}
+{{- partial "notice" . }}
+{{ .Content }}
+{{- partial "related" . }}
+{{- else }}
+{{- partial "notice" . }}
+{{ .Content }}
+{{- end }}
+</article>
+</section>
+{{- end }}

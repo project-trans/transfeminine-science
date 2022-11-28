@@ -1,0 +1,4 @@
+---
+title: {{ .Name }}
+draft: true
+---

@@ -1,0 +1,38 @@
+{{- $page := . -}}
+<header class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+<main class="container">
+<section class="navbar-brand">
+<a class="navbar-item" href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a>
+<a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+</a>
+</section>
+<section class="navbar-menu">
+<section class="navbar-start">
+{{- range .Site.Home.Pages }}
+{{- if .Params.hidden }}{{- continue -}}{{- end }}
+{{- $active := cond .IsNode (.InSection $page) (eq . $page) }}
+<a class="navbar-item{{ if $active }} is-active{{ end }}" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+{{- end }}
+</section>
+{{- if .IsTranslated }}
+<section class="navbar-end">
+<div class="navbar-item language has-dropdown is-hoverable">
+<a class="navbar-link">{{ T "language" }}</a>
+<nav class="navbar-dropdown">
+{{- range .AllTranslations }}
+{{- if eq $page . }}
+<a hreflang="{{ .Language }}" href="{{ .Permalink }}" class="navbar-item is-active">{{ .Language.LanguageName }}</a>
+{{- else }}
+<a hreflang="{{ .Language }}" href="{{ .Permalink }}" class="navbar-item">{{ .Language.LanguageName }}</a>
+{{- end }}
+{{- end }}
+</nav>
+</div>
+</section>
+{{- end }}
+</section>
+</main>
+</header>

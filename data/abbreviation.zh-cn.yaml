@@ -1,0 +1,84 @@
+FHT:
+  origin: Feminizing Hormone Therapy
+  title: 女性化激素疗法
+  href: https://en.wikipedia.org/wiki/Feminizing_hormone_therapy
+MtF:
+  origin: Male to Female
+  title: 跨性别女性
+  href: https://en.wikipedia.org/wiki/MtF
+HRT:
+  origin: Hormone Replacement Therapy
+  title: 激素替代疗法
+  href: https://en.wikipedia.org/wiki/Transgender_hormone_therapy
+GaHT:
+  origin: Gender-affirming Hormone Therapy
+  title: 性别肯定激素疗法
+  href: https://en.wikipedia.org/wiki/Transgender_hormone_therapy
+E:
+  origin: Estrogen
+  title: 雌激素
+  href: https://en.wikipedia.org/wiki/Estrogen
+P:
+  origin: Progestogen
+  title: 孕激素
+  href: https://en.wikipedia.org/wiki/Progestogen
+E2:
+  origin: Estradiol
+  title: 雌二醇
+  href: https://en.wikipedia.org/wiki/Estradiol
+P4:
+  origin: Progesterone
+  title: 孕酮
+  href: https://en.wikipedia.org/wiki/Progesterone
+T:
+  origin: Testosterone
+  title: 睾酮
+  href: https://en.wikipedia.org/wiki/Testosterone
+DHT:
+  origin: Dihydrotestosterone
+  title: 双氢睾酮
+  href: https://en.wikipedia.org/wiki/Dihydrotestosterone
+AR:
+  origin: Androgen Receptor
+  title: 雄激素受体
+  href: https://en.wikipedia.org/wiki/Androgen_receptor
+ER:
+  origin: Estrogen Receptor
+  title: 雌激素受体
+  href: https://en.wikipedia.org/wiki/Estrogen_receptor
+PR:
+  origin: Progesterone Receptor
+  title: 孕激素受体
+  href: https://en.wikipedia.org/wiki/Progesterone_receptor
+PO:
+  origin: Oral administration
+  title: 口服给药
+  href: https://en.wikipedia.org/wiki/Oral_administration
+SL:
+  origin: Sublingual administration
+  title: 舌下给药
+  href: https://en.wikipedia.org/wiki/Sublingual_administration
+BUC:
+  origin: Buccal administration
+  title: 颊部给药
+  href: https://en.wikipedia.org/wiki/Buccal_administration
+TD:
+  origin: Transdermal
+  title: 透皮给药
+  href: https://en.wikipedia.org/wiki/Transdermal
+REC:
+  origin: Rectal administration
+  title: 直肠给药
+  href: https://en.wikipedia.org/wiki/Rectal_administration
+IM:
+  origin: Intramuscular injection
+  title: 肌肉注射
+  href: https://en.wikipedia.org/wiki/Intramuscular_injection
+SC:
+  origin: Subcutaneous injection
+  title: 皮下注射
+  href: https://en.wikipedia.org/wiki/Subcutaneous_injection
+SCi:
+  origin: Subcutaneous implant
+  title: 皮下植入
+  href: https://en.wikipedia.org/wiki/Subcutaneous_implant

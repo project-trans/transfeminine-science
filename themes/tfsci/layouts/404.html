@@ -1,0 +1,13 @@
+{{- define "title" -}}
+{{- T "page-not-found" -}}
+{{- end -}}
+{{- define "main" }}
+<section class="container py-4">
+<header class="page-header">
+<p class="title">{{ T "page-not-found" }}</p>
+</header>
+<article class="content mt-6">
+<p>{{ T "page-not-found-description" .Site.Home.Permalink | safeHTML }}</p>
+</article>
+</section>
+{{- end }}

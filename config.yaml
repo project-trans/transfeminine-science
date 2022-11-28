@@ -1,0 +1,65 @@
+title: 女性倾向跨性别者科学
+baseURL: https://tfsci.mtf.wiki
+theme: tfsci
+copyright: >
+  &copy; 2022
+  [Transfeminine Science](https://transfemscience.org) and
+  [MtF.wiki](https://mtf.wiki)
+
+languageCode: zh-cn
+hasCJKLanguage: true
+defaultContentLanguage: zh-cn
+defaultContentLanguageInSubdir: true
+disableKinds: [taxonomy, term]
+disableLanguages: [zh-tw, zh-hk]
+enableGitInfo: true
+enableRobotsTXT: true
+googleAnalytics: G-TKT26VDTW3
+
+author:
+  name: MtF.wiki
+  url: https://mtf.wiki
+  email: tfsci@mtf.wiki
+
+params:
+  ContentSecurityPolicy:
+    - default-src 'self'
+    - img-src *
+    - style-src 'self' 'unsafe-inline'
+    - script-src 'self' https://www.googletagmanager.com
+    - connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com
+
+social:
+  twitter: '@MtFwiki'
+  telegram: '@MtFwiki'
+
+markup:
+  tableOfContents:
+    endLevel: 4
+    ordered: false
+    startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+
+frontmatter:
+  lastmod: [translated]
+  date: [updated]
+  publishDate: [published]
+
+languages:
+  zh-cn:
+    title: 女性倾向跨性别者科学
+    contentDir: content
+    languageName: 大陆简体
+    weight: 1
+  zh-tw:
+    title: 女性傾向跨性別者科學
+    contentDir: content.zh-tw
+    languageName: 臺灣正體
+    weight: 2
+  zh-hk:
+    title: 女性傾向跨性別者科學
+    contentDir: content.zh-hk
+    languageName: 香港繁體
+    weight: 3

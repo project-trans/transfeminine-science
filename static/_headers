@@ -1,0 +1,5 @@
+/*
+  Access-Control-Allow-Origin: null
+  Cache-Control: max-age=600
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
