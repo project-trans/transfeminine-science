@@ -271,12 +271,15 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 
 论文作者指出，在本研究中，接受激素治疗的女性倾向跨性别者的睾酮水平，与顺性别妇女接近或稍低于之。
 
---------
+---
 
-## 译文修订记录
+## 译文修订历史 {#revise-history}
 
-- 2022 年 3 月 2 日——首次翻译。
-- 2022 年 10 月 21 日——第一次修订，增补“后记四”“后记五”内容，整理外链。
+```csv
+时间,备注
+2022 年 3 月 2 日,首次翻译。
+2022 年 10 月 21 日,第一次修订，增补“后记四”“后记五”内容，整理外链。
+```
 
 [wiki-1]: https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate#Pharmacodynamics
 [table-1]: https://en.wikipedia.org/wiki/Template:Oral_potencies_of_progestogens

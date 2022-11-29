@@ -238,12 +238,15 @@ Tegaderm 是一种透明薄膜敷料，可帮助固定贴片<sup>([Reddit 帖子
 - Premoli, F., Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). \[Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.\] _Revista Argentina de Urología_, _70_(4), 231–241. \[[Google 学术](https://scholar.google.com/scholar?cluster=3203160436559309066)\] \[[URL](https://web.archive.org/web/20201112031803/https://www.sau-net.org/publicaciones/abstracts_70_4.html)\] \[[PDF](https://revistasau.org/index.php/revista/article/viewFile/3224/3168)\] \[[英译文](https://docs.google.com/document/d/1dteNhG9wewvNX5zj0YcXrVAuQFZdtcqWmUWVvgI5uKs/view)\]
 - Rosenfield, R. L., Kiess, W., & de Muinck Keizer-Schrama, S. (2006). Physiologic induction of puberty in Turner syndrome with very low-dose estradiol. _International Congress Series_, _1298_, 71–79. \[DOI:<https://doi.org/10.1016/j.ics.2006.07.003>\]
 
---------
+---
 
-## 译文修订记录
+## 译文修订历史 {#revise-history}
 
-- 2021 年 10 月 23 日——首次翻译。
-- 2022 年 11 月 14 日——第一次修订，梳理全文叙述，增补“用药安全性”一节，整理外链。
+```csv
+时间,备注
+2021 年 10 月 23 日,首次翻译。
+2022 年 11 月 14 日,第一次修订，梳理全文叙述，增补“用药安全性”一节，整理外链。
+```
 
 <!-- 图表外链 -->
 
