@@ -50,7 +50,9 @@ function onRestoreEmailAddress() {
   for (const link of content.querySelectorAll<HTMLAnchorElement>('a[href^="mailto:"]')) {
     const address = atob(link.pathname)
     link.href = `mailto:${address}`
-    link.textContent = address
+    if (link.textContent === '') {
+      link.textContent = address
+    }
   }
 }
 
