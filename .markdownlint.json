@@ -1,6 +1,7 @@
 {
   "emphasis-style": false,
   "line-length": false,
+  "link-image-reference-definitions": false,
   "no-blanks-blockquote": false,
   "no-inline-html": false,
   "no-emphasis-as-header": false
