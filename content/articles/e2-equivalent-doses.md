@@ -71,7 +71,7 @@ trackHash: a1ecdfa409b2f259a36571f1867efd3d05925d6d
 接受性腺切除术之后，便无需抑制睾酮了，此时可仅使用较低剂量（如“中等剂量”）的雌二醇。\
 当与抗雄激素制剂（包括[醋酸环丙孕酮][wiki-5cafcc7a]、[比卡鲁胺][wiki-bb37b2c5]、或[促性腺激素释放激素激动剂][wiki-3fb787cd]/[拮抗剂][wiki-c3bddcb0]）合用时，高剂量雌二醇并非必需。
 
-## 资料来源 {#sources}
+## 资料来源 {#references}
 
 - Kuhl, H. (2005). Pharmacology of estrogens and progestogens: influence of different routes of administration. *Climacteric*, *8*(Suppl 1), 3–63. \[DOI:[10.1080/13697130500148875][k05]] \[[PDF][k05-pdf]]
 - Bruni, V., & Pampaloni, F. (2019). Hormone Replacement Therapy in Premature Ovarian Insufficiency. In Berga, S. L., Genazzani, A. R., Naftolin, F., & Petraglia, F. (Eds.). *Menstrual Cycle Related Disorders* (pp. 111–142). Cham: Springer. \[DOI:[10.1007/978-3-030-14358-9\_10][bp19]]
