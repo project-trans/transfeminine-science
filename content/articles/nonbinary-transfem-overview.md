@@ -15,7 +15,7 @@ tags:
   - SERM
   - 抗雄激素制剂
 notice: 原文 [最初以 Reddit 帖子的形式发布]({{< ref "announcement" >}})，在迁移至本站之后，其尚未得到适当或全面的修订。
-trackHash: 7378b09b623aaedc898e8e60a30a5035fb5d10d2
+trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
 ---
 
 ## 译者按 {#notice}

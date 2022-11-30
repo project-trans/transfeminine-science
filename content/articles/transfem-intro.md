@@ -19,7 +19,7 @@ tags:
   - 螺内酯
   - GnRH 类似物
   - 用药安全
-trackHash: 707eba7009f219b84a9dcb94eb5c05b8d7400b23
+trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
 ---
 
 ## 译者按 {#notice}

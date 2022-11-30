@@ -34,3 +34,7 @@ layout: single
 ### 激素治疗引起的普遍效果与风险 {#general-effects-and-risks}
 
 - [关于女性化激素疗法与乳腺癌风险的简述]({{< ref "breast-cancer" >}}) (Aly, 2020)
+
+### 数据、分析与相关文献
+
+- [雌二醇在不同途径下的大致等效剂量]({{< ref "e2-equivalent-doses" >}}) (Aly, 2020)

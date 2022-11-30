@@ -10,7 +10,7 @@ translated: 2022-10-20
 translators:
   - 昭心
   - Bersella AI
-trackHash: 7378b09b623aaedc898e8e60a30a5035fb5d10d2
+trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
 tags:
   - 用药安全
   - 醋酸环丙孕酮

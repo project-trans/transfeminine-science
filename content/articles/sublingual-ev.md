@@ -11,7 +11,7 @@ translators:
 tags:
   - 雌激素
   - 用药途径与剂量
-trackHash: 707eba7009f219b84a9dcb94eb5c05b8d7400b23
+trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
 ---
 
 ## 免责声明 {#notice}
