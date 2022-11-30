@@ -2,7 +2,7 @@
 title: 一个综合女性化激素疗法信息的网站：“女性倾向跨性别者科学”建站声明
 linkTitle: “女性倾向跨性别者科学”建站声明
 description: 介绍 Transfeminine Science 的建站缘由
-author: Aly W.
+author: Aly
 published: 2020-10-05
 updated: 2022-01-21
 translated: 2022-11-16
@@ -47,9 +47,9 @@ r/MtFHRT 栏目一直是欢迎任何人投稿的地方。
 在此致谢所有关注我们的读者。希望读者们能在本站有所收获、怡然其中。
 
 —— “女性倾向跨性别者科学”运营团队：
-[Aly]({{< ref "about#aly-w" >}}),
-[Lain]({{< ref "about#lain-m" >}}) 与
-[Sam]({{< ref "about#sam-s" >}})
+[Aly]({{< ref "about#aly" >}}),
+[Lain]({{< ref "about#lain" >}}) 与
+[Sam]({{< ref "about#sam" >}})
 
 ---
 

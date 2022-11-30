@@ -2,7 +2,7 @@
 title: 关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介
 linkTitle: 舌下含服戊酸雌二醇的可行性
 description: 戊酸雌二醇的舌下含服途径尽管鲜有研究，但其与含服雌二醇同样有效，也可作为口服途径的替代。
-author: Aly W.
+author: Aly
 published: 2019-01-05
 updated: 2021-09-07
 translated: 2022-02-18
@@ -33,7 +33,7 @@ trackHash: 707eba7009f219b84a9dcb94eb5c05b8d7400b23
 
 ## 介绍 {#introduction}
 
-雌二醇片［如诺坤复（Estrofem）、Estrace 等］口服后，通常会被吞服。然而，作为通常的吞服途径之替代，雌二醇片也被用于舌下含服，或含于面颊或嘴唇、牙龈处。舌下、面颊含服雌二醇片相较口服，可达到更高的生物利用度，以及雌二醇水平 ([Sam S., 2021](https://transfemscience.org/articles/sublingual-e2-transfem/))。
+雌二醇片［如诺坤复（Estrofem）、Estrace 等］口服后，通常会被吞服。然而，作为通常的吞服途径之替代，雌二醇片也被用于舌下含服，或含于面颊或嘴唇、牙龈处。舌下、面颊含服雌二醇片相较口服，可达到更高的生物利用度，以及雌二醇水平 ([Sam, 2021](https://transfemscience.org/articles/sublingual-e2-transfem/))。
 
 女性倾向跨性别者在激素治疗当中，常采用舌下含服雌二醇。在一些国家（例如在欧洲），口服用雌二醇会以戊酸雌二醇［EV，如补佳乐（Progynova）］片的形式提供。经常有女性倾向跨性别者咨询，**EV 片是否也能像雌二醇片那样被舌下含服，以及二者是否会有差异**。
 

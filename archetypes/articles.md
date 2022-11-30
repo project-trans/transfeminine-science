@@ -2,7 +2,7 @@
 ---
 title: {{ .Name }}
 description: ''
-author: Aly W.
+author: Aly
 published: {{ $created }}
 updated: {{ $created }}
 translated: {{ $created }}

@@ -11,7 +11,7 @@
 
 ## 致谢
 
-本项目已得到 *Transfeminine Science* 的维护者兼撰稿人：[Aly W.][aly] 的二次创作许可。\
+本项目已得到 *Transfeminine Science* 的维护者兼撰稿人：[Aly][aly] 的二次创作许可。\
 本项目基于 [tfsci-sc/articles][origin-cn] 项目的早前工作而建。没有 ta 们的先行，就没有如今的这个项目。
 
 本站目前以 [Hugo][hugo] 构建，并部署于 [Cloudflare Pages][site-url]。
@@ -25,7 +25,7 @@
 
 本站文章适用于 *Transfeminine Science* 的版权声明（[原文][license]）：
 
-> 本站版权归 Aly W. 及本站其他撰稿人所有；保留一切权利。未经 Aly W. 允许，请勿对本站内容进行二次创作（如翻译项目）。如获得许可，请准确署名，并设置指向本站原文的链接。
+> 本站版权归 Aly 及本站其他撰稿人所有；保留一切权利。未经 Aly 允许，请勿对本站内容进行二次创作（如翻译项目）。如获得许可，请准确署名，并设置指向本站原文的链接。
 
 此外，本站设计元素与其它补充内容的版权归 MtF.wiki 所有。
 
@@ -41,7 +41,7 @@ The original articles can be revised by their Authors *at any time*; also, the T
 
 ## Thank you
 
-The Translators would thank [Aly W.][aly], the maintainer and one of the authors of *Transfeminine Science*, for her permission on this project.\
+The Translators would thank [Aly][aly], the maintainer and one of the authors of *Transfeminine Science*, for her permission on this project.\
 Also, the Translators would thank contributors from the previous translating project [tfsci-sc/articles][origin-cn]; without their previous fantastic work, this project might not be ever established.
 
 The archive site is built with [Hugo][hugo], and deployed onto [Cloudflare Pages][site-url].
@@ -58,7 +58,7 @@ The design and other supplements of this site are copyrights of MtF.wiki.
 
 [wiki]: https://mtf.wiki
 [origin]: https://transfemscience.org
-[aly]: https://transfemscience.org/about/#aly-w
+[aly]: https://transfemscience.org/about/#aly
 [origin-cn]: https://github.com/tfsci-sc/articles
 [hugo]: https://gohugo.io
 [site-url]: https://tfsci.mtf.wiki
