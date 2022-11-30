@@ -8,10 +8,13 @@
 {{- define "partials/breadcrumb-items.html" -}}
   {{- $items := slice -}}
   {{- range $index, $page := partial "parents" . -}}
+    {{- if eq $index 0 -}}
+      {{- continue -}}
+    {{- end -}}
     {{-
     $item := dict
       "@type" "ListItem"
-      "position" (add $index 1)
+      "position" $index
       "name" $page.Title
       "item" $page.Permalink
     -}}
