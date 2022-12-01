@@ -89,5 +89,9 @@ $breadcrumbs := dict
   "itemListElement" (partial "breadcrumb-items" .)
 -}}
 <script type="application/ld+json">
-{{ slice $brand $article $breadcrumbs | jsonify (dict "indent" "  ") | safeJS }}
+{{- $metaElements := slice $brand $article }}
+{{- if index $breadcrumbs.itemListElement }}
+  {{- $metaElements = append $metaElements (slice $breadcrumbs) -}}
+{{- end }}
+{{ $metaElements | jsonify (dict "indent" "  ") | safeJS }}
 </script>
