@@ -1,16 +1,20 @@
-{{- $destination := .Destination -}}
-{{- if eq (getenv "CI") "true" -}}
-  {{- if hasPrefix $destination "http" -}}
-    {{- with resources.GetRemote $destination -}}
-      {{- $destination = .Permalink -}}
+{{- $src := .Destination -}}
+{{- if and (getenv "CI") (hasPrefix $src "https://transfemscience.org/assets/images/") -}}
+  {{- $image := resources.GetRemote $src -}}
+  {{- if $image -}}
+    {{- if eq $image.MediaType.SubType "svg" -}}
+      {{- $image = $image | minify -}}
     {{- end -}}
+    {{- $src = $image.Permalink -}}
   {{- end -}}
 {{- end -}}
+{{- $alt := .Text | default .Title | default "figure" -}}
+{{- $figure := printf `<figure class="image"><img src=%q alt=%q data-origin=%q></figure>` $src $alt .Destination | safeHTML -}}
 {{- if .Title }}
 <div class="card">
-<div class="card-image"><figure class="image"><img src="{{ $destination | safeURL }}" alt="{{ .Text }}"></figure></div>
+<div class="card-image">{{ $figure }}</div>
 <div class="card-content">{{ .Title }}</div>
 </div>
 {{- else }}
-<figure class="image"><img src="{{ $destination | safeURL }}" alt="{{ .Text }}"></figure>
+{{ $figure }}
 {{- end }}

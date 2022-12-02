@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="{{ .Permalink }}">
 {{- end }}
 {{- with resources.Get "main.ts" | js.Build | minify | fingerprint }}
-<script async defer src="{{ .Permalink }}"></script>
+<script src="{{ .Permalink }}"></script>
 {{- end }}
 {{- if not .Site.IsServer }}
 {{- partial "head/google-analytics" . }}

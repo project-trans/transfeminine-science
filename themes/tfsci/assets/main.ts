@@ -2,7 +2,9 @@ import { onRestoreAnchor, onSaveAnchor } from './functions/scroll'
 import { on, ready } from './functions/browser'
 import tippy from 'tippy.js'
 
-ready
+Promise.resolve()
+  .then(onImageFallback)
+  .then(() => ready)
   .then(onTableStyle)
   .then(onMobileHeader)
   .then(onLanguageSwitch)
@@ -101,4 +103,19 @@ function onAbbreviation() {
       return fragment
     },
   })
+}
+
+function onImageFallback() {
+  on(document, 'error', 'img', onError, { capture: true })
+
+  function onError(event: Event) {
+    if (event.target === null) return
+    const target = event.target as HTMLImageElement
+    if (target.tagName !== 'IMG') return
+    const attribute = 'data-origin'
+    const origin = target.getAttribute(attribute)
+    if (origin) target.src = origin
+    target.removeAttribute(attribute)
+    target.removeEventListener('error', onError)
+  }
 }
