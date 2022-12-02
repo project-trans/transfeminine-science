@@ -1,3 +1,11 @@
+{{- $destination := .Destination -}}
+{{- if eq (getenv "CI") "true" -}}
+  {{- if hasPrefix $destination "http" -}}
+    {{- with resources.GetRemote $destination -}}
+      {{- $destination = .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 {{- if .Title }}
 <div class="card">
 <div class="card-image"><figure class="image"><img src="{{ .Destination | safeURL }}" alt="{{ .Text }}"></figure></div>

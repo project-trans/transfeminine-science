@@ -11,6 +11,6 @@
 {{- with .Params.twitter | default .Site.Social.twitter }}
 <meta name="twitter:creator" content="{{ . }}">
 {{- end }}
-{{- with resources.GetMatch "favicon**" | fingerprint }}
+{{- with resources.GetMatch "favicon**" }}
 <meta name="twitter:image" content="{{ .Permalink }}">
 {{- end }}

@@ -63,3 +63,7 @@ languages:
     contentDir: content.zh-hk
     languageName: 香港繁體
     weight: 3
+
+security:
+  funcs:
+    getenv: ['^HUGO_', CI]
