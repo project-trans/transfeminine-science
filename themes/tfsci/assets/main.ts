@@ -106,7 +106,7 @@ function onAbbreviation() {
 }
 
 function onImageFallback() {
-  on(document, 'error', 'img', onError, { capture: true })
+  document.addEventListener('error', onError, { capture: true })
 
   function onError(event: Event) {
     if (event.target === null) return
