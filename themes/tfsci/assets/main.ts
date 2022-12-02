@@ -106,16 +106,25 @@ function onAbbreviation() {
 }
 
 function onImageFallback() {
+  document.addEventListener('load', onLoad, { capture: true })
   document.addEventListener('error', onError, { capture: true })
 
+  const attribute = 'data-origin'
+
+  function onLoad(event: Event) {
+    if (!isHTMLImageElement(event.target)) return
+    event.target.removeAttribute(attribute)
+  }
+
   function onError(event: Event) {
-    if (event.target === null) return
-    const target = event.target as HTMLImageElement
-    if (target.tagName !== 'IMG') return
-    const attribute = 'data-origin'
-    const origin = target.getAttribute(attribute)
-    if (origin) target.src = origin
-    target.removeAttribute(attribute)
-    target.removeEventListener('error', onError)
+    if (!isHTMLImageElement(event.target)) return
+    const origin = event.target.getAttribute(attribute)
+    if (origin) event.target.src = origin
+    event.target.removeAttribute(attribute)
+  }
+
+  function isHTMLImageElement(target: EventTarget | null): target is HTMLImageElement {
+    if (target === null) return false
+    return (target as HTMLElement).tagName === 'IMG'
   }
 }
