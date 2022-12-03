@@ -1,5 +1,19 @@
-{{- with resources.GetMatch "favicon**" -}}
+{{- $image := resources.GetMatch "favicon**" }}
+{{- if $image -}}
+{{- range slice 192 96 32 16 }}
+{{- $format := printf "%[1]dx%[1]d" . }}
+{{- with $image.Resize $format }}
 <link rel="icon" href="{{ .Permalink }}">
+{{- end }}
+{{- end }}
+<link rel="icon" href="{{ $image.Permalink }}">
+{{- range slice 180 167 152 144 120 114 76 72 }}
+{{- $format := printf "%[1]dx%[1]d" . }}
+{{- with $image.Resize $format }}
+<link rel="apple-touch-icon" sizes="{{ $format }}" href="{{ .Permalink }}">
+{{- end }}
+{{- end }}
+<link rel="apple-touch-icon" href="{{ $image.Permalink }}">
 {{- end }}
 {{- with resources.Get "main.scss" | toCSS | minify | fingerprint }}
 <link rel="stylesheet" href="{{ .Permalink }}">
