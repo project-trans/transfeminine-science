@@ -3,7 +3,7 @@
 {{- range slice 192 96 32 16 }}
 {{- $format := printf "%[1]dx%[1]d" . }}
 {{- with $image.Resize $format }}
-<link rel="icon" href="{{ .Permalink }}">
+<link rel="icon" sizes="{{ $format }}" href="{{ .Permalink }}">
 {{- end }}
 {{- end }}
 <link rel="icon" href="{{ $image.Permalink }}">
