@@ -72,6 +72,7 @@ $article := dict
   "url" .Permalink
   "author" $authors
   "creator" $creator
+  "author" $creator
   "headline" .Title
   "wordCount" .WordCount
   "publisher" $publisher
@@ -88,10 +89,18 @@ $breadcrumbs := dict
   "@type" "BreadcrumbList"
   "itemListElement" (partial "breadcrumb-items" .)
 -}}
+{{-
+$website := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "url" .Site.Home.Permalink
+  "abstract" .Site.Title
+  "maintainer" $publisher
+-}}
 <script type="application/ld+json">
-{{- $metaElements := slice $brand $article }}
+{{- $metaElements := slice $website $brand $article }}
 {{- if index $breadcrumbs.itemListElement }}
-  {{- $metaElements = append $metaElements (slice $breadcrumbs) -}}
+  {{- $metaElements = append (slice $breadcrumbs) $metaElements -}}
 {{- end }}
 {{ $metaElements | jsonify (dict "indent" "  ") | safeJS }}
 </script>
