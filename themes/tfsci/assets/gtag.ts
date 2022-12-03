@@ -10,7 +10,9 @@ function gtag() {
 }
 
 gtag('js', new Date())
-gtag('config', MEASUREMENT_ID)
+gtag('config', MEASUREMENT_ID, {
+  page_title: meta('meta[property="og:title"]'),
+})
 
 const script = document.createElement('script')
 script.async = true
@@ -20,3 +22,7 @@ script.addEventListener('load', () => script.remove())
 document.currentScript!.remove()
 
 document.head.append(script)
+
+function meta(selector: string) {
+  return document.head.querySelector<HTMLMetaElement>(selector)?.content
+}
