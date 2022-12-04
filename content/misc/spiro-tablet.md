@@ -28,7 +28,7 @@ weight: 1000
   title="化学结构式"
 >}}
 
-化学名称：17&beta;-羟基-3-氧代-7&alpha;-(乙酰硫基)-17&alpha;-孕甾-4-烯-21-羧酸&gamma;-内酯。
+化学名称：17&beta;-羟基-3-氧代-7&alpha;-(乙酰硫基)-17&alpha;-孕甾-4-烯-21-羧酸-&gamma;-内酯。
 
 分子式：C<sub>2</sub>H<sub>32</sub>O<sub>4</sub>S
 
