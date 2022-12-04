@@ -92,7 +92,11 @@ CAS：[52-01-7](https://www.spectrumchemical.com/cas/52-01-7)
 
 2. 小儿
 
-   治疗水肿性疾病，开始每日按体重 1 ~ 3 mg/kg 或按体表面积 30 ~ 90 mg/m<sup>2</sup>，单次或分 2 ~ 4 次服用，连服 5 日后酌情调整剂量。
+   治疗水肿性疾病，开始每日
+   按体重 1 ~ 3 mg/kg 或
+   按体表面积 30 ~ 90 mg/m<sup>2</sup>，
+   单次或分 2 ~ 4 次服用，
+   连服 5 日后酌情调整剂量。
 
    最大剂量为每日 3 ~ 9 mg/hg 或 90 ~ 270 mg/mg<sup>2</sup>。
 
@@ -248,7 +252,7 @@ K<sup>+</sup>、Mg<sup>2+</sup> 和 H<sup>+</sup> 排泄减少，
 每日服药 4 次时缩短为 12.5 小时(9~16 小时)。
 
 无活性代谢产物从肾脏和胆道排泄，
-约有 10%以原形从肾脏排泄。
+约有 10% 以原形从肾脏排泄。
 
 ## 贮藏 {#storage}
 
@@ -261,19 +265,6 @@ K<sup>+</sup>、Mg<sup>2+</sup> 和 H<sup>+</sup> 排泄减少，
 ## 有效期 {#validity-period}
 
 36 个月（3 年）
-
-## 执行标准 {#standard}
-
-[《中国药典》2020 年版二部](http://www.gov.cn/xinwen/2020-11/28/content_5565608.htm)
-
-## 批准文号与持有人 {#approval}
-
-```csv
-批准文号,药品上市许可持有人
-国药准字 H31020841,上海福达制药有限公司
-国药准字 H31021273,上海上药信谊药厂有限公司
-国药准字 H46020690,海南海神同洲制药有限公司
-```
 
 [Spironolactone]: https://en.wikipedia.org/wiki/Spironolactone
 [canrenone]: https://en.wikipedia.org/wiki/Canrenone
