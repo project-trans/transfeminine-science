@@ -14,7 +14,7 @@ weight: 1000
 
 通用名称：螺内酯片
 
-英文名称：Spironolactone Tablets
+英文名称：[Spironolactone] Tablets
 
 汉语拼音：Luoneizhi Pian
 
@@ -253,6 +253,7 @@ CAS：[52-01-7](https://www.spectrumchemical.com/cas/52-01-7)
 国药准字 H46020690,海南海神同洲制药有限公司
 ```
 
+[Spironolactone]: https://en.wikipedia.org/wiki/Spironolactone
 [canrenone]: https://en.wikipedia.org/wiki/Canrenone
 [中枢神经系统]: https://en.wikipedia.org/wiki/Central_nervous_system
 [乳腺癌]: https://en.wikipedia.org/wiki/Breast_cancer
