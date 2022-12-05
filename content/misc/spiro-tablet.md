@@ -198,7 +198,7 @@ CAS：[52-01-7](https://www.spectrumchemical.com/cas/52-01-7)
 [盐皮质激素]: https://en.wikipedia.org/wiki/Mineralocorticoid
 [肝昏迷]: https://en.wikipedia.org/wiki/Hepatic_encephalopathy
 [肾上腺皮质激素]: https://en.wikipedia.org/wiki/Adrenocortical_hormone
-[血管紧张素II受体拮抗剂]: https://en.wikipedia.org/wiki/Angiotensin_II_receptor_blocker
+[血管紧张素 II 受体拮抗剂]: https://en.wikipedia.org/wiki/Angiotensin_II_receptor_blocker
 [血管紧张素转换酶抑制剂]: https://en.wikipedia.org/wiki/ACE_inhibitor
 [酸中毒]: https://en.wikipedia.org/wiki/Acidosis
 [醛固酮]: https://en.wikipedia.org/wiki/Aldosterone
