@@ -1,6 +1,6 @@
 {{- $text := .Text -}}
-{{- $destination := .Destination -}}
-{{- $parsed := urls.Parse $destination -}}
+{{- $href := .Destination -}}
+{{- $parsed := urls.Parse $href -}}
 {{- if in (slice "http" "https") $parsed.Scheme -}}
   {{- if eq .Destination .Text -}}
     {{- $host := replaceRE `^www\.` "" $parsed.Host -}}
@@ -15,9 +15,9 @@
       {{- $articleName := replaceRE `^/articles/(\S+)/$` "$1" $parsed.Path -}}
       {{- with .Page.GetPage $articleName -}}
         {{- if not .Params.hidden -}}
-          {{- $destination = .Permalink -}}
+          {{- $href = .Permalink -}}
           {{- with $parsed.Fragment -}}
-            {{- $destination = print $destination "#" $parsed.EscapedFragment -}}
+            {{- $href = print $href "#" $parsed.EscapedFragment -}}
           {{- end -}}
         {{- end -}}
       {{- end -}}
@@ -26,8 +26,10 @@
 {{- end -}}
 {{- if eq $parsed.Scheme "mailto" -}}
 <a href="mailto:{{ $parsed.Opaque | base64Encode }}">{{ cond (eq $text $parsed.Opaque) "" $text | safeHTML }}</a>
-{{- else if .Title -}}
-<a href="{{ $destination | safeURL }}" title="{{ .Title }}">{{ $text | safeHTML }}</a>
 {{- else -}}
-<a href="{{ $destination | safeURL }}">{{ $text | safeHTML }}</a>
+{{- $external := hasPrefix ($href | relURL) "http" -}}
+<a href="{{ $href | safeURL }}"
+{{- with .Title }} title="{{ . }}"{{ end -}}
+{{- if $external }} target="_blank"{{ end -}}
+>{{ $text | safeHTML }}</a>
 {{- end -}}
