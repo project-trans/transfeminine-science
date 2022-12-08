@@ -2,7 +2,7 @@
 {{- $page := .Site.GetPage "articles" -}}
 <section class="container py-4">
 {{ partial "page-header" . }}
-<article class="content mt-6">
+<article class="content mt-6 archives">
 {{- .Content }}
 <ul>
 {{- range $page.Pages.ByPublishDate.Reverse }}
@@ -11,6 +11,10 @@
 <p>
 <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
 <span class="is-inline-block">({{ .Params.author }}, {{ .PublishDate.Format "2006/1" }})</span>
+{{- with .Params.description }}
+<br>
+<span class="description">{{ . }}</span>
+{{- end }}
 </p>
 </li>
 {{- end }}

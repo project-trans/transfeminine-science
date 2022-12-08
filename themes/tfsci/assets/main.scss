@@ -78,3 +78,12 @@ main > .container {
     }
   }
 }
+
+.content.archives {
+  span.description {
+    color: $grey-light;
+  }
+  p:hover span.description {
+    color: $black;
+  }
+}
