@@ -12,21 +12,13 @@ weight: 1000
 
 </section>
 
-## 药品名称 {#drug-name}
+## 药品名称 {#product-name}
 
 - 通用名称：螺内酯片
 - 英文名称：[Spironolactone] Tablets
 - 汉语拼音：Luoneizhi Pian
 
 ## 成分 {#component}
-
-{{<
-  figure
-  src="https://www.spectrumchemical.com/media/catalog/product/5/2/52-01-7.jpg"
-  width="200"
-  height="200"
-  title="化学结构式"
->}}
 
 化学名称：17&beta;-羟基-3-氧代-7&alpha;-(乙酰硫基)-17&alpha;-孕甾-4-烯-21-羧酸&gamma;-内酯。\
 分子式：C<sub>24</sub>H<sub>32</sub>O<sub>4</sub>S\
