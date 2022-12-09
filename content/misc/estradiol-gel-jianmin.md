@@ -24,7 +24,7 @@ weight: 1000
 化学名称：雌甾-1,3,5(10)-三烯-3,17&beta;-二醇\
 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>\
 分子量：272.39\
-CAS：[50-28-2](https://www.spectrumchemical.com/cas/50-28-2)
+CAS：[50-28-2](https://webbook.nist.gov/cgi/cbook.cgi?ID=50-28-2)
 
 ## 性状 {#form}
 
@@ -111,7 +111,7 @@ AUC<sub>ss</sub> 为 518.2 &plusmn; 151.3ng&middot;h/L，
 C<sub>max</sub> 为 38.2 &plusmn; 12.0ng/L，
 T<sub>max</sub>为 4.1 &plusmn; 3.2h，
 C<sub>min</sub>为 16.2 &plusmn; 5.9ng/L，
-平均稳态药物浓度 C<sub>ss</sub>为 21.6 &plusmn; 6.3ng/L。
+平均稳态药物浓度 C<sub>ss</sub> 为 21.6 &plusmn; 6.3ng/L。
 
 国外药代动力学研究显示，大面积皮肤上应用本品约 10% 经皮吸收入血；
 在皮肤表面积 400 - 750 cm<sup>2</sup> 范围上每日用本品 2.5 克 - 5 克，
