@@ -1,5 +1,5 @@
 ---
-title: 健民雌二醇凝胶
+title: 健民雌二醇凝胶说明书
 weight: 1000
 ---
 
@@ -123,6 +123,7 @@ C<sub>ss</sub>,21.6 &plusmn; 6.3ng/L
 ```
 
 > 【译者注】缩写示意：
+>
 > - AUC<sub>ss</sub>——全时段稳态血药浓度；
 > - C<sub>max</sub>——血药浓度峰值；
 > - T<sub>max</sub>——血药浓度达峰时间；
