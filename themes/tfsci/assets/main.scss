@@ -81,6 +81,8 @@ main > .container {
 
 .content.archives {
   span.description {
+    user-select: none;
+
     color: $grey-light;
   }
   p:hover span.description {
