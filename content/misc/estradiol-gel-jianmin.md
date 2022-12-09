@@ -102,16 +102,21 @@ CAS：[50-28-2](https://webbook.nist.gov/cgi/cbook.cgi?ID=50-28-2)
 
 ## 药代动力学 {#pharmacokinetics}
 
-国内药代动力学研究受试者包括 18 名 50-65 岁绝经 3 年以上的妇女，
+国内药代动力学研究受试者包括 18 名 50 - 65 岁绝经 3 年以上的妇女，
 每天涂抹规定剂量（1 剂量尺，相当于 2.5 克，含雌二醇 1.5 毫克）共 14 天，
 采用放射免疫分析方法测定本品的血浓度，
 测得的药代动力学参数：
 
-AUC<sub>ss</sub> 为 518.2 &plusmn; 151.3ng&middot;h/L，
-C<sub>max</sub> 为 38.2 &plusmn; 12.0ng/L，
-T<sub>max</sub>为 4.1 &plusmn; 3.2h，
-C<sub>min</sub>为 16.2 &plusmn; 5.9ng/L，
-平均稳态药物浓度 C<sub>ss</sub> 为 21.6 &plusmn; 6.3ng/L。
+```csv
+指标,范围
+AUC<sub>ss</sub>,518.2 &plusmn; 151.3ng&middot;h/L
+C<sub>max</sub>,38.2 &plusmn; 12.0ng/L
+T<sub>max</sub>,4.1 &plusmn; 3.2h
+C<sub>min</sub>,16.2 &plusmn; 5.9ng/L
+C<sub>ss</sub><sup>(1)</sup>,21.6 &plusmn; 6.3ng/L
+```
+
+<small>(1) 平均稳态药物浓度</small>
 
 国外药代动力学研究显示，大面积皮肤上应用本品约 10% 经皮吸收入血；
 在皮肤表面积 400 - 750 cm<sup>2</sup> 范围上每日用本品 2.5 克 - 5 克，
