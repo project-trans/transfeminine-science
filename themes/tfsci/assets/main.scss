@@ -77,6 +77,11 @@ main > .container {
       display: inline-block;
     }
   }
+
+  li > ul:last-child,
+  li > ol:last-child {
+    margin-top: 0.25em;
+  }
 }
 
 .content.archives {
