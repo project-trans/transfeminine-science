@@ -14,7 +14,7 @@ weight: 1000
 ## 药品名称 {#product-name}
 
 - 通用名称：雌二醇凝胶
-- 商品名称：爱斯妥 Oestrogel <sup>&copy;</sup>
+- 商品名称：爱斯妥 Oestrogel<sup>&reg;</sup>
 - 英文名称：Estradiol Gel
 - 汉语拼音：Cierchun Ningjiao
 
