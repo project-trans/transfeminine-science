@@ -37,9 +37,12 @@ main > .container {
 
 .content {
   table.table {
-    width: auto;
-
-    white-space: nowrap;
+    &.is-align-middle td {
+      vertical-align: middle;
+    }
+    &.is-no-wrap {
+      white-space: nowrap;
+    }
   }
 
   figure {

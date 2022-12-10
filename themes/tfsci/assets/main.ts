@@ -20,7 +20,15 @@ function onTableStyle() {
   const template = document.createElement('section')
   template.classList.add('table-container')
   for (const element of content.querySelectorAll('table')) {
-    element.classList.add('table', 'is-narrow', 'is-hoverable')
+    element.classList.add(
+      'table',
+      'is-bordered',
+      'is-narrow',
+      'is-hoverable',
+      'is-fullwidth',
+      'is-no-wrap',
+      'is-align-middle'
+    )
     const container = template.cloneNode()
     container.appendChild(element.cloneNode(true))
     element.replaceWith(container)
