@@ -21,6 +21,10 @@ weight: 1000
 
 汉语拼音：Wusuan Ci'erchun Pian / Ci'erchun Huanbingyuntong Pian Fuhebaozhuang
 
+戊酸雌二醇 CAS：[979-32-8](https://commonchemistry.cas.org/detail?ref=979-32-8)
+
+醋酸环丙孕酮片 CAS：[427-51-0](https://commonchemistry.cas.org/detail?ref=427-51-0)
+
 ### 成份 {#component}
 
 本品为复合制剂，其组成为：11 片白色糖衣片，每片含戊酸雌二醇 2mg；
