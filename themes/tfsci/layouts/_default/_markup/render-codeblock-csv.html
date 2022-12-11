@@ -6,7 +6,7 @@
 {{- $rows := .Inner | transform.Unmarshal -}}
 <table id="table-{{ $index }}">
 <thead>
-<tr>{{ range (index $rows 0) }}<th>{{ . | markdownify }}</th>{{ end }}</tr>
+<tr>{{ range (index $rows 0) }}<th>{{ replace . `\n` "\\\n" | markdownify }}</th>{{ end }}</tr>
 </thead>
 {{- $rows = after 1 $rows }}
 <tbody>
