@@ -129,7 +129,7 @@ CAS：[50-28-2](https://webbook.nist.gov/cgi/cbook.cgi?ID=50-28-2)
   - 子宫内膜增生，子宫纤维瘤：
   - 良性乳房肿瘤；
   - 播散型红斑狼疮；
-  - 垂体泌乳素瘤 (Prolactin-secreting hypophyseal tumor)；
+  - 垂体泌乳素瘤（Prolactin-secreting hypophyseal tumor)；
   - 卟啉病。
 
 - 有下列疾病的病人应仔细监测：
