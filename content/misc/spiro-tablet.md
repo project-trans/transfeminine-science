@@ -23,7 +23,7 @@ weight: 1000
 化学名称：17&beta;-羟基-3-氧代-7&alpha;-(乙酰硫基)-17&alpha;-孕甾-4-烯-21-羧酸&gamma;-内酯。\
 分子式：C<sub>24</sub>H<sub>32</sub>O<sub>4</sub>S\
 分子量：416.57\
-CAS：[52-01-7](https://www.spectrumchemical.com/cas/52-01-7)
+CAS：[52-01-7](https://commonchemistry.cas.org/detail?ref=52-01-7)
 
 ## 性状 {#form}
 

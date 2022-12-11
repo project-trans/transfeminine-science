@@ -41,7 +41,7 @@ weight: 1000
 - 化学名称：1,3,5(10)-雌三烯-3,17&beta;-二醇-17-戊酸酯
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
-- CAS：[979-32-8](https://webbook.nist.gov/cgi/cbook.cgi?ID=979-32-8)
+- CAS：[979-32-8](https://commonchemistry.cas.org/detail?ref=979-32-8)
 
 ### 性状 {#form}
 

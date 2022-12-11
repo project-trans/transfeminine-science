@@ -24,7 +24,7 @@ weight: 1000
 化学名称：雌甾-1,3,5(10)-三烯-3,17&beta;-二醇\
 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>\
 分子量：272.39\
-CAS：[50-28-2](https://webbook.nist.gov/cgi/cbook.cgi?ID=50-28-2)
+CAS：[50-28-2](https://commonchemistry.cas.org/detail?ref=50-28-2)
 
 ### 性状 {#form}
 

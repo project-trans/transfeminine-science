@@ -26,7 +26,7 @@ weight: 1000
 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>\
 分子量：272.386\
 本品含辅料：卡波姆、三乙醇胺、乙醇。\
-CAS：[50-28-2](https://webbook.nist.gov/cgi/cbook.cgi?ID=50-28-2)
+CAS：[50-28-2](https://commonchemistry.cas.org/detail?ref=50-28-2)
 
 ### 性状 {#form}
 
