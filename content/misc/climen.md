@@ -23,7 +23,7 @@ weight: 1000
 
 戊酸雌二醇 CAS：[979-32-8](https://commonchemistry.cas.org/detail?ref=979-32-8)
 
-醋酸环丙孕酮片 CAS：[427-51-0](https://commonchemistry.cas.org/detail?ref=427-51-0)
+醋酸环丙孕酮 CAS：[427-51-0](https://commonchemistry.cas.org/detail?ref=427-51-0)
 
 ### 成份 {#component}
 
