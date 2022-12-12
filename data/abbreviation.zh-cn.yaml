@@ -82,3 +82,45 @@ SCi:
   origin: Subcutaneous implant
   title: 皮下植入
   href: https://en.wikipedia.org/wiki/Subcutaneous_implant
+
+EV: 
+  origin: Estradiol valerate
+  title: 戊酸雌二醇
+  href: https://en.wikipedia.org/wiki/Estradiol_valerate
+EC:
+  origin: Estradiol cypionate
+  title: 环戊丙酸雌二醇
+  href: https://en.wikipedia.org/wiki/Estradiol_cypionate
+PEP:
+  origin: Polyestradiol phosphate
+  title: 聚磷酸雌二醇
+  href: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
+EE:
+  origin: Ethinylestradiol
+  title: 炔雌醇
+  href: https://en.wikipedia.org/wiki/Ethinylestradiol
+DES:
+  origin: Diethylstilbestrol
+  title: 乙烯雌酚
+  href: https://en.wikipedia.org/wiki/Diethylstilbestrol
+CEE:
+  origin: Conjugated estrogens
+  title: 结合雌激素
+  href: https://en.wikipedia.org/wiki/Conjugated_estrogens
+EMP:
+  origin: Estramustine phosphate
+  title: 磷酸雌莫司汀
+  href: https://en.wikipedia.org/wiki/Estramustine_phosphate
+SERM:
+  origin: Selective estrogen receptor modulators
+  title: 选择性雌激素受体调节剂
+  href: https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator
+VTE:
+  origin: Venous thromboembolism
+  title: 静脉血栓
+  href: https://en.wikipedia.org/wiki/Venous_thrombosis
+
+CPA:
+  origin: Cyproterone acetate
+  title: 醋酸环丙孕酮
+  href: https://en.wikipedia.org/wiki/Cyproterone_acetate

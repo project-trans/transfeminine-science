@@ -20,6 +20,7 @@ layout: single
 - [关于女性倾向跨性别者以阴囊及新阴唇给予透皮雌二醇可极大增强吸收率的简论]({{< ref "genital-e2-application" >}}) (Aly, 2019)
 - [性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义]({{< ref "shbg" >}}) (Aly, 2020)
 - [有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析]({{< ref "injectable-e2-meta-analysis" >}}) (Aly, 2021)
+- [雌激素对凝血功能与血栓风险的影响]({{< ref "estrogens-blood-clots" >}}) (Aly, 2020)
 
 ### 抗雄激素制剂 {#antiandrogens}
 
