@@ -15,8 +15,7 @@
     $item := dict
       "@type" "ListItem"
       "position" $index
-      "name" $page.Title
-      "item" $page.Permalink
+      "item" (dict "@id" $page.Permalink "name" $page.Title)
     -}}
     {{- $items = $items | append $item -}}
   {{- end -}}
