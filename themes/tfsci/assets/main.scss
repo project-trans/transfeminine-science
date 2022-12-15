@@ -5,7 +5,7 @@
 :root {
   touch-action: manipulation;
   font-variant-numeric: tabular-nums;
-  scroll-padding-top: $navbar-height + 2rem;
+  scroll-padding-top: $navbar-height;
 }
 
 body {
@@ -36,6 +36,12 @@ main > .container {
 }
 
 .content {
+  $margins: h1 1em, h2 1.1428em, h3 1.3333em, h4 1em, h5 1em, h6 1em;
+  @each $margin in $margins {
+    #{nth($margin, 1)}:not(:first-child) {
+      scroll-margin-top: nth($margin, 2) - 0.1em;
+    }
+  }
   table.table {
     &.is-align-middle td {
       vertical-align: middle;
