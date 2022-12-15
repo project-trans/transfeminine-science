@@ -37,5 +37,5 @@ weight: 1
 [guidelines]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 [literature]: https://transfemscience.org/articles/research-trans-literature/
 [wiki-diy]: https://en.wikipedia.org/wiki/Self-medication
-[intro]: https://transfemscience.org/articles/transfem-intro/
-[oral-p4]: https://transfemscience.org/articles/oral-p4-low-levels/
+[intro]: https://tfsci.mtf.wiki/articles/transfem-intro/
+[oral-p4]: https://tfsci.mtf.wiki/articles/oral-p4-low-levels/
