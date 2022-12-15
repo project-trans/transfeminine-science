@@ -1,5 +1,10 @@
+{{- $license := ref . "about#license" -}}
 <footer class="footer">
 <main class="content has-text-centered">
-<p class="copyright">{{ .Site.Copyright | markdownify }}</p>
+<p class="copyright">
+<span class="is-block-mobile">{{ .Site.Copyright | markdownify }}</span>
+<span class="is-hidden-mobile">|</span>
+<span class="is-block-mobile"><a href="{{ $license }}">LICENSE</a></span>
+</p>
 </main>
 </footer>

@@ -1,5 +1,5 @@
 ---
-title: Transfeminine Science License
+title: Transfeminine Science LICENSE
 description: Transfeminine Science is Copyright of Aly and the other authors of Transfeminine Science.
 hidden: true
 ---
@@ -16,4 +16,4 @@ please appropriately attribute the content and link it back to the original page
 
 see <https://transfemscience.org/about/#license>
 
-[aly-w]: https://transfemscience.org/about/#aly
+[aly]: https://transfemscience.org/about/#aly
