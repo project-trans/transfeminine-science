@@ -6,13 +6,13 @@ weight: 1
 
 起初，这只是 GitHub 上[一个不起眼的项目][origin]；起初，这里只有四位在 Limelight 和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——
 
-**Transfeminine Science 中文译本存档站！**<https://tfsci.mtf.wiki>
+**Transfeminine Science 中文译本存档站！** <https://tfsci.mtf.wiki>
 
 本站旨在将来自 *[Transfeminine Science](https://transfemscience.org) （女性倾向跨性别者科学）* 的优秀且高质量的原创文章翻译为中文，为中文读者**普及科学用药知识、传达国际先进医疗经验**。我们筹备本站也出于多项动机：
 
-1. **原生 Markdown 语言以及 Limelight 编辑器的样式与功能有限。** 这点和[原站点所述](https://tfsci.mtf.wiki/articles/announcement/)如出一辙；我们也需要一个高度可定制、且易于阅读及引用的展示平台。
-1. **将整个翻译项目规范化。** 在 Limelight 发布的内容不仅很零散（近期才有[导航帖][nav]），而且在本人开始投入翻译项目之前，译文普遍具有不够通顺、部分叙述有误的问题。  
-  例如，对于《[简介][intro]》当中的“孕酮酯”，`@yucandy` 译文为“与雌二醇不同，注射用孕酮酯在化学上是不可能拥有比孕酮本身更长的持续时间的”，而实际是孕酮酯完全不可合成，更遑论与孕酮的比较——这个也是翻译过《[口服孕酮][oral-p4]》才知道有这么一回事，也就知道《简介》所谈何故。
+1. **原生 Markdown 语言以及 Limelight 编辑器的样式与功能有限。** 这点和[原站点所述]({{< ref "announcement" >}})如出一辙；我们也需要一个高度可定制、且易于阅读及引用的展示平台。
+1. **将整个翻译项目规范化。** 在 Limelight 发布的内容不仅很零散（近期才有[导航帖][nav]），而且在本人开始投入翻译项目之前，译文普遍具有不够通顺、部分叙述有误的问题。
+  例如，对于《[简介]({{< ref "transfem-intro" >}})》当中的“孕酮酯”，[@yucandy][] 译文为“与雌二醇不同，注射用孕酮酯在化学上是不可能拥有比孕酮本身更长的持续时间的”，而实际是孕酮酯完全不可合成，更遑论与孕)酮的比较——这个也是翻译过《[口服孕酮]({{< ref "oral-p4-low-levels" >}})》才知道有这么一回事，也就知道《简介》所谈何故。
 1. **与 MtF.wiki 的现有内容形成互补。** 当下 wiki 药物板块的内容的确仍较缺乏，尤其是用药安全方面；而原站点的内容讨论细致、分析严密、引经据典，具有相当的可信度，我们也希望借此来拓展、丰富我们的认识，完善 wiki。
 
 不过也需要指出，原站点有如下[免责声明]({{< ref "about#disclaimer" >}})：
@@ -23,7 +23,7 @@ weight: 1
 我们也建议，如有可能，**尽量寻求正规治疗途径并规范用药**。因此，本站内容仅供参考，应对此持审慎态度。\
 愿各位科学用药，活到老、学到老！
 
-特别感谢 `@yucandy` 、`@昭心` 与 `@Sue-e89893` 三位先行者！没有 ta 们的引领就没有今天的这个站点！
+特别感谢 [@yucandy][]、[@昭心][] 与 [@Sue-e89893][] 三位先行者！没有 ta 们的引领就没有今天的这个站点！
 
 ——MtF.wiki 工作组 TFsci 项目成员：\
 [Bersella AI]({{< ref "about#bersella-ai" >}})\
@@ -37,5 +37,6 @@ weight: 1
 [guidelines]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 [literature]: https://transfemscience.org/articles/research-trans-literature/
 [wiki-diy]: https://en.wikipedia.org/wiki/Self-medication
-[intro]: https://tfsci.mtf.wiki/articles/transfem-intro/
-[oral-p4]: https://tfsci.mtf.wiki/articles/oral-p4-low-levels/
+[@yucandy]: https://github.com/tfsci-sc/articles/commits?author=yucandy
+[@昭心]: https://limelight.moe/u/%E6%98%AD%E5%BF%83
+[@Sue-e89893]: https://github.com/tfsci-sc/articles/commits?author=Sue-e89893
