@@ -25,7 +25,7 @@ weight: 1
 
 特别感谢 [@yucandy][]、[@昭心][] 与 [@Sue-e89893][] 三位先行者！没有 ta 们的引领就没有今天的这个站点！
 
-——MtF.wiki 工作组 TFsci 项目成员：\
+—— MtF.wiki 工作组 TFSci 项目成员：\
 [Bersella AI]({{< ref "about#bersella-ai" >}})\
 [septs]({{< ref "about#supports" >}})\
 二〇二二年十二月二日
@@ -38,5 +38,5 @@ weight: 1
 [literature]: https://transfemscience.org/articles/research-trans-literature/
 [wiki-diy]: https://en.wikipedia.org/wiki/Self-medication
 [@yucandy]: https://github.com/tfsci-sc/articles/commits?author=yucandy
-[@昭心]: https://limelight.moe/u/%E6%98%AD%E5%BF%83
+[@昭心]: https://limelight.moe/search?q=%40%E6%98%AD%E5%BF%83
 [@Sue-e89893]: https://github.com/tfsci-sc/articles/commits?author=Sue-e89893
