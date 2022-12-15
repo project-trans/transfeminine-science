@@ -1,9 +1,12 @@
 ---
 title: 醋酸环丙孕酮（南非版 Androcur）说明书
 weight: 1000
+description: 本文为拜耳南非分公司的 Androcur 药品（10 mg）说明书翻译。
 ---
 
 <section class="box">
+
+**译者按：** 本文为拜耳南非分公司的 Androcur 药品（每片 10 mg）说明书翻译。说明书原文：<https://www.bayer.com/sites/default/files/ANDROCUR_10_mg_EN_PI.pdf>
 
 核准日期：1989 年 4 月 19 日\
 修改日期：2021 年 12 月 14 日\

@@ -1,12 +1,16 @@
 ---
 title: 关于本站
 linkTitle: 关于
-description: 本站概况与介绍请见首页以下翻译自原站点“关于本站”页面
+description: 关于 Transfeminine Science 以及中文译本存档站的详情
 weight: 4
 ---
 
-> 本站概况与介绍请见[首页]({{< ref "/" >}})。\
-> 以下翻译自原站点“[关于本站](https://transfemscience.org/about/)”页面；关于本翻译项目请见[下文]({{< ref "#translation-project" >}})。
+<section class="box">
+
+**本站概况与介绍请见[首页]({{< ref "/" >}})。**\
+**以下翻译自原站点“[关于本站](https://transfemscience.org/about/)”页面；关于本翻译项目请见[下文]({{< ref "#translation-project" >}})。**
+
+</section>
 
 ## 本站创立的由来 {#history}
 
@@ -93,7 +97,8 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 ## 关于此翻译项目 {#translation-project}
 
 本站系对“女性倾向跨性别者科学”（[Transfeminine Science](https://transfemscience.org)）网站之原创文章的中文翻译存档站点，2022 年十月创立。\
-本站基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 MtF.wiki 工作组[自主维护](https://github.com/mtf-wiki/transfeminine-science)。
+本站基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 MtF.wiki 工作组[自主维护](https://github.com/mtf-wiki/transfeminine-science)。\
+更多详情可见本站的《[开放声明]({{< ref "announcement-mtfwiki" >}})》。
 
 原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本站工作，并授权本站仅存档简体中文内容。
 
