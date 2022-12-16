@@ -100,7 +100,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 本站基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 MtF.wiki 工作组[自主维护](https://github.com/mtf-wiki/transfeminine-science)。\
 更多详情可见本站的《[开放声明]({{< ref "announcement-mtfwiki" >}})》。
 
-原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本站工作，并授权本站仅存档简体中文内容。
+原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本站工作，并授权本站仅存档简体中文/繁体中文内容。
 
 ## 译者一览 {#list-of-translators}
 
