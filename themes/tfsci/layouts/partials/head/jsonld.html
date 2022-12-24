@@ -1,26 +1,21 @@
-{{- define "partials/parents.html" -}}
-  {{- $parents := slice . -}}
-  {{- if .Parent -}}
-    {{- $parents = partial "parents.html" .Parent | append $parents -}}
-  {{- end -}}
-  {{- return $parents -}}
+{{- $breadcrumbs := slice -}}
+{{- range $index, $page := .Ancestors.Reverse -}}
+  {{-
+  $item := dict
+    "@type" "ListItem"
+    "position" (add $index 1)
+    "item" (dict "@id" $page.Permalink "name" $page.Title)
+  -}}
+  {{- $breadcrumbs = $breadcrumbs | append $item -}}
 {{- end -}}
-{{- define "partials/breadcrumb-items.html" -}}
-  {{- $items := slice -}}
-  {{- range $index, $page := partial "parents" . -}}
-    {{- if eq $index 0 -}}
-      {{- continue -}}
-    {{- end -}}
-    {{-
-    $item := dict
-      "@type" "ListItem"
-      "position" $index
-      "item" (dict "@id" $page.Permalink "name" $page.Title)
-    -}}
-    {{- $items = $items | append $item -}}
-  {{- end -}}
-  {{- return $items -}}
-{{- end }}
+{{-
+$breadcrumbs = $breadcrumbs | append (
+  dict
+    "@type" "ListItem"
+    "position" ($breadcrumbs | len | add 1)
+    "item" (dict "@id" .Permalink "name" .Title)
+)
+-}}
 {{- $about := ref . "about" -}}
 {{-
 $publisher := dict
@@ -86,7 +81,7 @@ $article := dict
 $breadcrumbs := dict
   "@context" "https://schema.org"
   "@type" "BreadcrumbList"
-  "itemListElement" (partial "breadcrumb-items" .)
+  "itemListElement" $breadcrumbs
 -}}
 {{-
 $website := dict
