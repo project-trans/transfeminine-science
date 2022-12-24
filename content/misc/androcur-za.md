@@ -6,7 +6,9 @@ description: 本文为拜耳南非分公司的 Androcur 药品（10 mg）说明�
 
 <section class="box">
 
-**译者按：** 本文为拜耳南非分公司的 Androcur 药品（每片 10 mg）说明书翻译。说明书原文：<https://www.bayer.com/sites/default/files/ANDROCUR_10_mg_EN_PI.pdf>
+**译者按：** 本文为拜耳南非分公司的 Androcur 药品（每片 10 mg）说明书翻译。
+说明书原文：<https://www.bayer.com/sites/default/files/ANDROCUR_10_mg_EN_PI.pdf>
+([archive](https://web.archive.org/web/https://www.bayer.com/sites/default/files/ANDROCUR_10_mg_EN_PI.pdf))
 
 核准日期：1989 年 4 月 19 日\
 修改日期：2021 年 12 月 14 日\
@@ -20,7 +22,7 @@ ANDROCUR 10 mg 片剂 *（以下简称“本品”）*
 
 ## 二、成分及定量 {#qualitative}
 
-本品为片剂，每片含 10 mg 醋酸环丙孕酮。  
+本品为片剂，每片含 10 mg 醋酸环丙孕酮。
 辅料含 59.9 mg 乳糖；全部辅料详见[第 6.1 节]({{< ref "#excipients" >}}) 。
 
 ## 三、性状 {#form}
@@ -169,7 +171,7 @@ MedDRA 系统器官分类,不良反应（频率未知）
 
 **对以上部分不良反应的说明：**
 
-联合治疗会抑制排卵，故会引起不育。  
+联合治疗会抑制排卵，故会引起不育。
 考虑到需加用复方避孕药，应留意复方避孕药内附说明书的特别警示和不良反应。
 
 *疑似不良反应的报告：*
@@ -182,7 +184,6 @@ MedDRA 系统器官分类,不良反应（频率未知）
 ### 4.9 药物过量 {#overdose}
 
 对单次用药后的急性中毒研究表明，本品的有效成分：醋酸环丙孕酮可视为无实际毒性。另外，不慎单次服用多份治疗所需的剂量，也不会有任何急性中毒风险。（见[第 4.8 节]({{< ref "#undesired-effects" >}})。）
-
 
 ## 五、药理毒理 {#pharmacology}
 

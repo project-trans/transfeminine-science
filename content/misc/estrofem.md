@@ -6,7 +6,9 @@ description: 本文为丹麦诺和诺德公司的 Estrofem 药品（2 mg）说�
 
 <section class="box">
 
-**译者按：** 本文为丹麦诺和诺德公司的 Estrofem 药品（2 mg）说明书翻译。说明书原文：<https://medicarcp.com/website/pdf/pils/2043%20-%20en.pdf>
+**译者按：** 本文为丹麦诺和诺德公司的 Estrofem 药品（2 mg）说明书翻译。
+说明书原文：<https://medicarcp.com/website/pdf/pils/2043%20-%20en.pdf>
+([archive](https://web.archive.org/web/https://medicarcp.com/website/pdf/pils/2043%20-%20en.pdf))
 
 **请仔细阅读说明书并在医师指导下使用**
 
@@ -428,7 +430,7 @@ ATC 代码：GO3CA03
 
 1. **设置日期：** 转动内盘，将本日日期指向取药口。
 1. **取出首日用药：** 揭开取药口的塑料片，倒出第一份药片。
-1. **每日转动外盘：** 第二天，按箭头顺序将透明转盘转动一格，倒出下一份药片。记住每日仅服用一片。  
+1. **每日转动外盘：** 第二天，按箭头顺序将透明转盘转动一格，倒出下一份药片。记住每日仅服用一片。
   **只有在位于取药口的药片取出过后，方可转动转盘。**
 
 --------

@@ -6,7 +6,10 @@ description: 本文为新西兰 REX 公司的 Siterone 药品（50 mg、100 mg�
 
 <section class="box">
 
-**译者按：** 本文为新西兰 REX 公司的 Siterone 药品（50 mg、100 mg）说明书翻译。说明书原文：<https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf>\
+**译者按：** 本文为新西兰 REX 公司的 Siterone 药品（50 mg、100 mg）说明书翻译。
+说明书原文：<https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf>
+([archive](https://web.archive.org/web/https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf))
+
 **警告！以下用法用量可能不适用于[跨性别激素治疗]({{< ref "cpa-dosage" >}})，仅供参考。**
 
 核准日期（50 mg）：2001 年 5 月 24 日\
@@ -246,7 +249,6 @@ SITERONE *（以下简称“本品”）*
 对单次用药后的急性中毒研究表明，本品的有效成分：醋酸环丙孕酮可视为无实际毒性。另外，不慎单次服用多份治疗所需的剂量，也不会有任何急性中毒风险。
 
 如需药物过量管理的指导，请致电新西兰国家毒物中心：0800 POISON（0800 764766）。
-
 
 ## 五、药理毒理 {#pharmacology}
 
