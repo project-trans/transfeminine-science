@@ -12,6 +12,7 @@ tags:
   - 孕激素
   - 用药安全
 trackHash: a1ecdfa409b2f259a36571f1867efd3d05925d6d
+keywords: [雌激素, 补佳乐, hrt, 副作用, 血栓, 凝血]
 ---
 
 ## 译者按 {#notice}

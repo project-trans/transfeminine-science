@@ -13,6 +13,7 @@ tags:
   - 雌激素
   - 用药途径与剂量
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+keywords: [雌二醇凝胶, 雌二醇贴片, 阴囊, 生殖器]
 ---
 
 ## 译者按 {#notice}

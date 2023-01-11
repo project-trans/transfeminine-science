@@ -15,6 +15,7 @@ tags:
   - 用药安全
   - 用药途径与剂量
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+keywords: [醋酸环丙孕酮, 色谱龙, 色普龙, 抗雄激素, 抗雄药物, 副作用, 用量]
 ---
 
 ## 译者按 {#notice}

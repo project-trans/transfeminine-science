@@ -2,6 +2,7 @@
 title: 醋酸环丙孕酮（南非版 Androcur）说明书
 weight: 1000
 description: 本文为拜耳南非分公司的 Androcur 药品（10 mg）说明书翻译。
+keywords: [醋酸环丙孕酮, 色谱龙, 色普龙, Androcur]
 ---
 
 <section class="box">

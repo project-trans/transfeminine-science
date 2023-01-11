@@ -1,7 +1,8 @@
 ---
 title: 螺内酯片说明书
-description: 本页面为“螺内酯片”的说明书
+description: 本页面为“螺内酯片”的说明书。
 weight: 1000
+keywords: [螺内酯]
 ---
 
 <section class="box">

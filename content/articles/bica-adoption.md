@@ -13,6 +13,7 @@ tags:
   - 抗雄激素制剂
   - 用药安全
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+keywords: [比卡鲁胺, 激素治疗, 抗雄激素]
 ---
 
 ## 译者按 {#notice}

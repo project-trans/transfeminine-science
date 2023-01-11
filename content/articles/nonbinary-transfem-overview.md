@@ -16,6 +16,7 @@ tags:
   - 抗雄激素制剂
 notice: 原文 [最初以 Reddit 帖子的形式发布]({{< ref "announcement" >}})，在迁移至本站之后，其尚未得到适当或全面的修订。
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+keywords: [hrt, 非二元, 激素治疗, non-binary, serm, mtx]
 ---
 
 ## 译者按 {#notice}

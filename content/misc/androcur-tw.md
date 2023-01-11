@@ -1,7 +1,8 @@
 ---
 title: 醋酸环丙孕酮（台湾 Androcur）说明书
 weight: 1000
-description: 本文为拜耳台湾分公司的 Androcur 药品（50 mg）说明书翻译。
+description: 本文为拜耳台湾分公司的 Androcur 药品（50 mg）说明书的简体中文释义。
+keywords: [醋酸环丙孕酮, 色谱龙, 色普龙, Androcur]
 ---
 
 <section class="box">

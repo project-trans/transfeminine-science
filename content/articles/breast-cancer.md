@@ -13,6 +13,7 @@ tags:
   - 雌激素
   - 孕激素
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+keywords: [mtf, 激素治疗, hrt, 雌激素, 乳腺癌]
 ---
 
 ## 译者按 {#notice}

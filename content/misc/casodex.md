@@ -2,6 +2,7 @@
 title: 比卡鲁胺（Casodex）说明书
 weight: 1000
 description: 本文为美国阿斯利康公司的 Casodex 药品（50 mg）说明书翻译。
+keywords: [比卡鲁胺, Casodex]
 ---
 
 <section class="box">
@@ -321,7 +322,7 @@ Casodex 的初始剂量为 12.5 mg。本品剂量对每个患者精准滴定，�
 
 <section class="box">
 
-**表 2：**身高增长速度比较
+**表 2：身高增长速度比较**
 
 ```csv
 指标,受试者,治疗前平均值,治疗后变化\n（平均）,治疗后变化\n（中位数）,治疗后变化\n（最小、最大值）,生长减缓者占比<sup>(1)</sup>

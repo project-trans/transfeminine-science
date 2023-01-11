@@ -2,6 +2,7 @@
 title: 雌二醇片（诺坤复）说明书
 weight: 1000
 description: 本文为丹麦诺和诺德公司的 Estrofem 药品（2 mg）说明书翻译。
+keywords: [诺坤复, Estrofem, 雌二醇片]
 ---
 
 <section class="box">

@@ -1,6 +1,7 @@
 ---
 title: 首页
 description: 欢迎来到 MtF.wiki 附属的“女性倾向跨性别者科学”（Transfeminine Science）中文译本存档站。
+keywords: [mtf, "MtF.wiki", trans, 跨性别, 木桶饭, 药娘, 吃糖, 用药指导, hrt, 药物, "Transfeminine Science", 女性倾向跨性别者科学, tfsci]
 ---
 
 欢迎来到 <https://MtF.wiki> 附属的“女性倾向跨性别者科学”（*[Transfeminine Science](https://transfemscience.org)*）中文译本存档站。原文由一群非相关专业出身、却热情洋溢的多国跨性别人士所作，旨在为**女性化激素治疗**提供力所能及的指引，行文严谨、讨论细致、引经据典，具有相当的可信度。本项目则旨在**忠实转达**这些文章的内容和观点，以资参考。\

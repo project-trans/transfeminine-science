@@ -12,6 +12,7 @@ tags:
   - 雌激素
   - 用药途径与剂量
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+keywords: [Progynova, 补佳乐, 泰补, 戊酸雌二醇片, 雌二醇片, Estrofem, 诺坤复, 含服, 舌下含服, 用法]
 ---
 
 ## 译者按 {#notice}

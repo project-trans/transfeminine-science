@@ -1,6 +1,7 @@
 ---
 title: 健民雌二醇凝胶说明书
 description: 本页面为“健民雌二醇凝胶”的说明书
+keywords: [健民, 雌二醇凝胶]
 weight: 1000
 ---
 

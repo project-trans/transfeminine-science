@@ -1,6 +1,7 @@
 ---
-title: 补佳乐（戊酸雌二醇片）说明书
-description: 本页面为“补佳乐”（戊酸雌二醇片）的说明书
+title: 戊酸雌二醇片（补佳乐）说明书
+description: 本页面为戊酸雌二醇片（补佳乐）的说明书。
+keywords: [Progynova, 补佳乐, 泰补, 戊酸雌二醇]
 weight: 1000
 ---
 
