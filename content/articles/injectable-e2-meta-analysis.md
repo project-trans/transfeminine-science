@@ -12,7 +12,7 @@ tags:
   - 雌激素
   - 用药途径与剂量
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
-keywords: [雌激素, 注射, 戊酸雌二醇, 庚酸雌二醇, 环戊丙酸雌二醇, 苯甲酸雌二醇, 日雌, 富士日雌, Depo-Estradiol, 用法, 用量, 用药指导]
+keywords: [雌激素, 注射, '{戊酸,庚酸,环戊丙酸,苯甲酸}雌二醇', 富士日雌, Depo-Estradiol, 用法, 用量, 用药指导]
 ---
 
 ## 译者按 {#notice}

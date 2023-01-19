@@ -20,7 +20,7 @@ tags:
   - GnRH 类似物
   - 用药安全
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
-keywords: [mtf, trans, 跨性别, 木桶饭, 药娘, 吃糖, 用药指导, hrt, 药物, 激素]
+keywords: [MtF, HRT, 用药指导]
 ---
 
 ## 译者按 {#notice}

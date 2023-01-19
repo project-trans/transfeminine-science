@@ -12,7 +12,7 @@ tags:
   - 性激素结合球蛋白
   - 雌激素
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
-keywords: [雌激素, shbg, 性激素结合球蛋白, 疗效, hrt]
+keywords: [HRT, 雌激素, SHBG, 性激素结合球蛋白]
 ---
 
 ## 译者按 {#notice}
