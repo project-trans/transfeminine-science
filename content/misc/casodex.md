@@ -382,6 +382,7 @@ Casodex 的初始剂量为 12.5 mg。本品剂量对每个患者精准滴定，�
 - 化学式：C<sub>18</sub>H<sub>14</sub>N<sub>2</sub>O<sub>4</sub>F<sub>4</sub>S
 - 分子量：430.37
 - 酸度系数：12
+- *CAS 代码：[90357-06-5](https://commonchemistry.cas.org/detail?ref=90357-06-5)*
 - 化学结构式：
 
 {{< figure src="https://scimg.chem960.com/cas/150/90357-06-5.png" width="50%" >}}
