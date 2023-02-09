@@ -11,7 +11,6 @@ translators:
 tags:
   - 雌激素
   - 孕激素
-  - 孕激素
   - 孕酮
 trackHash:
 keywords: [青春期, 发育期, 雌激素, 孕激素, 孕酮, 激素水平]
