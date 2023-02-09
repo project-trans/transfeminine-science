@@ -91,9 +91,8 @@ American Journal of Clinical Pathology,
 
 *表格 2*：以液相色谱-质谱联用法（LC-MS）或质谱法（MS）测定，顺性别女孩和成年女性的雌二醇和雌酮的水平：
 
-|                 | 雌二醇           | 雌酮           |
+| 生命阶段或年龄         | 雌二醇参考范围 (pg/mL)	 | 雌酮参考范围 (pg/mL) |
 |-----------------|---------------|--------------|
-| 生命阶段或年龄         | 参考范围 (pg/mL)	 | 参考范围 (pg/mL) |
 | Tanner 阶段 1     | <55           | <26          |
 | Tanner 阶段 2     | 2–133         | 1–39         |
 | Tanner 阶段 3     | 12–277        | 8–117        |
@@ -156,7 +155,7 @@ Hormone references for ultrasound breast staging and endocrine profiling to dete
   82–92. [DOI:10.1210/jc.2009-1140]
 
 * Biro, F. M., Pinney, S. M., Huang, B., Baker, E. R., Walt Chandler, D., & Dorn, L. D. (2014). Hormone changes in peripubertal girls.
-  发育期前女孩的荷尔蒙变化
+  发育期当中女孩的荷尔蒙变化
   The Journal of Clinical Endocrinology & Metabolism, 99(10), 3829–3835. [DOI:10.1210/jc.2013-4528]
 
 * Ankarberg-Lindgren, C., Dahlgren, J., & Andersson, M. X. (2018). High-sensitivity quantification of serum androstenedione, testosterone, dihydrotestosterone, estrone and estradiol by gas chromatography–tandem mass spectrometry with sex-and puberty-specific reference intervals.
@@ -165,8 +164,7 @@ Hormone references for ultrasound breast staging and endocrine profiling to dete
   The Journal of Steroid Biochemistry and Molecular
   Biology, 183, 116–124. [DOI:10.1016/j.jsbmb.2018.06.005]
 
-    * Has estrone sulfate levels in the different Tanner breast stages.
-      在不同的Tanner 乳房发育阶段的雌酮水平。
+    * 在不同的 Tanner 乳房发育阶段的雌酮水平。
 
 * Bae, Y. J., Zeidler, R., Baber, R., Vogel, M., Wirkner, K., Loeffler, M., … & Kratzsch, J. (2019). Reference intervals of nine steroid hormones over the life-span analyzed by LC-MS/MS: Effect of age, gender, puberty, and oral contraceptives.
   探讨年龄，性别，发育期，和口服式避孕药对以 LC-MS/MS 测得的九种类固醇荷尔蒙的参考范围的影响。
@@ -213,9 +211,9 @@ Fisher, D. A., Quest Diagnostics, Nichols Institute (2007). 奎斯特诊断公�
 
 | 生命阶段或年龄     | 范围 (ng/mL) |
 |-------------|------------|
-| 5–9 years   | 	≤0.6      |
-| 10–13 years | 	≤10.2     |
-| 14–17 years | 	≤11.9     |
+| 5–9 岁   | 	≤0.6      |
+| 10–13 岁 | 	≤10.2     |
+| 14–17 岁 | 	≤11.9     |
 | 成人卵泡期早期     | 	≤0.6      |
 | 成人卵泡期晚期     | ≤14.5      |
 | 成人月经中期      | 	≤16.1     |
@@ -246,7 +244,7 @@ Company*. [[PDF](https://web.archive.org/web/20200516122625/http://dl.cafepezesh
 | 怀孕第二阶段      | 19.5–82.5  |
 | 怀孕第三阶段      | 65.0–229.0 |
 
-少年男子（1 - 10 岁和发育期）的孕酮水平 <0.10–1.1 ng/mL。成年男子的孕酮水平 0.13–0.97 ng/mL。
+1 - 10 岁及发育期男孩的孕酮水平 <0.10–1.1 ng/mL。成年男子的孕酮水平 0.13–0.97 ng/mL。
 
 注意：放射免疫测定法比基于质谱法的测定法准确度低，结果经常偏高。
 
