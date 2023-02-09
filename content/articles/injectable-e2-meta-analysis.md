@@ -4,14 +4,14 @@ linkTitle: 注射雌二醇后的血清浓度曲线分析
 description: 本文对常用雌二醇注射剂所引起的血清水平进行荟萃分析，旨在帮助使用者了解药物特性、选择其使用量。
 author: Aly
 published: 2021-07-16
-updated: 2022-02-05
-translated: 2022-05-22
+updated: 2022-11-13
+translated: 2023-02-09
 translators:
   - Bersella AI
 tags:
   - 雌激素
   - 用药途径与剂量
-trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+trackHash: 36c823fafdf5c886401a5744f4a881bb6dca60d8
 keywords: [雌激素, 注射, '{戊酸,庚酸,环戊丙酸,苯甲酸}雌二醇', 富士日雌, Depo-Estradiol, 用法, 用量, 用药指导]
 ---
 
@@ -63,9 +63,9 @@ keywords: [雌激素, 注射, '{戊酸,庚酸,环戊丙酸,苯甲酸}雌二醇',
 | 十一酸雌二醇<sup>(4)</sup> | EU | 油溶液 | Delestrec, Progynon Depot 100 |
 | 聚磷酸雌二醇<sup>(4)</sup> | PEP | 水溶液 | Estradurin |
 
-(1) 作为注射用复方避孕药，也包含一种孕激素（醋酸炔诺酮、醋酸甲羟孕酮或苯乙酮缩二羟孕酮等）
-(2) 俗称“富士日雌”——译者注
-(3) 含微晶颗粒
+(1) 作为注射用复方避孕药，也包含一种孕激素（醋酸炔诺酮、醋酸甲羟孕酮或苯乙酮缩二羟孕酮等）\
+(2) 俗称“富士日雌”——译者注\
+(3) 含微晶颗粒\
 (4) 不再上市
 
 </section>
@@ -102,7 +102,7 @@ EB 注射剂曾被广泛用于科学研究，尤其是在阐释 HPG 轴的功能
 | L76 | 3 | 正常绝经前妇女 | 3mg | [Leyendecker et al. (1976)][L76] |
 | C78 | 22 | 患有无排卵性不孕症的绝经前妇女 | 1mg | [Canales et al. (1978)][C78] |
 | S78 | 6 | 正常绝经前妇女 | 2.5mg | [Shaw (1978)][S78] |
-| T78 | 19 | 患有高泌乳素血症的绝经前妇女 12 人，其中有 7 人的泌乳素恢复正常<br />（12 人中有 7 人注射两针） | 1mg | [Travaglini et al. (1978)][T78] |
+| T78 | 19 | 患有高泌乳素血症的绝经前妇女 12 人，其中 7 人泌乳素恢复正常<br />（12 人中有 7 人注射两针） | 1mg | [Travaglini et al. (1978)][T78] |
 | T79 | 18 | 患有高泌乳素血症的绝经前妇女 9 人<br/>（均注射两针，分别仅注射 EB 和同时注射孕激素） | 1mg | [Travaglini et al. (1979)][T79] |
 | O80 | 10 | 正服用复方避孕药的绝经前妇女 | 5mg | [Oriowo et al. (1980)][O80]
 | C81 | 14 | 产后哺乳期妇女 7 人（注射两针） | 3mg | [Canales et al. (1981)][C81] |
@@ -128,7 +128,7 @@ EB 注射剂曾被广泛用于科学研究，尤其是在阐释 HPG 轴的功能
 
 ![figure](https://transfemscience.org/assets/images/injectable-e2/eb_v3c.svg)
 
-**图 1**：已发表的、单次肌注 EB 油溶液之后 7 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档](https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1819977282); [Plotly 表格](https://chart-studio.plotly.com/~transfemscience/1/))</sup>。
+**图 1**：已发表的、单次肌注 EB 油溶液之后 7 日内的雌二醇浓度—时间曲线，及其拟合曲线（加粗黑/白线）。曲线已依内源性分泌量进行修正、并调整摄入量为 5mg，以与分室药代动力学模型相契合。各曲线随后也用相同的模型进行拟合。源数据在他处亦有提供<sup>([Google 文档][WEB_31A]; [Plotly 表格][WEB_31B])</sup>。
 
 </section>
 
@@ -525,7 +525,7 @@ PEP 主要用于前列腺癌的治疗，但也见于其它需要雌激素的临�
 | [TransLine (2019)][T19] | 戊酸雌二醇 | 初始/通常剂量：肌注 5-10 mg/周<br/>最高剂量：肌注 20 mg/周 |
 | | 环戊丙酸雌二醇 | 初始/通常剂量：肌注 1.25-2.5 mg/周<br/>最高剂量：肌注 5 mg/周 |
 
-(1) 还有些其它《指南》，其推荐剂量与间隔显然直接引用自美国内分泌学会版、或 UCSF 版《指南》，故未在此列出；但可于他处查阅<sup>([Aly, 2020][ALYW20_GUIDE])</sup>。
+(1) 还有些其它《指南》，其推荐剂量与间隔显然直接引用自美国内分泌学会版、或 UCSF 版《指南》，故未在此列出；但可于他处查阅<sup>([Aly, 2020][ALYW20_GUIDE])</sup>。\
 (2) 芬威健康已于 2021 年更新了其《[指南][C15_NEW]》——译者注
 
 </section>
@@ -586,7 +586,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 
 ## 辅助阅读材料 {#update}
 
-- [有关注射用雌二醇的研究项目，及雌二醇水平 - Google 表格][WEB_31A]
+- [有关注射用雌二醇的研究项目，及雌二醇水平 - Google 表格][WEB_9B]
 - [基于可交互网页的 Violet 三室模型曲线拟合器][WEB_9A]
 - [注射用雌二醇的溶剂，及其成分与特性 - Google 文档][TABLE_51B]
 - [性激素酯的亲脂性 (Log P) 汇总表格 - Google 文档][TABLE_52C]
@@ -632,7 +632,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 - Enever, R. P., Fotherby, K., Naderi, S., & Lewis, G. A. (1983). Long-acting contraceptive agents: The influence of physicochemical properties of some esters of norethisterone upon the plasma levels of free norethisterone. _Steroids_, _41_(3), 381–396. \[DOI:<https://doi.org/10.1016/0039-128X(83)90109-5>\]
 - Eriksson, O., Bäckström, T., Stridsberg, M., Hammarlund-Udenaes, M., & Naessén, T. (2006). Differential response to estrogen challenge test in women with and without premenstrual dysphoria. _Psychoneuroendocrinology_, _31_(4), 415–427. \[DOI:<https://doi.org/10.1016/j.psyneuen.2005.10.004>\]
 - Espino y Sosa, S., Cortés Fuentes, M., Gómez Rico, J. A., & Cortés Bonilla, M. (2019). Non-polymeric Microspheres for the Therapeutic Use of Estrogens: An Innovative Technology. In Khan, W. A. (Ed.). _Estrogen_. London: IntechOpen. \[DOI:<https://doi.org/10.5772/intechopen.82553>\]
-- _Estradurin<sup>®</sup> Polyestradiol Phosphate Labels._ Pharmanovia. \[[URL](https://web.archive.org/web/20180102072958/http://pharmanovia.com/product/estradurin/)\] \[[DOCs/PDFs](https://drive.google.com/drive/folders/1eRISjTySJuMpxZYc8FITe4Z3jyUYMcU8)\]
+- _Estradurin<sup>®</sup> Polyestradiol Phosphate Labels._ Pharmanovia. \[[URL](https://web.archive.org/web/20180102072958/http://pharmanovia.com/product/estradurin/)\] \[[DOCs/PDFs](https://files.transfemscience.org/pdfs/misc/Estradurin%20-%20Pharmanovia.zip)\]
 - Fisher, D., & Shafer, S. (2007). _Fisher/Shafer NONMEM Workshop Pharmacokinetic and Pharmacodynamic Analysis with NONMEM. Basic Concepts._ \[[PDF](https://web.archive.org/web/20210717084442if_/https://wiki.ucl.ac.uk/download/attachments/23206987/Shafer%20NONMEM.pdf)\]
 - Florence, A. T. (2010). Looking at Formulations. In Florence, A. T. _An Introduction to Clinical Pharmaceutics_ (pp. 69–100). London/Chicago: Pharmaceutical Press. \[[Google Scholar](https://scholar.google.com/scholar?cluster=10923988500882019865)\] \[[Google Books](https://books.google.com/books?id=5wcyP2OBPhoC&pg=PA69)\]
 - Fotherby, K., Benagiano, G., Toppozada, H. K., Abdel-Rahman, A., Navaroli, F., Arce, B., Ramos-Cordero, R., Gual, C., Landgren, B. M., & Johannisson, E. (1982). A preliminary pharmacological trial of the monthly injectable contraceptive Cycloprovera. _Contraception_, _25_(3), 261–272. \[DOI:<https://doi.org/10.1016/0010-7824(82)90049-X>\]
@@ -760,6 +760,16 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 - Zhang, Y., Huo, M., Zhou, J., & Xie, S. (2010). PKSolver: An add-in program for pharmacokinetic and pharmacodynamic data analysis in Microsoft Excel. _Computer Methods and Programs in Biomedicine_, _99_(3), 306–314. \[DOI:<https://doi.org/10.1016/j.cmpb.2010.01.007>\]
 - Zhou, X. F., Shao, Q. X., Han, X. J., Weng, L. J., & Sang, G. W. (1998). Pharmacokinetics of medroxyprogesterone acetate after single and multiple injection of Cyclofem<sup>®</sup> in Chinese women. _Contraception_, _57_(6), 405–411. \[DOI:<https://doi.org/10.1016/S0010-7824(98)00048-1>\]
 
+--------
+
+## 译文修订记录 {#revision}
+
+```csv
+日期,详情
+2022 年 5 月 22 日,初次翻译。
+2023 年 2 月 9 日,第一次修订，更新部分链接。（*未对全文进行检视*）
+```
+
 <!-- 第一章：前言 -->
 [E59]: https://doi.org/10.1111/j.2042-7158.1959.tb10412.x
 [V19]: https://doi.org/10.1007/978-981-13-3642-3_7
@@ -833,7 +843,8 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [IP65]: https://docs.google.com/document/d/18BUGz-BuVOjc3eODsha5yWodifabu-uRuhxEUxUu7Go/view
 
 [TABLE_31A]: https://imgur.com/a/62NBGrw
-[WEB_31A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1819977282
+[WEB_31A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=1819977282
+[WEB_31B]: https://chart-studio.plotly.com/~transfemscience/1/
 
 [S71]: https://unsworks.unsw.edu.au/fapi/datastream/unsworks:65652/SOURCE01?view=true#page=167
 [S72a]: https://doi.org/10.1212/WNL.22.4.355
@@ -866,7 +877,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 
 [FIG_2]: https://transfemscience.org/assets/images/injectable-e2/ev_v3c.svg
 [TABLE_32A]: https://imgur.com/a/62NBGrw
-[WEB_32A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=0
+[WEB_32A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=0
 [WEB_32B]: https://chart-studio.plotly.com/~transfemscience/17/
 
 [R73]: https://doi.org/10.1210/jcem-37-4-574
@@ -875,7 +886,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [L96]: https://doi.org/10.1046/j.1526-4610.1996.3606367.x
 
 [FIG_3]: https://transfemscience.org/assets/images/injectable-e2/ec_oil_v3c.svg
-[WEB_33A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=675753324
+[WEB_33A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=675753324
 [WEB_33B]: https://chart-studio.plotly.com/~transfemscience/5/
 
 [F82]: https://doi.org/10.1016/0010-7824(82)90049-X
@@ -889,7 +900,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [FIG_4]: https://transfemscience.org/assets/images/injectable-e2/ec_susp_v3c.svg
 [TABLE_34A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_subcutaneous_or_intramuscular_injection_of_5_mg_estradiol_cypionate.png
 [TABLE_34B]: https://commons.wikimedia.org/wiki/File:Estradiol_cypionate_levels_after_a_single_intramuscular_injection_of_5_mg_microcrystalline_estradiol_cypionate_in_aqueous_suspension_in_women.png
-[WEB_34A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1561713713
+[WEB_34A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=1561713713
 [WEB_34B]: https://chart-studio.plotly.com/~transfemscience/7/
 
 [R86]: https://doi.org/10.1016/0010-7824(86)90046-6
@@ -900,7 +911,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [M95]: https://doi.org/10.1007/BF02436100
 
 [FIG_5]: https://transfemscience.org/assets/images/injectable-e2/een_v3c.svg
-[WEB_35A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1683725929
+[WEB_35A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=1683725929
 [WEB_35B]: https://chart-studio.plotly.com/~transfemscience/9/
 
 [GEPP75]: https://www.worldcat.org/oclc/632312599
@@ -913,7 +924,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [TABLE_36A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_injections_of_estradiol,_estradiol_benzoate,_estradiol_valerate,_and_estradiol_undecylate_in_women.png
 [TABLE_36B]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_intramuscular_injection_of_10_mg_estradiol_valerate_and_100_mg_estradiol_undecylate.png
 [TABLE_36C]: https://imgur.com/a/ZYgpTsh
-[WEB_36A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=467757621
+[WEB_36A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=467757621
 [WEB_36B]: https://chart-studio.plotly.com/~transfemscience/11/
 
 [J76]: https://doi.org/10.1016/S0083-6729(08)60965-6
@@ -927,7 +938,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [STEGE96]: https://doi.org/10.1002/(SICI)1097-0045(199605)28:5%3C307::AID-PROS6%3E3.0.CO;2-8
 
 [FIG_7]: https://transfemscience.org/assets/images/injectable-e2/pep_v3c.svg
-[WEB_37A]: https://docs.google.com/spreadsheets/d/108SmQhbk_gmG22WBvEcGs4tkT43AzwSBfrgPfDjlePk/view#gid=1263215142
+[WEB_37A]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view#gid=1263215142
 [WEB_37B]: https://chart-studio.plotly.com/~transfemscience/13/
 
 [FIG_8]: https://transfemscience.org/assets/images/injectable-e2/all_v3c.svg
@@ -958,7 +969,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [KSV16]: https://doi.org/10.1016/j.ejps.2015.12.011
 
 [TABLE_51A]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_after_a_single_5_mg_intramuscular_injection_of_estradiol_esters.png
-[TABLE_51B]: https://docs.google.com/document/d/1XJRvPikYmJtxcjBV3ssK3C5v-N6gFrQXCIIVz1amK8o/view#bookmark=id.4o16xc1yn2yk
+[TABLE_51B]: https://files.transfemscience.org/pdfs/docs/Injectable%20Estradiol%20Vehicles%20and%20Their%20Compositions%20and%20Properties.pdf
 
 [WIKI_51A]: https://en.wikipedia.org/wiki/Estrogen_provocation_test
 
@@ -969,7 +980,7 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 
 [TABLE_52A]: https://commons.wikimedia.org/wiki/File:Idealized_curves_of_estradiol_levels_after_injection_of_different_estradiol_esters_in_women.png
 [TABLE_52B]: https://imgur.com/a/15LxI3o
-[TABLE_52C]: https://docs.google.com/document/d/1nidcOcLjt4jIRUMv3rPgyrY_3zUz8Oa0B_noWnGPm4Q/view
+[TABLE_52C]: https://files.transfemscience.org/pdfs/docs/Sex%20Hormone%20Ester%20Lipophilicity%20\(Log%20P\)%20Tables.pdf
 [TABLE_52D]: https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Time%E2%80%93concentration_curves
 [WEB_52A]: http://www.vcclab.org/lab/alogps/
 [WEB_52B]: https://docs.chemaxon.com/display/docs/logp-plugin.md
@@ -1033,3 +1044,4 @@ Düsterberg & Nishino (1982) 在其对注射用戊酸雌二醇的研究中，仅
 [WEB_8A]: https://github.com/tiliaqt/
 [WEB_8B]: https://github.com/tiliaqt/transkit/
 [WEB_9A]: https://alyw234237.github.io/v3c-fitter/
+[WEB_9B]: https://docs.google.com/spreadsheets/d/11OLP_rsaES-_aINctDlVNTvupThcsI7YRFeSimmAQV8/view
