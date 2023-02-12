@@ -137,14 +137,14 @@ Hormone references for ultrasound breast staging and endocrine profiling to dete
 
 *表格 4*：以 LC-MS/MS 测得的顺性别女孩雌二醇和雌酮的水平：
 
-|             |       | 雌二醇        |           | 雌酮         |           |
+|             |       | 雌二醇（pg/mL）        | 雌二醇（pg/mL）          | 雌酮（pg/mL）         | 雌酮（pg/mL） |
 |-------------|-------|------------|-----------|------------|-----------|
-| 发育阶段        | n     | 中位数（pg/mL） | 范围（pg/mL） | 中位数（pg/mL） | 范围（pg/mL） |
-| Tanner 阶段 1 | 260   | 1.3        | 5.0-20    | 13         | 4.0-29    |
-| Tanner 阶段 2 | 69    | 6.5        | 10-24     | 21         | 10-33     |
-| Tanner 阶段 3 | 63-66 | 25         | 7.0-60    | 30         | 15-43     |
-| Tanner 阶段 4 | 73-78 | 48         | 21-85     | 36         | 16-77     |
-| Tanner 阶段 5 | 76-81 | 41         | 34-170    | 61         | 29-105    |
+| 发育阶段        | 采样人次     | 中位数 | 范围（2.5-97.5%） | 中位数（pg/mL） | 范围（2.5-97.5%） |
+| Tanner 阶段 1 | 260   | 1.3        | 0.24-10    | 3.8         | 1.2-10    |
+| Tanner 阶段 2 | 69    | 6.5        | 1.6-56     | 9.2         | 3.5-32     |
+| Tanner 阶段 3 | 63-66 | 25         | 1.2-77    | 21         | 3.2-52     |
+| Tanner 阶段 4 | 73-78 | 48         | 7.1-219     | 32         | 11-108     |
+| Tanner 阶段 5 | 76-81 | 41         | 13-268    | 36         | 15-129    |
 
 ### 其它研究 {#other-studies}
 
@@ -159,15 +159,14 @@ Hormone references for ultrasound breast staging and endocrine profiling to dete
   The Journal of Clinical Endocrinology & Metabolism, 99(10), 3829–3835. [DOI:10.1210/jc.2013-4528]
 
 * Ankarberg-Lindgren, C., Dahlgren, J., & Andersson, M. X. (2018). High-sensitivity quantification of serum androstenedione, testosterone, dihydrotestosterone, estrone and estradiol by gas chromatography–tandem mass spectrometry with sex-and puberty-specific reference intervals.
-  按照性别和发育期定下了不同的血清雄烯二酮、睾酮、双氢睾酮、雌酮和雌二醇水平的参考范围。
-  以气相色谱-串联质谱法分别对不同性别和是否处于发育期的人的血清雄烯二酮、睾酮、双氢睾酮、雌酮和雌二醇水平进行高灵敏度的定量分析。
+  以气相色谱-串联质谱法分别对不同性别和是否处于发育期的人的血清雄烯二酮、睾酮、双氢睾酮、雌酮和雌二醇水平参考范围进行高灵敏度的定量分析。
   The Journal of Steroid Biochemistry and Molecular
   Biology, 183, 116–124. [DOI:10.1016/j.jsbmb.2018.06.005]
 
-    * 在不同的 Tanner 乳房发育阶段的雌酮水平。
+    * 上述论文展示了在不同的 Tanner 乳房发育阶段的硫酸雌酮水平。
 
 * Bae, Y. J., Zeidler, R., Baber, R., Vogel, M., Wirkner, K., Loeffler, M., … & Kratzsch, J. (2019). Reference intervals of nine steroid hormones over the life-span analyzed by LC-MS/MS: Effect of age, gender, puberty, and oral contraceptives.
-  探讨年龄，性别，发育期，和口服式避孕药对以 LC-MS/MS 测得的九种类固醇荷尔蒙的参考范围的影响。
+  一生里人体九种类固醇激素的参考范围（以 LC-MS/MS 测定），以及年龄、性别、青春期和口服避孕药对其的影响。
   The Journal of Steroid Biochemistry and Molecular Biology, 193, 105409. [DOI:10.1016/j.jsbmb.2019.105409]
 
 ## 孕酮水平 {#progesterone-levels}
@@ -204,8 +203,7 @@ Esoterix/LabCorp. (2020). 激素水平的期望值和国际单位的换算表。
 
 Fisher, D. A., Quest Diagnostics, Nichols Institute (2007). The Quest Diagnostics Manual: Endocrinology: Test Selection
 and Interpretation, 4th Edition.
-
-Fisher, D. A., Quest Diagnostics, Nichols Institute (2007). 奎斯特诊断公司操作手册：内分泌学测试选择与诠释，第四版。[[PDF](http://docplayer.net/86293048-The-quest-diagnostics-manual-endocrinology-test-selection-and-interpretation-fourth-edition.html)] [[Alt PDF](https://studylib.net/doc/8074566/test-selection-and-interpretation-the-quest-diagnostics-m)] [[Alt](https://books.google.com/books?id=BBLRUI4aHhkC&pg=PA1982)]:
+奎斯特诊断公司操作手册：内分泌学测试选择与诠释，第四版。[[PDF](http://docplayer.net/86293048-The-quest-diagnostics-manual-endocrinology-test-selection-and-interpretation-fourth-edition.html)] [[Alt PDF](https://studylib.net/doc/8074566/test-selection-and-interpretation-the-quest-diagnostics-m)] [[Alt](https://books.google.com/books?id=BBLRUI4aHhkC&pg=PA1982)]:
 
 *表格 6*：以 HPLC-MS/MS 测得的顺性别女孩和成年女性孕酮的水平：
 
@@ -220,7 +218,7 @@ Fisher, D. A., Quest Diagnostics, Nichols Institute (2007). 奎斯特诊断公�
 | 成人黄体期       | ≤31.4      |
 | 停经后         | ≤0.2       |
 
-5 - 17 岁青少年男孩的孕酮水平 ≤0.3 ng/mL。成年男性的孕酮水平 ≤1.2 ng/mL。
+5 - 17 岁青少年男孩的孕酮水平 ≤1.2 ng/mL。成年男性的孕酮水平 ≤0.3 ng/mL。
 
 ### Wu (2006) {#wu-2006}
 
@@ -264,7 +262,7 @@ Esoterix/LabCorp. (2020). 激素水平的期望值和国际单位的换算表。
 
 *表格 8*：以 HPLC-MS/MS 测得的顺性别女性睾酮的水平：
 
-| 生命阶段         | 年龄         | 平均值 (ng/dL) | 范围 (ng/dL) |
+| 生命阶段         | 年龄（岁）         | 平均值 (ng/dL) | 范围 (ng/dL) |
 |--------------|------------|-------------|------------|
 | Tanner 阶段 1  | 	<9.2      | 	4.9	       | <2.5–10    |
 | Tanner 阶段 2	 | 9.2–13.7	  | 18	         | 7–28       |      
@@ -276,7 +274,7 @@ Esoterix/LabCorp. (2020). 激素水平的期望值和国际单位的换算表。
 
 *表格 9*：以 HPLC-MS/MS 测得的顺性别女性二氢睾酮（DHT）的水平：
 
-| 生命阶段         | 年龄         | 平均值 (ng/dL) | 范围 (ng/dL) |
+| 生命阶段         | 年龄（岁）         | 平均值 (ng/dL) | 范围 (ng/dL) |
 |--------------|------------|-------------|------------|
 | Tanner 阶段 1  | 	<9.2      | 	?          | 	<3        |
 | Tanner 阶段 2	 | 9.2–13.7	  | 8	          | 5–12       |     
@@ -287,26 +285,26 @@ Esoterix/LabCorp. (2020). 激素水平的期望值和国际单位的换算表。
 
 *表格 10*：以 HPLC-MS/MS 测得的顺性别女性雄烯二酮的水平：
 
-| 生命阶段         | 年龄         | 平均值 (ng/dL) | 范围 (ng/dL) |
+| 生命阶段         | 年龄（岁）         | 平均值 (ng/dL) | 范围 (ng/dL) |
 |--------------|------------|-------------|------------|
 | Tanner 阶段 1  | 	<9.2      | 	<10	       | <10–17     |
 | Tanner 阶段 2	 | 9.2–13.7	  | 33	         | 10–72      |    
 | Tanner 阶段 3	 | 10.0–14.4  | 	97	        | 50–170     |
 | Tanner 阶段 4	 | 10.7–15.6  | 	105	       | 47–208     |
 | Tanner 阶段 5  | 	11.8–18.6 | 137         | 	50–224    |
-| 成人停经前期	      | >18.0	     | ?           | 	28–230    |
+| 成人停经前期	      | 18-40 | ?           | 	28–230    |
 | 成人停经后        | 	⪆50       | 	?          | 	<10–93    |
 
 *表格 11*：以 HPLC-MS/MS 测得的顺性别女性硫酸去氢表雄酮（DHEA-S）的水平：
 
-| 生命阶段         | 年龄         | 平均值 (ng/dL) | 范围 (ng/dL) |
+| 生命阶段         | 年龄（岁）         | 平均值 (ng/dL) | 范围 (ng/dL) |
 |--------------|------------|-------------|------------|
 | Tanner 阶段 1  | 	<9.2      | 	40	        | 19–144     |
 | Tanner 阶段 2	 | 9.2–13.7	  | 72	         | 34–129     |      
 | Tanner 阶段 3	 | 10.0–14.4  | 	88         | 	32–226    |
 | Tanner 阶段 4	 | 10.7–15.6  | 	120	       | 58–260     |
 | Tanner 阶段 5  | 	11.8–18.6 | 	148	       | 44–248     |
-| 成人停经前期	      | >18.0	     | ?           | 	17–372    |
+| 成人停经前期	      | 18-50 | ?           | 	17–372    |
 | 成人停经后        | 	⪆50       | 	?          | 	<215      |
 
 ### ARUP Laboratories（未标注日期） {#arup-laboratories-undated}
@@ -337,7 +335,7 @@ ARUP Laboratories. Testosterone, Free and Total (Includes Sex Hormone Binding Gl
 
 * Kushnir, M. M., Rockwood, A. L., Roberts, W. L., Pattison, E. G., Bunker, A. M., Fitzgerald, R. L., & Meikle, A. W. (
   2006). Performance characteristics of a novel tandem mass spectrometry assay for serum testosterone.
-  一种新型的血清睾丸激素串联质谱分析法的性能和特点。
+  一种新型的血清睾酮串联质谱分析法的性能和特点。
   Clinical Chemistry, 52(1), 120–128. [DOI:10.1373/clinchem.2005.052167]
 
 * Kushnir, M. M., Blamires, T., Rockwood, A. L., Roberts, W. L., Yue, B., Erdogan, E., Bunker, A. M., & Meikle, A. W. (
