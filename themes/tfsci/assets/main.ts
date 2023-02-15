@@ -13,6 +13,7 @@ Promise.resolve()
   .then(onRestoreEmailAddress)
   .then(onReferenceLinks)
   .then(onAbbreviation)
+  .then(onLinkTitle)
 
 function onTableStyle() {
   const content = document.querySelector('article.content')
@@ -111,6 +112,30 @@ function onAbbreviation() {
       return fragment
     },
   })
+}
+
+function onLinkTitle() {
+  for (const link of document.links) {
+    if (link.title) continue
+    let title = getTitle(link as HTMLAnchorElement)
+    if (!title) continue
+    title = decodeURIComponent(title)
+    if (link.textContent === title) continue
+    link.title = title
+  }
+
+  function getTitle(link: HTMLAnchorElement) {
+    const host = link.host
+    const path = link.pathname
+    let title: string | undefined
+    if (host === 'doi.org') return path.slice(1)
+    if (host === 'files.transfemscience.org' && path.startsWith('/pdfs/')) return path.slice(6)
+    if (host.endsWith('wikipedia.org') && path.startsWith('/wiki/')) {
+      title = path.slice(path.lastIndexOf('/') + 1)
+      if (link.hash) title = link.hash.slice(1) + ' on ' + link.title
+      return title.replace(/_/g, ' ')
+    }
+  }
 }
 
 function onImageFallback() {
