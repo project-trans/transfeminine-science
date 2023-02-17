@@ -128,6 +128,11 @@ Ta 们目前与 MtF.wiki 尚无直接联系。
 
 [GitHub 用户](https://github.com/Sue-e89893)，曾翻译两篇文章。
 
+#### Aquaticat {#aquaticat}
+
+[GitHub 用户](https://github.com/Aquaticat)，已协助翻译了一篇此项目的文章。
+也参与了 [One Among Us](https://oneamong.us) 的翻译（中译英）。
+
 ## 联系译者 {#contact-translators}
 
 如有任何对本站及诸译文的改进建议、勘误等，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
