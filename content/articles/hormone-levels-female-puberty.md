@@ -27,8 +27,7 @@ keywords: [青春期, 发育期, 雌激素, 孕激素, 孕酮, 激素水平]
 ### Esoterix/LapCorp (2020) {#esoterixlabcorp-2020}
 
 Esoterix/LabCorp. (2020). \
-Endocrinology Expected Values and S.I. Unit Conversion Tables. \
-激素水平的期望值和国际单位的换算表。 \
+Endocrinology Expected Values and S.I. Unit Conversion Tables.（激素水平的期望值和国际单位的换算表。） \
 \[[PDF][pdf-6774e66f]]:
 
 *表格 1*：以高压液相色谱-质谱联用法（HPLC-MS）或质谱法（MS）测定的雌二醇和雌酮在顺性别女性中的水平：
@@ -57,8 +56,7 @@ Tanner 阶段 5,11.8-18.6,110,34-170,61,29-105
 ### Frederiksen et al. (2020) {#frederiksen-et-al-2020}
 
 Frederiksen, H., Johannsen, T. H., Andersen, S. E., Albrethsen, J., Landersoe, S. K., Petersen, J. H., … & Main, K. M. (2020). \
-Sex-specific estrogen levels and reference intervals from infancy to late adulthood determined by LC-MS/MS. \
-不同性别人群从出生到晚年的雌激素水平和参考范围变化，以 LC-MS/MS 测定。 \
+Sex-specific estrogen levels and reference intervals from infancy to late adulthood determined by LC-MS/MS.（不同性别人群从出生到晚年的雌激素水平和参考范围变化，以 LC-MS/MS 测定。） \
 *The Journal of Clinical Endocrinology & Metabolism*, *105*(3), 754–768. \[DOI:[10.1210/clinem/dgz196][doi-49b32caa]]
 
 下图为 [Sam][tfsci-3c60308e] 依据以上研究的分析结果所作。
@@ -76,8 +74,7 @@ Sex-specific estrogen levels and reference intervals from infancy to late adulth
 ### Kushnir et al. (2008) {#kushnir-et-al-2008}
 
 Kushnir, M. M., Rockwood, A. L., Bergquist, J., Varshavsky, M., Roberts, W. L., Yue, B., … & Meikle, A. W. (2008). \
-High-sensitivity tandem mass spectrometry assay for serum estrone and estradiol. \
-血清雌酮和雌二醇水平的高灵敏度串联质谱分析。 \
+High-sensitivity tandem mass spectrometry assay for serum estrone and estradiol.（血清雌酮和雌二醇水平的高灵敏度串联质谱分析。） \
 *American Journal of Clinical Pathology*, *129*(4), 530–539. \[DOI:[10.1309/LC03BHQ5XJPJYEKG][doi-31d67e65]]
 
 *表格 2*：以液相色谱-质谱联用法（LC-MS）或质谱法（MS）测定，顺性别女孩和成年女性的雌二醇和雌酮的水平：
@@ -106,8 +103,7 @@ Tanner 阶段 4 和 5,2–259,4–109
 ### Janfaza et al. (2006) {#janfaza-et-2006}
 
 Janfaza, M., Sherman, T. I., Larmore, K. A., Brown-Dawson, J., & Klein, K. O. (2006). \
-Estradiol levels and secretory dynamics in normal girls and boys as determined by an ultrasensitive bioassay: a 10 year experience. \
-运用超灵敏生物检定法评判顺性别未成年女子和男子中雌二醇的分泌和水平：十年间的经验。 \
+Estradiol levels and secretory dynamics in normal girls and boys as determined by an ultrasensitive bioassay: a 10 year experience.（运用超灵敏生物检定法评判顺性别未成年女子和男子中雌二醇的分泌和水平：十年间的经验。） \
 *Journal of Pediatric Endocrinology and Metabolism*, *19*(7), 901–910. \[DOI:[10.1515/JPEM.2006.19.7.901][doi-9bd75214]]:
 
 *表格 3*：375 个顺性别少女的雌二醇水平（RCBA—精密重组细胞生物检定）：
@@ -124,8 +120,7 @@ Tanner 阶段 5,37,15.0 ± 1.6,48 ± 65,0.49–306
 ### Madsen et al. (2020) {#madsen-et-al-2020}
 
 Madsen, A., Bruserud, I. S., Bertelsen, B. E., Roelants, M., Oehme, N. H. B., Viste, K., … & Sagen, J. V. (2020). \
-Hormone references for ultrasound breast staging and endocrine profiling to detect female onset of puberty. \
-用于检测女性是否开始青春期的超声波乳腺扫描和内分泌化验的激素参考值。 \
+Hormone references for ultrasound breast staging and endocrine profiling to detect female onset of puberty. （用于检测女性是否开始青春期的超声波乳腺扫描和内分泌化验的激素参考值。） \
 *The Journal of Clinical Endocrinology & Metabolism*, *105*(12), dgaa679. \[DOI:[10.1210/clinem/dgaa679][doi-a38de59a]]:
 
 *表格 4*：以 LC-MS/MS 测得的顺性别女孩雌二醇和雌酮的水平：
@@ -143,21 +138,17 @@ Tanner 阶段 5,76-81,41,13-268,36,15-129
 ### 其它研究 {#other-studies}
 
 - Courant, F., Aksglaede, L., Antignac, J. P., Monteau, F., Sorensen, K., Andersson, A. M., … & Bizec, B. L. (2010). \
-  Assessment of circulating sex steroid levels in prepubertal and pubertal boys and girls by a novel ultrasensitive gas chromatography-tandem mass spectrometry method. \
-  用于评估发育期前及发育期中男孩和女孩的循环性类固醇水平的一种新型超灵敏气相色谱. \
+  Assessment of circulating sex steroid levels in prepubertal and pubertal boys and girls by a novel ultrasensitive gas chromatography-tandem mass spectrometry method.（用于评估发育期前及发育期中男孩和女孩的循环性类固醇水平的一种新型超灵敏气相色谱。） \
   *The Journal of Clinical Endocrinology & Metabolism*, *95*(1), 82–92. \[DOI:[10.1210/jc.2009-1140][doi-3497f82e]]
 - Biro, F. M., Pinney, S. M., Huang, B., Baker, E. R., Walt Chandler, D., & Dorn, L. D. (2014). \
-  Hormone changes in peripubertal girls. \
-  发育期当中女孩的荷尔蒙变化. \
+  Hormone changes in peripubertal girls. （发育期当中女孩的荷尔蒙变化。） \
   *The Journal of Clinical Endocrinology & Metabolism*, *99*(10), 3829–3835. \[DOI:[10.1210/jc.2013-4528][doi-3ccf6e23]]
 - Ankarberg-Lindgren, C., Dahlgren, J., & Andersson, M. X. (2018). \
-  High-sensitivity quantification of serum androstenedione, testosterone, dihydrotestosterone, estrone and estradiol by gas chromatography–tandem mass spectrometry with sex-and puberty-specific reference intervals. \
-  串联质谱法分别对不同性别和是否处于发育期的人的血清雄烯二酮、睾酮、双氢睾酮、雌酮和雌二醇水平参考范围进行高灵敏度的定量分析. \
+  High-sensitivity quantification of serum androstenedione, testosterone, dihydrotestosterone, estrone and estradiol by gas chromatography–tandem mass spectrometry with sex-and puberty-specific reference intervals. （串联质谱法分别对不同性别和是否处于发育期的人的血清雄烯二酮、睾酮、双氢睾酮、雌酮和雌二醇水平参考范围进行高灵敏度的定量分析。） \
   *The Journal of Steroid Biochemistry and Molecular Biology*, *183*, 116–124. \[DOI:[10.1016/j.jsbmb.2018.06.005][doi-8d04039f]]
   - 上述论文展示了在不同的 Tanner 乳房发育阶段的硫酸雌酮水平。
 - Bae, Y. J., Zeidler, R., Baber, R., Vogel, M., Wirkner, K., Loeffler, M., … & Kratzsch, J. (2019). \
-  Reference intervals of nine steroid hormones over the life-span analyzed by LC-MS/MS: Effect of age, gender, puberty, and oral contraceptives. \
-  一生里人体九种类固醇激素的参考范围（以 LC-MS/MS 测定），以及年龄、性别、青春期和口服避孕药对其的影响. \
+  Reference intervals of nine steroid hormones over the life-span analyzed by LC-MS/MS: Effect of age, gender, puberty, and oral contraceptives. （一生里人体九种类固醇激素的参考范围（以 LC-MS/MS 测定），以及年龄、性别、青春期和口服避孕药对其的影响。） \
   *The Journal of Steroid Biochemistry and Molecular Biology*, *193*, 105409. \[DOI:[10.1016/j.jsbmb.2019.105409][doi-f54856f0]]
 
 ## 孕酮水平 {#progesterone-levels}
@@ -165,8 +156,7 @@ Tanner 阶段 5,76-81,41,13-268,36,15-129
 ### Esoterix/LabCorp (2020) {#esoterixlabcorp-2020-1}
 
 Esoterix/LabCorp. (2020). \
-Endocrinology Expected Values and S.I. Unit Conversion Tables. \
-激素水平的期望值和国际单位的换算表。 \
+Endocrinology Expected Values and S.I. Unit Conversion Tables. （激素水平的期望值和国际单位的换算表。） \
 \[[PDF][pdf-6774e66f]] \[[Alt][aruplab-29b8eeb1]] \[[Alt][doi-a7b3f67c]]:
 
 *表格 5*：以 HPLC-MS/MS 测得的顺性别女孩和成年女性的孕酮水平：
@@ -197,8 +187,7 @@ Endocrinology Expected Values and S.I. Unit Conversion Tables. \
 ### Quest Diagnostics (2007) {#quest-diagnostics-2007}
 
 Fisher, D. A., Quest Diagnostics, Nichols Institute (2007). \
-*The Quest Diagnostics Manual: Endocrinology: Test Selection and Interpretation, 4th Edition.* \
-*奎斯特诊断公司操作手册：内分泌学测试选择与诠释，第四版。* \
+*The Quest Diagnostics Manual: Endocrinology: Test Selection and Interpretation, 4th Edition.* （*奎斯特诊断公司操作手册：内分泌学测试选择与诠释，第四版。*） \
 \[[PDF][docplayer-a83ae036]] \[[Alt PDF][studylib-a7ad837d]] \[[Alt][google-34da52f8]]:
 
 *表格 6*：以 HPLC-MS/MS 测得的顺性别女孩和成年女性孕酮的水平：
@@ -220,8 +209,7 @@ Fisher, D. A., Quest Diagnostics, Nichols Institute (2007). \
 ### Wu (2006) {#wu-2006}
 
 Wu, A. H. B. (2006). \
-Tietz Clinical Guide to Laboratory Tests, 4th Edition. \
-实验室测试临床实操指南，第四版。 \
+Tietz Clinical Guide to Laboratory Tests, 4th Edition. （实验室测试临床实操指南，第四版。） \
 *St Louis: WB Saunders Company.* \[[PDF][pdf-8119cf34]] \[[Alt][google-a584f9f1]]:
 
 *表格 7*：以放射免疫疗法 RIA 测得的顺性别女性孕酮的水平：
@@ -248,8 +236,7 @@ Tanner 阶段 5,≤9.5
 ### 其它相关研究 {#other-studies-1}
 
 - Ceglarek, U., Werner, M., Kortz, L., Körner, A., Kiess, W., Thiery, J., & Kratzsch, J. (2010). \
-  Preclinical challenges in steroid analysis of human samples. \
-  人类类固醇样本临床前分析的挑战。 \
+  Preclinical challenges in steroid analysis of human samples. （人类类固醇样本临床前分析的挑战。） \
   *The Journal of Steroid Biochemistry and Molecular Biology*, *121*(3–5), 505–512. \[DOI:[10.1016/j.jsbmb.2010.03.039][doi-d5722330]]
 
 ## 雄激素水平 {#androgen-levels}
@@ -257,8 +244,7 @@ Tanner 阶段 5,≤9.5
 ### Esoterix/LabCorp（2020） {#esoterix-labcorp-2020-2}
 
 Esoterix/LabCorp. (2020). \
-Endocrinology Expected Values and S.I. Unit Conversion Tables. \
-激素水平的期望值和国际单位的换算表。 \
+Endocrinology Expected Values and S.I. Unit Conversion Tables. （激素水平的期望值和国际单位的换算表。） \
 \[[PDF][pdf-6774e66f]]:
 
 *表格 8*：以 HPLC-MS/MS 测得的顺性别女性睾酮的水平：
@@ -315,8 +301,7 @@ Tanner 阶段 5,11.8–18.6,148,44–248
 ### ARUP Laboratories（未标注日期） {#arup-laboratories-undated}
 
 ARUP Laboratories. \
-Testosterone, Free and Total (Includes Sex Hormone Binding Globulin), Females or Children. \
-从出生到晚年，女性游离睾酮和总睾酮（含有与血蛋白结合的睾酮）水平的变化。 \
+Testosterone, Free and Total (Includes Sex Hormone Binding Globulin), Females or Children. （从出生到晚年，女性游离睾酮和总睾酮（含有与血蛋白结合的睾酮）水平的变化。） \
 \[[URL][aruplab-21b6fa86]] \[[Alt][aruplab-f7570a67]]:
 
 *表格 12*：以 HPLC-MS/MS 测得的顺性别女性睾酮的总水平和游离水平：
@@ -343,13 +328,11 @@ Tanner 阶段 5,11–62 ng/dL,0.8–9.2
 ### 其它相关研究 {#other-studies-2}
 
 - Kushnir, M. M., Rockwood, A. L., Roberts, W. L., Pattison, E. G., Bunker, A. M., Fitzgerald, R. L., & Meikle, A. W. (2006). \
-  Performance characteristics of a novel tandem mass spectrometry assay for serum testosterone. \
-  一种新型的血清睾酮串联质谱分析法的性能和特点。 \
+  Performance characteristics of a novel tandem mass spectrometry assay for serum testosterone. （一种新型的血清睾酮串联质谱分析法的性能和特点。） \
   *Clinical Chemistry*, *52*(1), 120–128. \[DOI:[10.1373/clinchem.2005.052167][doi-908df2b1]]
 
 - Kushnir, M. M., Blamires, T., Rockwood, A. L., Roberts, W. L., Yue, B., Erdogan, E., Bunker, A. M., & Meikle, A. W. (2010). \
-  LC-MS/MS assay for androstenedione, dehydroepiandrosterone and testosterone with pediatric and adult reference intervals. \
-  以 LC-MS/MS 测定雄烯二酮、脱氢表雄酮和睾酮在小儿和成人中的参考范围。 \
+  LC-MS/MS assay for androstenedione, dehydroepiandrosterone and testosterone with pediatric and adult reference intervals. （以 LC-MS/MS 测定雄烯二酮、脱氢表雄酮和睾酮在小儿和成人中的参考范围。） \
   *Clinical Chemistry*, *56*(7), 1138–1147. \[DOI:[10.1373/clinchem.2010.143222][doi-a1fce774]]
 
 [tfsci-8092b611]: https://transfemscience.org/about/#aly
