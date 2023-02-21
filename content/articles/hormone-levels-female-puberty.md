@@ -335,6 +335,15 @@ Tanner 阶段 5,11–62 ng/dL,0.8–9.2
   LC-MS/MS assay for androstenedione, dehydroepiandrosterone and testosterone with pediatric and adult reference intervals. （以 LC-MS/MS 测定雄烯二酮、脱氢表雄酮和睾酮在小儿和成人中的参考范围。） \
   *Clinical Chemistry*, *56*(7), 1138–1147. \[DOI:[10.1373/clinchem.2010.143222][doi-a1fce774]]
 
+---
+
+## 译文修订历史 {#revise-history}
+
+```csv
+时间,备注
+2023 年 2 月 6 日,首次翻译。
+```
+
 [tfsci-8092b611]: https://transfemscience.org/about/#aly
 [wiki-a2d601b6]: https://en.wikipedia.org/wiki/Puberty
 [wiki-7f0c48b1]: https://en.wikipedia.org/wiki/Mass_spectrometry
