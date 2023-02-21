@@ -111,6 +111,11 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 如需联系 Bersella AI，可发送邮件至 <tfsci@mtf.wiki>。
 
+### Aquaticat {#aquaticat}
+
+[GitHub 用户](https://github.com/Aquaticat)，已协助翻译了一篇此项目的文章。
+也参与了 [One Among Us](https://oneamong.us) 的翻译（中译英）。
+
 ### 其他来自 tfsci-sc 项目的译者 {#list-of-tfsci-sc-translators}
 
 在此感谢 ta 们早前的卓越贡献。没有 ta 们先行，就没有如今的这个存档站。\
@@ -127,11 +132,6 @@ Ta 们目前与 MtF.wiki 尚无直接联系。
 #### Sue-e89893 {#sue-e89893}
 
 [GitHub 用户](https://github.com/Sue-e89893)，曾翻译两篇文章。
-
-#### Aquaticat {#aquaticat}
-
-[GitHub 用户](https://github.com/Aquaticat)，已协助翻译了一篇此项目的文章。
-也参与了 [One Among Us](https://oneamong.us) 的翻译（中译英）。
 
 ## 联系译者 {#contact-translators}
 
