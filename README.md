@@ -18,8 +18,10 @@
 
 ## 联系方式
 
-如有任何对本站及诸译文的改进建议、勘误等，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
+如有任何对本站及诸译文的改进建议、勘误等，或希望投递未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
 此外，还可通过提交 Pull Request 对译文、[简繁术语对照表](scripts/CustomTW.txt)等进行改进。
+
+新译文应符合《[翻译指南][guideline]》的要求。
 
 ## 版权声明
 
@@ -27,7 +29,7 @@
 
 > 本站版权归 Aly 及本站其他撰稿人所有；保留一切权利。未经 Aly 允许，请勿对本站内容进行二次创作（如翻译项目）。如获得许可，请准确署名，并设置指向本站原文的链接。
 
-此外，本站设计元素与其它补充内容的版权归 MtF.wiki 所有。
+此外，本站设计元素与其它补充内容的版权归 MtF.wiki 所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
 
 --------
 
@@ -39,22 +41,26 @@ Accordingly, this project aims to bring these valued contents to Chinese readers
 For better experience and less workload for translation, the Translators would carefully pick up a subset of original articles to translate, and to further enhance the information on MtF.wiki. As such, this site can be considered as a reference or a pilot discussion for the subject of medications on MtF.wiki.\
 The original articles can be revised by their Authors *at any time*; also, the Translators may have little spare time or concentration on tracking such changes. Hence, **the interval of full revision** on translations has been determined to about **3 - 12 months**. The Translators would apologize for any inconvinience caused by out-dated contents.
 
+> Another language: Traditional Chinese is also provided. Note that this was converted using an automatic script, and may not comply with language conventions in Hong Kong, Macau or Taiwan.
+
 ## Thank you
 
 The Translators would thank [Aly][aly], the maintainer and one of the authors of *Transfeminine Science*, for her permission on this project.\
-Also, the Translators would thank contributors from the previous translating project [tfsci-sc/articles][origin-cn]; without their previous fantastic work, this project might not be ever established.
+Also, the Translators would thank contributors from the previous translating project [tfsci-sc/articles][origin-cn]; without their previous fantastic work, this project might have yet be ever established.
 
 The archive site is built with [Hugo][hugo], and deployed onto [Cloudflare Pages][site-url].
 
 ## Contact
 
-For any recommendations or erratum on this site or translations, please send an e-mail to <tfsci@mtf.wiki>; however, for any discussion on ideas from the articles, please contact directly to their corresponding Authors.\
+For any advice or erratum on this site or translations, or new translation for other articles, please send an e-mail to <tfsci@mtf.wiki>; however, for any discussion on ideas from the articles, please contact to their corresponding Authors instead.\
 Pull requests are welcomed as well.
+
+New translations should comply with the [Guidelines][guideline].
 
 ## Licenses
 
 All of the translations on this site comply under the [License][license] from *Transfeminine Science*.\
-The design and other supplements of this site are copyrights of MtF.wiki.
+The design and other supplements of this site are copyrights of MtF.wiki, and are licensed under the [Creative Commons Attribution-ShareAlike 4.0][license2] license.
 
 [wiki]: https://mtf.wiki
 [origin]: https://transfemscience.org
@@ -63,3 +69,5 @@ The design and other supplements of this site are copyrights of MtF.wiki.
 [hugo]: https://gohugo.io
 [site-url]: https://tfsci.mtf.wiki
 [license]: LICENSE.md
+[license2]: https://creativecommons.org/licenses/by-sa/4.0/
+[guideline]: https://tfsci.mtf.wiki/misc/terminology/

@@ -135,8 +135,10 @@ Ta 们目前与 MtF.wiki 尚无直接联系。
 
 ## 联系译者 {#contact-translators}
 
-如有任何对本站及诸译文的改进建议、勘误等，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
+如有任何对本站及诸译文的改进建议、勘误等，或希望投递其它未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
 此外，还可通过提交 [Pull Request](https://github.com/mtf-wiki/transfeminine-science/pulls) 对译文、简繁术语对照表等进行改进。
+
+新译文应符合《[翻译指南]({{< ref "terminology" >}})》的要求。
 
 ## 本存档站技术支持 {#supports}
 
