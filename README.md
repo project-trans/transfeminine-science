@@ -70,4 +70,4 @@ The design and other supplements of this site are copyrights of MtF.wiki, and ar
 [site-url]: https://tfsci.mtf.wiki
 [license]: LICENSE.md
 [license2]: https://creativecommons.org/licenses/by-sa/4.0/
-[guideline]: https://tfsci.mtf.wiki/misc/terminology/
+[guideline]: https://tfsci.mtf.wiki/misc/newcomer-guidelines/
