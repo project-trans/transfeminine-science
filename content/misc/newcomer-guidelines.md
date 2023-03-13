@@ -45,9 +45,7 @@ weight: 1
 
 最近一位热心读者 [Aquaticat]({{< ref "about#aquaticat" >}}) 联系到 Wiki 项目组成员，希望参与翻译项目；其通过 [Pull Request #7](https://github.com/mtf-wiki/transfeminine-science/pull/7) 投稿，在项目组的指引下前前后后修正超过 50 处问题。尽管该稿件从质量上不尽人意，但其问题基本上覆盖了翻译中常见的错误，具备一定指导意义。勘误细节参见[附录三]({{< ref "#erratum" >}})。
 
-
 --------
-
 
 ## 附录一、缩写译名参考 {#abbreviations}
 
@@ -147,7 +145,7 @@ Transfeminine people,女性倾向跨性别者
 
 > 被翻译的原文参见《[顺性别女性发育期的激素水平](https://transfemscience.org/articles/hormone-levels-female-puberty/)》。
 
-### 原始稿件的勘误
+### 原始稿件的勘误 {#errata-unrevised}
 
 原始稿件全文见此 [commit](https://github.com/mtf-wiki/transfeminine-science/pull/7/commits/e82345084144f8a45438b4da032cd2745c7f9bcd)。
 
@@ -174,7 +172,7 @@ Transfeminine people,女性倾向跨性别者
 
 ```markdown
 Esoterix/LabCorp. (2020). Endocrinology Expected Values and S.I. Unit Conversion
-Tables. [[PDF](https://web.archive.org/web/20200330030510/https://www.esoterix.com/sites/default/files/L5167-0320-17.pdf)] 
+Tables. [[PDF](https://web.archive.org/web/20200330030510/https://www.esoterix.com/sites/default/files/L5167-0320-17.pdf)]
 （激素水平的期望值和 S.I. 单位的换算表）：
 ```
 
@@ -225,7 +223,6 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 > （原标题：Estradiol levels and secretory dynamics in normal girls and boys as determined by an ultrasensitive bioassay: a 10 year experience.）
 
 “少男”在现代中文语境中已不再使用。另外 ultrasensitive 不适宜用“精密”表述，“超灵敏”更符合原意。
-
 
 **第 96 行：**
 
@@ -315,7 +312,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 此译文同样令人不明所以。首先，Sex Hormone-Binding Globulin（SHBG）有一个明确的中文称谓“性激素结合球蛋白”；而“Free”没有“活跃”之意，Free testosterone（游离睾酮）也是明确的内分泌学概念，指血液中未与其它蛋白（含 SHBG）结合的睾酮，可参见《[性激素与 SHBG 的相互作用]({{< ref "shbg" >}})》。\
 其次，在原标题本身已非完整段落的情况下（这种情况很常见），翻译时要适当加以修饰，使句意完整。经指正，最终采用“从出生到晚年，女性游离睾酮和总睾酮（含有与血蛋白结合的睾酮）水平的变化”。
 
-### 第一次修订后的勘误
+### 第一次修订后的勘误 {#errata-revision-1}
 
 第一次修订后的全文见此 [commit](https://github.com/mtf-wiki/transfeminine-science/pull/7/commits/0165313b48fbe1f34fde34134d48f0b90e67522e)。该版本仍有遗漏之处。
 
@@ -324,7 +321,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 ```markdown
 |                 | 雌二醇           | 雌酮           |
 |-----------------|---------------|--------------|
-| 生命阶段或年龄         | 参考范围 (pg/mL)	 | 参考范围 (pg/mL) |
+| 生命阶段或年龄         | 参考范围 (pg/mL)  | 参考范围 (pg/mL) |
 ```
 
 可以考虑合并这两行行首。
@@ -347,7 +344,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 
 **第 216~218 行：** 遗漏了“years”。
 
-### 第二次修订后的勘误
+### 第二次修订后的勘误 {#errata-revision-2}
 
 第二次修订后的全文见此 [commit](https://github.com/mtf-wiki/transfeminine-science/pull/7/commits/09755b3b65eef8eec4717bcb2b5932473660b0e7)。
 
@@ -386,4 +383,3 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 > 一种新型的血清睾丸激素串联质谱分析法的性能和特点。
 
 细则第 3 条：同一术语应*至少* 在同一文章内有一致的译名。不能这边用“睾丸激素”，那边用“睾酮”。
-
