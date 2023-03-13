@@ -7,7 +7,7 @@ keywords: [戊酸雌二醇, 注射剂, 印雌, 日雌, Estraproval Depot]
 
 <section class="box">
 
-**译者按：** 本文为印度那格浦尔市 Modern Agencies 公司的戊酸雌二醇注射剂（Estraproval Depot）说明书翻译。说明书原文[见此](/images/misc/estraproval-depot.jpeg)。\
+**译者按：** 本文为印度那格浦尔市 Modern Agencies 公司的戊酸雌二醇注射剂（Estraproval Depot）说明书翻译。说明书原文[见此](estraproval-depot.jpeg)。\
 因每毫升成分与日本富士制药的产品（俗称“日雌”）皆为 10 mg 戊酸雌二醇，本说明书应当也适用于“日雌”。但后者的说明书可能与此有别，故本文仅供参考。
 
 **请仔细阅读说明书并在医师指导下使用**
