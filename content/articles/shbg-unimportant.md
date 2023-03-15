@@ -13,6 +13,8 @@ tags:
   - 雌激素
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
 keywords: [HRT, 雌激素, SHBG, 性激素结合球蛋白]
+aliases:
+  - shbg
 ---
 
 ## 译者按 {#notice}

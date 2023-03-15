@@ -309,7 +309,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 >
 > （原标题：Testosterone, Free and Total (Includes Sex Hormone Binding Globulin), Females or Children.）
 
-此译文同样令人不明所以。首先，Sex Hormone-Binding Globulin（SHBG）有一个明确的中文称谓“性激素结合球蛋白”；而“Free”没有“活跃”之意，Free testosterone（游离睾酮）也是明确的内分泌学概念，指血液中未与其它蛋白（含 SHBG）结合的睾酮，可参见《[性激素与 SHBG 的相互作用]({{< ref "shbg" >}})》。\
+此译文同样令人不明所以。首先，Sex Hormone-Binding Globulin（SHBG）有一个明确的中文称谓“性激素结合球蛋白”；而“Free”没有“活跃”之意，Free testosterone（游离睾酮）也是明确的内分泌学概念，指血液中未与其它蛋白（含 SHBG）结合的睾酮，可参见《[性激素与 SHBG 的相互作用]({{< ref "shbg-unimportant" >}})》。\
 其次，在原标题本身已非完整段落的情况下（这种情况很常见），翻译时要适当加以修饰，使句意完整。经指正，最终采用“从出生到晚年，女性游离睾酮和总睾酮（含有与血蛋白结合的睾酮）水平的变化”。
 
 ### 第一次修订后的勘误 {#errata-revision-1}
