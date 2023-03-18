@@ -2,6 +2,7 @@
 title: 关于本站
 linkTitle: 关于
 description: 关于 Transfeminine Science 以及中文译本存档站的详情
+trackHash: 60de3f6740360e6ac761d81d521035122b917466
 weight: 4
 ---
 
@@ -41,7 +42,7 @@ Aly 多年来曾活跃于 Reddit 与 Discord 等平台上跨性别网络社群�
 ### Mitzi {#mitzi}
 
 Mitzi （代词：她/Ta）来自英国伦敦，是一名非二元性别（女性倾向）人士。她在自行安排 HRT 用药（DIY）的社群中尤其活跃，在其中她作为指导者，向社群倡导在自行用药当中[控制药物损害][wiki-harmredu]。\
-Mitzi 常在线上和线下，对跨性别者遭遇无家可归、家庭暴力、医疗歧视与药物滥用等情况进行指引；还在一些基层组织（例如[跨性别医疗服务网络][twi-thn]、[性别形象确立工具包][gck]等）担任顾问。
+Mitzi 常在线上和线下，对跨性别者遭遇无家可归、家庭暴力、医疗歧视与药物滥用等情况进行指引；还在一些基层组织（包括[跨性别医疗服务网络][twi-thn]、[性别形象确立工具包][gck]、网络论坛 [Bluelight][wiki-bluelight] 等）担任顾问。
 
 Mitzi 对医学界有广泛兴趣，而对内分泌学与精神药理学尤为关注。她对英国的跨性别医疗系统作了直言不讳的批评，在其性别转变过程中也采取了自行用药的方式。
 
@@ -80,7 +81,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ## 免责声明 {#disclaimer}
 
-本站的撰稿人<sup>（也包括译者）</sup>皆非医学专业或学术研究人士。本站文章已经过其他撰稿人的非正式[同行评议][wiki-pr]，但从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与[绝大部分医学文献][literature]的一种指引性或补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。
+本站的撰稿人<sup>（也包括译者）</sup>皆非医学专业或学术研究人士。本站文章已经过其他撰稿人的非正式[同行评议][wiki-pr]，但从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与绝大部分医学文献的一种指引性或补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。
 
 不过，我们知悉许多女性倾向跨性别者正在其激素治疗中[自行安排用药][wiki-diy]，我们也打算帮助这些医疗资源匮乏的重要人群普及相关知识。
 
@@ -106,7 +107,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ### Bersella AI {#bersella-ai}
 
-跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在网络社区 [Limelight](https://limelight.moe) 总计发布 9 篇文章的翻译。\
+跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇文章的翻译。\
 随后加入 <https://MtF.wiki> 工作组，正式开始系统性整理工作。
 
 如需联系 Bersella AI，可发送邮件至 <tfsci@mtf.wiki>。
@@ -118,16 +119,16 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ### 其他来自 tfsci-sc 项目的译者 {#list-of-tfsci-sc-translators}
 
-在此感谢 ta 们早前的卓越贡献。没有 ta 们先行，就没有如今的这个存档站。\
+本站成立之前，还有三名 *Transfeminine Science* 的热心读者曾在原 *Limelight* 社区与 <https://github.com/tfsci-sc/articles> 项目上发表译文。**在此感谢 ta 们早前的卓越贡献。** 没有 ta 们先行，就没有如今的这个存档站。\
 Ta 们目前与 MtF.wiki 尚无直接联系。
 
 #### yucandy {#yucandy}
 
-[Limelight](https://limelight.moe/u/yucandy) 与 [GitHub](https://github.com/yucandy) 用户，<https://github.com/tfsci-sc/articles> 项目的创始人。曾翻译两篇文章，也参与了“[性别烦躁指南](https://genderdysphoria.fyi/zh)”（*This is Gender Dysphoria, FYI*）的翻译。
+GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 项目的创始人。曾翻译两篇文章，也参与了“[性别烦躁指南](https://genderdysphoria.fyi/zh)”（*This is Gender Dysphoria, FYI*）的翻译。
 
 #### 昭心 {#昭心}
 
-[Limelight 用户](https://limelight.moe/u/昭心)，曾翻译两篇文章。
+原 *Limelight* 社区成员，曾翻译两篇文章。
 
 #### Sue-e89893 {#sue-e89893}
 
@@ -154,7 +155,6 @@ Ta 们目前与 MtF.wiki 尚无直接联系。
 [simulator]: https://transfemscience.org/misc/injectable-e2-simulator/
 [simulator-adv]: https://transfemscience.org/misc/injectable-e2-simulator-advanced/
 [guidelines]: https://transfemscience.org/articles/transfem-hormone-guidelines/
-[literature]: https://transfemscience.org/articles/research-trans-literature/
 
 <!-- Aly 的贡献 -->
 
@@ -174,6 +174,7 @@ Ta 们目前与 MtF.wiki 尚无直接联系。
 [wiki-uc]: https://en.wikipedia.org/wiki/University_of_California
 [wiki-rit]: https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology
 [wiki-harmredu]: https://en.wikipedia.org/wiki/Harm_reduction
+[wiki-bluelight]: https://en.wikipedia.org/wiki/Bluelight_(web_forum)
 [wiki-dpa]: https://en.wikipedia.org/wiki/Drug_Policy_Alliance
 [wiki-ssdp]: https://en.wikipedia.org/wiki/Students_for_Sensible_Drug_Policy
 [wiki-maps]: https://en.wikipedia.org/wiki/Multidisciplinary_Association_for_Psychedelic_Studies
