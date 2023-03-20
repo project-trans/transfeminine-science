@@ -43,7 +43,7 @@ weight: 1
 
 ## 四、示例 {#practices}
 
-最近一位热心读者 [Aquaticat]({{< ref "about#aquaticat" >}}) 联系到 Wiki 项目组成员，希望参与翻译项目；其通过 [Pull Request #7](https://github.com/mtf-wiki/transfeminine-science/pull/7) 投稿，在项目组的指引下前前后后修正超过 50 处问题。尽管该稿件从质量上不尽人意，但其问题基本上覆盖了翻译中常见的错误，具备一定指导意义。勘误细节参见[附录三]({{< ref "#erratum" >}})。
+最近一位热心读者 [Aquaticat]({{< ref "about#aquaticat" >}}) 联系到 Wiki 项目组成员，希望参与翻译项目；其通过 [Pull Request #7](https://github.com/project-trans/transfeminine-science/pull/7) 投稿，在项目组的指引下前前后后修正超过 50 处问题。尽管该稿件从质量上不尽人意，但其问题基本上覆盖了翻译中常见的错误，具备一定指导意义。勘误细节参见[附录三]({{< ref "#erratum" >}})。
 
 --------
 
@@ -147,7 +147,7 @@ Transfeminine people,女性倾向跨性别者
 
 ### 原始稿件的勘误 {#errata-unrevised}
 
-原始稿件全文见此 [commit](https://github.com/mtf-wiki/transfeminine-science/pull/7/commits/e82345084144f8a45438b4da032cd2745c7f9bcd)。
+原始稿件全文见此 [commit](https://github.com/project-trans/transfeminine-science/pull/7/commits/e82345084144f8a45438b4da032cd2745c7f9bcd)。
 
 **第 26 行：**
 
@@ -314,7 +314,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 
 ### 第一次修订后的勘误 {#errata-revision-1}
 
-第一次修订后的全文见此 [commit](https://github.com/mtf-wiki/transfeminine-science/pull/7/commits/0165313b48fbe1f34fde34134d48f0b90e67522e)。该版本仍有遗漏之处。
+第一次修订后的全文见此 [commit](https://github.com/project-trans/transfeminine-science/pull/7/commits/0165313b48fbe1f34fde34134d48f0b90e67522e)。该版本仍有遗漏之处。
 
 **第 94~96 行表格行首：**
 
@@ -346,7 +346,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 
 ### 第二次修订后的勘误 {#errata-revision-2}
 
-第二次修订后的全文见此 [commit](https://github.com/mtf-wiki/transfeminine-science/pull/7/commits/09755b3b65eef8eec4717bcb2b5932473660b0e7)。
+第二次修订后的全文见此 [commit](https://github.com/project-trans/transfeminine-science/pull/7/commits/09755b3b65eef8eec4717bcb2b5932473660b0e7)。
 
 **第 140~147 行表格：** 数据与原文对应的 Madsen et al. (2020) 所列数据南辕北辙。这提示在手打数据时应仔细校对。\
 不过，内部使用的 [Markdown 底稿]({{< ref "#resources" >}})可以避免数据出错。

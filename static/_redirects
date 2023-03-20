@@ -2,7 +2,7 @@
 /favicon.ico /favicon.png
 /security.txt https://mtf.wiki/.well-known/security.txt
 /.well-known/security.txt https://mtf.wiki/.well-known/security.txt
-/humans.txt https://github.com/mtf-wiki/transfeminine-science/graphs/contributors
+/humans.txt https://github.com/project-trans/transfeminine-science/graphs/contributors
 /about.html /zh-cn/about/ 301
 /LICENSE.md /zh-cn/misc/license/ 301
 /articles/bica-adoption.html /zh-cn/articles/bica-adoption/ 301

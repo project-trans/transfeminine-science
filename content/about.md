@@ -98,7 +98,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 ## 关于此翻译项目 {#translation-project}
 
 本站系对“女性倾向跨性别者科学”（[Transfeminine Science](https://transfemscience.org)）网站之原创文章的中文翻译存档站点，2022 年十月创立。\
-本站基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 MtF.wiki 工作组[自主维护](https://github.com/mtf-wiki/transfeminine-science)。\
+本站基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 MtF.wiki 工作组[自主维护](https://github.com/project-trans/transfeminine-science)。\
 更多详情可见本站的《[开放声明]({{< ref "announcement-mtfwiki" >}})》。
 
 原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本站工作，并授权本站仅存档简体中文/繁体中文内容。
@@ -137,7 +137,7 @@ GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 
 ## 联系译者 {#contact-translators}
 
 如有任何对本站及诸译文的改进建议、勘误等，或希望投递其它未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
-此外，还可通过提交 [Pull Request](https://github.com/mtf-wiki/transfeminine-science/pulls) 对译文、简繁术语对照表等进行改进。
+此外，还可通过提交 [Pull Request](https://github.com/project-trans/transfeminine-science/pulls) 对译文、简繁术语对照表等进行改进。
 
 新译文应符合《[翻译指南]({{< ref "newcomer-guidelines" >}})》的要求。
 
