@@ -1,10 +1,10 @@
-# Transfeminine Science (MtF.wiki Chinese Copy)
+# Transfeminine Science (Project Trans Chinese Copy)
 
 → *[English Introduction](#welcome)*
 
-欢迎来到 [MtF.wiki][wiki] 附属的“女性倾向跨性别者科学”（*[Transfeminine Science][origin]*）中文译本存档站。原文由一群非相关专业出身、却热情洋溢的多国跨性别人士所作，旨在为**女性化激素治疗**提供力所能及的指引，行文严谨、讨论细致、引经据典，具有相当的可信度。本项目则旨在**忠实转达**这些文章的内容和观点，以资参考。
+欢迎来到 [Project Trans][team] 附属的“女性倾向跨性别者科学”（*[Transfeminine Science][origin]*）中文译本存档站。原文由一群非相关专业出身、却热情洋溢的多国跨性别人士所作，旨在为**女性化激素治疗**提供力所能及的指引，行文严谨、讨论细致、引经据典，具有相当的可信度。本项目则旨在**忠实转达**这些文章的内容和观点，以资参考。
 
-为便于翻阅、减少翻译工作量，本站译者会从上百篇原文当中精心挑选一部分进行翻译；同时，边翻译边学习，促进 MtF.wiki 内容的完善。因此，本站内容可视作对 MtF.wiki 药物板块的先行或拓展参考。\
+为便于翻阅、减少翻译工作量，本站译者会从上百篇原文当中精心挑选一部分进行翻译；同时，边翻译边学习，促进 <https://MtF.wiki> 内容的完善。因此，本站内容可视作对 MtF.wiki 药物板块的先行或拓展参考。\
 由于原文内容随时会修订，而本站译者不一定有时间与精力实时跟进；因此，**译文修订间隔**暂定为 **3 - 12 个月**。如有不便，敬请谅解。
 
 > 本站除簡體中文外，還提供繁體中文版本，以便港澳台用戶閱覽；需要注意，此版本從簡體中文底稿自動轉換而來，或與港澳台地區語言習慣不符。
@@ -25,23 +25,23 @@
 
 ## 版权声明
 
-本站文章适用于 *Transfeminine Science* 的版权声明（[原文][license]）：
+本站译文适用于 *Transfeminine Science* 的版权声明（[原文][license]）：
 
 > 本站版权归 Aly 及本站其他撰稿人所有；保留一切权利。未经 Aly 允许，请勿对本站内容进行二次创作（如翻译项目）。如获得许可，请准确署名，并设置指向本站原文的链接。
 
-此外，本站设计元素与其它补充内容的版权归 MtF.wiki 所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
+此外，本站设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
 
 --------
 
 ## Welcome
 
-Welcome to the Archive Site of Chinese Translations, a project under [MtF.wiki][wiki], to *[Transfeminine Science][origin]*. The original articles were written by non-professional but highly dedicated transgender individuals from several countries, for the purpose of providing useful information on *feminizing hormone therapy*, and with causal analysis, detailed discussions and enormous references, all of which have made them highly acceptable and reliable.\
+Welcome to the Archive Site of Chinese Translations, a project under the voluntary [Project Trans][team], on *[Transfeminine Science][origin]*. The original articles were written by non-professional but highly dedicated transgender individuals from several countries, for the purpose of providing useful information on *feminizing hormone therapy*, and with causal analysis, detailed discussions and enormous references, all of which have made them highly acceptable and reliable.\
 Accordingly, this project aims to bring these valued contents to Chinese readers, as accurately and fluently as possible, for reference.
 
-For better experience and less workload for translation, the Translators would carefully pick up a subset of original articles to translate, and to further enhance the information on MtF.wiki. As such, this site can be considered as a reference or a pilot discussion for the subject of medications on MtF.wiki.\
-The original articles can be revised by their Authors *at any time*; also, the Translators may have little spare time or concentration on tracking such changes. Hence, **the interval of full revision** on translations has been determined to about **3 - 12 months**. The Translators would apologize for any inconvinience caused by out-dated contents.
+For better experience and less workload for translation, the Translators would carefully pick up a subset of original articles to translate, and to further enhance the information on <https://MtF.wiki>. As such, this site can be considered as a reference or a pilot discussion for the subject of medications on MtF.wiki.\
+The original articles can be revised by their Authors *at any time*; also, the Translators may have limited spare time or concentration on keeping track of such changes. Hence, **the interval of full revision** on translations has been determined to about **3 - 12 months**. The Translators would apologize for any inconvinience caused by out-dated contents.
 
-> Another language: Traditional Chinese is also provided. Note that this was converted using an automatic script, and may not comply with language conventions in Hong Kong, Macau or Taiwan.
+> Another language: Traditional Chinese is also provided. Note that this was implemented using an automatic script, and may not comply with language conventions in Hong Kong, Macau or Taiwan.
 
 ## Thank you
 
@@ -52,7 +52,7 @@ The archive site is built with [Hugo][hugo], and deployed onto [Cloudflare Pages
 
 ## Contact
 
-For any advice or erratum on this site or translations, or new translation for other articles, please send an e-mail to <tfsci@mtf.wiki>; however, for any discussion on ideas from the articles, please contact to their corresponding Authors instead.\
+For any advice or erratum on this site or translations, or any new translation on other articles, please send an e-mail to <tfsci@mtf.wiki>; however, for any discussion on ideas from the articles, please contact to their corresponding Authors instead.\
 Pull requests are welcomed as well.
 
 New translations should comply with the [Guidelines][guideline].
@@ -60,9 +60,9 @@ New translations should comply with the [Guidelines][guideline].
 ## Licenses
 
 All of the translations on this site comply under the [License][license] from *Transfeminine Science*.\
-The design and other supplements of this site are copyrights of MtF.wiki, and are licensed under the [Creative Commons Attribution-ShareAlike 4.0][license2] license.
+The design and other supplements of this site are copyrights of Project Trans, and are licensed under the [Creative Commons Attribution-ShareAlike 4.0][license2] license.
 
-[wiki]: https://mtf.wiki
+[team]: https://project-trans.org
 [origin]: https://transfemscience.org
 [aly]: https://transfemscience.org/about/#aly
 [origin-cn]: https://github.com/tfsci-sc/articles

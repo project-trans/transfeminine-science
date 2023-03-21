@@ -4,7 +4,7 @@ theme: tfsci
 copyright: >-
   &copy; 2023
   [Transfeminine Science](https://transfemscience.org) and
-  [MtF.wiki](https://mtf.wiki)
+  [Project Trans](https://project-trans.org)
 
 languageCode: zh-cn
 hasCJKLanguage: true
@@ -17,8 +17,8 @@ enableRobotsTXT: true
 googleAnalytics: G-TKT26VDTW3
 
 author:
-  name: MtF.wiki
-  url: https://mtf.wiki
+  name: Project Trans
+  url: https://project-trans.org
   email: tfsci@mtf.wiki
 
 # params:
