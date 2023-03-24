@@ -139,7 +139,7 @@ GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 
 如有任何对本站及诸译文的改进建议、勘误等，或希望投递其它未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
 此外，还可通过提交 [Pull Request](https://github.com/project-trans/transfeminine-science/pulls) 对译文、简繁术语对照表等进行改进。
 
-新译文应符合《[翻译指南]({{< ref "newcomer-guidelines" >}})》的要求。
+撰写新译文之前，宜参考《[翻译指南]({{< ref "newcomer-guidelines" >}})》，其中的要求和案例会有助于提升译文质量和可读性。
 
 ## 本存档站技术支持 {#supports}
 
