@@ -115,7 +115,7 @@ CPA 以外的孕激素和妊娠也被认为与脑膜瘤有关，也曾有过脑�
 
 ## 后记 {#updates}
 
-### 后记一 {#update-1}
+### 后记一：Weill 等人 (2021) 所作法国政府研究的论文 {#update-1-weill-et-al-2021-french-government-study}
 
 2021 年 2 月，上述由法国政府牵头的研究以正式的科学文献发表：
 
@@ -125,7 +125,7 @@ CPA 以外的孕激素和妊娠也被认为与脑膜瘤有关，也曾有过脑�
 
 一篇刊载于 Medscape 上的 [文章][medscape1] 提及了这项研究，并讨论了对 CPA 使用的后续限制。
 
-### 后记二 {#update-2}
+### 后记二：Mikkelsen 等人 (2021) 所作丹麦全国性研究论文 {#update-2-mikkelsen-et-al-2021-danish-national-study}
 
 丹麦的一项全国性研究复现了上文所载发现（并于 2020 年 12 月在 [medRxiv][medrxiv] 上发布）：
 
@@ -139,22 +139,22 @@ CPA 以外的孕激素和妊娠也被认为与脑膜瘤有关，也曾有过脑�
   Cyproterone acetate and risk of meningioma: a nationwide cohort study. *Journal of Neurology, Neurosurgery & Psychiatry*.
   \[DOI:[10.1136/jnnp-2021-326138][m21]]
 
-### 后记三 {#update-3}
+### 后记三：VUMC 正以 GnRH 激动剂代替 CPA {#update-3-vumc-switching-from-cpa-to-gnrh-agonists}
 
 截至 2020 年 8 月，[阿姆斯特丹自由大学医学中心][wiki12]（VUMC）将所有跨性别者的抗雄激素治疗从醋酸环丙孕酮改为促性腺激素释放激素（GnRH）激动剂；这项改变是出于荷兰药品管理局发布的关于 CPA 诱发脑膜瘤的警告<sup>([VUMC, 2020][vumc20])</sup>。\
 VUMC 是 [性别焦虑专家中心][wiki13] 的所在地，该中心是世界上规模最大的跨性别激素治疗护理和研究机构之一，在该领域具有很高的影响力<sup>([Wiepjes et al., 2018][w18]; [Bakker, 2021][b21])</sup>。据说 VUMC 为荷兰约 95% 的寻求激素治疗的跨性别者提供激素治疗，自 1972 年开设性别诊所以来，已为约一万名跨性别者提供治疗<sup>(Wiepjes et al., 2018; Bakker, 2021)</sup>。
 
 <!-- 以下片段为 2021 年 10 月以来增补的 -->
 
-### 后记四 {#update-4}
+### 后记四：Millward 等人 (2021) 所作评述 {#update-4-millward-et-al-2021}
 
 2021 年 10 月，一篇对 CPA 引起的脑膜瘤进行系统性评述的论文公开发表：
 
-- Millward, C. P., Keshwara, S. M., Islim, A. I., Jenkinson, M. D., Alalade, A. F., & Gilkes, C. E. (2021).
+- Millward, C. P., Keshwara, S. M., Islim, A. I., Jenkinson, M. D., Alalade, A. F., & Gilkes, C. E. (2022).
   Development and Growth of Intracranial Meningiomas in Transgender Women Taking Cyproterone Acetate as Gender-Affirming Progestogen Therapy: A Systematic Review.
-  *Transgender Health*. \[DOI: <https://doi.org/10.1089/trgh.2021.0025>]
+  *Transgender Health*, *7*(6), 473–483. \[DOI: <https://doi.org/10.1089/trgh.2021.0025>]
 
-### 后记五 {#update-5}
+### 后记五：Lee 等人 (2022) 所作论文 {#update-5-lee-et-al-2022}
 
 2022 年 2 月，一篇对 CPA 引起的脑膜瘤进行系统性荟萃分析及评述的论文公开发表：
 
@@ -164,13 +164,13 @@ VUMC 是 [性别焦虑专家中心][wiki13] 的所在地，该中心是世界上
 
 该论文为《[科学日报][l22-sd]》及《[医学快讯][l22-mx]》的新闻内容所提及。
 
-### 后记六 {#update-6}
+### 后记六：Samoyeau 等人 (2022) 所作论文 {#update-6-samoyeau-et-al-2022}
 
 2022 年 9 月，一项在法国进行的、对使用高剂量合成孕酮制剂治疗的人群的脑膜瘤发生率进行系统性筛查的研究，公开发表了其论文：
 
 - Samoyeau, T., Provost, C., Roux, A., Legrand, L., Dezamis, E., Plu-Bureau, G., Pallud, J., Oppenheim, C., & Benzakoun, J. (2022).
   Meningioma in patients exposed to progestin drugs: results from a real-life screening program.
-  *Journal of Neuro-Oncology*, advance online publication. \[DOI: <https://doi.org/10.1007/s11060-022-04124-2>]
+  *Journal of Neuro-Oncology*, *160*(1), 127-136. \[DOI: <https://doi.org/10.1007/s11060-022-04124-2>]
 
 其结果显示，由 103 人组成的该群体，有 13 人因 CPA 而罹患脑膜瘤，发生率达到惊人的 13%。这项数字远比一般人群中约 1–2% 的诱导性脑膜瘤发生率要高。论文作者还提到，在该项目观测到的 13% 发生率很可能还被低估了，因为大多数因 CPA 引起的脑膜瘤病例或许在接受系统性筛查之前便已被确诊。相应地，脑膜瘤年化发生率则为每年每十万人 13.2 例。\
 和其它研究相似，脑膜瘤的发生也被认为和更长的 CPA 使用时间、更高的 CPA 累积剂量与更大的年龄有关。\
@@ -184,7 +184,7 @@ VUMC 是 [性别焦虑专家中心][wiki13] 的所在地，该中心是世界上
 时间,备注
 2021 年 10 月 29 日,首次翻译。
 2022 年 10 月 20 日,第一次修订，梳理全文叙述，增补“后记四～六”内容，整理外链。
-2023 年 3 月 28 日,第二次修订，更新用药建议。
+2023 年 3 月 28 日,第二次修订，更新用药建议及诸后记标题、引用等。
 ```
 
 <!-- 维基百科条目 -->

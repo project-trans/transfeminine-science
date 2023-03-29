@@ -73,7 +73,7 @@ keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
 
 ## 后记 {#updates}
 
-### 后记一：Thompson 等人 (2021) 所作芬威健康《指南》 {#update-1}
+### 后记一：Thompson 等人 (2021) 所作芬威健康《指南》 {#update-1-thompson-et-al-2021-fenway-health-guidelines}
 
 2021 年 3 月，[芬威健康][wiki54]《跨性别健康临床实践指南》自 2015 年 10 月以来首次获得更新<sup>([Aly, 2020][A20-THG])</sup>：
 
@@ -85,7 +85,7 @@ keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
 
 这是第一份允许使用比卡鲁胺的《跨性别护理指南》，也是第二份纳入了比卡鲁胺的《指南》——首次纳入的是 UCSF 版《指南》，但其并不允许女性倾向跨性别者使用之。
 
-### 后记二：Tomson 等人 (2021) 所作 SAHCS《指南》 {#update-2}
+### 后记二：Tomson 等人 (2021) 所作 SAHCS《指南》 {#update-2-tomson-et-al-2021-sahcs-guidelines}
 
 2021 年 9 月，[南非洲艾滋病医师协会][SAHIV]（SAHCS）首次发表了针对跨性别护理的《临床指南》：
 
@@ -93,7 +93,7 @@ keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
 
 令人惊异的是，该《指南》不仅纳入了比卡鲁胺，而且其推荐作为抗雄制剂的程度更甚于螺内酯与醋酸环丙孕酮。对于原因，其写道：“损耗神经甾体的风险更低，因其并不易穿过血脑屏障”。不过，此效应并非除 [5α-还原酶抑制剂][wiki55]以外的抗雄制剂所引起的已知顾虑之一；而事实上，比卡鲁胺的确能够渗透到人体的神经中枢<sup>([维基百科][wiki56-d])</sup>。此外，该《指南》并未提及和比卡鲁胺相关的肝毒性或肝转化酶监测，这同样令人诧异。考虑到以上明显疏忽及其它因素，应当谨慎对待其推荐的理由。
 
-### 后记三：Coleman 等人 (2022) 所作 WPATH SOC8《指南》 {#update-3}
+### 后记三：Coleman 等人 (2022) 所作 WPATH SOC8《指南》 {#update-3-coleman-et-al-2022-wpath-soc8-guidelines}
 
 2022 年 9 月，[世界跨性别人士健康专业协会][wpath]（WPATH）发布了第八版《[跨性别及性别多元化人群健康护理标准][soc8]》（SOC8）<sup>([Coleman et al., 2022][C22])</sup>。该《标准》是现有最权威的跨性别护理指南之一，由健康护理专家担任顾问。此指南在以下两个片段中简要讨论了比卡鲁胺：
 
@@ -104,7 +104,7 @@ keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
 
 如上文所述，由于缺乏相关研究、且有潜在风险，《标准》并未建议将比卡鲁胺用于女性倾向跨性别者的常规治疗。本文也已提到，在比卡鲁胺得到主流《跨性别护理指南》的认可之前，可能还需要更多研究探索其用于女性倾向跨性别者的情况。
 
-### 后记四：Jamie Reed 报告的因比卡鲁胺引起肝毒性的病例 {#update-4}
+### 后记四：Jamie Reed 报告的因比卡鲁胺引起肝毒性的病例 {#update-4-jamie-reed-bicalutamide-liver-toxicity-case}
 
 2022 年二月，曾在美国密苏里州[圣路易斯儿童医院][wiki57]的[华盛顿大学跨性别中心][WUTC]担任个案经理的 Jamie Reed，在保守派网络媒体《[自由报][wiki58]》上发表了一篇专栏文章《[我曾认为我在拯救跨性别儿童，但现在我要告发][R23]》。Reed 写道，她对青年跨性别者的医疗服务大失所望，并为此表达不满。不过，她简略提到一起传闻在该中心发生的、因比卡鲁胺引起肝毒性的女性倾向跨性别者病例。据称该病例年龄为 15 岁，接受该中心的联合创始人之一：[Christopher Lewis][WUSTL-profile] 博士开出的比卡鲁胺（作为青春期阻断剂）治疗；其随后出现肝毒性，停用了比卡鲁胺。其母亲在联系该中心时说：“你们该庆幸，我们不是那种讼棍。”此案例连同 Reed 的专栏文章，在福克斯新闻、《每日邮报》等保守派媒体当中被广泛传播<sup>([Google 搜索][google-search])</sup>。\
 除了这篇专栏文章，Reed 还向密苏里州的共和党检察长 [Andrew Bailey][wiki59] 递交了一份经宣誓的证词，此后该检察长发起了对这家诊所的调查<sup>([密苏里州政府, 2023][MG23])</sup>。该证词的部分内容如下：
@@ -167,7 +167,7 @@ keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
 - Moreno-Pérez, Ó., De Antonio, I. E., & Grupo de Identidad y Diferenciación Sexual de la SEEN (GIDSEEN. (2012). Clinical practice guidelines for assessment and treatment of transsexualism. SEEN Identity and Sexual Differentiation Group (GIDSEEN). *Endocrinología y Nutrición (English Edition)*, *59*(6), 367–382. \[DOI:[10.1016/j.endoen.2012.07.004][MP12]]
 - Moretti, C. G., Guccione, L., Di Giacinto, P., Cannuccia, A., Meleca, C., Lanzolla, G., Andreadi, A., & Lauro, D. (2016). Efficacy and Safety of Myo-Inositol Supplementation in the Treatment of Obese Hirsute PCOS Women: Comparative Evaluation with OCP+Bicalutamide Therapy. *Endocrine Reviews*, *37*(2 Suppl 1) (SUN-153). \[[URL][M16]] \[DOI:[10.1093/edrv/37.supp.1][M16-DOI]]
 - Moretti, C., Guccione, L., Di Giacinto, P., Simonelli, I., Exacoustos, C., Toscano, V., Motta, C., De Leo, V., Petraglia, F., & Lenzi, A. (2018). Combined oral contraception and bicalutamide in polycystic ovary syndrome and severe hirsutism: a double-blind randomized controlled trial. *The Journal of Clinical Endocrinology & Metabolism*, *103*(3), 824–838. \[DOI:[10.1210/jc.2017-01186][M18]]
-- Moussa, A., Kazmi, A., Bokhari, L., & Sinclair, R. D. (2021). Bicalutamide improves minoxidil-induced hypertrichosis in female pattern hair loss: A retrospective review of 35 patients. *Journal of the American Academy of Dermatology*, online ahead of print. \[DOI:[10.1016/j.jaad.2021.10.048][M21]]
+- Moussa, A., Kazmi, A., Bokhari, L., & Sinclair, R. D. (2022). Bicalutamide improves minoxidil-induced hypertrichosis in female pattern hair loss: A retrospective review of 35 patients. *Journal of the American Academy of Dermatology*, *87*(2), 488-490. \[DOI:[10.1016/j.jaad.2021.10.048][M21]]
 - Muderris, I. I., Bayram, F., & Guven, M. (1999). Bicalutamide 25 mg/day in the treatment of hirsutism. *Human Reproduction*, *14*(Suppl 3), 366–366 (R-196). \[DOI:[10.1093/humrep/14.Suppl\_3.366-a][MBG99]]
 - Müderris, I. I., Bayram, F., Özçelik, B., & Güven, M. (2002). New alternative treatment in hirsutism: bicalutamide 25 mg/day. *Gynecological Endocrinology*, *16*(1), 63–66. \[DOI:[10.1080/gye.16.1.63.66][M02]]
 - Müderris, İ. İ., & Öner, G. (2009). Hirsutizm Tedavisinde Flutamid ve Bikalutamid Kullanımı. \[Flutamide and Bicalutamide Treatment in Hirsutism.] *Türkiye Klinikleri Endokrinoloji-Özel Dergisi*, *2*(2), 110–112. \[ISSN:[1308-0954][MO09-ISSN]] \[[URL][MO09]] \[[PDF][MO09-PDF]] \[[英译本][MO09-ENG]]
