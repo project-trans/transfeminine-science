@@ -12,7 +12,7 @@ translators:
 tags:
   - 雌激素
   - 用药途径与剂量
-trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+trackHash: 43539e195ce7f91fa48a5c855392656dc179226d
 keywords: [雌二醇凝胶, 雌二醇贴片, 阴囊, 生殖器]
 ---
 
@@ -58,7 +58,7 @@ keywords: [雌二醇凝胶, 雌二醇贴片, 阴囊, 生殖器]
   Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE).
   \[阴囊给药的透皮雌激素贴片（TSEP）在晚期前列腺癌治疗当中的应用]
   _Revista Argentina de Urología, 70_(4), 231–241.
-  [[Google 学术][P05]] [[网页地址][P05-ARCHIVE]] [[PDF 文档][P05-PDF]] [[英译文][P05-ENG]]
+  \[[Google 学术][P05]] \[[网址][P05-ARCHIVE]] \[[PDF 文档][P05-PDF]] \[[英译文][P05-ENG]]
 
 这应该是第一项、也是迄今唯一一项调研阴囊给药的透皮雌二醇的研究。其论文并非以英语撰写，因此早前的文献检索并未发现之。\
 在讨论该研究的结果之前，下文将会介绍关于阴囊给药的[透皮雌二醇][wiki18]的一些背景和原理。
@@ -215,28 +215,28 @@ Tegaderm 是一种透明薄膜敷料，可帮助固定贴片<sup>([Reddit 帖子
 
 ## 参考文献 {#references}
 
-- Atkinson, L. E., Chang, Y. L., & Snyder, P. J. (1998). Long-term experience with testosterone replacement through scrotal skin. In Nieschlag, E., & Behre, H. M. (Eds.). _Testosterone: Action · Deficiency · Substitution, 2nd Edition_ (pp. 365–388). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-642-72185-4\_13](https://link.springer.com/chapter/10.1007/978-3-642-72185-4_13)\]
-- Behre, H. M., & Nieschlag, E. (2012). Testosterone preparations for clinical use in males. In Nieschlag, E., Behre, H. M., & Nieschlag, S. (Eds.). _Testosterone: Action · Deficiency · Substitution, 4th Edition_ (pp. 309–335). Cambridge/New York: Cambridge University Press. \[DOI:<https://doi.org/10.1017/CBO9781139003353.016>\]
-- Bensley, J. G., Cheung, A. S., Grossmann, M., & Papa, N. (2021). Testicular Cancer in Trans People Using Feminising Hormone Therapy– A Brief Review. _Urology_, advance online publication. \[DOI:<https://doi.org/10.1016/j.urology.2021.11.014>\]
-- de Nie, I., de Blok, C., van der Sluis, T. M., Barbé, E., Pigot, G., Wiepjes, C. M., Nota, N. M., van Mello, N. M., Valkenburg, N. E., Huirne, J., Gooren, L., van Moorselaar, R., Dreijerink, K., & den Heijer, M. (2020). Prostate Cancer Incidence under Androgen Deprivation: Nationwide Cohort Study in Trans Women Receiving Hormone Treatment. _The Journal of Clinical Endocrinology and Metabolism_, _105_(9), e3293–e3299. \[DOI:<https://doi.org/10.1210/clinem/dgaa412>\]
-- de Nie, I., Wiepjes, C. M., de Blok, C., van Moorselaar, R., Pigot, G., van der Sluis, T. M., Barbé, E., van der Voorn, P., van Mello, N. M., Huirne, J., & den Heijer, M. (2021). Incidence of testicular cancer in trans women using gender‐affirming hormonal treatment: a nationwide cohort study. _BJU International_, advance online publication. \[DOI:<https://doi.org/10.1111/bju.15575>\]
-- Feldmann, R. J., & Maibach, H. I. (1967). Regional variation in percutaneous penetration of 14C cortisol in man. _The Journal of Investigative Dermatology_, _48_(2), 181–183. \[DOI:<https://doi.org/10.1038/jid.1967.29>\]
-- Hairston, J. C., Becher, E., & McVary, K. T. (2006). Topical and Intra-Urethral Therapy. In Mulcahy, J. J. (Ed.). _Male Sexual Function: A Guide to Clinical Management, 2nd Edition_ (_Current Clinical Urology_) (pp. 303–321). Totowa: Humana Press. \[DOI:<https://doi.org/10.1007/978-1-59745-155-0_14>\] \[[Google 阅读](https://books.google.com/books?id=3ogNo5qAVJ8C&pg=PA309)\]
-- Iyer, R., Mok, S. F., Savkovic, S., Turner, L., Fraser, G., Desai, R., Jayadev, V., Conway, A. J., & Handelsman, D. J. (2017). Pharmacokinetics of testosterone cream applied to scrotal skin. _Andrology_, _5_(4), 725–731. \[DOI:<https://doi.org/10.1111/andr.12357>\]
-- Järvinen, A., Granander, M., Nykänen, S., Laine, T., Geurts, P., & Viitanen, A. (1997). Steady-state pharmacokinetics of oestradiol gel in post-menopausal women: effects of application area and washing. _British Journal of Obstetrics and Gynaecology_, _104_(Suppl 16), 14–18. \[DOI:<https://doi.org/10.1111/j.1471-0528.1997.tb11562.x>\]
-- Khera, M. (2013). Treatment Options for Testosterone Replacement Therapy. In Hellstrom, W. J. G. (Ed.). _Androgen Deficiency and Testosterone Replacement: Current Controversies and Strategies_ (pp. 129–139). Totowa: Humana Press. \[DOI:<https://doi.org/10.1007/978-1-62703-179-0_10>\]
-- Klein, K. O., Rosenfield, R. L., Santen, R. J., Gawlik, A. M., Backeljauw, P. F., Gravholt, C. H., Sas, T., & Mauras, N. (2018). Estrogen replacement in Turner syndrome: literature review and practical considerations. _The Journal of Clinical Endocrinology & Metabolism_, _103_(5), 1790–1803. \[DOI:<https://doi.org/10.1210/jc.2017-02183>\]
-- Kuhnert, B., Byrne, M., Simoni, M., Kopcke, W., Gerss, J., Lemmnitz, G., & Nieschlag, E. (2005). Testosterone substitution with a new transdermal, hydroalcoholic gel applied to scrotal or non-scrotal skin: a multicentre trial. _European Journal of Endocrinology_, _153_(2), 317–326. \[DOI:<https://doi.org/10.1530/eje.1.01964>\]
-- Langley, R. E., Godsland, I. F., Kynaston, H., Clarke, N. W., Rosen, S. D., Morgan, R. C., Pollock, P., Kockelbergh, R., Lalani, e., Dearnaley, D., Parmar, M., & Abel, P. D. (2008). Early hormonal data from a multicentre phase II trial using transdermal oestrogen patches as first‐line hormonal therapy in patients with locally advanced or metastatic prostate cancer. _BJU International_, _102_(4), 442–445. \[DOI:<https://doi.org/10.1111/j.1464-410X.2008.07583.x>\]
-- Langley, R. E., Gilbert, D. C., Duong, T., Clarke, N. W., Nankivell, M., Rosen, S. D., Mangar, S., Macnair, A., Sundaram, S. K., Laniado, M. E., Dixit, S., Madaan, S., Manetta, C., Pope, A., Scrase, C. D., Mckay, S., Muazzam, I. A., Collins, G. N., Worlding, J., Williams, S. T., … & Parmar, M. (2021). Transdermal oestradiol for androgen suppression in prostate cancer: long-term cardiovascular outcomes from the randomised Prostate Adenocarcinoma Transcutaneous Hormone (PATCH) trial programme. _The Lancet_, _397_(10274), 581–591. \[DOI:<https://doi.org/10.1016/S0140-6736(21)00100-8>\]
-- Matthews, D., Bath, L., Högler, W., Mason, A., Smyth, A., & Skae, M. (2017). Hormone supplementation for pubertal induction in girls. _Archives of Disease in Childhood_, _102_(10), 975–980. \[DOI:[10.1136/archdischild-2016-311372](http://dx.doi.org/10.1136/archdischild-2016-311372)\]
-- Mazer, N. A., Heiber, W. E., Moellmer, J. F., Meikle, A. W., Stringham, J. D., Sanders, S. W., Tolman, K. G., & Odell, W. D. (1992). Enhanced transdermal delivery of testosterone: a new physiological approach for androgen replacement in hypogonadal men. _Journal of Controlled Release_, _19_(1–3), 347–361. \[DOI:<https://doi.org/10.1016/0168-3659(92)90089-A>\]
-- Norjavaara, E., Ankarberg-Lindgren, C., & Kriström, B. (2016). Sex steroid replacement therapy in female hypogonadism from childhood to young adulthood. In Bourguignon J.-P., Parent A.-S. (Eds.). _Puberty from Bench to Clinic. Lessons for Clinical Management of Pubertal Disorders_ (_Endocrine Development, Volume_ _29_) (pp. 198–213). Basel: Karger. \[DOI:<https://doi.org/10.1159/000438892>\]
-- Norman, G., Dean, M. E., Langley, R. E., Hodges, Z. C., Ritchie, G., Parmar, M. K., Sydes, M. R., Abel, P., & Eastwood, A. J. (2008). Parenteral oestrogen in the treatment of prostate cancer: a systematic review. _British Journal of Cancer_, _98_(4), 697–707. \[DOI:<https://doi.org/10.1038/sj.bjc.6604230>\]
-- Ockrim, J., Lalani, E. N., & Abel, P. (2006). Therapy insight: parenteral estrogen treatment for prostate cancer—a new dawn for an old therapy. _Nature clinical practice Oncology_, _3_(10), 552–563. \[DOI:<https://doi.org/10.1038/ncponc0602>\]
-- Place, V. A., Atkinson, L., Prather, D. A., Trunnell, N., & Yates, F. E. (1990). Transdermal testosterone replacement through genital skin. In Nieschlag, E., & Behre, H. M. (Eds.). _Testosterone: Action · Deficiency · Substitution, 1st Edition_ (pp. 165–181). Berlin/Heidelberg: Springer. \[DOI:<https://doi.org/10.1007/978-3-662-00814-0_9>\]
-- Premoli, F., Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). \[Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.\] _Revista Argentina de Urología_, _70_(4), 231–241. \[[Google 学术](https://scholar.google.com/scholar?cluster=3203160436559309066)\] \[[URL](https://web.archive.org/web/20201112031803/https://www.sau-net.org/publicaciones/abstracts_70_4.html)\] \[[PDF](https://revistasau.org/index.php/revista/article/viewFile/3224/3168)\] \[[英译文](https://docs.google.com/document/d/1dteNhG9wewvNX5zj0YcXrVAuQFZdtcqWmUWVvgI5uKs/view)\]
-- Rosenfield, R. L., Kiess, W., & de Muinck Keizer-Schrama, S. (2006). Physiologic induction of puberty in Turner syndrome with very low-dose estradiol. _International Congress Series_, _1298_, 71–79. \[DOI:<https://doi.org/10.1016/j.ics.2006.07.003>\]
+- Atkinson, L. E., Chang, Y. L., & Snyder, P. J. (1998). Long-term experience with testosterone replacement through scrotal skin. In Nieschlag, E., & Behre, H. M. (Eds.). *Testosterone: Action · Deficiency · Substitution, 2nd Edition* (pp. 365–388). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-642-72185-4\_13][ACS98]] \[[备用][ACS98-ALT]]
+- Behre, H. M., & Nieschlag, E. (2012). Testosterone preparations for clinical use in males. In Nieschlag, E., Behre, H. M., & Nieschlag, S. (Eds.). *Testosterone: Action · Deficiency · Substitution, 4th Edition* (pp. 309–335). Cambridge/New York: Cambridge University Press. \[DOI:[10.1017/CBO9781139003353.016][BN12-DOI]] \[[Google 阅读][bn12]]
+- Bensley, J. G., Cheung, A. S., Grossmann, M., & Papa, N. (2022). Testicular Cancer in Trans People Using Feminising Hormone Therapy– A Brief Review. *Urology*, *160*, 1–4. \[DOI:[10.1016/j.urology.2021.11.014][B21]]
+- de Nie, I., de Blok, C., van der Sluis, T. M., Barbé, E., Pigot, G., Wiepjes, C. M., Nota, N. M., van Mello, N. M., Valkenburg, N. E., Huirne, J., Gooren, L., van Moorselaar, R., Dreijerink, K., & den Heijer, M. (2020). Prostate Cancer Incidence under Androgen Deprivation: Nationwide Cohort Study in Trans Women Receiving Hormone Treatment. *The Journal of Clinical Endocrinology and Metabolism*, *105*(9), e3293–e3299. \[DOI:[10.1210/clinem/dgaa412][N20]]
+- de Nie, I., Wiepjes, C. M., Blok, C. J., Moorselaar, R. J., Pigot, G. L., van der Sluis, T. M., Barbé, E., van der Voorn, P., van Mello, N. M., Huirne, J., & den Heijer, M. (2021). Incidence of testicular cancer in trans women using gender‐affirming hormonal treatment: a nationwide cohort study. *BJU International*, *129*(4), 491–497. \[DOI:[10.1111/bju.15575][N21]]
+- Feldmann, R. J., & Maibach, H. I. (1967). Regional variation in percutaneous penetration of 14C cortisol in man. *The Journal of Investigative Dermatology*, *48*(2), 181–183. \[DOI:[10.1038/jid.1967.29][FM67]]
+- Hairston, J. C., Becher, E., & McVary, K. T. (2006). Topical and Intra-Urethral Therapy. In Mulcahy, J. J. (Ed.). *Male Sexual Function: A Guide to Clinical Management, 2nd Edition* (*Current Clinical Urology*) (pp. 303–321). Totowa: Humana Press. \[DOI:[10.1007/978-1-59745-155-0\_14][HBM06]] \[[Google 阅读][HBM06-GB]]
+- Iyer, R., Mok, S. F., Savkovic, S., Turner, L., Fraser, G., Desai, R., Jayadev, V., Conway, A. J., & Handelsman, D. J. (2017). Pharmacokinetics of testosterone cream applied to scrotal skin. *Andrology*, *5*(4), 725–731. \[DOI:[10.1111/andr.12357][I17]]
+- Järvinen, A., Granander, M., Nykänen, S., Laine, T., Geurts, P., & Viitanen, A. (1997). Steady-state pharmacokinetics of oestradiol gel in post-menopausal women: effects of application area and washing. *British Journal of Obstetrics and Gynaecology*, *104*(Suppl 16), 14–18. \[DOI:[10.1111/j.1471-0528.1997.tb11562.x][J97]]
+- Khera, M. (2013). Treatment Options for Testosterone Replacement Therapy. In Hellstrom, W. J. G. (Ed.). *Androgen Deficiency and Testosterone Replacement: Current Controversies and Strategies* (pp. 129–139). Totowa: Humana Press. \[DOI:[10.1007/978-1-62703-179-0\_10][K13]]
+- Klein, K. O., Rosenfield, R. L., Santen, R. J., Gawlik, A. M., Backeljauw, P. F., Gravholt, C. H., Sas, T., & Mauras, N. (2018). Estrogen replacement in Turner syndrome: literature review and practical considerations. *The Journal of Clinical Endocrinology & Metabolism*, *103*(5), 1790–1803. \[DOI:[10.1210/jc.2017-02183][K18]]
+- Kuhnert, B., Byrne, M., Simoni, M., Kopcke, W., Gerss, J., Lemmnitz, G., & Nieschlag, E. (2005). Testosterone substitution with a new transdermal, hydroalcoholic gel applied to scrotal or non-scrotal skin: a multicentre trial. *European Journal of Endocrinology*, *153*(2), 317–326. \[DOI:[10.1530/eje.1.01964][K05]]
+- Langley, R. E., Godsland, I. F., Kynaston, H., Clarke, N. W., Rosen, S. D., Morgan, R. C., Pollock, P., Kockelbergh, R., Lalani, e., Dearnaley, D., Parmar, M., & Abel, P. D. (2008). Early hormonal data from a multicentre phase II trial using transdermal oestrogen patches as first‐line hormonal therapy in patients with locally advanced or metastatic prostate cancer. *BJU International*, *102*(4), 442–445. \[DOI:[10.1111/j.1464-410X.2008.07583.x][L08]]
+- Langley, R. E., Gilbert, D. C., Duong, T., Clarke, N. W., Nankivell, M., Rosen, S. D., Mangar, S., Macnair, A., Sundaram, S. K., Laniado, M. E., Dixit, S., Madaan, S., Manetta, C., Pope, A., Scrase, C. D., Mckay, S., Muazzam, I. A., Collins, G. N., Worlding, J., Williams, S. T., … & Parmar, M. (2021). Transdermal oestradiol for androgen suppression in prostate cancer: long-term cardiovascular outcomes from the randomised Prostate Adenocarcinoma Transcutaneous Hormone (PATCH) trial programme. *The Lancet*, *397*(10274), 581–591. \[DOI:[10.1016/S0140-6736(21)00100-8][L21]]
+- Matthews, D., Bath, L., Högler, W., Mason, A., Smyth, A., & Skae, M. (2017). Hormone supplementation for pubertal induction in girls. *Archives of Disease in Childhood*, *102*(10), 975–980. \[DOI:[10.1136/archdischild-2016-311372][M17]]
+- Mazer, N. A., Heiber, W. E., Moellmer, J. F., Meikle, A. W., Stringham, J. D., Sanders, S. W., Tolman, K. G., & Odell, W. D. (1992). Enhanced transdermal delivery of testosterone: a new physiological approach for androgen replacement in hypogonadal men. *Journal of Controlled Release*, *19*(1–3), 347–361. \[DOI:[10.1016/0168-3659(92)90089-A][M92]]
+- Norjavaara, E., Ankarberg-Lindgren, C., & Kriström, B. (2016). Sex steroid replacement therapy in female hypogonadism from childhood to young adulthood. In Bourguignon J.-P., Parent A.-S. (Eds.). *Puberty from Bench to Clinic. Lessons for Clinical Management of Pubertal Disorders* (*Endocrine Development, Volume* *29*) (pp. 198–213). Basel: Karger. \[DOI:[10.1159/000438892][NAK16]]
+- Norman, G., Dean, M. E., Langley, R. E., Hodges, Z. C., Ritchie, G., Parmar, M. K., Sydes, M. R., Abel, P., & Eastwood, A. J. (2008). Parenteral oestrogen in the treatment of prostate cancer: a systematic review. *British Journal of Cancer*, *98*(4), 697–707. \[DOI:[10.1038/sj.bjc.6604230][N08]]
+- Ockrim, J., Lalani, E. N., & Abel, P. (2006). Therapy insight: parenteral estrogen treatment for prostate cancer—a new dawn for an old therapy. *Nature clinical practice Oncology*, *3*(10), 552–563. \[DOI:[10.1038/ncponc0602][OLA06]]
+- Place, V. A., Atkinson, L., Prather, D. A., Trunnell, N., & Yates, F. E. (1990). Transdermal testosterone replacement through genital skin. In Nieschlag, E., & Behre, H. M. (Eds.). *Testosterone: Action · Deficiency · Substitution, 1st Edition* (pp. 165–181). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-662-00814-0\_9][P90]]
+- Premoli, F., Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). \[Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] *Revista Argentina de Urología*, *70*(4), 231–241. \[[Google 学术][P05]] \[[URL][P05-ARCHIVE]] \[[PDF][P05-PDF]] \[[英译本][P05-ENG]]
+- Rosenfield, R. L., Kiess, W., & de Muinck Keizer-Schrama, S. (2006). Physiologic induction of puberty in Turner syndrome with very low-dose estradiol. *International Congress Series*, *1298*, 71–79. \[DOI:[10.1016/j.ics.2006.07.003][RKK06]]
 
 ---
 
@@ -246,6 +246,7 @@ Tegaderm 是一种透明薄膜敷料，可帮助固定贴片<sup>([Reddit 帖子
 时间,备注
 2021 年 10 月 23 日,首次翻译。
 2022 年 11 月 14 日,第一次修订，梳理全文叙述，增补“用药安全性”一节，整理外链。
+2023 年 3 月 30 日,更新“参考文献”和部分链接。
 ```
 
 <!-- 图表外链 -->
@@ -260,7 +261,7 @@ Tegaderm 是一种透明薄膜敷料，可帮助固定贴片<sup>([Reddit 帖子
 
 <!-- 表格外链 -->
 
-[table1]: https://en.wikipedia.org/wiki/Template:Transdermal_estradiol_patches_marketed_in_the_United_States
+[table1]: https://en.wikipedia.org/w/index.php?title=Template:Transdermal_estradiol_patches_marketed_in_the_United_States&oldid=962671786
 
 <!-- 维基百科条目 -->
 
@@ -342,7 +343,7 @@ Tegaderm 是一种透明薄膜敷料，可帮助固定贴片<sup>([Reddit 帖子
 [p05]: https://scholar.google.com/scholar?cluster=3203160436559309066
 [p05-archive]: https://web.archive.org/web/20201112031803/https://www.sau-net.org/publicaciones/abstracts_70_4.html
 [p05-pdf]: https://revistasau.org/index.php/revista/article/viewFile/3224/3168
-[p05-eng]: https://docs.google.com/document/d/1dteNhG9wewvNX5zj0YcXrVAuQFZdtcqWmUWVvgI5uKs/view
+[p05-eng]: https://files.transfemscience.org/pdfs/translations/Premoli%20et%20al.%20(2005)%20-%20Tratamiento%20del%20C%C3%A1ncer%20de%20Pr%C3%B3stata%20Avanzado%20con%20Estr%C3%B3genos%20Transd%C3%A9rmicos%20Escrotales%20%5BTransdermal%20Scrotal%20Estrogen%20Patches%20in%20the%20Treatment%20of%20Advanced%20Prostate%20Cancer%5D.pdf
 [aw20-ecbc]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
 [ola06]: https://doi.org/10.1038/ncponc0602
 [l08]: https://doi.org/10.1111/j.1464-410X.2008.07583.x
@@ -364,3 +365,9 @@ Tegaderm 是一种透明薄膜敷料，可帮助固定贴片<sup>([Reddit 帖子
 [n20]: https://doi.org/10.1210/clinem/dgaa412
 [n08]: https://doi.org/10.1038/sj.bjc.6604230
 [l21]: https://doi.org/10.1016/S0140-6736(21)00100-8
+
+[ACS98-ALT]: https://link.springer.com/chapter/10.1007/978-3-642-72185-4_13
+[BN12-DOI]: https://doi.org/10.1017/CBO9781139003353.016
+[HBM06-GB]: https://books.google.com/books?id=3ogNo5qAVJ8C&pg=PA309
+[M17]: https://dx.doi.org/10.1136/archdischild-2016-311372
+

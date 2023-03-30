@@ -11,7 +11,7 @@ translators:
 tags:
   - 雌激素
   - 用药途径与剂量
-trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+trackHash: 43539e195ce7f91fa48a5c855392656dc179226d
 keywords: [补佳乐, 诺坤复, 雌二醇, 舌下含服, 用法用量]
 ---
 

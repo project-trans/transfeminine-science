@@ -15,7 +15,7 @@ tags:
   - SERM
   - 抗雄激素制剂
 notice: 原文 [最初以 Reddit 帖子的形式发布]({{< ref "announcement" >}})，在迁移至本站之后，其尚未得到适当或全面的修订。
-trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+trackHash: 43539e195ce7f91fa48a5c855392656dc179226d
 keywords: [HRT, 非二元, 激素治疗, non-binary, SERM, MtX]
 ---
 
@@ -258,7 +258,7 @@ SERM 可有效维持骨密度。不过很遗憾，SERM 在骨骼内仅表达部�
 
 ## 后记 {#updates}
 
-### 后记一 {#update-1}
+### 后记一：Xu 等人 (2021) 所作评述 {#update-1-xu-et-al-2021}
 
 2021 年六月，一篇关于 SERM 用于非二元（女性倾向）跨性别者的评述公开发表：
 
@@ -273,17 +273,17 @@ Ada S. Cheung 是该论文的联名作者之一；其来自澳大利亚墨尔本
 
 在此前文献中，还出现了少量关于 SERM 用于非二元（女性倾向与男性倾向）跨性别者的叙述；不过其提供的资料更为有限<sup>([Carswell & Roberts, 2017][cr17]; [Moser & Devereux, 2019][md19]; [Pang et al., 2020][pang20]; [Naroji et al., 2021][n21])</sup>。
 
-### 后记二 {#update-2}
+### 后记二：van Dijken 等人 (2022) 和 Cocchetti 等人 (2022) 所作论文 {#update-2-van-dijken-et-al-2022-and-cocchetti-et-al-2022}
 
 在最早的有关为非二元性别人群定制的激素疗法的研究当中，有一项于 2022 年三月公开发表了文献：
 
 - van Dijken, J. B., Steensma, T. D., Wensing-Kruger, S. A., Heijer, M. D., & Dreijerink, K. M. (2022).
   **Tailored Gender-Affirming Hormone Treatment in Nonbinary Transgender Individuals: A Retrospective Study in a Referral Center Cohort.** [某治疗转诊中心的一项回顾性研究：为非二元跨性别者定制的性别肯定激素治疗]
-  *Transgender Health*, 在线发表 (ahead of print). [DOI:[10.1089/trgh.2021.0032][d22]]
+  *Transgender Health*, 先行在线发表 (advance online publication). \[DOI:[10.1089/trgh.2021.0032][d22]]
 
 此外，有一篇关于[欧洲性别不一致调查组织网络][wiki76]（ENIGI）所做工作的评述，还描述了 ENIGI 在将来针对非二元性别人群之激素治疗的研究计划：
 
-- Cocchetti, C., Romani, A., Collet, S., Greenman, Y., Schreiner, T., Wiepjes, C., … & Fisher, A. D. (2022).
+- Cocchetti, C., Romani, A., Collet, S., Greenman, Y., Schreiner, T., Wiepjes, C., den Heijer, M., T’Sjoen, G., & Fisher, A. D. (2022).
   **The ENIGI (European Network for the Investigation of Gender Incongruence) Study: Overview of Acquired Endocrine Knowledge and Future Perspectives.** [对 ENIGI 项目已有的内分泌学认识与未来焦点的综述]
   *Journal of Clinical Medicine, 11*(7), 1784. [DOI:[10.3390/jcm11071784][c22]]
 
@@ -311,6 +311,7 @@ Ada S. Cheung 是该论文的联名作者之一；其来自澳大利亚墨尔本
 时间,备注
 2021 年 8 月 6 日,首次翻译。
 2022 年 11 月 22 日,第一次修订，优化全文叙述，增补“后记二”内容，跟进移除“结论”一章。
+2023 年 3 月 30 日,更新“后记”标题。
 ```
 
 <!-- 维基百科/词典条目 -->
