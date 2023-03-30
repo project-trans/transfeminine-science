@@ -1,5 +1,10 @@
 {{- $src := .Destination -}}
-{{- if and (getenv "CI") (hasPrefix $src "https://transfemscience.org/assets/images/") -}}
+{{-
+$cachable := or
+  (hasPrefix $src "https://transfemscience.org/assets/images/")
+  (hasPrefix $src "https://upload.wikimedia.org/wikipedia/commons/")
+-}}
+{{- if and (getenv "CI") $cachable -}}
   {{- $image := resources.GetRemote $src -}}
   {{- if $image -}}
     {{- if eq $image.MediaType.SubType "svg" -}}

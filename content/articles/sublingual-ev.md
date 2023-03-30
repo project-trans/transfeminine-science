@@ -142,7 +142,7 @@ keywords: [补佳乐, 戊酸雌二醇片, 舌下含服, 用法用量]
 [wiki17]: https://en.wiktionary.org/wiki/concentration-time_curve
 [wiki18]: https://en.wikipedia.org/wiki/Premenopause
 [wiki19]: https://en.wikipedia.org/wiki/Menstrual_cycle
-[fig1]: fig1.png
+[fig1]: https://upload.wikimedia.org/wikipedia/commons/0/0c/Hormone_levels_with_oral_estradiol_valerate_tablets_%28Progynova%29_taken_sublingually_in_premenopausal_women.png
 [wiki20]: https://en.wikipedia.org/wiki/Progesterone
 [wiki21]: https://en.wikipedia.org/wiki/Luteinizing_hormone
 [wiki22]: https://en.wikipedia.org/wiki/Follicle-stimulating_hormone
