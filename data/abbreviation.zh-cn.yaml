@@ -83,6 +83,10 @@ SCi:
   title: 皮下植入
   href: https://en.wikipedia.org/wiki/Subcutaneous_implant
 
+EB:
+  origin: Estradiol benzoate
+  title: 苯甲酸雌二醇
+  href: https://en.wikipedia.org/wiki/Estradiol_benzoate
 EV: 
   origin: Estradiol valerate
   title: 戊酸雌二醇
@@ -91,6 +95,10 @@ EC:
   origin: Estradiol cypionate
   title: 环戊丙酸雌二醇
   href: https://en.wikipedia.org/wiki/Estradiol_cypionate
+EEn:
+  origin: Estradiol enanthate
+  title: 庚酸雌二醇
+  href: https://en.wikipedia.org/wiki/Estradiol_enanthate
 PEP:
   origin: Polyestradiol phosphate
   title: 聚磷酸雌二醇
