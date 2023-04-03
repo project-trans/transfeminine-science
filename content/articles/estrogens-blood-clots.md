@@ -3,20 +3,21 @@ title: 雌激素对凝血功能与血栓风险的影响
 description: 雌激素可增强凝血功能，并引起血栓及心梗、中风等风险的升高。需谨慎考虑雌激素用药途径与剂量。
 author: Aly
 published: 2020-10-20
-updated: 2022-11-29
-translated: 2022-12-12
+updated: 2023-03-28
+translated: 2023-04-03
 translators:
   - Bersella AI
 tags:
   - 雌激素
   - 孕激素
   - 用药安全
-trackHash: a1ecdfa409b2f259a36571f1867efd3d05925d6d
-keywords: [雌激素, 补佳乐, HRT, 副作用, 血栓, 凝血]
+trackHash: 7c0fcdfb01927eca734fd2e08cb627d54cb23f7a
+keywords: [雌激素, 孕激素, 副作用, 血栓, 凝血]
 ---
 
 ## 译者按 {#notice}
 
+1. **长文注意：本译文共计约 1.6 万个汉字。**
 1. 本文有关于手术前后是否应暂停激素治疗的叙述，详见“[对血栓的预防]({{< ref "#prevention-of-blood-clots" >}})”最后一段。
 1. 为便于阅读及理解，本文对原文个别叙述略有改动（调整排版，或以*斜体* 标记）。
 1. 因译者能力所限，部分术语之翻译或有纰漏，烦请指正。
@@ -66,7 +67,7 @@ keywords: [雌激素, 补佳乐, HRT, 副作用, 血栓, 凝血]
 | 口服结合雌激素 | 0.625 mg/天 | 1.25 mg/天 | 2.5 mg/天 | 5 mg/天 |
 | 口服炔雌醇 | 7.5 μg/天 | 15 μg/天 | 30 μg/天 | 60 μg/天 |
 | 口服乙烯雌酚 | 0.375 mg/天 | 0.75 mg/天 | 1.5 mg/天 | 3 mg/天 |
-| 等效雌二醇水平 | ~25 pg/mL | ~50 pg/mL | ~100 pg/mL | ~200 pg/mL |
+| 等效雌二醇水平 | 约 25 pg/mL | 约 50 pg/mL | 约 100 pg/mL | 约 200 pg/mL |
 
 (1) 用于更年期激素替代治疗。\
 (2) 与绝经前妇女在整个月经周期的正常平均/综合雌激素暴露量相当<sup>([Aly, 2018][A18-INTRO-NHL])</sup>。\
@@ -83,64 +84,64 @@ keywords: [雌激素, 补佳乐, HRT, 副作用, 血栓, 凝血]
 男性前列腺癌患者使用 DES 引起的心血管问题相当之大，在整体死亡率上，这实际抵消了其抑制前列腺癌所带来的益处。这些研究的发现给人们敲响了警钟，也引起了对雌激素安全性的担忧；此后，雌激素剂量得以减少。其中，用于治疗前列腺癌的 DES 剂量降至 1–3 mg/天，而避孕药内含的 EE 剂量降至 20–35 μg/天。其它疗法所用雌激素的剂量也有所降低，例如更年期激素治疗。\
 调低剂量虽不能根除用药风险，但有助于降低之。
 
-在美国[“妇女健康倡议”][wiki-e8f4e30d]（WHI）[随机对照试验][wiki-ab56f907]当中，单用低剂量口服 CEE（0.625 mg/天）会引起些微的血栓风险上升<sup>([Anderson et al., 2004][A04]; [Curb et al., 2006][C06]; [Prentice & Anderson, 2008][PA08]; [Prentice, 2014][P14]; [表格][table5])</sup>。此外，当与低剂量[醋酸甲羟孕酮][wiki-7e81f5d4]（MPA；2.5 mg/天）合用时，该风险还会有显著增长<sup>([Rossouw et al., 2002][R02]; [Cushman et al., 2004][C04]; Prentice & Anderson, 2008; Prentice, 2014; [表格][table5])</sup>。\
-另一项大型随机对照试验：[心脏与雌激素/合成孕酮补充治疗研究][acc-6131cf58]（HERS）也发现，合用低剂量 CEE 与低剂量 MPA 时会引起血栓风险的升高<sup>([Hulley et al., 1998][H98]; [Grady et al., 2000][G00])</sup>。除 MPA 以外，其它孕激素在与口服雌激素合用时，也会进一步增大由后者引起的血栓风险<sup>([Rovinski et al., 2018][R18]; [Scarabin, 2018][S18]; [Oliver-Williams et al., 2019][OW19]; Vinogradova, Coupland, & Hippisley-Cox, 2019a; [表格][table6])</sup>。\
-一些大型[观察性研究][wiki-2b02dbc6]发现，类似于 CEE，低剂量口服雌二醇（通常不大于 2 mg/天）也与血栓风险的升高有关，增幅取决于剂量<sup>([Olié, Canonico, & Scarabin, 2010][OCS10]; [Renoux, Dell’Aniello, & Suissa, 2010][RDS10]; [Vinogradova, Coupland, & Hippisley-Cox, 2019a][VCH19a]; [Konkle & Sood, 2019][KS19]; [表格][table6])</sup>。不过，口服雌二醇或[酯化雌激素][wiki-e7ddd85e]的风险应小于口服 CEE<sup>([Smith et al., 2004][S04]; [Smith et al., 2014][S14]; Vinogradova, Coupland, & Hippisley-Cox, 2019a; [表格][table6])</sup>。（酯化雌激素是一种与 CEE 类似的制剂，但马雌激素含量更少。）\
-另一方面，还有一项大型观察性研究发现，口服雌二醇与口服 CEE 在与孕激素合用时，二者引起的血栓风险增幅相当<sup>([Roach et al., 2013][R13])</sup>。孕激素与口服雌二醇合用时，也会进一步增大由后者引起的血栓风险，这跟与口服 CEE 合用时类似<sup>(Vinogradova, Coupland, & Hippisley-Cox, 2019a; [表格][table6])</sup>。
+在美国[“妇女健康倡议”][wiki-e8f4e30d]（WHI）[随机对照试验][wiki-ab56f907]当中，单用低剂量口服 CEE（0.625 mg/天）会引起些微的血栓风险上升<sup>([Anderson et al., 2004][A04]; [Curb et al., 2006][C06]; [Prentice & Anderson, 2008][PA08]; [Prentice, 2014][P14]; [表格][table5])</sup>。此外，当与低剂量[醋酸甲羟孕酮][wiki-7e81f5d4]（MPA；2.5 mg/天）合用时，该风险还会有显著增长<sup>([Rossouw et al., 2002][R02]; [Cushman et al., 2004][C04]; [Prentice & Anderson, 2008][PA08]; [Prentice, 2014][P14]; [表格][table5])</sup>。\
+另一项大型随机对照试验：[心脏与雌激素/合成孕酮补充治疗研究][acc-6131cf58]（HERS）也发现，合用低剂量 CEE 与低剂量 MPA 时会引起血栓风险的升高<sup>([Hulley et al., 1998][H98]; [Grady et al., 2000][G00])</sup>。除 MPA 以外，其它孕激素在与口服雌激素合用时，也会进一步增大由后者引起的血栓风险<sup>([Rovinski et al., 2018][R18]; [Scarabin, 2018][S18]; [Oliver-Williams et al., 2019][OW19]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19]; [表格][table6])</sup>。\
+一些大型[观察性研究][wiki-2b02dbc6]发现，类似于 CEE，低剂量口服雌二醇（通常不大于 2 mg/天）也与血栓风险的升高有关，增幅取决于剂量<sup>([Olié, Canonico, & Scarabin, 2010][OCS10]; [Renoux, Dell’Aniello, & Suissa, 2010][RDS10]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19]; [Konkle & Sood, 2019][KS19]; [表格][table6])</sup>。不过，口服雌二醇或[酯化雌激素][wiki-e7ddd85e]的风险应小于口服 CEE<sup>([Smith et al., 2004][S04]; [Smith et al., 2014][S14]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19]; [表格][table6])</sup>。（酯化雌激素是一种与 CEE 类似的制剂，但马雌激素含量更少。）\
+另一方面，还有一项大型观察性研究发现，口服雌二醇与口服 CEE 在与孕激素合用时，二者引起的血栓风险增幅相当<sup>([Roach et al., 2013][R13])</sup>。孕激素与口服雌二醇合用时，也会进一步增大由后者引起的血栓风险，这跟与口服 CEE 合用时类似<sup>([Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19]; [表格][table6])</sup>。
 
-透皮雌二醇的情况与口服雌激素相反：已知其在低至中等剂量（50–100 μg/天）之下，并未引起凝血功能的增强，也未引起血栓及其关联的心血管并发症之风险的上升<sup>([Canonico et al., 2008][C08]; [Hemelaar et al., 2008][H08]; Olié, Canonico, & Scarabin, 2010; Renoux, Dell’Aniello, & Suissa, 2010; [Mohammed et al., 2015][M15]; [Stuenkel et al., 2015][S15]; [Bezwada, Shaikh, & Misra, 2017][BSM17]; Rovinski et al., 2018; Scarabin, 2018; Konkle & Sood, 2019; Oliver-Williams et al., 2019; Vinogradova, Coupland, & Hippisley-Cox, 2019a; [Abou-Ismail, Sridhar, & Nayak, 2020][ASN20]; [表格][table6])</sup>。\
+透皮雌二醇的情况与口服雌激素相反：已知其在低至中等剂量（50–100 μg/天）之下，并未引起凝血功能的增强，也未引起血栓及其关联的心血管并发症之风险的上升<sup>([Canonico et al., 2008][C08]; [Hemelaar et al., 2008][H08]; [Olié, Canonico, & Scarabin, 2010][OCS10]; [Renoux, Dell’Aniello, & Suissa, 2010][RDS10]; [Mohammed et al., 2015][M15]; [Stuenkel et al., 2015][S15]; [Bezwada, Shaikh, & Misra, 2017][BSM17]; [Rovinski et al., 2018][R18]; [Scarabin, 2018][S18]; [Konkle & Sood, 2019][KS19]; [Oliver-Williams et al., 2019][OW19]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19]; [Abou-Ismail, Sridhar, & Nayak, 2020][ASN20]; [表格][table6])</sup>。\
 类似地，[更年期、雌激素与静脉事件][wiki-e77f8e0a]（MEVE）研究项目发现，当用于有血栓史的妇女时，口服雌二醇可引起血栓风险的大幅上升；而透皮雌二醇（平均剂量 50 μg/天）并未引起该风险的上升<sup>([Olié et al., 2011][O11])</sup>。\
-然而，有几项关于透皮雌二醇与心血管风险的例外；例如，一项观察性研究发现，较高剂量（大于 50 μg/天）的透皮雌二醇用于更年期妇女时，会引起脑卒中风险的增长<sup>([Renoux et al., 2010][R10]; Oliver-Williams et al., 2019)</sup>；还有一些研究发现，口服和透皮雌二醇对女性倾向跨性别者的凝血功能的影响差异很小以至无差异<sup>([Lim et al., 2020][L20]; [Scheres et al., 2021][S21])</sup>。\
-在有关更年期所用剂量下的透皮雌二醇与孕激素合用时是否与更高的血栓风险有关的问题上，现有研究的结论五花八门；有的未发现任何差异，有的则发现风险有所上升<sup>(Rovinski et al., 2018; Scarabin, 2018; Vinogradova, Coupland, & Hippisley-Cox, 2019a)</sup>。已有人表示，这应该与所用孕激素类型有关<sup>(Scarabin, 2018)</sup>。
+然而，有几项关于透皮雌二醇与心血管风险的例外；例如，一项观察性研究发现，较高剂量（大于 50 μg/天）的透皮雌二醇用于更年期妇女时，会引起脑卒中风险的增长<sup>([Renoux et al., 2010][R10]; [Oliver-Williams et al., 2019][OW19])</sup>；还有一些研究发现，口服和透皮雌二醇对女性倾向跨性别者的凝血功能的影响差异很小以至无差异<sup>([Lim et al., 2020][L20]; [Scheres et al., 2021][S21])</sup>。\
+在有关更年期所用剂量下的透皮雌二醇与孕激素合用时是否与更高的血栓风险有关的问题上，现有研究的结论五花八门；有的未发现任何差异，有的则发现风险有所上升<sup>([Rovinski et al., 2018][R18]; [Scarabin, 2018][S18]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19])</sup>。已有人表示，这应该与所用孕激素类型有关<sup>([Scarabin, 2018][S18])</sup>。
 
-关于口服或透皮雌二醇在高于更年期激素疗法所用的剂量下对血栓风险的影响，至今仍鲜有高质量临床数据发表。无论如何，用于女性化激素疗法的口服雌二醇（如 2–8 mg/天；通常还与抗雄激素制剂、孕激素等其它药品合用）所引起的血栓风险已得到较有限的评估。此类研究所披露的血栓风险增幅，要高于更年期激素疗法所用较低剂量下的口服雌二醇<sup>([Wierckx et al., 2013][W13]; [Weinand & Safer, 2015][WS15]; [Arnold et al., 2016][A16]; [Getahun et al., 2018][G18]; [Irwig, 2018][I18]; [Connelly et al., 2019][C19]; [Connors & Middeldorp, 2019][CM19]; [Goldstein et al., 2019][G19]; [Iwamoto et al., 2019][I19]; [Khan et al., 2019][K19]; Konkle & Sood, 2019; [Quinton, 2019][Q19]; [Swee, Javaid, & Quinton, 2019][SJQ19]; Abou-Ismail, Sridhar, & Nayak, 2020; [Sam, 2020][S20-VTA])</sup>。
+关于口服或透皮雌二醇在高于更年期激素疗法所用的剂量下对血栓风险的影响，至今仍鲜有高质量临床数据发表。无论如何，用于女性化激素疗法的口服雌二醇（如 2–8 mg/天；通常还与抗雄激素制剂、孕激素等其它药品合用）所引起的血栓风险已得到较有限的评估。此类研究所披露的血栓风险增幅，要高于更年期激素疗法所用较低剂量下的口服雌二醇<sup>([Wierckx et al., 2013][W13]; [Weinand & Safer, 2015][WS15]; [Arnold et al., 2016][A16]; [Getahun et al., 2018][G18]; [Irwig, 2018][I18]; [Connelly et al., 2019][C19]; [Connors & Middeldorp, 2019][CM19]; [Goldstein et al., 2019][G19]; [Iwamoto et al., 2019][I19]; [Khan et al., 2019][K19]; [Konkle & Sood, 2019][KS19]; [Quinton, 2019][Q19]; [Swee, Javaid, & Quinton, 2019][SJQ19]; [Abou-Ismail, Sridhar, & Nayak, 2020][ASN20])</sup>。
 
 尽管 WHI 已披露口服 CEE 单药治疗与血栓风险的相关性，但对于口服或透皮雌二醇单药治疗与血栓风险的[关系][wiki-492d817e]，目前尚无任何随机对照试验能够给出[具备统计学意义][wiki-86aa5b83]的结论。由于血栓很罕见，只有大规模、且高支出的试验项目方可呈现这类数据，但至今没有任何这样的研究进行过。同样地，对于含 EE 的避孕药与血栓风险之升高的关系，至今亦无任何随机对照试验进行过<sup>([Moores, Bilello, & Murin, 2004][MBM04])</sup>。\
 无论如何，在其它情况下，雌激素已被明确表明与此相关；该结论也可类推至口服雌二醇。\
 另外，有一项随机对照试验：[雌激素及静脉血栓影响试验][wiki-1a73b9c6]（EVTET），在曾有血栓史的已绝经妇女当中分别使用低剂量口服雌二醇（2 mg/天）合并[醋酸炔诺酮][wiki-a430d1fb]（NETA；一种孕激素）、以及安慰剂；其发现，该激素配方引起了凝血功能与血栓发生率的显著升高——试验组、对照组发生率分别为 10.7% 和 2.3%（统计学 *P* 值：0.04）<sup>([Høibraaten et al., 2000][H00]; [Høibraaten et al., 2001][H01])</sup>。
 
 绝经前妇女体内的雌二醇水平应与血栓风险无关<sup>([Holmegard et al., 2014][H14])</sup>。这里要指出一项事实：更年期妇女使用 100 μg/天的透皮雌二醇贴片，并未引起更大的血栓风险；因为此剂量平均可达到 100 pg/mL 的雌二醇水平，这与绝经前妇女正常月经周期内的综合平均水平相当<sup>([Aly, 2018][A18-INTRO-NHL]; [维基百科][wiki-28597a32])</sup>。\
-当异常激素状态（如妊娠与服用避孕药）得到控制之后，无论是女性还是男性（男性的雌二醇水平通常很低），都会有相近的血栓发生率<sup>(Moores, Bilello, & Murin, 2004; [Rosendaal, 2005][R05]; [Montagnana et al., 2010][M10]; [Roach et al., 2013][ROACH13])</sup>。不过有意思的是，男性复发血栓的几率总是高于女性<sup>([Roach et al., 2013][ROACH13])</sup>。\
+当异常激素状态（如妊娠与服用避孕药）得到控制之后，无论是女性还是男性（男性的雌二醇水平通常很低），都会有相近的血栓发生率<sup>([Moores, Bilello, & Murin, 2004][MBM04]; [Rosendaal, 2005][R05]; [Montagnana et al., 2010][M10]; [Roach et al., 2013][R14])</sup>。不过有意思的是，男性复发血栓的几率总是高于女性<sup>([Roach et al., 2013][R14])</sup>。\
 上述发现表明，绝经前妇女生理水平下的雌二醇与孕酮，应不会使凝血功能或血栓风险明显升高。不过，现有数据五花八门，有的研究指出生理范围内的雌二醇、孕酮水平其实会影响到绝经前、围绝经期妇女的凝血功能<sup>([Chaireti et al., 2013][C13])</sup>以及血栓风险<sup>([Simon et al., 2006][S06]; [Canonico et al., 2014][C14]; [Scheres et al., 2019][S19])</sup>。
 
-现代复方避孕药含有中等剂量的 EE（20–35 μg/天）和一种生理剂量的孕激素。其可将血栓风险提高数倍之多<sup>(Konkle & Sood, 2019; [Vinogradova, Coupland, & Hippisley-Cox, 2019b][VCH19b]; [表格][table6])</sup>。此外，其还会将心肌梗塞与脑卒中风险提高约 1.5–2 倍<sup>([Lidegaard, 2014][L14]; Konkle & Sood, 2019)</sup>。不过，避孕药并未引起整体死亡率的升高——至少对服用该药的较年轻妇女而言<sup>([Hannaford et al., 2010][H10])</sup>。\
-依据关于更年期激素治疗的研究，此类避孕药中的孕激素会助长由 EE 引起的血栓风险。早年使用的避孕药（含高剂量 EE，即 50–100 μg/天）所引起的血栓风险，可达现代避孕药的两倍之高<sup>(Gerstman et al., 1991; PCASRM, 2017; [表格][table4])</sup>。\
-而非口服形式的含 EE 避孕制剂（如透皮避孕贴片和阴道避孕环等）所引起的血栓风险，和口服避孕药相似；这与口服和透皮雌二醇之间的风险有别的情况截然相反<sup>([Plu-Bureau et al., 2013][PB13]; [PCASRM, 2017][PCA17]; Konkle & Sood, 2019; Abou-Ismail, Sridhar, & Nayak, 2020)</sup>。因此，根据现有数据，EE 的给药途径并不会改变血栓风险，这与雌二醇不同。
+现代复方避孕药含有中等剂量的 EE（20–35 μg/天）和一种生理剂量的孕激素。其可将血栓风险提高数倍之多<sup>([Konkle & Sood, 2019][KS19]; [Vinogradova, Coupland, & Hippisley-Cox, 2015][VCH15]; [表格][table6])</sup>。此外，其还会将心肌梗塞与脑卒中风险提高约 1.5–2 倍<sup>([Lidegaard, 2014][L14]; [Konkle & Sood, 2019][KS19])</sup>。不过，避孕药并未引起整体死亡率的升高——至少对服用该药的较年轻妇女而言<sup>([Hannaford et al., 2010][H10])</sup>。\
+依据关于更年期激素治疗的研究，此类避孕药中的孕激素会助长由 EE 引起的血栓风险。早年使用的避孕药（含高剂量 EE，即 50–100 μg/天）所引起的血栓风险，可达现代避孕药的两倍之高<sup>([Gerstman et al., 1991][G91]; [PCASRM, 2017][PCA17]; [表格][table4])</sup>。\
+而非口服形式的含 EE 避孕制剂（如透皮避孕贴片和阴道避孕环等）所引起的血栓风险，和口服避孕药相似；这与口服和透皮雌二醇之间的风险有别的情况截然相反<sup>([Plu-Bureau et al., 2013][PB13]; [PCASRM, 2017][PCA17]; [Konkle & Sood, 2019][KS19]; [Abou-Ismail, Sridhar, & Nayak, 2020][ASN20])</sup>。因此，根据现有数据，EE 的给药途径并不会改变血栓风险，这与雌二醇不同。
 
 用于乳腺癌或前列腺癌患者的[高剂量雌激素疗法][wiki-7c4664db]（如口服人工雌激素 DES 和 EE），已知也会引起血栓及心血管并发症风险的剧烈升高<sup>([Phillips et al., 2014][PHIL14]; [Turo et al., 2014][T14]; [Coelingh-Bennink et al., 2017][CB17])</sup>。另外，以大剂量用于治疗前列腺癌（如口服 140–1,400 mg/天）、且引起妊娠时雌二醇水平的一种[雌二醇酯][wiki-8b92d2c5]：[磷酸雌莫司汀][wiki-1abddf53]（EMP），已知也有此现象<sup>([Kitamura, 2001][K01] \[[图表][graph1]]; [Ravery et al., 2011][R11])</sup>。\
-不过在 1980 年代，有研究发现，高剂量非口服雌二醇所引起的心血管风险，并不等同于高剂量口服人工雌激素或 EMP 的风险<sup>([von Schoultz et al., 1989][S89]; [Ockrim & Abel, 2009][OA09])</sup>；其中包括针对[聚磷酸雌二醇][wiki-8734ae67]（PEP；一种注射用长效雌二醇[前体][wiki-4500ed81]）、以及高剂量雌二醇透皮凝胶的研究<sup>(von Schoultz et al., 1989; [Aly, 2019][AW19-HDTE])</sup>。\
-然而，后续规模更大、质量更佳的研究发现，尽管 PEP 引起的心血管风险远低于高剂量人工雌激素，但仍有所增长<sup>([Hedlung et al., 2008][HEDL08]; Ockrim & Abel, 2009; [Hedlund et al., 2011][HEDL11]; [Sam, 2020][S20-PCA])</sup>；其中，在雌二醇水平大致达 300–500 pg/mL 之范围内的情况下，血栓风险会增长约两倍<sup>([Sam, 2020][S20-PCA])</sup>。\
+不过在 1980 年代，有研究发现，高剂量非口服雌二醇所引起的心血管风险，并不等同于高剂量口服人工雌激素或 EMP 的风险<sup>([von Schoultz et al., 1989][VS89]; [Ockrim & Abel, 2009][OA09])</sup>；其中包括针对[聚磷酸雌二醇][wiki-8734ae67]（PEP；一种注射用长效雌二醇[前体][wiki-4500ed81]）、以及高剂量雌二醇透皮凝胶的研究<sup>([von Schoultz et al., 1989][VS89]; [Aly, 2019][AW19-HDTE])</sup>。\
+然而，后续规模更大、质量更佳的研究发现，尽管 PEP 引起的心血管风险远低于高剂量人工雌激素，但仍有所增长<sup>([Hedlung et al., 2008][HEDL08]; [Ockrim & Abel, 2009][OA09]; [Hedlund et al., 2011][H11]; [Sam, 2020][S20-PCA])</sup>；其中，在雌二醇水平大致达 300–500 pg/mL 之范围内的情况下，血栓风险会增长约两倍<sup>([Sam, 2020][S20-PCA])</sup>。\
 而迄今采用高剂量雌二醇透皮贴片的研究，则未发现心血管并发症有大幅增长<sup>([Langley et al., 2013][L13]; [Sam, 2020][S20-PCA])</sup>。不过，这些研究仍较[缺乏统计学意义支撑][wiki-86aa5b83]，从而使其解释不大有力。无论如何，高剂量透皮贴片在使雌二醇水平达到 350–500 pg/mL 的情况下，所引起的凝血功能之增强已测得与 PEP 相似<sup>([Bland et al., 2005][B05]; [Mikkola et al., 1999][M99])</sup>。\
 目前在英国有两项正评估高剂量雌二醇透皮贴片用于前列腺癌的大规模临床研究：[前列腺癌透皮激素疗法研究][wiki-a7c7601f]（PATCH）与[晚期、转移性前列腺癌系统性治疗用药有效性评估研究][wiki-8cb01c30]（STAMPEDE），其未来有望提供更多关于该雌二醇形式与血栓、心血管风险的数据<sup>([Gilbert et al., 2018][GILB18]; [Singla, Ghandour, & Raj, 2019][SGR19])</sup>。
 
 还需留意注射用短效雌二醇酯（如[戊酸雌二醇][wiki-55cc0770]，EV；[环戊丙酸雌二醇][wiki-71ff8176]，EC）的情况：其常为女性倾向跨性别者所用，且常用剂量可引起较高雌二醇水平。和高剂量雌二醇透皮贴片的情况类似，目前鲜少或尚未有关于这类注射剂与血栓风险的高质量数据。\
-Pyra 及其同行发现，EV 注射剂用于女性倾向跨性别者时，可将血栓风险提高约 2 倍，但结果[置信区间][wiki-8bfd8e23]极大，并不具备[统计学意义][wiki-3f62a991]<sup>([Pyra et al., 2020][P20])</sup>。实验群体所用剂量并未提供；但对于实际患静脉血栓的人群，所用 EV 剂量范围据称为每周一次 4–20 mg、以及每两周一次 10–40 mg<sup>(Pyra et al., 2020)</sup>。\
-其它研究也对此有所评估，并发现高剂量 EV 注射剂（每两周一次 10–40 mg）用于男性前列腺癌患者时，会引起凝血功能的增强<sup>([Kohli et al., 2004][KOHLI04]; [Kohli, 2005][KOHLI05])</sup>。\
-还有，用于绝经前妇女的、含 5 mg 的 EV 和一种孕激素的[注射用复方避孕药][wiki-fa3a6aec]（每月一次），已知也会引起凝血功能增强<sup>([Meng et al., 1990][M90]; [d’Arcangues et al., 2003][A03])</sup>。\
-对于短效雌二醇注射剂所引起的雌二醇水平尖峰，是否会对凝血功能及血栓风险有害，目前尚不明确<sup>([Hembree et al., 2017][H17])</sup>。不过，鉴于短效睾酮酯注射剂所引起的[红细胞增多症][wiki-09a10b8c]风险要高于其它非口服睾酮<sup>([Ohlander, Varghese, & Pastuszak, 2018][OVP18])</sup>，可以间接推论，以上观点可能属实。与此对应，有一项研究发现，使用相同剂量的注射用复方避孕药时，含 EV 者会引起凝血功能增强，含 EC 者却不会（EC 作用时间更长、且有更稳定的雌二醇水平）<sup>(d’Arcangues et al., 2003)</sup>。
+Pyra 及其同行发现，EV 注射剂用于女性倾向跨性别者时，可将血栓风险提高约 2 倍，但结果[置信区间][wiki-8bfd8e23]极大，并不具备[统计学意义][wiki-3f62a991]<sup>([Pyra et al., 2020][P20])</sup>。实验群体所用剂量并未提供；但对于实际患静脉血栓的人群，所用 EV 剂量范围据称为每周一次 4–20 mg、以及每两周一次 10–40 mg<sup>([Pyra et al., 2020][P20])</sup>。\
+其它研究也对此有所评估，并发现高剂量 EV 注射剂（每两周一次 10–40 mg）用于男性前列腺癌患者时，会引起凝血功能的增强<sup>([Kohli & McClellan, 2001][KM01]; [Kohli et al., 2004][KOHLI04]; [Kohli, 2005][KOHLI05])</sup>。\
+还有，用于绝经前妇女的、含 5 mg 的 EV 和一种孕激素的[注射用复方避孕药][wiki-fa3a6aec]（每月一次），已知也会引起凝血功能增强<sup>([Meng et al., 1990][M90]; [d’Arcangues et al., 2003][DA03])</sup>。\
+对于短效雌二醇注射剂所引起的雌二醇水平尖峰，是否会对凝血功能及血栓风险有害，目前尚不明确<sup>([Hembree et al., 2017][H17])</sup>。不过，鉴于短效睾酮酯注射剂所引起的[红细胞增多症][wiki-09a10b8c]风险要高于其它非口服睾酮<sup>([Ohlander, Varghese, & Pastuszak, 2018][OVP18])</sup>，可以间接推论，以上观点可能属实。与此对应，有一项研究发现，使用相同剂量的注射用复方避孕药时，含 EV 者会引起凝血功能增强，含 EC 者却不会（EC 作用时间更长、且有更稳定的雌二醇水平）<sup>([d’Arcangues et al., 2003][DA03])</sup>。
 
 与雌激素相似，诸如[他莫昔芬][wiki-9d1085b6]、[雷洛昔芬][wiki-007921bc]等[选择性雌激素受体调节剂][wiki-8604878d]（SERM），也会使血栓风险升高<sup>([Park & Jordan, 2002][PJ02]; [Fabian & Kimler, 2005][FK05])</sup>。\
-该风险增幅可达数倍，接近于中等剂量口服雌二醇或 CEE 的预估风险<sup>([Deitcher & Gomes, 2004][DG04]; [Iqbal et al., 2012][I12]; Konkle & Sood, 2019)</sup>。
+该风险增幅可达数倍，接近于中等剂量口服雌二醇或 CEE 的预估风险<sup>([Deitcher & Gomes, 2004][DG04]; [Iqbal et al., 2012][I12]; [Konkle & Sood, 2019][KS19])</sup>。
 
-[妊娠][wiki-7cc814be]期间，体内雌二醇与孕酮会激增至极高水平<sup>([图表][graph2])</sup>。其中，雌二醇水平在妊娠期间会逐渐升高，在妊娠前期、中期和后期结束时平均分别达 2,000 pg/mL、10,000 pg/mL 和 20,000 pg/mL 左右<sup>([Kerlan et al., 1994][K94] \[[图表][graph3]]; [Schock et al., 2016][S16])</sup>。凝血功能在妊娠期间大幅增强，血栓风险也随之剧烈升高<sup>(Heit et al., 2000; [Sultan et al., 2015][SULT15]; [Heit, Spencer, & White, 2016][HSW16]; [表格][table7])</sup>。妊娠期间的雌二醇与孕酮水平与凝血功能之增强高度相关<sup>([Bagot et al., 2019][B19])</sup>。\
-由现代避孕药引起的血栓风险，总体上和妊娠相近<sup>(Heit, Spencer, & White, 2016)</sup>；而早年曾用的含高剂量 EE 的避孕药、以及用于乳腺癌与前列腺癌的高剂量口服人工雌激素治疗所引起的风险增长，则与妊娠后期相似。\
+[妊娠][wiki-7cc814be]期间，体内雌二醇与孕酮会激增至极高水平<sup>([图表][graph2])</sup>。其中，雌二醇水平在妊娠期间会逐渐升高，在妊娠前期、中期和后期结束时平均分别达 2,000 pg/mL、10,000 pg/mL 和 20,000 pg/mL 左右<sup>([Kerlan et al., 1994][K94] \[[图表][graph3]]; [Schock et al., 2016][S16])</sup>。凝血功能在妊娠期间大幅增强，血栓风险也随之剧烈升高<sup>([Heit et al., 2000][H00]; [Abdul Sultan et al., 2015][AS15]; [Heit, Spencer, & White, 2016][HSW16]; [表格][table7])</sup>。妊娠期间的雌二醇与孕酮水平与凝血功能之增强高度相关<sup>([Bagot et al., 2019][B19])</sup>。\
+由现代避孕药引起的血栓风险，总体上和妊娠相近<sup>([Heit, Spencer, & White, 2016][HSW16])</sup>；而早年曾用的含高剂量 EE 的避孕药、以及用于乳腺癌与前列腺癌的高剂量口服人工雌激素治疗所引起的风险增长，则与妊娠后期相似。\
 另外，在刺激绝经前妇女[排卵以进行体外受精][wiki-e933a052]的过程中，其体内雌二醇也会升至相当高的水平；已知这也与凝血功能及血栓风险之升高有关<sup>([Westerlund et al., 2012][W12]; [Rova, Passmark, & Lindqvist, 2012][RPL12]; [Kasum et al., 2014][K14])</sup>。
 
 由于存在心血管健康风险更高等诸多疑虑，DES 事实上已被弃用；而 EE 也不再用于除避孕以外的一切用途。之所以 EE 还用于避孕，是因为其对子宫的代谢作用有抗性，其控制月经出血的能力亦优于口服雌二醇<sup>([Stanczyk, Archer, & Bhavnani, 2013][SAB13])</sup>。至于 CEE，尽管医学上仍较多用于顺性别妇女的激素治疗，但也正逐渐为雌二醇所取代。\
 此外，透皮雌二醇也大有取代口服雌二醇用于更年期激素治疗之势。\
 目前主流的跨性别激素治疗指南<sup>(另见 [Aly, 2020][A20-GUIDE])</sup>不建议将 EE 与 CEE 用于女性倾向跨性别者，因为其风险更大、且血清雌激素水平无法准确监测<sup>([Coleman et al., 2012][C12]; [Deutsch, 2016][D16]; [Hembree et al., 2017][H17])</sup>。如今雌二醇是女性倾向跨性别者使用的几乎唯一一种雌激素。\
-除雌激素类型外，这些指南还建议年龄高于 40–45 岁、或者有血栓风险的女性倾向跨性别者应以透皮雌二醇取代口服使用<sup>(Deutsch, 2016; [Iwamoto et al., 2019][I19]; [Glintborg et al., 2021][G21])</sup>。\
+除雌激素类型外，这些指南还建议年龄高于 40–45 岁、或者有血栓风险的女性倾向跨性别者应以透皮雌二醇取代口服使用<sup>([Deutsch, 2016][D16]; [Iwamoto et al., 2019][I19]; [Glintborg et al., 2021][G21])</sup>。\
 现有关于更年期激素治疗的指南，同样建议有较高血栓风险的顺性别妇女使用透皮雌二醇、而非口服<sup>(例如 [Stuenkel et al., 2015][S15])</sup>。
 
-如上文所述，孕激素会助长口服雌激素引起的血栓风险。但与此相反的是，关于非口服雌二醇与孕激素合用的研究结果众说纷纭——有的发现风险升高了，有的则未发现额外的风险<sup>(Rovinski et al., 2018; Scarabin, 2018; Vinogradova et al., 2019)</sup>。\
-孕激素本身通常不会增强凝血功能<sup>([Kuhl, 1996][K96]; [Schindler, 2003][S03]; [Wiegratz & Kuhl, 2006][WK06]; [Sitruk-Ware & Nath, 2011][SN11]; [Sitruk-Ware & Nath, 2013][SWN13]; [Skouby & Sidelmann, 2018][SS18])</sup>、也不会提高血栓风险<sup>([Blanco-Molina et al., 2012][BM12]; [Mantha et al., 2012][M12]; [Tepper et al., 2016][T16]; [Rott, 2019][R19])</sup>。不过有一项特例：避孕剂量下的 MPA 积存注射剂可将血栓风险提高数倍<sup>([van Hylckama Vlieg, Helmerhorst, & Rosendaal, 2010][HVHR10]; [DeLoughery, 2011][DL11]; [Blanco-Molina et al., 2012][BM12]; [Gourdy et al., 2012][G12]; Mantha et al., 2012; Rott, 2019; [Tepper et al., 2019][T19])</sup>。其原因尚不明确，不过可能与该注射剂引起的较高 MPA 水平峰值<sup>(Mantha et al., 2012)</sup>、或者 MPA 的弱[糖皮质激素][wiki-15c3c60b]活性有关<sup>([Kuhl & Stevenson, 2006][KS06]; Sitruk-Ware & Nath, 2011)</sup>。\
+如上文所述，孕激素会助长口服雌激素引起的血栓风险。但与此相反的是，关于非口服雌二醇与孕激素合用的研究结果众说纷纭——有的发现风险升高了，有的则未发现额外的风险<sup>([Rovinski et al., 2018][R18]; [Scarabin, 2018][S18]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19])</sup>。\
+孕激素本身通常不会增强凝血功能<sup>([Kuhl, 1996][K96]; [Schindler, 2003][S03]; [Wiegratz & Kuhl, 2006][WK06]; [Sitruk-Ware & Nath, 2011][SN11]; [Sitruk-Ware & Nath, 2013][SWN13]; [Skouby & Sidelmann, 2018][SS18])</sup>、也不会提高血栓风险<sup>([Blanco-Molina et al., 2012][BM12]; [Mantha et al., 2012][M12]; [Tepper et al., 2016][T16]; [Rott, 2019][R19])</sup>。不过有一项特例：避孕剂量下的 MPA 积存注射剂可将血栓风险提高数倍<sup>([van Hylckama Vlieg, Helmerhorst, & Rosendaal, 2010][HVHR10]; [DeLoughery, 2011][DL11]; [Blanco-Molina et al., 2012][BM12]; [Gourdy et al., 2012][G12]; [Mantha et al., 2012][M12]; [Rott, 2019][R19]; [Tepper et al., 2019][T19])</sup>。其原因尚不明确，不过可能与该注射剂引起的较高 MPA 水平峰值<sup>([Mantha et al., 2012][M12])</sup>、或者 MPA 的弱[糖皮质激素][wiki-15c3c60b]活性有关<sup>([Kuhl & Stevenson, 2006][KS06]; [Sitruk-Ware & Nath, 2011][SN11])</sup>。\
 除生理剂量的 MPA 单药之外，高剂量 MPA、[醋酸甲地孕酮][wiki-1e7b235a]（MGA）和[醋酸环丙孕酮][wiki-5cafcc7a]（CPA）已知会引起凝血功能与血栓风险升高<sup>([Schröder & Radlmaier, 2002][SR02]; [Schindler, 2003][S03]; [Seaman et al., 2007][S07]; [Garcia et al., 2013][G13]; [Taylor & Pendleton, 2016][TP16])</sup>。\
 然而，有一项小型研究将[醋酸氯地孕酮][wiki-f194c0b4]（CMA）用于曾有血栓史的妇女，发现 CMA 的情况并非同样如此<sup>([Conard et al., 2004][CONA04])</sup>。\
-如将 CPA 与雌激素一并用于女性倾向跨性别者，其也会引起血栓风险增长<sup>([Sam, 2020][S20-VTA])</sup>。\
-口服孕酮的情况与合成孕酮制剂相反：在雌激素治疗中加入口服孕酮，并不会进一步提高血栓风险<sup>(Scarabin, 2018; Oliver-Williams et al., 2019; [Kaemmle et al., 2022][K22])</sup>。不过这也许只是出于口服孕酮仅可产生很低的孕酮水平、且孕激素效力很弱的事实罢了<sup>([Aly, 2018][A18-OPLL])</sup>。非口服、效力完全的孕酮的情况尚未得到研究<sup>([Aly, 2018][A18-OPLL])</sup>。
+如将 CPA 与雌激素一并用于女性倾向跨性别者，其也会引起血栓风险增长<sup>([Patel et al., 2022][P22])</sup>。\
+口服孕酮的情况与合成孕酮制剂相反：在雌激素治疗中加入口服孕酮，并不会进一步提高血栓风险<sup>([Scarabin, 2018][S18]; [Oliver-Williams et al., 2019][OW19]; [Kaemmle et al., 2022][K22])</sup>。不过这也许只是出于口服孕酮仅可产生很低的孕酮水平、且孕激素效力很弱的事实罢了<sup>([Aly, 2018][A18-OPLL])</sup>。非口服、效力完全的孕酮的情况尚未得到足够研究，故其风险如何仍未可知<sup>([Aly, 2018][A18-OPLL])</sup>。
 
-值得一提的是，历史上曾由荷兰[阿姆斯特丹自由大学医学中心][wiki-d8d8aabb]（VUMC）的[性别焦虑专家中心][wiki-f12c1100]（CEGD）在 1980 年代进行的一项研究中，在血栓风险上，服用高剂量 EE 与 CPA 的女性倾向跨性别者比一般人群预期值高了 45 倍之多<sup>([Asscheman, Gooren, & Eklund, 1989][AGE89]; [Asscheman et al., 2014][A14])</sup>；而其它风险也一并升高，甚至死亡率也更高了<sup>(Asscheman, Gooren, & Eklund, 1989; [Gooren & T’Sjoen, 2018][GTS18])</sup>。\
-CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE 会极大增强凝血功能，但口服或透皮雌二醇仅些微增强之<sup>([Toorians et al., 2003][T03])</sup>。当 CEGD 决定以生理剂量的口服或透皮雌二醇（还常与 CPA 合并）取代高剂量 EE 用于女性倾向跨性别者之后，该风险得到显著降低<sup>([van Kesteren et al., 1997][K97]; [Asscheman et al., 2011][A11]; Asscheman et al., 2014)</sup>。\
+值得一提的是，历史上曾由荷兰[阿姆斯特丹自由大学医学中心][wiki-d8d8aabb]（VUMC）的[性别焦虑专家中心][wiki-f12c1100]（CEGD）在 1980 年代进行的一项研究中，在血栓风险上，服用高剂量 EE 与 CPA 的女性倾向跨性别者比一般人群预期值高了 45 倍之多<sup>([Asscheman, Gooren, & Eklund, 1989][AGE89]; [Asscheman et al., 2014][A14])</sup>；而其它风险也一并升高，甚至死亡率也更高了<sup>([Asscheman, Gooren, & Eklund, 1989][AGE89]; [Gooren & T’Sjoen, 2018][GTS18])</sup>。\
+CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE 会极大增强凝血功能，但口服或透皮雌二醇仅些微增强之<sup>([Toorians et al., 2003][T03])</sup>。当 CEGD 决定以生理剂量的口服或透皮雌二醇（还常与 CPA 合并）取代高剂量 EE 用于女性倾向跨性别者之后，该风险得到显著降低<sup>([van Kesteren et al., 1997][VK97]; [Asscheman et al., 2011][A11]; [Asscheman et al., 2014][A14])</sup>。\
 这些发现对促进在女性化激素治疗当中以雌二醇取代 EE 的过程至关重要；其也无疑极大增长了对高剂量雌激素用于女性倾向跨性别者的顾忌。
 
 综上所述，已知各类雌激素均会提高血栓风险、或与之存在关联——取决于剂量。上述发现表明，只要暴露量足够大，雌激素无疑都会引起凝血功能和血栓风险升高。然而，相比于雌二醇，非生物同质性的人工雌激素皆会有更高血栓风险；而口服雌二醇的风险亦高于非口服。\
@@ -161,22 +162,22 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
 
 | 雌激素 | 血栓风险率 | 数据来源 |
 | --- | --- | --- |
-| 口服雌二醇 ≤1 mg/天 | 1.2 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 口服雌二醇 >1 mg/天<sup>(1)</sup> | 1.4 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 口服雌二醇约 1 mg/天<sup>(1)</sup>合并孕激素<sup>(2)</sup> | 1.4–1.8 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 透皮雌二醇 ≤50 μg/天 | 0.9 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 透皮雌二醇 >50 μg/天<sup>(1)</sup> | 1.1 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 口服 {{< abbr "CEE" >}} ≤0.625 mg/天 | 1.4 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 口服 CEE >0.625 mg/天<sup>(1)</sup> | 1.7 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 口服 CEE 约 0.625 mg/天<sup>(1)</sup>合并孕激素<sup>(2)</sup> | 1.5–2.4 倍 | Vinogradova et al. (2019a) \[[表格][table6]] |
-| 现代避孕药（{{< abbr "EE" >}} 与孕激素）<sup>(3)</sup> | 4.2 倍 | Heit, Spencer, & White (2016) |
-| 早期避孕药（高剂量 EE 与孕激素）<sup>(3)</sup> | 4–10 倍<sup>(4)</sup> | [Tchaikovski, Tans, & Rosing (2006)][TTR06];<br>PCASRM (2017) \[[表格][table4]] |
+| 口服雌二醇 ≤1 mg/天 | 1.2 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 口服雌二醇 >1 mg/天<sup>(1)</sup> | 1.4 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 口服雌二醇约 1 mg/天<sup>(1)</sup>合并孕激素<sup>(2)</sup> | 1.4–1.8 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 透皮雌二醇 ≤50 μg/天 | 0.9 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 透皮雌二醇 >50 μg/天<sup>(1)</sup> | 1.1 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 口服 {{< abbr "CEE" >}} ≤0.625 mg/天 | 1.4 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 口服 CEE >0.625 mg/天<sup>(1)</sup> | 1.7 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 口服 CEE 约 0.625 mg/天<sup>(1)</sup>合并孕激素<sup>(2)</sup> | 1.5–2.4 倍 | [Vinogradova et al. (2019)][VCH19] \[[表格][table6]] |
+| 现代避孕药（{{< abbr "EE" >}} 与孕激素）<sup>(3)</sup> | 4.2 倍 | [Heit, Spencer, & White (2016)][HSW16] |
+| 早期避孕药（高剂量 EE 与孕激素）<sup>(3)</sup> | 4–10 倍<sup>(4)</sup> | [Tchaikovski, Tans, & Rosing (2006)][TTR06];<br>[PCASRM (2017)][PCA17] \[[表格][table4]] |
 | 高剂量聚磷酸雌二醇注射剂<sup>(5)</sup> | 2.1 倍 | [Sam (2020)][S20-PCA] |
-| 高剂量口服 {{< abbr "DES" >}}、{{< abbr "EE" >}} 或 {{< abbr "EMP" >}} | 5.7–10 倍 | [Seaman et al. (2007)][S07]; Ravery et al.<br>(2011); [Klil-Drori et al. (2015)][KD15] |
-| {{< abbr "SERM" >}}（他莫昔芬、雷洛昔芬） | 约 1.5–3 倍 | Deitcher & Gomes (2004); Iqbal et al.<br>(2012); Konkle & Sood (2019) |
-| 妊娠（整体风险）<sup>(6)</sup> | 4.0 倍 | Heit, Spencer, & White (2016) |
-| 妊娠（后期） | 5.1–7.1 倍 | Sultan et al. (2015) \[[表格][table7]] |
-| 单用高剂量 {{< abbr "CPA" >}} | 3–5 倍 | Seaman et al. (2007) |
+| 高剂量口服 {{< abbr "DES" >}}、{{< abbr "EE" >}} 或 {{< abbr "EMP" >}} | 5.7–10 倍 | [Seaman et al. (2007)][S07];<br>[Ravery et al. (2011)][R11];<br>[Klil-Drori et al. (2015)][KD15] |
+| {{< abbr "SERM" >}}（他莫昔芬、雷洛昔芬） | 约 1.5–3 倍 | [Deitcher & Gomes (2004)][DG04];<br>[Iqbal et al.(2012)][I12];<br>[Konkle & Sood (2019)][KS19] |
+| 妊娠（整体风险）<sup>(6)</sup> | 4.0 倍 | [Heit, Spencer, & White (2016)][HSW16] |
+| 妊娠（后期） | 5.1–7.1 倍 | [Abdul Sultan et al. (2015)][AS15] \[[表格][table7]] |
+| 单用高剂量 {{< abbr "CPA" >}} | 3–5 倍 | [Seaman et al. (2007)][S07] |
 
 (1) 在用于更年期激素替代的通常剂量下（不会很高；应不高于所示剂量的两倍）。\
 (2) 以下其中一种：醋酸甲羟孕酮、[炔诺酮][wiki-4bfc85f0]、[炔诺孕酮][wiki-9843235f]或[屈螺酮][wiki-7586dda8]。\
@@ -192,7 +193,7 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
 
 ## 雌激素对凝血功能的增强之机理 {#mechanisms-of-increased-coagulation-with-estrogens}
 
-雌激素受体（ER）在肝脏内表达，而雌激素通过激活受体而在肝脏发挥效力<sup>([Eisenfeld & Aten, 1979][EA79]; [Eisenfeld & Aten, 1987][EA87]; [Sahlin & von Schoultz, 1999][SS99]; [Grossmann et al., 2019][G19])</sup>。雌激素被认为可通过激活肝脏内的 ER、调节多种[凝血因子][wiki-449d8316]（包括[促凝因子][wiki-5b883ea0]和[抗凝因子][wiki-781641ea]）在肝脏的产生，而引起血栓风险的升高<sup>([Kuhl, 2005][K05]; [Tchaikovski & Rosing, 2010][TR10]; [DeLoughery, 2011][DL11]; [Konkle & Sood, 2019][KS19])</sup>。\
+雌激素受体（ER）在肝脏内表达，而雌激素通过激活受体而在肝脏发挥效力<sup>([Eisenfeld & Aten, 1979][EA79]; [Eisenfeld & Aten, 1987][EA87]; [Sahlin & von Schoultz, 1999][SS99]; [Grossmann et al., 2019][GROS18])</sup>。雌激素被认为可通过激活肝脏内的 ER、调节多种[凝血因子][wiki-449d8316]（包括[促凝因子][wiki-5b883ea0]和[抗凝因子][wiki-781641ea]）在肝脏的产生，而引起血栓风险的升高<sup>([Kuhl, 2005][K05]; [Tchaikovski & Rosing, 2010][TR10]; [DeLoughery, 2011][DL11]; [Konkle & Sood, 2019][KS19])</sup>。\
 大多数凝血因子及其抑制剂由肝脏合成<sup>([Mammen, 1992][M92]; [Amitrano et al., 2002][A02]; [Peck-Radosavljevic, 2007][PR07])</sup>；随后被分泌至血液，进入体内循环，间接发挥效力。\
 雌激素可影响以下凝血因子的血清水平<sup>([Hemelaar et al., 2008][H08]; [Doxufils, Morimont, & Bouvy, 2020][DMB20])</sup>：
 
@@ -204,18 +205,18 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
   - [凝血因子 X][wiki-a2442493]。
 - 抗凝因子，包括
   - [抗凝血酶][wiki-84281d66]；
-  - [蛋白 C][wiki-62a4e619]*（自体凝血酶原 IIA、凝血因子 XIX）*；
-  - [蛋白 S][wiki-fac8117a]；
+  - [C 蛋白][wiki-62a4e619]*（自体凝血酶原 IIA、凝血因子 XIX）*；
+  - [S 蛋白][wiki-fac8117a]；
   - [组织因子途径抑制物][wiki-f154bc68]（TFPI）。
 - [纤维蛋白溶解][wiki-b5615935]因子，包括
   - [血纤维蛋白溶酶原][wiki-560b83ac]（纤溶酶原）；
   - [组织纤溶酶原激活剂][wiki-7327ce19]（t-PA）；
   - [纤溶酶原激活剂抑制物-1][wiki-90ee3c38]（PAI-1）。
 
-对[净凝血活性标志物][wiki-f8daa1c8]（如[凝血酶原片段 1.2][wiki-60a86ded]、[D-二聚体][wiki-f084f668]、[凝血酶—抗凝血酶复合物][wiki-b37ae7f8]等）以及[全身凝血功能测定][wiki-36543153]（如基于[凝血酶生成潜力][wiki-f503d26f]的[活性蛋白 C 抗性试验][wiki-b5c64e12]）的评估显示，由雌激素引起的血清因子水平变动，会导致整体促凝作用的加强<sup>([口服避孕药与凝血功能研究小组, 1999][OCHSG99]; [Kohli, 2006][KOHLI05]; [Hemelaar et al., 2008][H08]; [Douxfils et al., 2020][D20]; [Douxfils, Morimont, & Bouvy, 2020][DMB20])</sup>。\
+对[净凝血活性标志物][wiki-f8daa1c8]（如[凝血酶原片段 1.2][wiki-60a86ded]、[D-二聚体][wiki-f084f668]、[凝血酶—抗凝血酶复合物][wiki-b37ae7f8]等）以及[全身凝血功能测定][wiki-36543153]（如基于[凝血酶生成潜力][wiki-f503d26f]的[活性 C 蛋白抗性试验][wiki-b5c64e12]）的评估显示，由雌激素引起的血清因子水平变动，会导致整体促凝作用的加强<sup>([口服避孕药与凝血功能研究小组, 1999][OCHSG99]; [Kohli, 2006][KOHLI05]; [Hemelaar et al., 2008][H08]; [Douxfils et al., 2020][D20]; [Douxfils, Morimont, & Bouvy, 2020][DMB20])</sup>。\
 大多数由雌激素引起的凝血因子水平之变动相对较小，且通常仍维持于正常范围内。不过，放到一起的话，它们对全身凝血功能与血栓风险的增长作用会更大<sup>([Douxfils et al., 2020][D20]; [Douxfils, Morimont, & Bouvy, 2020][DMB20]; [Reda et al., 2020][R20])</sup>。
 
-除凝血因子外，雌激素还调节[多种肝脏产物的合成][wiki-e9b7fc93]<sup>([Kuhl, 1999][KL99]; [Kuhl, 2005][K05]; [表格][table8])</sup>。其中包括：
+除凝血因子外，雌激素还调节[多种肝脏产物的合成][wiki-e9b7fc93]<sup>([Kuhl, 1999][K99-PDF]; [Kuhl, 2005][K05]; [表格][table8])</sup>。其中包括：
 
 - [性激素结合球蛋白][wiki-c1e60351]（SHBG）；
 - [皮质醇结合球蛋白][wiki-cb430770]（CBG）；
@@ -235,26 +236,26 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
 
 | 雌激素 | SHBG 增幅 | 数据来源 |
 | --- | --- | --- |
-| 雌二醇贴片 50 μg/天 | 1.1× | [Kuhl (2005)][K05] |
-| 雌二醇贴片 100 μg/天 | 1.2× | [Shifren et al. (2008)][S08] |
-| 口服雌二醇 1 mg/天 | 1.6× | [Kuhl (1998)][K98] |
-| 口服雌二醇 2 mg/天 | 2.2× | Kuhl (1998) |
-| 口服雌二醇 4 mg/天 | 1.9–3.2× | [Fåhraeus & Larsson-Cohn (1982)][FLC82];<br/>[Gibney et al. (2005)][G05];<br/>[Ropponen et al. (2005)][ROPP05] |
-| 口服 {{< abbr "EV" >}} 6 mg/天<sup>(1)</sup><br/>（等效雌二醇约 4.5 mg/天） | 3.0× | [Dittrich et al. (2005)][D05] |
-| 口服 {{< abbr "CEE" >}} 0.625 mg/天 | 1.8× | Kuhl (1998) |
-| 口服 CEE 1.25 mg/天 | 2.2× | Kuhl (1998) |
-| 口服 {{< abbr "EE" >}} 5 μg/天 | 2.0× | [Kuhl (1999)][K99] |
-| 口服 EE 10 μg/天 | 3.0× | Kuhl (1998) |
-| 口服 EE 20 μg/天 | 3.4× | Kuhl (1998) |
-| 口服 EE 50 μg/天 | 4.0× | [Kuhl (1997)][KUHL97] |
-| 现代避孕药（含 EE 与孕激素）<sup>(2)</sup> | ~3.0–4.0× | [Odlind et al. (2002)][O02] |
-| 早期避孕药（含高剂量 EE 与孕激素）<sup>(2)</sup> | ~5–10× | [Hammond (2017)][HAMM17] |
-| 雌二醇贴片 200 μg/天 | ~1.5× | [Smith et al. (2019)][SMITH19] |
-| 雌二醇贴片 300 μg/天 | ~1.7× | Smith et al. (2019) |
-| 雌二醇贴片 600 μg/天 | ~2.3× | Bland et al. (2005) |
-| 高剂量雌二醇注射剂<sup>(3)</sup> | 1.7–3.2× | [Stege et al. (1988)][S88];<br/>[Mueller et al. (2011)][M11];<br/>[Nelson et al. (2016)][N16] |
-| 高剂量口服 {{< abbr "DES" >}}、{{< abbr "EE" >}} 或 {{< abbr "EMP" >}}<sup>(4)</sup> | ~5–10× | von Schoultz et al. (1989) |
-| 妊娠 | ~5–10× | Hammond (2017) |
+| 雌二醇贴片 50 μg/天 | 1.1 倍 | [Kuhl (2005)][K05] |
+| 雌二醇贴片 100 μg/天 | 1.2 倍 | [Shifren et al. (2008)][S08] |
+| 口服雌二醇 1 mg/天 | 1.6 倍 | [Kuhl (1998)][K98] |
+| 口服雌二醇 2 mg/天 | 2.2 倍 | [Kuhl (1998)][K98] |
+| 口服雌二醇 4 mg/天 | 1.9–3.2 倍 | [Fåhraeus & Larsson-Cohn (1982)][FLC82];<br/>[Gibney et al. (2005)][G05];<br/>[Ropponen et al. (2005)][ROPP05] |
+| 口服 {{< abbr "EV" >}} 6 mg/天<sup>(1)</sup><br/>（等效雌二醇约 4.5 mg/天） | 2.5–3.0 倍 | [Dittrich et al. (2005)][D05];<br>[Mueller et al. (2005)][M05];<br>[Mueller et al. (2006)][M06] |
+| 口服 {{< abbr "CEE" >}} 0.625 mg/天 | 1.8 倍 | [Kuhl (1998)][K98] |
+| 口服 CEE 1.25 mg/天 | 2.2 倍 | [Kuhl (1998)][K98] |
+| 口服 {{< abbr "EE" >}} 5 μg/天 | 2.0 倍 | [Kuhl (1999)][K99] |
+| 口服 EE 10 μg/天 | 3.0 倍 | [Kuhl (1998)][K98] |
+| 口服 EE 20 μg/天 | 3.4 倍 | [Kuhl (1998)][K98] |
+| 口服 EE 50 μg/天 | 4.0 倍 | [Kuhl (1997)][K97] |
+| 现代避孕药（含 EE 与孕激素）<sup>(2)</sup> | 约 3.0–4.0 倍 | [Odlind et al. (2002)][O02] |
+| 早期避孕药（含高剂量 EE 与孕激素）<sup>(2)</sup> | 约 5–10 倍 | [Hammond (2017)][HAMM17] |
+| 雌二醇贴片 200 μg/天 | 约 1.5 倍 | [Smith et al. (2019)][SMITH19] |
+| 雌二醇贴片 300 μg/天 | 约 1.7 倍 | [Smith et al. (2019)][SMITH19] |
+| 雌二醇贴片 600 μg/天 | 约 2.3 倍 | [Bland et al. (2005)][B05] |
+| 高剂量雌二醇注射剂<sup>(3)</sup> | 1.7–3.2 倍 | [Stege et al. (1988)][S88];<br>[Kronawitter et al. (2009)][K09] [表格][table10];<br>[Mueller et al. (2011)][M11];<br>[Nelson et al. (2016)][N16] |
+| 高剂量口服 {{< abbr "DES" >}}、{{< abbr "EE" >}} 或 {{< abbr "EMP" >}} | 约 5–10 倍 | [von Schoultz et al. (1989)][VS89] |
+| 妊娠 | 约 5–10 倍 | [Hammond (2017)][H17] |
 
 (1) 戊酸雌二醇所含雌二醇占其质量的约 75%。因此，6 mg/天的戊酸雌二醇大致等效于 4.5 mg/天的雌二醇。\
 (2) 现代避孕药含有 20–35 μg/天的炔雌醇，而早期避孕药（1960–1970 年代所用）则含有 50–150 μg/天。\
@@ -262,12 +263,12 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
 
 </section>
 
-雌激素治疗所引起的 SHBG 水平升高，与凝血功能及血栓风险的上升有相互联系，故可视作此类效应的一种可靠的替代指标<sup>([Odlind et al., 2002][ODLI02]; [van Rooijen et al., 2004][R04]; [van Vliet et al., 2005][V05]; [Tchaikovski & Rosing, 2010][TR10]; [Raps et al., 2012][R12]; [Stegeman et al., 2013][S13]; [Hugon-Rodin et al., 2017][HR17]; [Eilertsen et al., 2019][E19])</sup>。\
+雌激素治疗所引起的 SHBG 水平升高，与凝血功能及血栓风险的上升有相互联系，故可视作此类效应的一种可靠的替代指标<sup>([Odlind et al., 2002][ODLI02]; [van Rooijen et al., 2004][R04]; [van Vliet et al., 2005][V05]; [Tchaikovski & Rosing, 2010][TR10]; [Raps et al., 2012][R12]; [Stegeman et al., 2013][S13]; [Hugon-Rodin et al., 2017][HR16]; [Eilertsen et al., 2019][E19])</sup>。\
 某些情况下，SHBG 水平的增幅甚至还与血栓风险之增幅非常接近；例如，服用现代避孕药（皆提高约 4 倍）、服用高剂量口服人工雌激素以及妊娠后期（皆提高约 5–10 倍）。\
 尽管目前有关特定雌激素途径或剂量的血栓风险数据还较缺乏以至不存在（例如高剂量口服雌二醇、或者高剂量雌二醇酯注射剂）；但借由观察 SHBG 水平的变动，可以粗略推断对肝脏总的影响、凝血系统变化的幅度，以及血栓风险。\
-不过需要注意，孕激素在与雌激素合用时，会助长后者的血栓风险，同时不一定会影响 SHBG 水平、反而可能降低之（如伴有雄激素活性）<sup>(Kuhl, 2005; Vinogradova, Coupland, & Hippisley-Cox, 2019a)</sup>。
+不过需要注意，孕激素在与雌激素合用时，会助长后者的血栓风险，同时不一定会影响 SHBG 水平、反而可能降低之（如伴有雄激素活性）<sup>([Kuhl, 2005][K05]; [Vinogradova, Coupland, & Hippisley-Cox, 2019][VCH19])</sup>。
 
-生理水平下的雌二醇应对肝脏合成具有相对微弱的影响<sup>(Eisenfeld & Aten, 1979; [Lax, 1987][L87]; Kuhl, 2005)</sup>；这与其在妇女当中仅有些微、以至没有血栓风险的认识相一致。目前认为，在正常生理条件下，雌二醇应仅在相当高的水平下——即怀孕期间——才会明显影响肝脏合成。妊娠期间肝脏产物的变化可能会起到重要的生物作用<sup>(Eisenfeld & Aten, 1979)</sup>；凝血功能被认为是其中之一，因为凝血功能可减少分娩时的失血，从而有助于 *（产妇）* 存活。\
+生理水平下的雌二醇应对肝脏合成具有相对微弱的影响<sup>([Eisenfeld & Aten, 1979][EA79]; [Lax, 1987][L87]; [Kuhl, 2005][K05])</sup>；这与其在妇女当中仅有些微、以至没有血栓风险的认识相一致。目前认为，在正常生理条件下，雌二醇应仅在相当高的水平下——即怀孕期间——才会明显影响肝脏合成。妊娠期间肝脏产物的变化可能会起到重要的生物作用<sup>([Eisenfeld & Aten, 1979][EA79])</sup>；凝血功能被认为是其中之一，因为凝血功能可减少分娩时的失血，从而有助于 *（产妇）* 存活。\
 相反的是，除妊娠之外，凝血功能的增强并不会带来任何明显益处。
 
 ### 口服雌二醇与肝脏首过效应 {#estradiol-and-the-liver-first-pass-with-oral-administration}
@@ -278,23 +279,23 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
 
 <section class="box">
 
-![figure][figure1]
+![figure 1][figure1]
 
 **【图一】** 口服雌激素经肝脏首过效应引起凝血功能增强的示意图<sup>([Scarabin et al., 2020][S20])</sup>。缩写：
 
 - E——雌激素；
 - trans——透皮；
 - AT——[抗凝血酶][wiki-84281d66]；
-- PS——[蛋白 S][wiki-fac8117a]；
+- PS——[S 蛋白][wiki-fac8117a]；
 - TFPI——[组织因子途径抑制物][wiki-f154bc68]；
 - II——[凝血酶原][wiki-f577b57b]；
 - VII——[凝血因子 VII][wiki-4a25e445]；
-- PC——[蛋白 C][wiki-62a4e619]；
+- PC——[C 蛋白][wiki-62a4e619]；
 - V——[凝血因子 V][wiki-350217f8]；
 - VTE——静脉血栓；
 - CHD——[冠心病][wiki-3db77f41]。
 
-另见[活性蛋白 C 抗性][wiki-33b114da]（APCR）。
+另见[活性 C 蛋白抗性][wiki-33b114da]（APCR）。
 
 </section>
 
@@ -302,54 +303,60 @@ CEGD 后来针对女性倾向跨性别者进行的一项研究，确认了 EE �
 
 ### 非生物同质性雌激素与肝脏代谢抗性 {#non-bioidentical-estrogens-and-resistance-to-liver-metabolism}
 
-诸如 {{< abbr EE >}}、{{< abbr DES >}} 和 {{< abbr CEE >}} 等非生物同质性雌激素，对肝脏蛋白的合成以及血栓风险之影响，不仅大于口服雌二醇，也高于非口服雌二醇<sup>(Kuhl, 1998; Kuhl, 2005; Phillips et al., 2014; Turo et al., 2014; [表格][table6])</sup>。这是因为，雌二醇会被肝脏剧烈代谢并失活，而非生物同质性雌激素在分子结构上有别于雌二醇，使得其对肝脏代谢的抗性远高于之<sup>(Kuhl, 1998; Kuhl, 2005; [Connors & Middeldorp, 2019][CM19]; [Swee, Javaid, & Quinton, 2019][SJQ19])</sup>。
+诸如 {{< abbr EE >}}、{{< abbr DES >}} 和 {{< abbr CEE >}} 等非生物同质性雌激素，对肝脏蛋白的合成以及血栓风险之影响，不仅大于口服雌二醇，也高于非口服雌二醇<sup>([Kuhl, 1998][K98]; [Kuhl, 2005][K05]; [Phillips et al., 2014][P14]; [Turo et al., 2014][T14]; [表格][table6])</sup>。这是因为，雌二醇会被肝脏剧烈代谢并失活，而非生物同质性雌激素在分子结构上有别于雌二醇，使得其对肝脏代谢的抗性远高于之<sup>([Kuhl, 1998][K98]; [Kuhl, 2005][K05]; [Connors & Middeldorp, 2019][CM19]; [Swee, Javaid, & Quinton, 2019][SJQ19])</sup>。
 
-以 {{< abbr EE >}} 为例：其口服[生物利用度][wiki-f9e263a2]约为 45%，而口服雌二醇仅有约 5%<sup>(Kuhl, 2005; Stanczyk, Archer, & Bhavnani, 2013)</sup>。此外，EE 的[血浆清除半衰期][wiki-dae0794e]长达 5–30 小时，而雌二醇仅有不足 1 小时<sup>([White et al., 1998][W98]; Kuhl, 2005; Stanczyk, Archer, & Bhavnani, 2013)</sup>。还有其它一系列差别；从总和雌激素效力来看，同质量下 EE 之效力相当于雌二醇的约 120 倍<sup>(Kuhl, 2005; [表格][table2])</sup>。因此，临床上 EE 的剂量以微克计，而口服雌二醇的剂量要以毫克计、且高出 100 倍以上。\
-从 EE 与雌二醇在[药代动力学][wiki-fb0e49f3]上的差别可以反映出 EE 对肝脏代谢的高度抗性<sup>(Kuhl, 2005)</sup>。之所以 EE（也称 17α-乙炔雌二醇）具备对肝脏代谢的抗性，是因为其在碳 17α 点位上比雌二醇多出了一个[乙炔基团][wiki-c6f50a02]<sup>(Kuhl, 2005)</sup>；这种分子修饰导致了[位阻效应][wiki-7f509e49]，即其阻止了 [17β-羟类固醇脱氢酶][wiki-d020cae1]（17β-HSD）、以及[硫酸基转移酶][wiki-14b1de21]和[葡萄糖醛酸基转移酶][wiki-a18b60a9]等[结合酶][wiki-1ef56d4d]作用于碳 17β 点位上的[羟基团][wiki-39fdb592]，从而阻止对 EE 的代谢。其中，17β-HSD 通常将雌二醇转化为效力较弱的[雌酮][wiki-0a373afc]，而结合酶会将雌二醇转化为无活性的 17β-[硫酸或葡萄糖醛酸雌激素结合物][wiki-1b813b47]（如[硫酸雌酮][wiki-c4f2617f]）<sup>(Kuhl, 2005)</sup>。\
-事实上，类似于“乙炔雌酮”的代谢物是完全不存在的；因为其需要在*第 17 碳原子上以两个分子键与氧原子结合* 为酮基团——而结合点位只有 17α 与 17β，前者在 EE 分子内已由乙炔基团占有。因此，EE 不像雌二醇那样会在肝脏内代谢成效力较弱或无活性的物质（如雌酮与硫酸雌酮），以防止激活肝脏受体、增强凝血功能；其也因此与更高的血栓风险有关<sup>(Kuhl, 2005; [Russell et al., 2017][R17])</sup>。
+以 {{< abbr EE >}} 为例：其口服[生物利用度][wiki-f9e263a2]约为 45%，而口服雌二醇仅有约 5%<sup>([Kuhl, 2005][K05]; [Stanczyk, Archer, & Bhavnani, 2013][SAB13])</sup>。此外，EE 的[血浆清除半衰期][wiki-dae0794e]长达 5–30 小时，而雌二醇仅有不足 1 小时<sup>([White et al., 1998][W98]; [Kuhl, 2005][K05]; [Stanczyk, Archer, & Bhavnani, 2013][SAB13])</sup>。还有其它一系列差别；从总和雌激素效力来看，同质量下 EE 之效力相当于雌二醇的约 120 倍<sup>([Kuhl, 2005][K05]; [表格][table2])</sup>。因此，临床上 EE 的剂量以微克计，而口服雌二醇的剂量要以毫克计、且高出 100 倍以上。\
+从 EE 与雌二醇在[药代动力学][wiki-fb0e49f3]上的差别可以反映出 EE 对肝脏代谢的高度抗性<sup>([Kuhl, 2005][K05])</sup>。之所以 EE（也称 17α-乙炔雌二醇）具备对肝脏代谢的抗性，是因为其在碳 17α 点位上比雌二醇多出了一个[乙炔基团][wiki-c6f50a02]<sup>([Kuhl, 2005][K05])</sup>；这种分子修饰导致了[位阻效应][wiki-7f509e49]，即其阻止了 [17β-羟类固醇脱氢酶][wiki-d020cae1]（17β-HSD）、以及[硫酸基转移酶][wiki-14b1de21]和[葡萄糖醛酸基转移酶][wiki-a18b60a9]等[结合酶][wiki-1ef56d4d]作用于碳 17β 点位上的[羟基团][wiki-39fdb592]，从而阻止对 EE 的代谢。其中，17β-HSD 通常将雌二醇转化为效力较弱的[雌酮][wiki-0a373afc]，而结合酶会将雌二醇转化为无活性的 17β-[硫酸或葡萄糖醛酸雌激素结合物][wiki-1b813b47]（如[硫酸雌酮][wiki-c4f2617f]）<sup>([Kuhl, 2005][K05])</sup>。\
+事实上，类似于“乙炔雌酮”的代谢物是完全不存在的；因为其需要在*第 17 碳原子上以两个分子键与氧原子结合* 为酮基团——而结合点位只有 17α 与 17β，前者在 EE 分子内已由乙炔基团占有。因此，EE 不像雌二醇那样会在肝脏内代谢成效力较弱或无活性的物质（如雌酮与硫酸雌酮），以防止激活肝脏受体、增强凝血功能；其也因此与更高的血栓风险有关<sup>([Kuhl, 2005][K05]; [Russell et al., 2017][R17])</sup>。
 
 <section class="box">
 
-![figure][figure2]
+![figure 2][figure2]
 
 **【图二】** 几种雌激素的化学结构，*分别为雌二醇、炔雌醇、雌酮与乙烯雌酚*。甾体雌激素（雌二醇、炔雌醇与雌酮）的第 17 碳原子位于其结构式的右上角。
 
 </section>
 
-由于 EE 对肝脏代谢与失活机制有明显抗性，故可在肝脏内维持很长时间；其裂解之前往往会多次循环经过肝脏。此外，相比于等效剂量的口服雌二醇，EE 对肝脏蛋白合成作用的畸高程度要高出好几倍<sup>(Kuhl, 2005; [表格][table2])</sup>。因此，EE 不仅在总和效力上比口服雌二醇高约 120 倍，更是在对肝脏的效力上高出约 350–1,500 倍<sup>(von Schoultz et al., 1989; Kuhl, 2005)</sup>。即使非常小的剂量下（1 μg/天），EE 仍会对肝脏代谢造成影响<sup>([Speroff et al., 1996][S96]; [Trémollieres, 2012][T12])</sup>。\
-还有，无论是经口服、还是经透皮或阴道给药，EE 皆会对肝脏与血栓风险产生相似的影响；该事实表明，EE 无需经过口服的首过效应便可影响血栓风险，这点与口服雌二醇不同<sup>(Plu-Bureau et al., 2013; PCASRM, 2017; Konkle & Sood, 2019)</sup>。EE 的代谢抗性很高，这意味着无论何种途径，都对肝脏有显著影响。\
+由于 EE 对肝脏代谢与失活机制有明显抗性，故可在肝脏内维持很长时间；其裂解之前往往会多次循环经过肝脏。此外，相比于等效剂量的口服雌二醇，EE 对肝脏蛋白合成作用的畸高程度要高出好几倍<sup>([Kuhl, 2005][K05]; [表格][table2])</sup>。因此，EE 不仅在总和效力上比口服雌二醇高约 120 倍，更是在对肝脏的效力上高出约 350–1,500 倍<sup>([von Schoultz et al., 1989][VS89]; [Kuhl, 2005][K05])</sup>。即使非常小的剂量下（1 μg/天），EE 仍会对肝脏代谢造成影响<sup>([Speroff et al., 1996][S96]; [Trémollieres, 2012][T12])</sup>。\
+还有，无论是经口服、还是经透皮或阴道给药，EE 皆会对肝脏与血栓风险产生相似的影响；该事实表明，EE 无需经过口服的首过效应便可影响血栓风险，这点与口服雌二醇不同<sup>([Plu-Bureau et al., 2013][PB13]; [PCASRM, 2017][PCA17]; [Konkle & Sood, 2019][KS19])</sup>。EE 的代谢抗性很高，这意味着无论何种途径，都对肝脏有显著影响。\
 EE 在肝脏的超强效力，使得其对凝血功能与血栓风险的影响远甚于等效剂量下的雌二醇。
 
-{{< abbr CEE >}} 对肝脏蛋白合成作用的畸高程度，也高于口服雌二醇数倍，但低于 EE<sup>(Kuhl, 2005; [表格][table2])</sup>。这可能与其含有的马雌激素有关；马雌激素并不为人体接受，也对人肝脏代谢存在抗性。\
-另一方面，{{< abbr DES >}} 对肝脏的雌激素作用则更甚于 EE<sup>(Kuhl, 2005; [表格][table2])</sup>。之所以 DES 对肝脏合成的影响畸高程度还高于 EE 或 CEE，可能是因为 DES 是一种[非甾体类雌激素][wiki-b4940c05]，在结构上相较[甾体][wiki-f7d7f641]雌激素精简了许多。这点应该有一定关系，因为 DES 不像甾体雌激素对肝脏甾体代谢酶有不同程度的敏感性<sup>(Kuhl, 2005)</sup>，其对 17β-HSD 无亲和性，故其羟基团也不会被氧化，成为形如雌酮的酮基代谢物；这点和 EE 类似<sup>([Jensen et al., 2010][J10])</sup>。\
+{{< abbr CEE >}} 对肝脏蛋白合成作用的畸高程度，也高于口服雌二醇数倍，但低于 EE<sup>([Kuhl, 2005][K05]; [表格][table2])</sup>。这可能与其含有的马雌激素有关；马雌激素并不为人体接受，也对人肝脏代谢存在抗性。\
+另一方面，{{< abbr DES >}} 对肝脏的雌激素作用则更甚于 EE<sup>([Kuhl, 2005][K05]; [表格][table2])</sup>。之所以 DES 对肝脏合成的影响畸高程度还高于 EE 或 CEE，可能是因为 DES 是一种[非甾体类雌激素][wiki-b4940c05]，在结构上相较[甾体][wiki-f7d7f641]雌激素精简了许多。这点应该有一定关系，因为 DES 不像甾体雌激素对肝脏甾体代谢酶有不同程度的敏感性<sup>([Kuhl, 2005][K05])</sup>，其对 17β-HSD 无亲和性，故其羟基团也不会被氧化，成为形如雌酮的酮基代谢物；这点和 EE 类似<sup>([Jensen et al., 2010][J10])</sup>。\
 由于具有高于雌二醇的肝脏代谢抗性，在等效剂量下，CEE 及非甾体类雌激素 DES 等也与 EE 一样，对凝血功能与血栓风险具有更大影响（不过影响程度不一）。
 
 如将口服非生物同质性雌激素与透皮（而非口服）雌二醇作比较，其对受雌激素调节的肝脏蛋白合成之影响就犹如天壤之别了。只需简略计算，便很快得知为何此类雌激素在高剂量下会有类似于妊娠的、对肝脏蛋白及血栓风险的影响。下表显示了经粗略估算的、不同雌激素对肝脏的相对作用强度。
 
 <section class="box">
 
-**【表四】** 雌激素对肝脏的雌激素效力及总体/全身雌激素效力之比值，由特定肝脏产物（如 SHBG）粗略估算而来<sup>(Kuhl, 2005; [表格][table2])</sup>：
+**【表四】** 雌激素对肝脏的雌激素效力及总体/全身雌激素效力之比值，由特定肝脏产物（如 SHBG）粗略估算而来<sup>([Kuhl, 2005][K05]; [表格][table2])</sup>：
 
-<table><thead><tr><th rowspan="2"><b>雌激素</b></th><th colspan="2"><b>肝脏效力相对比值</b></th></tr><tr><th><b>相比口服雌二醇</b></th><th><b>相比透皮雌二醇</b></th></tr></thead><tbody><tr><td>透皮雌二醇</td><td>约 0.25 倍<sup>(1)</sup></td><td>1.0 倍<sup>(1)</sup></td></tr><tr><td>口服雌二醇</td><td>1.0 倍</td><td>~4.0 倍</td></tr><tr><td>口服结合雌激素</td><td>1.3–4.5 倍</td><td>~5.2–18 倍</td></tr><tr><td>口服炔雌醇</td><td>2.9–5.0 倍</td><td>~12–20 倍</td></tr><tr><td>口服乙烯雌酚</td><td>5.7–7.5 倍</td><td>~23–30 倍</td></tr></tbody></table>
+| **雌激素** | **相比口服雌二醇的肝脏效力** | **相比透皮雌二醇的肝脏效力** |
+| --- | --- | --- |
+| 透皮雌二醇 | 约 0.25 倍<sup>(1)</sup> | 1.0 倍<sup>(1)</sup> |
+| 口服雌二醇 | 1.0 倍 | 约 4.0 倍 |
+| 口服结合雌激素 | 1.3–4.5 倍 | 约 5.2–18 倍 |
+| 口服炔雌醇 | 2.9–5.0 倍 | 约 12–20 倍 |
+| 口服乙烯雌酚 | 5.7–7.5 倍 | 约 23–30 倍 |
 
 (1) 数据源自一项研究的发现：在可达到同等雌二醇水平的剂量下，口服雌二醇对 SHBG 水平的影响相当于透皮雌二醇的 4 倍<sup>([Nachtigall et al., 2000][N00])</sup>。
 
 </section>
 
-由雌激素引起的肝脏蛋白合成之变化，并非与剂量或对肝脏相对效力呈线性关系。其中，SHBG 及其它肝脏产物的水平会随雌激素剂量上升，并逐渐达到饱和——也即，高剂量的影响并没有低剂量下那么大<sup>([Kuhl, 1990][K90]; [Kuhl, 1999][KL99])</sup>。例如，口服 EE 在 5 μg/天、10 μg/天、20 μg/天与 50 μg/天的剂量下，引起 SHBG 水平上升的幅度分别为 2.0 倍、3.0 倍、3.4 倍和 4.0 倍<sup>([Kuhl, 1998][K98]; Kuhl, 1999)</sup>。此类发现应归因于高雌激素浓度对肝脏 ER 的竞争性结合、激活趋于饱和<sup>(Kuhl, 1990)</sup>。\
-有一点可以印证之：尽管口服 EE 对肝脏的效力远甚于口服雌二醇，但后者可能会意外地很快“后来居上”，超过 EE 及其它非生物同质性雌激素。相应地，已知口服雌二醇在 1 mg/天、2 mg/天与 4 mg/天剂量下，引起的 SHBG 水平增幅分别为 1.6 倍、2.2 倍和 1.9–3.2 倍<sup>(Fåhraeus & Larsson-Cohn, 1982; Kuhl, 1998; Gibney et al., 2005; Ropponen et al., 2005)</sup>。\
+由雌激素引起的肝脏蛋白合成之变化，并非与剂量或对肝脏相对效力呈线性关系。其中，SHBG 及其它肝脏产物的水平会随雌激素剂量上升，并逐渐达到饱和——也即，高剂量的影响并没有低剂量下那么大<sup>([Kuhl, 1990][K90]; [Kuhl, 1999][K99-PDF])</sup>。例如，口服 EE 在 5 μg/天、10 μg/天、20 μg/天与 50 μg/天的剂量下，引起 SHBG 水平上升的幅度分别为 2.0 倍、3.0 倍、3.4 倍和 4.0 倍<sup>([Kuhl, 1998][K98]; [Kuhl, 1999][K99-PDF])</sup>。此类发现应归因于高雌激素浓度对肝脏 ER 的竞争性结合、激活趋于饱和<sup>([Kuhl, 1990][K90])</sup>。\
+有一点可以印证之：尽管口服 EE 对肝脏的效力远甚于口服雌二醇，但后者可能会意外地很快“后来居上”，超过 EE 及其它非生物同质性雌激素。相应地，已知口服雌二醇在 1 mg/天、2 mg/天与 4 mg/天剂量下，引起的 SHBG 水平增幅分别为 1.6 倍、2.2 倍和 1.9–3.2 倍<sup>([Fåhraeus & Larsson-Cohn, 1982][FLC82]; [Kuhl, 1998][K98]; [Gibney et al., 2005][G05]; [Ropponen et al., 2005][ROPP05])</sup>。\
 因此，尽管口服 EE 对肝脏的效力应有口服雌二醇的约 3–5 倍，但在总和雌激素效力接近于 EE 的剂量下，口服雌二醇也足以引起较大的 SHBG 水平增长，增幅仅仅略低于 EE。
 
 ### 选择性雌激素受体调节剂及其代谢抗性 {#selective-estrogen-receptor-modulators-and-metabolism-resistance}
 
 {{< abbr "SERM" >}} 是雌激素受体（ER）的[部分激动剂][wiki-51b79154]，包括他莫昔芬、雷洛昔芬等。这与雌激素不同——像雌二醇、CEE、EE 和 DES 之类都是 ER 的[完全激动剂][wiki-438516b9]。\
 与 DES 等非甾体类雌激素类似，临床上使用的 SERM 均属于非甾体类物质，对肝脏代谢有高度抗性。事实上，像他莫昔芬与[氯米芬][wiki-d5c5871c]等特定类型的 SERM，在分子结构上与 DES 很接近，也是 DES 的衍生物。\
-SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其在骨骼等一些组织会发挥雌激素效力，而在乳房等其它组织发挥[抗雌激素][wiki-c12904ac]效力<sup>([Lain, 2019][L19-ST]; [表格][table9])</sup>。尽管不同 SERM 对特定组织（如子宫）的效力各异，但其皆在肝脏表达雌激素效力；因此，SERM 也会像雌激素一样提高血栓风险<sup>(Park & Jordan, 2002; Fabian & Kimler, 2005)</sup>。与非生物同质性雌激素类似，SERM 引起血栓风险的增幅也高于口服雌二醇，其原因亦可归于对肝脏更高的代谢抗性、以及更强的雌激素效力。\
+SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其在骨骼等一些组织会发挥雌激素效力，而在乳房等其它组织发挥[抗雌激素][wiki-c12904ac]效力<sup>([Lain, 2019][L19-ST]; [表格][table9])</sup>。尽管不同 SERM 对特定组织（如子宫）的效力各异，但其皆在肝脏表达雌激素效力；因此，SERM 也会像雌激素一样提高血栓风险<sup>([Park & Jordan, 2002][PJ02]; [Fabian & Kimler, 2005][FK05])</sup>。与非生物同质性雌激素类似，SERM 引起血栓风险的增幅也高于口服雌二醇，其原因亦可归于对肝脏更高的代谢抗性、以及更强的雌激素效力。\
 医学上使用的 SERM 可分为多种结构类型；例如他莫昔芬属于[三苯乙烯][wiki-4e511c58]类，而雷洛昔芬属于[苯并噻吩][wiki-6b655876]类。不同结构类型的 SERM 之间只有一项共同点：就是其与 ER 的互动机制相似。
 
 <section class="box">
 
-![figure][figure3]
+![figure 3][figure3]
 
 **【图三】** 部分 SERM 的化学结构。其在结构上均属于非甾体类物质，其中包括他莫昔芬（三苯乙烯类）与雷洛昔芬（苯并噻吩类）。
 
@@ -358,10 +365,10 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 ### 雌激素与 SERM 对雌激素受体的激活：凝血功能增强的缘由 {#activation-of-the-estrogen-receptor-is-specifically-responsible-for-increased-coagulation-with-estrogens-and-serms}
 
 来自临床前基因研究的发现，直接证明了血栓风险之升高源自 ER 的激活。有一项重要的动物实验研究，对小鼠服用 EE 后的促凝及抗凝生物标记的变化进行了测定；其发现 EE 引起了多种凝血因子水平的变化<sup>([Cleuren et al., 2010][C10])</sup>。\
-研究者还评估了服用雌二醇的情况，也发现了类似变化<sup>(Cleuren et al., 2010)</sup>。\
-如将 EE 与一种选择性 ER 完全拮抗剂：[氟维司群][wiki-201bbf07]合用，则后者会完全中和由 EE 引起的凝血变化<sup>(Cleuren et al., 2010)</sup>。\
-此外，在已敲除[雌激素受体 α][wiki-85c7cc1a] 的小鼠中使用 EE，则未对凝血因子产生影响<sup>(Cleuren et al., 2010)</sup>。\
-上述发现与对人及小鼠的[全基因组关联分析][wiki-a7be185d]所发现的一致——即[雌激素响应元件][wiki-18db4b2e]（ERE）在涉及凝血通路的大量基因当中广泛存在<sup>(Cleuren et al., 2010; [Stanczyk, Mathews, & Cortessis, 2017][SMC17])</sup>。*（ERE 是一段位于基因转录起点的 DNA 序列，受 ER 调控而与转录因子结合，从而起到调控这些基因的作用。）*
+研究者还评估了服用雌二醇的情况，也发现了类似变化<sup>([Cleuren et al., 2010][C10])</sup>。\
+如将 EE 与一种选择性 ER 完全拮抗剂：[氟维司群][wiki-201bbf07]合用，则后者会完全中和由 EE 引起的凝血变化<sup>([Cleuren et al., 2010][C10])</sup>。\
+此外，在已敲除[雌激素受体 α][wiki-85c7cc1a] 的小鼠中使用 EE，则未对凝血因子产生影响<sup>([Cleuren et al., 2010][C10])</sup>。\
+上述发现与对人及小鼠的[全基因组关联分析][wiki-a7be185d]所发现的一致——即[雌激素响应元件][wiki-18db4b2e]（ERE）在涉及凝血通路的大量基因当中广泛存在<sup>([Cleuren et al., 2010][C10]; [Stanczyk, Mathews, & Cortessis, 2017][SMC17])</sup>。*（ERE 是一段位于基因转录起点的 DNA 序列，受 ER 调控而与转录因子结合，从而起到调控这些基因的作用。）*
 
 以上发现恰恰表明，之所以雌激素会引起凝血功能与血栓风险升高，就是因为 ER 的激活。其也印证了一项事实：各类选择性 ER 激动剂无论在化学结构上有多大差别，皆会引起血栓风险；其也间接证明了某些非 ER 引起的效应并非凝血功能增强的起因（例如雌酮作为弱雌激素活性的代谢物，会在一定程度上与雌二醇共同引起血栓风险<sup>—[Bagot et al., 2010][B10]</sup>）。\
 因此，凝血功能与血栓风险的升高可视为雌激素与 SERM 的共同作用——在肝脏暴露量足够高的情况下。不过，不同类型的 ER 激动剂对肝脏代谢的敏感度不同，从而对凝血功能具有不同的影响。\
@@ -369,12 +376,12 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 
 ## 血栓绝对发生率与风险因素 {#absolute-incidences-and-risk-factors}
 
-对妇女而言，雌激素、孕激素暴露量状态（例如极高的激素摄入，或者[妊娠][wiki-7cc814be]），无疑是公认的血栓[风险因素][wiki-8ae10db1]。不过，在无相关风险因素的年轻健康人群当中，即使因激素引起血栓风险的极大提升，也极少出现血栓病例<sup>(Rosendaal, 2005)</sup>。\
-非妊娠期妇女的年化 {{< abbr "VTE" >}} 绝对发生率，为每万人 1–5 例（即年均 0.01–0.05%）<sup>(PCASRM, 2017; Konkle & Sood, 2019)</sup>。而当妇女服用含 {{< abbr "EE" >}} 的避孕药时，尽管其 VTE 风险平均会提高约 4 倍，但年化 VTE 发生率仅有每万人 3–9 例（即年均 0.03–0.09%）<sup>(Konkle & Sood, 2019)</sup>。类似地，妇女妊娠期间，尽管雌二醇与孕酮水平变得极高，VTE 风险也升高达 7 倍<sup>(Sultan et al., 2015)</sup>，但血栓绝对发生率仅有每年每万人约 5–20 例（即年均 0.05–0.2%）<sup>(PCASRM, 2017; Konkle & Sood, 2019)</sup>。
+对妇女而言，雌激素、孕激素暴露量状态（例如极高的激素摄入，或者[妊娠][wiki-7cc814be]），无疑是公认的血栓[风险因素][wiki-8ae10db1]。不过，在无相关风险因素的年轻健康人群当中，即使因激素引起血栓风险的极大提升，也极少出现血栓病例<sup>([Rosendaal, 2005][R05])</sup>。\
+非妊娠期妇女的年化 {{< abbr "VTE" >}} 绝对发生率，为每万人 1–5 例（即年均 0.01–0.05%）<sup>([PCASRM, 2017][PCA17]; [Konkle & Sood, 2019][KS19])</sup>。而当妇女服用含 {{< abbr "EE" >}} 的避孕药时，尽管其 VTE 风险平均会提高约 4 倍，但年化 VTE 发生率仅有每万人 3–9 例（即年均 0.03–0.09%）<sup>([Konkle & Sood, 2019][KS19])</sup>。类似地，妇女妊娠期间，尽管雌二醇与孕酮水平变得极高，VTE 风险也升高达 7 倍<sup>([Abdul Sultan et al., 2015][AS15])</sup>，但血栓绝对发生率仅有每年每万人约 5–20 例（即年均 0.05–0.2%）<sup>([PCASRM, 2017][PCA17]; [Konkle & Sood, 2019][KS19])</sup>。
 
 <section class="box">
 
-**【表五】** 绝经前妇女在不同雌激素暴露量下的 VTE 绝对发生率<sup>(Gerstman et al., 1991; Konkle & Sood, 2019; [Douxfils, Morimont, & Bouvy, 2020][DMB20])</sup>：
+**【表五】** 绝经前妇女在不同雌激素暴露量下的 VTE 绝对发生率<sup>([Gerstman et al., 1991][G91]; [Konkle & Sood, 2019][KS19]; [Douxfils, Morimont, & Bouvy, 2020][DMB20])</sup>：
 
 | 组别/疗法 | 年均发生率 |
 | --- | --- |
@@ -387,20 +394,20 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 </section>
 
 无论如何，高雌激素暴露量引起的 VTE 及心血管风险，会随时间及人口规模累积。据估计，欧洲每年会发生 22,000 例由避孕药引起的 VTE 病例<sup>([Morimont, Dogné, & Douxfils, 2020][MDD20])</sup>；在美国，每年有 300–400 名年轻健康妇女会死于由避孕药引起的血栓<sup>([Keenan, Kerr, & Duane, 2019][KKD19])</sup>。\
-需要指出，相比于含有 EE，如避孕药改为含有雌二醇或[雌四醇][wiki-2a7854c7]，应会显著减小促凝作用、降低血栓风险；如果这点得到进一步确认，将有望大幅减少血栓病例<sup>([Stanczyk, Archer, & Bhavnani, 2013][SAB13]; [Dinger, Minh, & Heinemann, 2016][DMH16]; [Grandi, Facchinetti, & Bitzer, 2017][GFB17]; [Fruzzetti & Cagnacci, 2018][FC18]; [Grandi et al., 2019][GRAND19]; [Grandi et al., 2020][GRAND20]; [Douxfils, Morimont, & Bouvy, 2020][DMB20]; [Reda et al., 2020][R20]; [Morimont et al., 2021][M21]; [Grandi, Facchinetti, Bitzer, 2022][GFB22])</sup>。
+需要指出，相比于含有 EE，如避孕药改为含有雌二醇或[雌四醇][wiki-2a7854c7]，应会显著减小促凝作用、降低血栓风险；如果这点得到进一步确认，将有望大幅减少血栓病例<sup>([Stanczyk, Archer, & Bhavnani, 2013][SAB13]; [Dinger, Minh, & Heinemann, 2016][DMH16]; [Grandi, Facchinetti, & Bitzer, 2017][GFB17]; [Fruzzetti & Cagnacci, 2018][FC18]; [Grandi et al., 2019][GRAND19]; [Grandi et al., 2020][G20]; [Douxfils, Morimont, & Bouvy, 2020][DMB20]; [Reda et al., 2020][R20]; [Morimont et al., 2021][M21]; [Grandi, Facchinetti, Bitzer, 2022][GFB22])</sup>。
 
-已知除雌激素与孕激素暴露量之外，也有一系列引起血栓风险的其它因素，其会与时间和人口规模一道明显助推风险率<sup>([Heit et al., 2000][HEIT00]; Rosendaal, 2005)</sup>。其中，年龄是已知最主要的风险因素之一<sup>(Rosendaal, 2005; Montagnana et al., 2010)</sup>。年龄也是最特别的一项因素，因为每个人都会逐渐与此相关。血栓风险率在 15 岁以下的人群中仅有年均不足 0.005% 到 0.01%；而到了 80 岁以上，该风险率升至年均约 0.5–1.0%，增长一百倍左右<sup>(Rosendaal, 2005; Montagnana et al., 2010; Rabe et al., 2011)</sup>。\
+已知除雌激素与孕激素暴露量之外，也有一系列引起血栓风险的其它因素，其会与时间和人口规模一道明显助推风险率<sup>([Heit et al., 2000][HEIT00]; [Rosendaal, 2005][R05])</sup>。其中，年龄是已知最主要的风险因素之一<sup>([Rosendaal, 2005][R05]; [Montagnana et al., 2010][M10])</sup>。年龄也是最特别的一项因素，因为每个人都会逐渐与此相关。血栓风险率在 15 岁以下的人群中仅有年均不足 0.005% 到 0.01%；而到了 80 岁以上，该风险率升至年均约 0.5–1.0%，增长一百倍左右<sup>([Rosendaal, 2005][R05]; [Montagnana et al., 2010][M10]; [Rabe et al., 2011][R11])</sup>。\
 下图将年龄对血栓风险的影响可视化展现。
 
 <section class="box">
 
-![figure][figure4]
+![figure 4][figure4]
 
-**【图四】** 在不同年龄段，每十万名男性（黑色柱）及女性（灰色柱）首次发生 VTE 的年均风险率<sup>([Oger, 2000][O00]; Rosendaal, 2005; [Rosendaal, 2016][R16])</sup>。
+**【图四】** 在不同年龄段，每十万名男性（黑色柱）及女性（灰色柱）首次发生 VTE 的年均风险率<sup>([Oger, 2000][O00]; [Rosendaal, 2005][R05]; [Rosendaal, 2016][R16])</sup>。
 
 </section>
 
-引起血栓及心血管问题的其它已知风险因素包括<sup>([Baron et al., 1998][B98]; Heit et al., 2000; Rosendaal, 2005; [Lijfering, Rosendaal, & Cannegieter, 2010][LRC10]; [Timp et al., 2013][T13])</sup>：
+引起血栓及心血管问题的其它已知风险因素包括<sup>([Baron et al., 1998][B98]; [Heit et al., 2000][H00]; [Rosendaal, 2005][R05]; [Lijfering, Rosendaal, & Cannegieter, 2010][LRC10]; [Timp et al., 2013][T13])</sup>：
 
 - 运动量少（例如由床上休息、长途旅行等引起）；
 - 肥胖；
@@ -411,13 +418,13 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 - 艾滋病；
 - 等等。
 
-除年龄之外，运动量少也是最主要的血栓风险因素之一，也会助推许多其它因素引起的风险<sup>([Oger, 2000][O00]; Rosendaal, 2005; [Rosendaal, 2016][R16])</sup>。\
-吸烟本身并不大会引起 VTE 风险的增长<sup>(Lijfering, Rosendaal, & Cannegieter, 2010)</sup>；但如同时服用含 EE 的避孕药，也会一并提高 VTE 风险<sup>([Pomp, Rosendaal, & Doggen, 2008][PRD08])</sup>，同时还大幅提高心肌梗塞风险——例如，老烟民患心梗的风险会提高 20 倍<sup>(Kuhl, 1999)</sup>。\
+除年龄之外，运动量少也是最主要的血栓风险因素之一，也会助推许多其它因素引起的风险<sup>([Oger, 2000][O00]; [Rosendaal, 2005][R05]; [Rosendaal, 2016][R16])</sup>。\
+吸烟本身并不大会引起 VTE 风险的增长<sup>([Lijfering, Rosendaal, & Cannegieter, 2010][LRC10])</sup>；但如同时服用含 EE 的避孕药，也会一并提高 VTE 风险<sup>([Pomp, Rosendaal, & Doggen, 2008][PRD08])</sup>，同时还大幅提高心肌梗塞风险——例如，老烟民患心梗的风险会提高 20 倍<sup>([Kuhl, 1999][K99])</sup>。\
 下表显示了一些已知风险因素对 VTE 的影响：
 
 <section class="box">
 
-**【表六】** 除激素过量以外的其它 VTE 风险因素，以及 VTE 风险相对增幅<sup>(Baron et al., 1998; Heit et al., 2000; Rosendaal, 2005; Lijfering, Rosendaal, & Cannegieter, 2010; Timp et al., 2013)</sup>：
+**【表六】** 除激素过量以外的其它 VTE 风险因素，以及 VTE 风险相对增幅<sup>([Baron et al., 1998][B98]; [Heit et al., 2000][H00]; [Rosendaal, 2005][R05]; [Lijfering, Rosendaal, & Cannegieter, 2010][LRC10]; [Timp et al., 2013][T13])</sup>：
 
 | 风险因素 | 相对风险率 |
 |-|-|
@@ -433,23 +440,23 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 | 妊娠 | 4 倍 |
 | 产后 | 15–20 倍 |
 
-(1) 视类型与阶段而不同<sup>(Baron et al., 1998; Timp et al., 2013)</sup>。据一项研究的发现，乳腺癌与前列腺癌分别使 VTE 风险增至一般人群的 1.8 倍与 4.2 倍<sup>(Baron et al., 1998)</sup>。\
-(2) 吸烟本身不大会引起 VTE 风险的增长<sup>(Lijfering, Rosendaal, & Cannegieter, 2010; Rabe et al., 2011)</sup>。
+(1) 视类型与阶段而不同<sup>([Baron et al., 1998][B98]; [Timp et al., 2013][T13])</sup>。据一项研究的发现，乳腺癌与前列腺癌分别使 VTE 风险增至一般人群的 1.8 倍与 4.2 倍<sup>([Baron et al., 1998][B98])</sup>。\
+(2) 吸烟本身不大会引起 VTE 风险的增长<sup>([Lijfering, Rosendaal, & Cannegieter, 2010][LRC10]; [Rabe et al., 2011][R11])</sup>。
 
 </section>
 
-遗传性与获得性易栓症，在人群中占比不小，且会导致血栓风险大幅增长<sup>(Lijfering, Rosendaal, & Cannegieter, 2010)</sup>。其也很少被人察觉<sup>(Morimont, Dogné, & Douxfils, 2020)</sup>。这是因为，对遗传性易栓症的筛查多基于家族病史，在识别有相关异常的人群时，这不仅难以感知，且很难作出预警<sup>(Morimont, Dogné, & Douxfils, 2020)</sup>。故此，许多人正处在高血栓风险而不自知。\
+遗传性与获得性易栓症，在人群中占比不小，且会导致血栓风险大幅增长<sup>([Lijfering, Rosendaal, & Cannegieter, 2010][LRC10])</sup>。其也很少被人察觉<sup>([Morimont, Dogné, & Douxfils, 2020][MDD20])</sup>。这是因为，对遗传性易栓症的筛查多基于家族病史，在识别有相关异常的人群时，这不仅难以感知，且很难作出预警<sup>([Morimont, Dogné, & Douxfils, 2020][MDD20])</sup>。故此，许多人正处在高血栓风险而不自知。\
 下表显示了一系列凝血指标异常的流行率，以及其对血栓风险的影响。
 
 <section class="box">
 
-**【表七】** 凝血指标异常的流行率，及 VTE 相对风险率<sup>([Martinelli, Passamonti, & Bucciarelli, 2014][MPB14]; [Mannucci & Franchini, 2015][MF15]; 另见 [Walker, 2009][W09]; Konkle & Sood, 2019)</sup>。
+**【表七】** 凝血指标异常的流行率，及 VTE 相对风险率<sup>([Martinelli, Passamonti, & Bucciarelli, 2014][MPB14]; [Mannucci & Franchini, 2015][MF15]; 另见 [Walker, 2009][W09]; [Konkle & Sood, 2019][KS19])</sup>。
 
 | 易栓症类型 | 一般人群流行率 | VTE 患者流行率 | VTE 首次发病<br>风险率 | VTE 复发<br>风险率 |
 |-|-|-|-|-|
 | [抗凝血酶缺陷][wiki-add1] | 0.02–0.2% | 1% | 50 倍 | 2.5 倍 |
-| [蛋白 C 缺陷][wiki-add2] | 0.2–0.4% | 3% | 15 倍 | 2.5 倍 |
-| [蛋白 S 缺陷][wiki-add3] | 0.03–0.1% | 2% | 10 倍 | 2.5 倍 |
+| [C 蛋白缺陷][wiki-add2] | 0.2–0.4% | 3% | 15 倍 | 2.5 倍 |
+| [S 蛋白缺陷][wiki-add3] | 0.03–0.1% | 2% | 10 倍 | 2.5 倍 |
 | [凝血因子 V 的 Leiden 突变][wiki-add4]（杂合型） | 5% | 20% | 7 倍 | 1.5 倍 |
 | [凝血因子 V 的 Leiden 突变][wiki-add4]（纯合型） | 0.02% | 1.5% | 80 倍 | - |
 | [凝血酶原 G20210A 突变][wiki-add5]（杂合型） | 2% | 6% | 3–4 倍 | 1.5 倍 |
@@ -460,12 +467,12 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 
 </section>
 
-血栓被视为一种多成因的疾病<sup>(Rosendaal, 2005)</sup>。当多种风险因素并存时，激素暴露量对血栓及心血管并发症风险的影响是最大的。在最极端的情况之一下——即年龄高、又有癌症、同时还在服用高剂量人工雌激素（如 DES）——，血栓发生率可达 15–28%，而心血管并发症的总体发生率可达 35%<sup>([Phillips et al., 2014][PHIL14]; [Sciarria et al., 2014][SCIA14]; [Turo et al., 2014][T14])</sup>。\
+血栓被视为一种多成因的疾病<sup>([Rosendaal, 2005][R05])</sup>。当多种风险因素并存时，激素暴露量对血栓及心血管并发症风险的影响是最大的。在最极端的情况之一下——即年龄高、又有癌症、同时还在服用高剂量人工雌激素（如 DES）——，血栓发生率可达 15–28%，而心血管并发症的总体发生率可达 35%<sup>([Phillips et al., 2014][PHIL14]; [Sciarria et al., 2014][SCIA14]; [Turo et al., 2014][T14])</sup>。\
 上述不良反应让这些人群的发病率和死亡率都有很大增加。不过，绝大多数人远未达到如此高的风险。就像妊娠期妇女在其雌二醇与孕酮水平已极高的同时，仍仅有微小的血栓问题，是因为年龄所致；又如，老年癌症患者接受高剂量人工雌激素治疗，却有很高的死亡风险，这也是年龄作梗。
 
-由 VUMC 进行的研究发现，女性倾向跨性别者使用高剂量 {{< abbr "EE" >}} 与 {{< abbr "CPA" >}} 长达 5–10 年之后，其血栓发生率增长了 20–45 倍；VUMC 于 1989 年的报告和 1997 年的跟踪报告指出的血栓绝对发生率，分别为 6.3% 和 5.5%（每年每万人 142 例和 58 例）<sup>(Asscheman, Gooren, & Eklund, 1989; van Kesteren et al., 1997; Asscheman et al., 2014; Goldstein et al., 2019; [Min & Hopkins, 2021][MH21])</sup>。\
-而年龄低于 40 岁和高于 40 岁的人群之绝对发生率，则为 2.1% 和 12%；这与目前关于年龄对血栓风险之影响的认识相吻合<sup>(Asscheman, Gooren, & Eklund, 1989; Asscheman et al., 2014)</sup>。有约 70% 的病例除年龄以外无任何已知的血栓风险因素<sup>(Asscheman, Gooren, & Eklund, 1989; Asscheman et al., 2014)</sup>。当以低至中等剂量的透皮雌二醇取代 EE 用于已超过 40 岁的人群之后，其血栓发生率显著降低了（该群体内仅出现一例血栓病例）<sup>(van Kesteren et al., 1997; Asscheman et al., 2014; Min & Hopkins, 2021)</sup>。\
-2013 年，由比利时[根特大学附属医院][wiki-5bd41365]进行的一项研究发现，治疗时长平均达 7.7 年（范围从 3 个月到 35 年不等）的女性倾向跨性别者群体的血栓发生率为 5.1%；其用药主要为雌二醇（口服或透皮）、合并或不合并 CPA<sup>(Wierckx et al., 2013; Min & Hopkins, 2021)</sup>。患血栓的人群多有诸如高年龄、吸烟、因手术失去行动能力或处于高凝状态等风险因素<sup>(Wierckx et al., 2013; Min & Hopkins, 2021)</sup>。\
+由 VUMC 进行的研究发现，女性倾向跨性别者使用高剂量 {{< abbr "EE" >}} 与 {{< abbr "CPA" >}} 长达 5–10 年之后，其血栓发生率增长了 20–45 倍；VUMC 于 1989 年的报告和 1997 年的跟踪报告指出的血栓绝对发生率，分别为 6.3% 和 5.5%（每年每万人 142 例和 58 例）<sup>([Asscheman, Gooren, & Eklund, 1989][AGE89]; [van Kesteren et al., 1997][VK97]; [Asscheman et al., 2014][A14]; [Goldstein et al., 2019][G19]; [Min & Hopkins, 2021][MH21])</sup>。\
+而年龄低于 40 岁和高于 40 岁的人群之绝对发生率，则为 2.1% 和 12%；这与目前关于年龄对血栓风险之影响的认识相吻合<sup>([Asscheman, Gooren, & Eklund, 1989][AGE89]; [Asscheman et al., 2014][A14])</sup>。有约 70% 的病例除年龄以外无任何已知的血栓风险因素<sup>([Asscheman, Gooren, & Eklund, 1989][AGE89]; [Asscheman et al., 2014][A14])</sup>。当以低至中等剂量的透皮雌二醇取代 EE 用于已超过 40 岁的人群之后，其血栓发生率显著降低了（该群体内仅出现一例血栓病例）<sup>([van Kesteren et al., 1997][VK97]; [Asscheman et al., 2014][A14]; [Min & Hopkins, 2021][MH21])</sup>。\
+2013 年，由比利时[根特大学附属医院][wiki-5bd41365]进行的一项研究发现，治疗时长平均达 7.7 年（范围从 3 个月到 35 年不等）的女性倾向跨性别者群体的血栓发生率为 5.1%；其用药主要为雌二醇（口服或透皮）、合并或不合并 CPA<sup>([Wierckx et al., 2013][W13]) [Min & Hopkins, 2021][MH21])</sup>。患血栓的人群多有诸如高年龄、吸烟、因手术失去行动能力或处于高凝状态等风险因素<sup>([Wierckx et al., 2013][W13]) [Min & Hopkins, 2021][MH21])</sup>。\
 除（激素）累计暴露时间之外，以上研究还揭示了多种风险因素并存会对血栓风险有何等影响；这些因素包括雌激素类型、途径和剂量，孕激素暴露量，以及年龄，等等。
 
 ## 对女性倾向跨性别者的治疗意义 {#therapeutic-implications-for-transfeminine-people}
@@ -477,7 +484,7 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 基于现有研究的结果（例如低剂量下或同等 SHBG 增幅下的血栓风险），高剂量口服雌二醇（如 8 mg/天）在血栓风险上的表现若与含较少 EE 的避孕药别无二致，也不会令人意外。与孕激素（如 {{< abbr "CPA" >}}）合用时，风险还会变得更高。由于口服雌二醇相比非口服途径具有更大、且不必要的风险，故最好避免用于女性倾向跨性别者——尤其是有血栓相关风险因素者（如年龄已过 40 岁），以及与孕激素合用者。不过，口服雌二醇具有便利性较好、开销较少等显著优点；女性倾向跨性别者及其医师（在用药选择上）也会将其纳入考虑。\
 非口服雌二醇的情况与口服相反：在维持生理范围（即 100–200 pg/mL）的雌二醇水平的同时，其仅会有微弱、以至不会有血栓风险。因此，生理水平下的非口服雌二醇可安全用于女性倾向跨性别者。
 
-而某些非口服雌二醇会引起超生理的水平；据估计，300–500 pg/mL 左右的雌二醇水平可将血栓水平升至 2 倍<sup>([Sam, 2020][S20-PCA])</sup>，而这仍低于由正广泛使用的含 EE 避孕药引起的平均 4 倍之多的风险增长。鉴于如此高的雌二醇水平有助于抑制睾酮分泌，且此类避孕药在全球正广泛为顺性别妇女所用，可以认为，高剂量（合理范围内）的非口服雌二醇所引起的血栓风险率在女性倾向跨性别者当中应该足可容忍<sup>([Haupt et al., 2020][H20])</sup>；尤其是将高剂量非口服雌二醇单药治疗与其它处方（如雌二醇合并[螺内酯][wiki-9e5b9ba7]、CPA 或[比卡鲁胺][wiki-bb37b2c5]等抗雄制剂——皆有各自的风险及缺点）进行比较之后，更会凸显前者的优越性。事实上，至少雌二醇合并 CPA 使用的风险就有可能大于前者<sup>(例如 [Sam, 2020][S20-VTA]; [Aly, 2020][A20-CM]; [Aly, 2020][A20-BC])</sup>。\
+而某些非口服雌二醇会引起超生理的水平；据估计，300–500 pg/mL 左右的雌二醇水平可将血栓水平升至 2 倍<sup>([Sam, 2020][S20-PCA])</sup>，而这仍低于由正广泛使用的含 EE 避孕药引起的平均 4 倍之多的风险增长。鉴于如此高的雌二醇水平有助于抑制睾酮分泌，且此类避孕药在全球正广泛为顺性别妇女所用，可以认为，高剂量（合理范围内）的非口服雌二醇所引起的血栓风险率在女性倾向跨性别者当中应该足可容忍<sup>([Haupt et al., 2020][H20])</sup>；尤其是将高剂量非口服雌二醇单药治疗与雌二醇、抗雄制剂联合治疗（如雌二醇合并[螺内酯][wiki-9e5b9ba7]、CPA 或[比卡鲁胺][wiki-bb37b2c5]等——皆有各自的风险及缺点）进行比较之后，更会凸显前者的优越性。\
 无论如何，与口服雌二醇的理由类似，使用非口服雌二醇时，最好也应避免引起较高的雌二醇水平，因为其也会表现出更大的风险；尤其是对于有血栓相关风险因素者（如年龄较高）。此外，使用超高剂量、且已超过抑制睾酮所需的非口服雌二醇，是很难站得住脚的；因为其会徒增不必要的风险，亦无任何额外益处。
 
 ## 对血栓的预防 {#prevention-of-blood-clots}
@@ -493,8 +500,8 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 - 等等。
 
 已知阿司匹林可有效预防血栓<sup>([Mekaj, Daci, & Mekaj, 2015][MDM15]; [Matharu et al., 2020][M20])</sup>，也有人建议将其用于正接受激素治疗的女性倾向跨性别者<sup>([Feldman & Goldberg, 2006][FG06]; [Deutsch, 2016][D16])</sup>。不过，关于预防由激素治疗引起的血栓之证据仍较有限，且存在争议<sup>([Grady et al., 2000][G00]; [Cushman et al., 2004][C04])</sup>；不建议将阿司匹林用于女性倾向跨性别者以预防血栓的也大有人在<sup>([Shatzel, Connelly, & DeLoughery, 2017][SCD17])</sup>。\
-已知利伐沙班不仅可完全中和由更年期口服激素治疗引起的血栓风险，且游刃有余<sup>(Blondon, 2020)</sup>。\
-无论如何，目前尚无任何抗凝药物被批准或支持用于预防激素疗法引起的血栓风险。有鉴于此，现有临床指南表示，目前已有证据尚不足以为这方面的抉择提供指引<sup>(例如 McLintock, 2014)</sup>。\
+已知利伐沙班不仅可完全中和由更年期口服激素治疗引起的血栓风险，且游刃有余<sup>([Blondon, 2020][B20])</sup>。\
+无论如何，目前尚无任何抗凝药物被批准或支持用于预防激素疗法引起的血栓风险。有鉴于此，现有临床指南表示，目前已有证据尚不足以为这方面的抉择提供指引<sup>(例如 [McLintock, 2014][ML14])</sup>。\
 还需注意，抗凝药物也有各自的副作用及风险，应当谨慎使用。
 
 在跨性别社区当中，有人推荐将[芦丁][wiki-abd1e376]用于预防血栓，且声称有[临床前研究][wiki-f1963a23]支持<sup>([Jasuja et al., 2012][J12]; [Choi et al., 2015][C15])</sup>。（芦丁是一种天然的[黄酮苷][wiki-2eefe991]，见于多种植物与食物，并以[草本保健品][wiki-a5c192dd]的形式在售。）\
@@ -502,26 +509,26 @@ SERM 在[不同组织内有不同的][wiki-e0156049]雌激素调节作用；其�
 此外，已知芦丁等黄酮苷在体内会有诸多不良[性质][wiki-fb0e49f3]（例如生物利用度很低、代谢率高、半衰期短），因此其生物活性很弱、且疗效不佳，使得其用处有限<sup>([Ma et al., 2014][M14]; [Higdon et al., 2016][H16]; [Cassidy & Minihane, 2017][CM17]; [Zhao, Yang, & Xie, 2019][ZYX19]; [Zhang et al., 2021][Z21])</sup>。\
 最后，芦丁的耐受性及安全性尚未得到评估。出于上述原因，目前不应建议女性倾向跨性别者为降低血栓风险而服用芦丁。
 
-手术前暂停雌激素的服用曾被认为理论上有助于减小术后恢复期的血栓风险，也曾被建议、指示用于即将接受手术的女性倾向跨性别者<sup>(例如 [Asscheman et al., 2014][A14])</sup>。然而，目前关于此法尚缺乏有力的证据支持；仍需更多研究来确认其是否真的会有益处<sup>([Boskey, Taghinia, & Ganor, 2019][BTG19]; [Nolan & Cheung, 2020][NC20-NIH]; [Haveles et al., 2021][H21]; [Hontscharuk et al., 2021][HONT21]; [Kozato et al., 2021][K21]; [Nolan et al., 2021][N21]; [Zucker, Reisman, & Safer, 2021][ZRS21])</sup>。\
+手术前暂停雌激素的服用曾被认为理论上有助于减小术后恢复期的血栓风险，也曾被建议、指示用于即将接受手术的女性倾向跨性别者<sup>(例如 [Asscheman et al., 2014][A14])</sup>。然而，目前关于此法尚缺乏有力的证据支持；仍需更多研究来确认其是否真的会有益处<sup>([Boskey, Taghinia, & Ganor, 2019][BTG19]; [Nolan & Cheung, 2020][NC20-PM]; [Haveles et al., 2021][H21]; [Hontscharuk et al., 2021][HONT21]; [Kozato et al., 2021][K21]; [Nolan et al., 2021][N21]; [Zucker, Reisman, & Safer, 2021][ZRS21])</sup>。\
 近期进行的研究并未发现女性倾向跨性别者术前停用激素会使血栓风险降低；但其统计学证据不足，尚需更大规模的研究以佐证之<sup>([Blasdel et al., 2021][B21])</sup>。\
 暂停服用激素对某些女性倾向跨性别者而言会很痛苦，为此要相应做出权衡。有一种办法可作为替代，就是短期使用生理剂量的透皮雌二醇；其不会引起血栓风险，应更为安全。
 
 ## 后记 {#updates}
 
-### 后记一 {#update-1}
+### 后记一：Langley 等人 (2021) 所做 PATCH 研究的结果 {#update-1-langley-et-al-2021-patch-study-results}
 
-2021 年二月，一篇有关[前列腺癌透皮激素治疗][wiki-a7c7601f]（PATCH）试验引起的长期心血管后果的报告被公开发表<sup>([Langley et al., 2021][L21]; [PDF 文档][L21-PDF]; [补充附录][L21-SUPPL])</sup>。PATCH 是一项大型随机对照试验，其将高剂量雌二醇透皮贴片和 GnRH 激动剂用于治疗男性前列腺癌的情况进行对比；目前正进行[二期][wiki-f1df7d16]、[三期试验][wiki-dd411722]<sup>(Langley et al., 2021)</sup>。其中所用雌二醇贴片的剂量，为每日 3–4 片 100 μg；品牌来自 FemSeven 或 Progynova TS<sup>(Langley et al., 2021)</sup>。\
-据该报告所述，有 1,694 名男性参与试验并被随机分配，其中 790 人服用 GnRH 激动剂，904 人使用雌二醇贴片<sup>(Langley et al., 2021)</sup>。
+2021 年二月，一篇有关[前列腺癌透皮激素治疗][wiki-a7c7601f]（PATCH）试验引起的长期心血管后果的报告被公开发表<sup>([Langley et al., 2021][L21]; [PDF 文档][L21-PDF]; [补充附录][L21-SUPPL])</sup>。PATCH 是一项大型随机对照试验，其将高剂量雌二醇透皮贴片和 GnRH 激动剂用于治疗男性前列腺癌的情况进行对比；目前正进行[二期][wiki-f1df7d16]、[三期试验][wiki-dd411722]<sup>([Langley et al., 2021][L21])</sup>。其中所用雌二醇贴片的剂量，为每日 3–4 片 100 μg；品牌来自 FemSeven 或 Progynova TS<sup>([Langley et al., 2021][L21])</sup>。\
+据该报告所述，有 1,694 名男性参与试验并被随机分配，其中 790 人服用 GnRH 激动剂，904 人使用雌二醇贴片<sup>([Langley et al., 2021][L21])</sup>。
 
-在上述雌二醇剂量下，雌二醇水平中值约达 215 pg/mL（5%–95% 大致范围：100–550 pg/mL）<sup>(Langley et al., 2021)</sup>。有 93% 的雌二醇贴片组男性的睾酮水平被抑制到已去势范围内（小于 50 ng/dL），这与 GnRH 激动剂组的抑制率相当一致（约 93%）<sup>(Langley et al., 2021)</sup>。然而，该报告虽有睾酮抑制率，却未提供实际睾酮水平，因此这两组之间无法进行比较<sup>(Langley et al., 2021)</sup>。\
-在平均约 4 年的跟踪时长之后，雌二醇组与 GnRH 激动剂组的多项心血管后果并无明显差异；其中包括 {{< abbr "VTE" >}}、[血栓栓塞性卒中][wiki-d881e212]及其它[动脉栓塞事件][wiki-0fe3719d]<sup>(Langley et al., 2021)</sup>。此结果与早前有关 PEP 用于前列腺癌的临床研究结果截然相反；后者发现心血管发病率与 VTE 风险皆有所上升，但其中雌二醇水平明显高于 PATCH 试验<sup>(Ockrim & Abel, 2009; [Sam, 2020][S20-PCA])</sup>。\
-PATCH 的研究者从其大有前景的用药安全性资料出发，表示治疗前列腺癌时应重新考虑采用透皮雌激素<sup>(Langley et al., 2021)</sup>。
+在上述雌二醇剂量下，雌二醇水平中值约达 215 pg/mL（5%–95% 大致范围：100–550 pg/mL）<sup>([Langley et al., 2021][L21])</sup>。有 93% 的雌二醇贴片组男性的睾酮水平被抑制到已去势范围内（小于 50 ng/dL），这与 GnRH 激动剂组的抑制率相当一致（约 93%）<sup>([Langley et al., 2021][L21])</sup>。然而，该报告虽有睾酮抑制率，却未提供实际睾酮水平，因此这两组之间无法进行比较<sup>([Langley et al., 2021][L21])</sup>。\
+在平均约 4 年的跟踪时长之后，雌二醇组与 GnRH 激动剂组的多项心血管后果并无明显差异；其中包括 {{< abbr "VTE" >}}、[血栓栓塞性卒中][wiki-d881e212]及其它[动脉栓塞事件][wiki-0fe3719d]<sup>([Langley et al., 2021][L21])</sup>。此结果与早前有关 PEP 用于前列腺癌的临床研究结果截然相反；后者发现心血管发病率与 VTE 风险皆有所上升，但其中雌二醇水平明显高于 PATCH 试验<sup>([Ockrim & Abel, 2009][OA09]; [Sam, 2020][S20-PCA])</sup>。\
+PATCH 的研究者从其大有前景的用药安全性资料出发，表示治疗前列腺癌时应重新考虑采用透皮雌激素<sup>([Langley et al., 2021][L21])</sup>。
 
 上述发现令人安心，其表明将雌二醇水平控制在有限的较高范围（像 200–300 pg/mL 这样）时，其对女性倾向跨性别者的血栓及心血管风险应该也足够安全。\
 然而应当指出，这项试验当中的[样本规模][wiki-b086ee17]尽管大于早前的同类临床研究，但仍不足以对血栓风险进行评估；血栓发生率极低，需要很大的样本规模方可完全量化之。例如，有的研究对更年期及已绝经妇女的血栓风险进行了精确评估，而其受试者规模多达数万人。因此，尽管从该试验可知风险率并未显著上升，但也不能排除有小幅上升的可能。\
 还应指出，该研究所用剂量引起的较强睾酮抑制效力，并不代表女性倾向跨性别者也会有；因为该研究的受试者大多已步入老年，且睾酮水平会随年龄增长而降低。
 
-### 后记二 {#update-2}
+### 后记二：Totaro 等人 (2021) 与 Kotamarti 等人 (2021) 所作论文 {#update-2-totaro-et-al-2021-and-kotamarti-et-al-2021}
 
 2021 年十一月，一篇有关女性化激素疗法引起的血栓风险的[系统性评述][wiki-4caf1f65]、[荟萃分析][wiki-b4abc596]兼[回归分析][wiki-4e615280]论文被公开发表：
 
@@ -535,7 +542,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 这个 0% 估计值并不意味着其完全没有 VTE 风险，但可以认为此风险率足够低，以至于这次荟萃分析的样本规模还不足以探测并量化之。
 
 该荟萃分析存在一项局限性：其声称，由于数据不足，其未能也无法基于雌激素类型（如雌二醇、CEE 与 EE 的比较）与途径（如口服雌激素，或者口服、透皮雌二醇的比较）进行[亚组分析][wiki-c7b886d8]。\
-然而，有另一项近期的荟萃分析，不仅也做了 Totaro 等人 (2021) 的大部分工作，而且确实进行了对诸雌激素类型及途径的亚组分析；其论文于 2021 年七月公开发表：
+然而，有另一项近期的荟萃分析，不仅也做了 [Totaro 等人 (2021)][T21] 的大部分工作，而且确实进行了对诸雌激素类型及途径的亚组分析；其论文于 2021 年七月公开发表：
 
 - Kotamarti, V. S., Greige, N., Heiman, A. J., Patel, A., & Ricci, J. A. (2021).\
   Risk for Venous Thromboembolism in Transgender Patients Undergoing Cross-Sex Hormone Treatment: A Systematic Review. [一次系统性评述：关于正接受跨性别激素治疗的跨性别者的静脉血栓风险]\
@@ -551,6 +558,244 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 
 由于所引用研究的数据质量参差不齐，尚不清楚以上计算值的准确度如何。而且，抗雄激素制剂（如 CPA）这个因素并未得到控制，据本文所述，其有可能会对 VTE 风险产生额外影响。无论如何，以上数值很有参考意义，也与不同雌激素类型及途径在 VTE 风险上的不同之处相吻合。
 
+## 参考文献 {#references}
+
+- Abdul Sultan, A., West, J., Stephansson, O., Grainge, M. J., Tata, L. J., Fleming, K. M., Humes, D., & Ludvigsson, J. F. (2015). Defining venous thromboembolism and measuring its incidence using Swedish health registries: a nationwide pregnancy cohort study. *BMJ Open*, *5*(11), e008864. \[DOI:[10.1136/bmjopen-2015-008864][AS15]]
+- Abou-Ismail, M. Y., Citla Sridhar, D., & Nayak, L. (2020). Estrogen and thrombosis: A bench to bedside review. *Thrombosis Research*, *192*, 40–51. \[DOI:[10.1016/j.thromres.2020.05.008][ASN20]]
+- Amitrano, L., Guardascione, M. A., Brancaccio, V., & Balzano, A. (2002). Coagulation Disorders in Liver Disease. *Seminars in Liver Disease*, *22*(1), 83–96. \[DOI:[10.1055/s-2002-23205][A02]]
+- Anderson et al. (2004). Effects of Conjugated Equine Estrogen in Postmenopausal Women With Hysterectomy. *JAMA*, *291*(14), 1701–1712. \[DOI:[10.1001/jama.291.14.1701][A04]]
+- Arnold, J. D., Sarkodie, E. P., Coleman, M. E., & Goldstein, D. A. (2016). Incidence of Venous Thromboembolism in Transgender Women Receiving Oral Estradiol. *The Journal of Sexual Medicine*, *13*(11), 1773–1777. \[DOI:[10.1016/j.jsxm.2016.09.001][A16]]
+- Asscheman, H., Gooren, L., & Eklund, P. (1989). Mortality and morbidity in transsexual patients with cross-gender hormone treatment. *Metabolism*, *38*(9), 869–873. \[DOI:[10.1016/0026-0495(89)90233-3][AGE89]]
+- Asscheman, H., Giltay, E. J., Megens, J. A., de Ronde, W. (Pim), van Trotsenburg, M. A., & Gooren, L. J. (2011). A long-term follow-up study of mortality in transsexuals receiving treatment with cross-sex hormones. *European Journal of Endocrinology*, *164*(4), 635–642. \[DOI:[10.1530/eje-10-1038][A11]]
+- Asscheman, H., T’Sjoen, G., Lemaire, A., Mas, M., Meriggiola, M. C., Mueller, A., Kuhn, A., Dhejne, C., Morel-Journel, N., & Gooren, L. J. (2013). Venous thrombo-embolism as a complication of cross-sex hormone treatment of male-to-female transsexual subjects: a review. *Andrologia*, *46*(7), 791–795. \[DOI:[10.1111/and.12150][A14]]
+- Baber, R. J., Panay, N., & Fenton, A. (2016). 2016 IMS Recommendations on women’s midlife health and menopause hormone therapy. *Climacteric*, *19*(2), 109–150. \[DOI:[10.3109/13697137.2015.1129166][B16]]
+- Back, D. J., & Rogers, S. M. (1987). Review: first-pass metabolism by the gastrointestinal mucosa. *Alimentary Pharmacology & Therapeutics*, *1*(5), 339–357. \[DOI:[10.1111/j.1365-2036.1987.tb00634.x][BR87]]
+- Bagot, C., Marsh, M., Whitehead, M., Sherwood, R., Roberts, L., Patel, R., & Arya, R. (2010). The effect of estrone on thrombin generation may explain the different thrombotic risk between oral and transdermal hormone replacement therapy. *Journal of Thrombosis and Haemostasis*, *8*(8), 1736–1744. \[DOI:[10.1111/j.1538-7836.2010.03953.x][B10]]
+- Bagot, C., Leishman, E., Onyiaodike, C., Jordan, F., Gibson, V., & Freeman, D. (2019). Changes in laboratory markers of thrombotic risk early in the first trimester of pregnancy may be linked to an increase in estradiol and progesterone. *Thrombosis Research*, *178*, 47–53. \[DOI:[10.1016/j.thromres.2019.03.015][B19]]
+- Baron, J. A., Gridley, G., Weiderpass, E., Nyren, O., & Linet, M. (1998). Venous thromboembolism and cancer. *The Lancet*, *351*(9109), 1077–1080. \[DOI:[10.1016/s0140-6736(97)10018-6][B98]]
+- Bezwada, P., Shaikh, A., & Misra, D. (2017). The Effect of Transdermal Estrogen Patch Use on Cardiovascular Outcomes: A Systematic Review. *Journal of Women’s Health*, *26*(12), 1319–1325. \[DOI:[10.1089/jwh.2016.6151][BSM17]]
+- Blanco-Molina, M., Lozano, M., Cano, A., Cristobal, I., Pallardo, L., & Lete, I. (2012). Progestin-only contraception and venous thromboembolism. *Thrombosis Research*, *129*(5), e257–e262. \[DOI:[10.1016/j.thromres.2012.02.042][BM12]]
+- Bland, L. B., Garzotto, M., DeLoughery, T. G., Ryan, C. W., Schuff, K. G., Wersinger, E. M., Lemmon, D., & Beer, T. M. (2005). Phase II study of transdermal estradiol in androgen-independent prostate carcinoma. *Cancer*, *103*(4), 717–723. \[DOI:[10.1002/cncr.20857][B05]]
+- Blasdel, G., Shakir, N., Parker, A., Bluebond-Langner, R., & Zhao, L. (2021). Letter to the Editor from Blasdel et al: “No Venous Thromboembolism Increase Among Transgender Female Patients Remaining on Estrogen for Gender-affirming Surgery”. *The Journal of Clinical Endocrinology & Metabolism*, *106*(9), e3783–e3784. \[DOI:[10.1210/clinem/dgab243][B21]]
+- Blondon, M. (2020). Update On Oral Contraception And Venous Thromboembolism. *HemaSphere Educational Updates in Hematology Book: 25th Congress of the European Hematology Association, Virtual Edition 2020*, *4*(S2). European Hematology Association. \[[Google 学术][B20-GS]] \[DOI:[10.1097/HS9.0000000000000444][B20-DOI]] \[[PDF][B20]]
+- Boskey, E. R., Taghinia, A. H., & Ganor, O. (2019). Association of Surgical Risk With Exogenous Hormone Use in Transgender Patients. *JAMA Surgery*, *154*(2), 159–169. \[DOI:[10.1001/jamasurg.2018.4598][BTG19]]
+- Byar, D. P. (1973). The veterans administration cooperative urological research group’s studies of cancer of the prostate. *Cancer*, *32*(5), 1126–1130. \[DOI:[10.1002/1097-0142(197311)32:5<1126::aid-cncr2820320518>3.0.co;2-c][B73]]
+- Canonico, M., Plu-Bureau, G., Lowe, G. D., & Scarabin, P. (2008). Hormone replacement therapy and risk of venous thromboembolism in postmenopausal women: systematic review and meta-analysis. *BMJ*, *336*(7655), 1227–1231. \[DOI:[10.1136/bmj.39555.441944.be][C08]]
+- Canonico, M., Plu-Bureau, G., O’Sullivan, M. J., Stefanick, M. L., Cochrane, B., Scarabin, P., & Manson, J. E. (2014). Age at menopause, reproductive history, and venous thromboembolism risk among postmenopausal women. *Menopause*, *21*(3), 214–220. \[DOI:[10.1097/gme.0b013e31829752e0][C14]]
+- Cassidy, A., & Minihane, A. (2017). The role of metabolism (and the microbiome) in defining the clinical efficacy of dietary flavonoids. *The American Journal of Clinical Nutrition*, *105*(1), 10–22. \[DOI:[10.3945/ajcn.116.136051][CM17]]
+- Chaireti, R., Gustafsson, K. M., Bystrom, B., Bremme, K., & Lindahl, T. L. (2013). Endogenous thrombin potential is higher during the luteal phase than during the follicular phase of a normal menstrual cycle. *Human Reproduction*, *28*(7), 1846–1852. \[DOI:[10.1093/humrep/det092][C13]]
+- Choi, J., Kim, D., Park, S., Lee, H., Kim, K., Kim, K., Kim, M., Kim, S., & Kim, S. (2015). Anti-thrombotic effect of rutin isolated from Dendropanax morbifera Leveille. *Journal of Bioscience and Bioengineering*, *120*(2), 181–186. \[DOI:[10.1016/j.jbiosc.2014.12.012][C15]]
+- Cleuren, A., Van der Linden, I., de Visser, Y., Wagenaar, G., Reitsma, P., & van Vlijmen, B. (2010). 17α‐Ethinylestradiol rapidly alters transcript levels of murine coagulation genes via estrogen receptor α. *Journal of Thrombosis and Haemostasis*, *8*(8), 1838–1846. \[DOI:[10.1111/j.1538-7836.2010.03930.x][C10]]
+- Coelingh Bennink, H. J., Verhoeven, C., Dutman, A. E., & Thijssen, J. (2017). The use of high-dose estrogens for the treatment of breast cancer. *Maturitas*, *95*, 11–23. \[DOI:[10.1016/j.maturitas.2016.10.010][CB17]]
+- Coleman, E., Bockting, W., Botzer, M., Cohen-Kettenis, P., DeCuypere, G., Feldman, J., Fraser, L., Green, J., Knudson, G., Meyer, W. J., Monstrey, S., Adler, R. K., Brown, G. R., Devor, A. H., Ehrbar, R., Ettner, R., Eyler, E., Garofalo, R., Karasic, D. H., … & Zucker, K. (2012). \[World Professional Association for Transgender Health (WPATH)] Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People, Version 7. *International Journal of Transgenderism*, *13*(4), 165–232. \[DOI:[10.1080/15532739.2011.700873][C12-DOI]] \[[网址][C12-URL]] \[[PDF][C12]]
+- Conard, J., Plu-Bureau, G., Bahi, N., Horellou, M., Pelissier, C., & Thalabard, J. (2004). Progestogen-only contraception in women at high risk of venous thromboembolism. *Contraception*, *70*(6), 437–441. \[DOI:[10.1016/j.contraception.2004.07.009][CONA04]]
+- Connelly, P. J., Marie Freel, E., Perry, C., Ewan, J., Touyz, R. M., Currie, G., & Delles, C. (2019). Gender-Affirming Hormone Therapy, Vascular Health and Cardiovascular Disease in Transgender Adults. *Hypertension*, *74*(6), 1266–1274. \[DOI:[10.1161/hypertensionaha.119.13080][C19]]
+- Connors, J. M., & Middeldorp, S. (2019). Transgender patients and the role of the coagulation clinician. *Journal of Thrombosis and Haemostasis*, *17*(11), 1790–1797. \[DOI:[10.1111/jth.14626][CM19]]
+- Curb, J. D., Prentice, R. L., Bray, P. F., Langer, R. D., Van Horn, L., Barnabei, V. M., Bloch, M. J., Cyr, M. G., Gass, M., Lepine, L., Rodabough, R. J., Sidney, S., Uwaifo, G. I., & Rosendaal, F. R. (2006). Venous Thrombosis and Conjugated Equine Estrogen in Women Without a Uterus. *Archives of Internal Medicine*, *166*(7), 772–772. \[DOI:[10.1001/archinte.166.7.772][C06]]
+- Cushman, M. (2004). Estrogen Plus Progestin and Risk of Venous Thrombosis. *JAMA*, *292*(13), 1573–1580. \[DOI:[10.1001/jama.292.13.1573][C04]]
+- d’Arcangues et al. (2003). Comparative study of the effects of two once-a-month injectable contraceptives (Cyclofem® and Mesigyna®) and one oral contraceptive (Ortho-Novum 1/35®) on coagulation and fibrinolysis. *Contraception*, *68*(3), 159–176. \[DOI:[10.1016/s0010-7824(03)00164-1][DA03]]
+- Deitcher, S. R., & Gomes, M. P. (2004). The risk of venous thromboembolic disease associated with adjuvant hormone therapy for breast carcinoma. *Cancer*, *101*(3), 439–449. \[DOI:[10.1002/cncr.20347][DG04]]
+- DeLoughery, T. G. (2011). Estrogen and thrombosis: Controversies and common sense. *Reviews in Endocrine and Metabolic Disorders*, *12*(2), 77–84. \[DOI:[10.1007/s11154-011-9178-0][DL11]]
+- Deutsch, M. B. (2016). Overview of feminizing hormone therapy. In Deutsch, M. B. (Ed.). *Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People, 2nd Edition* (pp. 26–48). San Francisco: University of California, San Francisco/UCSF Transgender Care. \[[网址][D16-URL]] \[[PDF][D16]]
+- Dinger, J., Do Minh, T., & Heinemann, K. (2016). Impact of estrogen type on cardiovascular safety of combined oral contraceptives. *Contraception*, *94*(4), 328–339. \[DOI:[10.1016/j.contraception.2016.06.010][DMH16]]
+- Dittrich, R., Binder, H., Cupisti, S., Hoffmann, I., Beckmann, M., & Mueller, A. (2005). Endocrine Treatment of Male-to-Female Transsexuals Using Gonadotropin-Releasing Hormone Agonist. *Experimental and Clinical Endocrinology & Diabetes*, *113*(10), 586–592. \[DOI:[10.1055/s-2005-865900][D05]]
+- Douxfils, J., Morimont, L., & Bouvy, C. (2020). Oral Contraceptives and Venous Thromboembolism: Focus on Testing that May Enable Prediction and Assessment of the Risk. *Seminars in Thrombosis and Hemostasis*, *46*(8), 872–886. \[DOI:[10.1055/s-0040-1714140][DMB20]]
+- Douxfils, J., Klipping, C., Duijkers, I., Kinet, V., Mawet, M., Maillard, C., Jost, M., Rosing, J., & Foidart, J. (2020). Evaluation of the effect of a new oral contraceptive containing estetrol and drospirenone on hemostasis parameters. *Contraception*, *102*(6), 396–402. \[DOI:[10.1016/j.contraception.2020.08.015][D20]]
+- Dutra, E., Lee, J., Torbati, T., Garcia, M., Merz, C. N., & Shufelt, C. (2019). Cardiovascular implications of gender-affirming hormone treatment in the transgender population. *Maturitas*, *129*, 45–49. \[DOI:[10.1016/j.maturitas.2019.08.010][D19]]
+- Eilertsen, A. L., Dahm, A. E., Høibraaten, E., Lofthus, C. M., Mowinckel, M., & Sandset, P. M. (2019). Relationship between sex hormone binding globulin and blood coagulation in women on postmenopausal hormone treatment. *Blood Coagulation & Fibrinolysis*, *30*(1), 17–23. \[DOI:[10.1097/mbc.0000000000000784][E19]]
+- Eisenfeld, A. J., & Aten, R. F. (1979). Estrogen receptor in the mammalian liver. In Briggs, M. H., & Corbin, A. (Eds.). *Advances in Steroid Biochemistry and Pharmacology*, *7*, 91–117. London: Academic Press. \[[Google 学术][EA79-GS]] \[[PubMed][EA79]]
+- Eisenfeld, A. J., & Aten, R. F. (1987). Estrogen receptors and androgen receptors in the mammalian liver. *Journal of Steroid Biochemistry*, *27*(4–6), 1109–1118. \[DOI:[10.1016/0022-4731(87)90197-x][EA87]]
+- Fabian, C. J., & Kimler, B. F. (2005). Selective Estrogen-Receptor Modulators for Primary Prevention of Breast Cancer. *Journal of Clinical Oncology*, *23*(8), 1644–1655. \[DOI:[10.1200/jco.2005.11.005][FK05]]
+- Fåhraeus, L., & Larsson-Cohn, U. (1982). Oestrogens, gonadotrophins and SHBG during oral and cutaneous administration of oestradiol-17β to menopausal women. *Acta Endocrinologica*, *101*(4), 592–596. \[DOI:[10.1530/acta.0.1010592][FLC82]]
+- Feldman, J. L., & Goldberg, J. (2006). *Transgender Primary Medical Care: Suggested Guidelines for Clinicians in British Columbia.* crhc/csac/Transcend Transgender Support & Education Society/Vancouver Coastal Health. \[[Google 学术][FG06-GS]] \[[PDF][FG06-PDF]] [.][FG06]
+- Franchini, M., & Mannucci, P. M. (2015). Classic thrombophilic gene variants. *Thrombosis and Haemostasis*, *114*(11), 885–889. \[DOI:[10.1160/th15-02-0141][MF15]]
+- Fruzzetti, F., & Cagnacci, A. (2018). Venous thrombosis and hormonal contraception: what’s new with estradiol-based hormonal contraceptives? *Open Access Journal of Contraception*, *9*, 75–79. \[DOI:[10.2147/oajc.s179673][FC18]]
+- Gerstman, B. B., Piper, J. M., Tomita, D. K., Ferguson, W. J., Stadel, B. V., & Lundin, F. E. (1991). Oral Contraceptive Estrogen Dose and the Risk of Deep Venous Thromboembolic Disease. *American Journal of Epidemiology*, *133*(1), 32–37. \[DOI:[10.1093/oxfordjournals.aje.a115799][G91]]
+- Getahun, D., Nash, R., Flanders, W. D., Baird, T. C., Becerra-Culqui, T. A., Cromwell, L., Hunkeler, E., Lash, T. L., Millman, A., Quinn, V. P., Robinson, B., Roblin, D., Silverberg, M. J., Safer, J., Slovis, J., Tangpricha, V., & Goodman, M. (2018). Cross-sex Hormones and Acute Cardiovascular Events in Transgender Persons. *Annals of Internal Medicine*, *169*(4), 205. \[DOI:[10.7326/m17-2785][G18]]
+- Gibney, J., Johannsson, G., Leung, K., & Ho, K. K. (2005). Comparison of the Metabolic Effects of Raloxifene and Oral Estrogen in Postmenopausal and Growth Hormone-Deficient Women. *The Journal of Clinical Endocrinology & Metabolism*, *90*(7), 3897–3903. \[DOI:[10.1210/jc.2005-0173][G05]]
+- Gilbert, D. C., Duong, T., Sydes, M., Bara, A., Clarke, N., Abel, P., James, N., Langley, R., Parmar, M., & (2018). Transdermal oestradiol as a method of androgen suppression for prostate cancer within the STAMPEDE trial platform. *BJU International*, *121*(5), 680–683. \[DOI:[10.1111/bju.14153][GILB18]]
+- Glintborg, D., T’Sjoen, G., Ravn, P., & Andersen, M. S. (2021). MANAGEMENT OF ENDOCRINE DISEASE: Optimal feminizing hormone treatment in transgender people. *European Journal of Endocrinology*, *185*(2), R49–R63. \[DOI:[10.1530/eje-21-0059][G21]]
+- Goldstein, Z., Khan, M., Reisman, T., & Safer, J. D. (2019). Managing the risk of venous thromboembolism in transgender adults undergoing hormone therapy. *Journal of Blood Medicine*, *10*, 209–216. \[DOI:[10.2147/jbm.s166780][G19]]
+- Gooren, L. J., & T’Sjoen, G. (2018). Endocrine treatment of aging transgender people. *Reviews in Endocrine and Metabolic Disorders*, *19*(3), 253–262. \[DOI:[10.1007/s11154-018-9449-0][GTS18]]
+- Gourdy, P., Bachelot, A., Catteau-Jonard, S., Chabbert-Buffet, N., Christin-Maître, S., Conard, J., Fredenrich, A., Gompel, A., Lamiche-Lorenzini, F., Moreau, C., Plu-Bureau, G., Vambergue, A., Vergès, B., & Kerlan, V. (2012). Hormonal contraception in women at risk of vascular and metabolic disorders: Guidelines of the French Society of Endocrinology. *Annales d’Endocrinologie*, *73*(5), 469–487. \[DOI:[10.1016/j.ando.2012.09.001][G12]]
+- Grady, D., Wenger, N. K., Herrington, D., Khan, S., Furberg, C., Hunninghake, D., Vittinghoff, E., Hulley, S., & (2000). Postmenopausal Hormone Therapy Increases Risk for Venous Thromboembolic Disease: The Heart and Estrogen/progestin Replacement Study. *Annals of Internal Medicine*, *132*(9), 689–696. \[DOI:[10.7326/0003-4819-132-9-200005020-00002][G00]]
+- Grandi, G., Facchinetti, F., & Bitzer, J. (2017). Estradiol in hormonal contraception: real evolution or just same old wine in a new bottle? *The European Journal of Contraception & Reproductive Health Care*, *22*(4), 245–246. \[DOI:[10.1080/13625187.2017.1372571][GFB17]]
+- Grandi, G., Barra, F., Ferrero, S., & Facchinetti, F. (2019). Estradiol in non-oral hormonal contraception: a “long and winding road”. *Expert Review of Endocrinology & Metabolism*, *14*(3), 153–155. \[DOI:[10.1080/17446651.2019.1604217][GRAND19]]
+- Grandi, G., Del Savio, M. C., Lopes da Silva-Filho, A., & Facchinetti, F. (2020). Estetrol (E4): the new estrogenic component of combined oral contraceptives. *Expert Review of Clinical Pharmacology*, *13*(4), 327–330. \[DOI:[10.1080/17512433.2020.1750365][G20]]
+- Grandi, G., Facchinetti, F., & Bitzer, J. (2022). Confirmation of the safety of combined oral contraceptives containing oestradiol on the risk of venous thromboembolism. *The European Journal of Contraception & Reproductive Health Care*, *27*(2), 83–84. \[DOI:[10.1080/13625187.2022.2029397][GFB22]]
+- Grossmann, M., Wierman, M. E., Angus, P., & Handelsman, D. J. (2018). Reproductive Endocrinology of Nonalcoholic Fatty Liver Disease. *Endocrine Reviews*, *40*(2), 417–446. \[DOI:[10.1210/er.2018-00158][GROS18]]
+- Hammond, G. L. (2017). Sex Hormone-Binding Globulin and the Metabolic Syndrome. In Winters, S. J., & Huhtaniemi, I. T. (Eds.). *Male Hypogonadism: Basic, Clinical and Therapeutic Principles, 2nd Edition* (pp. 305–324). Cham: Springer. \[DOI:[10.1007/978-3-319-53298-1\_15][HAMM17]]
+- Hannaford, P. C., Iversen, L., Macfarlane, T. V., Elliott, A. M., Angus, V., & Lee, A. J. (2010). Mortality among contraceptive pill users: cohort evidence from Royal College of General Practitioners’ Oral Contraception Study. *BMJ*, *340*, c927. \[DOI:[10.1136/bmj.c927][H10]]
+- Haupt, C., Henke, M., Kutschmar, A., Hauser, B., Baldinger, S., Saenz, S. R., & Schreiber, G. (2020). Antiandrogen or estradiol treatment or both during hormone therapy in transitioning transgender women. *Cochrane Database of Systematic Reviews*, *2020*(11), CD013138. \[DOI:[10.1002/14651858.cd013138.pub2][H20]]
+- Haveles, C. S., Wang, M. M., Arjun, A., Zaila, K. E., & Lee, J. C. (2020). Effect of Cross-Sex Hormone Therapy on Venous Thromboembolism Risk in Male-to-Female Gender-Affirming Surgery. *Annals of Plastic Surgery*, *86*(1), 109–114. \[DOI:[10.1097/sap.0000000000002300][H21]]
+- Hedlund, P. O., Johansson, R., Damber, J. E., Hagerman, I., Henriksson, P., Iversen, P., Klarskov, P., Mogensen, P., Rasmussen, F., & Varenhorst, E. (2011). Significance of pretreatment cardiovascular morbidity as a risk factor during treatment with parenteral oestrogen or combined androgen deprivation of 915 patients with metastasized prostate cancer: Evaluation of cardiovascular events in a randomized trial. *Scandinavian Journal of Urology and Nephrology*, *45*(5), 346–353. \[DOI:[10.3109/00365599.2011.585820][H11]]
+- Heit, J. A., Silverstein, M. D., Mohr, D. N., Petterson, T. M., O’Fallon, W. M., & Melton, L. J. (2000). Risk Factors for Deep Vein Thrombosis and Pulmonary Embolism. *Archives of Internal Medicine*, *160*(6), 809–815. \[DOI:[10.1001/archinte.160.6.809][HEIT00]]
+- Heit, J. A., Spencer, F. A., & White, R. H. (2016). The epidemiology of venous thromboembolism. *Journal of Thrombosis and Thrombolysis*, *41*(1), 3–14. \[DOI:[10.1007/s11239-015-1311-6][HSW16]]
+- Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., Rosenthal, S. M., Safer, J. D., Tangpricha, V., & T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society\* Clinical Practice Guideline. *The Journal of Clinical Endocrinology & Metabolism*, *102*(11), 3869–3903. \[DOI:[10.1210/jc.2017-01658][H17]]
+- Hemelaar, M., van der Mooren, M. J., Rad, M., Kluft, C., & Kenemans, P. (2008). Effects of non-oral postmenopausal hormone therapy on markers of cardiovascular risk: a systematic review. *Fertility and Sterility*, *90*(3), 642–672. \[DOI:[10.1016/j.fertnstert.2007.07.1298][H08]]
+- Hibbs, D. (2008). Hormone replacement and the treatment of the transgender patient: A critical literature review. de Chesnay, M., & Anderson, B. (Eds.). *Caring for the Vulnerable: Perspectives in Nursing Theory, Practice, and Research, 2nd Edition* (pp. 351–362). Sudbury, Massachusetts: Jones & Barlett. \[[Google 学术][HIBBS08-GS]] \[[Google 阅读][HIBBS08]]
+- Higdon, J., Drake, V. J., Delage, B., & Crozier, A. (2016). *Flavonoids.* Corvallis, Oregon: Micronutrient Information Center, Linus Pauling Institute, Oregon State University. \[[网址][H16]]
+- Høibraaten, E., Qvigstad, E., Arnesen, H., Larsen, S., Wickstrøm, E., & Sandset, P. M. (2000). Increased Risk of Recurrent Venous Thromboembolism during Hormone Replacement Therapy. *Thrombosis and Haemostasis*, *84*(12), 961–967. \[DOI:[10.1055/s-0037-1614156][H00]]
+- Høibraaten, E., Qvigstad, E., Andersen, T. O., Mowinckel, M., & Sandset, P. M. (2001). The Effects of Hormone Replacement Therapy (HRT) on Hemostatic Variables in Women with Previous Venous Thromboembolism – Results from a Randomized, Double-Blind, Clinical Trial. *Thrombosis and Haemostasis*, *85*(5), 775–781. \[DOI:[10.1055/s-0037-1615717][H01]]
+- Holmegard, H., Nordestgaard, B., Schnohr, P., Tybjærg‐Hansen, A., & Benn, M. (2014). Endogenous sex hormones and risk of venous thromboembolism in women and men. *Journal of Thrombosis and Haemostasis*, *12*(3), 297–305. \[DOI:[10.1111/jth.12484][H14]]
+- Hontscharuk, R., Alba, B., Manno, C., Pine, E., Deutsch, M. B., Coon, D., & Schechter, L. (2021). Perioperative Transgender Hormone Management: Avoiding Venous Thromboembolism and Other Complications. *Plastic & Reconstructive Surgery*, *147*(4), 1008–1017. \[DOI:[10.1097/prs.0000000000007786][HONT21]]
+- Hugon-Rodin, J., Alhenc-Gelas, M., Hemker, H. C., Brailly-Tabard, S., Guiochon-Mantel, A., Plu-Bureau, G., & Scarabin, P. (2016). Sex hormone-binding globulin and thrombin generation in women using hormonal contraception. *Biomarkers*, *22*(1), 81–85. \[DOI:[10.1080/1354750x.2016.1204010][HR16]]
+- Hulley, S. (1998). Randomized Trial of Estrogen Plus Progestin for Secondary Prevention of Coronary Heart Disease in Postmenopausal Women. *JAMA*, *280*(7), 605–613. \[DOI:[10.1001/jama.280.7.605][H98]]
+- Iqbal, J., Ginsburg, O. M., Wijeratne, T. D., Howell, A., Evans, G., Sestak, I., & Narod, S. A. (2012). Endometrial cancer and venous thromboembolism in women under age 50 who take tamoxifen for prevention of breast cancer: A systematic review. *Cancer Treatment Reviews*, *38*(4), 318–328. \[DOI:[10.1016/j.ctrv.2011.06.009][I12]]
+- Irwig, M. S. (2018). Cardiovascular health in transgender people. *Reviews in Endocrine and Metabolic Disorders*, *19*(3), 243–251. \[DOI:[10.1007/s11154-018-9454-3][I18]]
+- Iwamoto, S. J., Defreyne, J., Rothman, M. S., Van Schuylenbergh, J., Van de Bruaene, L., Motmans, J., & T’Sjoen, G. (2019). Health considerations for transgender women and remaining unknowns: a narrative review. *Therapeutic Advances in Endocrinology and Metabolism*, *10*, 204201881987116. \[DOI:[10.1177/2042018819871166][I19]]
+- Jasuja, R., Passam, F. H., Kennedy, D. R., Kim, S. H., van Hessem, L., Lin, L., Bowley, S. R., Joshi, S. S., Dilks, J. R., Furie, B., Furie, B. C., & Flaumenhaft, R. (2012). Protein disulfide isomerase inhibitors constitute a new class of antithrombotic agents. *Journal of Clinical Investigation*, *122*(6), 2104–2113. \[DOI:[10.1172/jci61228][J12]]
+- Jensen, E. V., Jacobson, H. I., Walf, A. A., & Frye, C. A. (2010). Estrogen action: A historic perspective on the implications of considering alternative approaches. *Physiology & Behavior*, *99*(2), 151–162. \[DOI:[10.1016/j.physbeh.2009.08.013][J10]]
+- Kaemmle, L. M., Stadler, A., Janka, H., von Wolff, M., & Stute, P. (2022). The impact of micronized progesterone on cardiovascular events – a systematic review. *Climacteric*, *25*(4), 327–336. \[DOI:[10.1080/13697137.2021.2022644][K22]]
+- Kasum, M., Danolić, D., Orešković, S., Ježek, D., Beketić-Orešković, L., & Pekez, M. (2014). Thrombosis following ovarian hyperstimulation syndrome. *Gynecological Endocrinology*, *30*(11), 764–768. \[DOI:[10.3109/09513590.2014.927858][K14]]
+- Keenan, L., Kerr, T., Duane, M., & Van Gundy, K. (2018). Systematic Review of Hormonal Contraception and Risk of Venous Thrombosis. *The Linacre Quarterly*, *85*(4), 470–477. \[DOI:[10.1177/0024363918816683][KKD19]]
+- Kerlan, V., Nahoul, K., Martelot, M., & Bercovici, J. (1994). Longitudinal study of maternal plasma bioavailable testosterone and androstanediol glucuronide levels during pregnancy. *Clinical Endocrinology*, *40*(2), 263–267. \[DOI:[10.1111/j.1365-2265.1994.tb02478.x][K94]]
+- Khan, J., Schmidt, R. L., Spittal, M. J., Goldstein, Z., Smock, K. J., & Greene, D. N. (2019). Venous Thrombotic Risk in Transgender Women Undergoing Estrogen Therapy: A Systematic Review and Metaanalysis. *Clinical Chemistry*, *65*(1), 57–66. \[DOI:[10.1373/clinchem.2018.288316][K19]]
+- Kitamura, T. (2001). Necessity of re‐evaluation of estramustine phosphate sodium (EMP) as a treatment option for first‐line monotherapy in advanced prostate cancer. *International Journal of Urology*, *8*(2), 33–36. \[DOI:[10.1046/j.1442-2042.2001.00254.x][K01]]
+- Klil-Drori, A. J., Yin, H., Tagalakis, V., Aprikian, A., & Azoulay, L. (2016). Androgen Deprivation Therapy for Prostate Cancer and the Risk of Venous Thromboembolism. *European Urology*, *70*(1), 56–61. \[DOI:[10.1016/j.eururo.2015.06.022][KD15]]
+- Kohli, M., & McClellan, J. (2001). Parenteral Estrogen Therapy in Advanced Prostate Cancer: Retrospective Analysis of Intra-Muscular Estradiol Valerate in “Hormone Refractory” Prostate Disease. In Grunberg, S. M. (Ed.). *Proceedings of the American Society of Clinical Oncology* \[*Proc Am Soc Clin Oncol* / *Proceedings of ASCO*], *20* \[*Thirty-Seventh Annual Meeting of the American Society of Clinical Oncology, May 12–15, 2001, San Francisco, California*], 164b–164b (abstract no. 2407). Baltimore: Lippincott Williams & Wilkins. \[ISSN:[1081-0641][KM01-ISSN]] \[ISBN-10:0-9664495-3-3] \[[Google 学术][KM01-GS]] \[OCLC:[107121093][KM01-WC1]] \[OCLC:[107121085][KM01-WC2]] \[OCLC:[1132117477][KM01-WC3]] \[[PDF][KM01]]
+- Kohli, M., Alikhan, M. A., Spencer, H. J., & Carter, G. (2004). Phase I trial of intramuscular estradiol valerate (I/M-E) in hormone refractory prostate cancer. *Journal of Clinical Oncology*, *22*(14 Suppl) \[*40th Annual Meeting of the American Society of Clinical Oncology: June 5–8, 2004, Ernest N. Morial Convention Center, New Orleans, Louisiana, Annual Meeting Proceedings*], 436–436 (abstract no. 4726). \[DOI:[10.1200/jco.2004.22.90140.4726][KOHLI04]] \[[Google 阅读][KOHLI04-GS]] \[[PDF][KOHLI04-PDF]]
+- Kohli, M. (2006). Phase II study of transdermal estradiol in androgen-independent prostate carcinoma. *Cancer*, *106*(1), 234–235. \[DOI:[10.1002/cncr.21528][KOHLI05]]
+- Konkle, B. A., & Sood, S. L. (2019). Thrombotic Risk of Contraceptives and Other Hormonal Therapies. In Kitchens, C. S., Kessler, C. M., Konkle, B. A., Streiff, M. B., & Garcia, D. A. (Eds.). *Consultative Hemostasis and Thrombosis, 4th Edition* (pp. 637–650). Philadelphia: Elsevier. \[DOI:[10.1016/b978-0-323-46202-0.00031-5][KS19]]
+- Kotamarti, V. S., Greige, N., Heiman, A. J., Patel, A., & Ricci, J. A. (2021). Risk for Venous Thromboembolism in Transgender Patients Undergoing Cross-Sex Hormone Treatment: A Systematic Review. *The Journal of Sexual Medicine*, *18*(7), 1280–1291. \[DOI:[10.1016/j.jsxm.2021.04.006][KOTA21]]
+- Kozato, A., Fox, G. W., Yong, P. C., Shin, S. J., Avanessian, B. K., Ting, J., Ling, Y., Karim, S., Safer, J. D., & Pang, J. H. (2021). No Venous Thromboembolism Increase Among Transgender Female Patients Remaining on Estrogen for Gender-Affirming Surgery. *The Journal of Clinical Endocrinology & Metabolism*, *106*(4), 1586–1590. \[DOI:[10.1210/clinem/dgaa966][K21]]
+- Kronawitter, D., Gooren, L. J., Zollver, H., Oppelt, P. G., Beckmann, M. W., Dittrich, R., & Mueller, A. (2009). Effects of transdermal testosterone or oral dydrogesterone on hypoactive sexual desire disorder in transsexual women: results of a pilot study. *European Journal of Endocrinology*, *161*(2), 363–368. \[DOI:[10.1530/eje-09-0265][K09]] \[[表格][table10]]
+- Kuhl, H. (1990). Ovulationshemmer: Die Bedeutung der Östrogendosis. \[Ovulation Preventives: The Significance of the Estrogen Dose. / Ovulation Inhibitors: The Significance of Estrogen Dose.] *Geburtshilfe und Frauenheilkunde*, *50*(12), 910–922. \[[Google 学术 1][K90-GS1]] \[[Google 学术 2][K90-GS2]] \[[PubMed][K90-PM]] \[DOI:[10.1055/s-2008-1026392][K90-DOI]] \[[英译本][K90]]
+- Kuhl, H. (1996). Effects of progestogens on haemostasis. *Maturitas*, *24*(1–2), 1–19. \[DOI:[10.1016/0378-5122(96)00994-2][K96]]
+- Kuhl, H. (1997). Metabolische Effekte der Östrogene und Gestagene. \[Metabolic Effects of Estrogens and Progestogens.] *Der Gynäkologe*, *30*(4), 357–369. \[DOI:[10.1007/pl00003042][K97]]
+- Kuhl, H. (1998). Adverse effects of estrogen treatment: natural vs. synthetic estrogens. In Lippert, T. H., Mueck, A. O., & Ginsburg, J. (Eds.). *Sex Steroids and the Cardiovascular System: The Proceedings of the 1st Interdisciplinary Workshop, Tuebingen, Germany, October 1996. Parthenon Publishing Group, New York, London* (pp. 201–210). London/New York: Parthenon. \[[Google 学术][K98-GS]] \[[Google 阅读][K98-GB]] \[[PDF][K98]]
+- Kuhl, H. (1999). Hormonal contraception. In Oettel, M., & Schillinger, E. (Eds.). *Estrogens and Antiestrogens II: Pharmacology and Clinical Application of Estrogens and Antiestrogen* (Handbook of Experimental Pharmacology, Volume 135, Part 2) (pp. 363–407). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-642-60107-1\_18][K99]] \[[PDF][K99-PDF]]
+- Kuhl, H. (2005). Pharmacology of Estrogens and Progestogens: Influence of Different Routes of Administration. *Climacteric*, *8*(Suppl 1), 3–63. \[DOI:[10.1080/13697130500148875][K05]] \[[PDF][K05-PDF]]
+- Kuhl, H., & Stevenson, J. (2006). The effect of medroxyprogesterone acetate on estrogen-dependent risks and benefits – an attempt to interpret the Women’s Health Initiative results. *Gynecological Endocrinology*, *22*(6), 303–317. \[DOI:[10.1080/09513590600717368][KS06]]
+- Langley, R. E., Cafferty, F. H., Alhasso, A. A., Rosen, S. D., Sundaram, S. K., Freeman, S. C., Pollock, P., Jinks, R. C., Godsland, I. F., Kockelbergh, R., Clarke, N. W., Kynaston, H. G., Parmar, M. K., & Abel, P. D. (2013). Cardiovascular outcomes in patients with locally advanced and metastatic prostate cancer treated with luteinising-hormone-releasing-hormone agonists or transdermal oestrogen: the randomised, phase 2 MRC PATCH trial (PR09). *The Lancet Oncology*, *14*(4), 306–316. \[DOI:[10.1016/s1470-2045(13)70025-1][L13]]
+- Langley, R. E., Gilbert, D. C., Duong, T., Clarke, N. W., Nankivell, M., Rosen, S. D., Mangar, S., Macnair, A., Sundaram, S. K., Laniado, M. E., Dixit, S., Madaan, S., Manetta, C., Pope, A., Scrase, C. D., Mckay, S., Muazzam, I. A., Collins, G. N., Worlding, J., Williams, S. T., Paez, E., Robinson, A., McFarlane, J., Deighan, J. V., Marshall, J., Forcat, S., Weiss, M., Kockelbergh, R., Alhasso, A., Kynaston, H., & Parmar, M. (2021). Transdermal oestradiol for androgen suppression in prostate cancer: long-term cardiovascular outcomes from the randomised Prostate Adenocarcinoma Transcutaneous Hormone (PATCH) trial programme. *The Lancet*, *397*(10274), 581–591. \[DOI:[10.1016/s0140-6736(21)00100-8][L21]] \[[PDF][L21-PDF]] \[[补充附录][L21-SUPPL]]
+- Lax, E. (1987). Mechanisms of physiological and pharmacological sex hormone action on the mammalian liver. *Journal of Steroid Biochemistry*, *27*(4–6), 1119–1128. \[DOI:[10.1016/0022-4731(87)90198-1][L87]]
+- Lidegaard, Ø. (2014). Hormonal contraception, thrombosis and age. *Expert Opinion on Drug Safety*, *13*(10), 1353–1360. \[DOI:[10.1517/14740338.2014.950654][L14]]
+- Lijfering, W. M., Rosendaal, F. R., & Cannegieter, S. C. (2010). Risk factors for venous thrombosis - current understanding from an epidemiological point of view. *British Journal of Haematology*, *149*(6), 824–833. \[DOI:[10.1111/j.1365-2141.2010.08206.x][LRC10]]
+- Lim, H. Y., Leemaqz, S. Y., Torkamani, N., Grossmann, M., Zajac, J. D., Nandurkar, H., Ho, P., & Cheung, A. S. (2020). Global Coagulation Assays in Transgender Women on Oral and Transdermal Estradiol Therapy. *The Journal of Clinical Endocrinology & Metabolism*, *105*(7), e2369–e2377. \[DOI:[10.1210/clinem/dgaa262][L20]]
+- Luria, M. H. (1989). Estrogen and coronary arterial disease in men. *International Journal of Cardiology*, *25*(2), 159–166. \[DOI:[10.1016/0167-5273(89)90102-2][L89]]
+- Ma, Y., Zeng, M., Sun, R., & Hu, M. (2015). Disposition of Flavonoids Impacts their Efficacy and Safety. *Current Drug Metabolism*, *15*(9), 841–864. \[DOI:[10.2174/1389200216666150206123719][M14]]
+- Machin, N., & Ragni, M. V. (2020). Hormones and thrombosis: risk across the reproductive years and beyond. *Translational Research*, *225*, 9–19. \[DOI:[10.1016/j.trsl.2020.06.011][MR20]]
+- Mammen, E. F. (1992). Coagulation Abnormalities in Liver Disease. *Hematology/Oncology Clinics of North America*, *6*(6), 1247–1257. \[DOI:[10.1016/s0889-8588(18)30273-9][M92]]
+- Mantha, S., Karp, R., Raghavan, V., Terrin, N., Bauer, K. A., & Zwicker, J. I. (2012). Assessing the risk of venous thromboembolic events in women taking progestin-only contraception: a meta-analysis. *BMJ*, *345*, e4944. \[DOI:[10.1136/bmj.e4944][M12]]
+- Martinelli, I., Passamonti, S. M., & Bucciarelli, P. (2014). Thrombophilic states. In Biller, J., & Ferro, J. M. (Eds.). *Neurologic Aspects of Systemic Disease Part II* (*Handbook of Clinical Neurology, Volume 120*) (pp. 1061–1071). Philadelphia: Elsevier. \[DOI:[10.1016/b978-0-7020-4087-0.00071-1][MPB14]]
+- Martinez-Zapata, M. J., Vernooij, R. W., Uriona Tuma, S. M., Stein, A. T., Moreno, R. M., Vargas, E., Capellà, D., & Bonfill Cosp, X. (2016). Phlebotonics for venous insufficiency. *Cochrane Database of Systematic Reviews*, *2016*(4), CD003229. \[DOI:[10.1002/14651858.cd003229.pub3][MZ16]]
+- Matharu, G. S., Kunutsor, S. K., Judge, A., Blom, A. W., & Whitehouse, M. R. (2020). Clinical Effectiveness and Safety of Aspirin for Venous Thromboembolism Prophylaxis After Total Hip and Knee Replacement. *JAMA Internal Medicine*, *180*(3), 376–384. \[DOI:[10.1001/jamainternmed.2019.6108][M20]]
+- McLintock, C. (2014). Thromboembolism in pregnancy: Challenges and controversies in the prevention of pregnancy-associated venous thromboembolism and management of anticoagulation in women with mechanical prosthetic heart valves. *Best Practice & Research Clinical Obstetrics & Gynaecology*, *28*(4), 519–536. \[DOI:[10.1016/j.bpobgyn.2014.03.001][ML14]]
+- Mekaj, A., Mekaj, Y., & Daci, F. (2015). New insights into the mechanisms of action of aspirin and its use in the prevention and treatment of arterial and venous thromboembolism. *Therapeutics and Clinical Risk Management*, *11*, 1449–1456. \[DOI:[10.2147/tcrm.s92222][MDM15]]
+- Mellinger, G. T., Bailar, J. C., Arduino, L. J., & the Veterans Administration Cooperative Urological Research Group. (1967). Treatment and survival of patients with cancer of the prostate. The Veterans Administration Co-operative Urological Research Group. *Surgery Gynecology & Obstetrics*, *124*(5), 1011–1017. \[[Google 学术][VAC67-GS]] \[[PubMed][VAC67]]
+- Meng, Y., Jiang, H., Chen, A., Lu, F., Yang, H., Shen, M. Z., Sun, D., Shao, Q., & Fotherby, K. (1990). Hemostatic changes in women using a monthly injectable contraceptive for one year. *Contraception*, *42*(4), 455–466. \[DOI:[10.1016/0010-7824(90)90052-w][M90]]
+- Mikkola, A., Ruutu, M., Aro, J., Rannikko, S., & Salo, J. (1999). The role of parenteral polyestradiol phosphate in the treatment of advanced prostatic cancer on the threshold of the new millennium. *Annales Chirurgiae et Gynaecologiae*, *88*(1), 18–21. \[[Google 学术][M99-GS]] \[[PubMed][M99]] \[[PDF][M99-PDF]]
+- Min, L. L., & Hopkins, R. (2021). Endocrinological Care for Patients Undergoing Gender Affirmation (Including Risk of Thromboembolic Events). In Nikolavsky, D., & Blakely, S. A. (Eds.). *Urological Care for the Transgender Patient: A Comprehensive Guide* (pp. 23–36). Cham: Springer. \[DOI:[10.1007/978-3-030-18533-6\_3][MH21]]
+- Mohammed, K., Abu Dabrh, A. M., Benkhadra, K., Al Nofal, A., Carranza Leon, B. G., Prokop, L. J., Montori, V. M., Faubion, S. S., & Murad, M. H. (2015). Oral vs Transdermal Estrogen Therapy and Vascular Events: A Systematic Review and Meta-Analysis. *The Journal of Clinical Endocrinology & Metabolism*, *100*(11), 4012–4020. \[DOI:[10.1210/jc.2015-2237][M15]]
+- Montagnana, M., Favaloro, E. J., Franchini, M., Guidi, G. C., & Lippi, G. (2009). The role of ethnicity, age and gender in venous thromboembolism. *Journal of Thrombosis and Thrombolysis*, *29*(4), 489–496. \[DOI:[10.1007/s11239-009-0365-8][M10]]
+- Moores, L., Bilello, K. L., & Murin, S. (2004). Sex and gender issues and venous thromboembolism. *Clinics in Chest Medicine*, *25*(2), 281–297. \[DOI:[10.1016/j.ccm.2004.01.013][MBM04]]
+- Morimont, L., Dogné, J., & Douxfils, J. (2020). Letter to the Editors-in-Chief in response to the article of Abou-Ismail, et al. entitled “Estrogen and thrombosis: A bench to bedside review” (Thrombosis Research 192 (2020) 40–51). *Thrombosis Research*, *193*, 221–223. \[DOI:[10.1016/j.thromres.2020.08.006][MDD20]]
+- Morimont, L., Haguet, H., Dogné, J., Gaspard, U., & Douxfils, J. (2021). Combined Oral Contraceptives and Venous Thromboembolism: Review and Perspective to Mitigate the Risk. *Frontiers in Endocrinology*, *12*, 769187. \[DOI:[10.3389/fendo.2021.769187][M21]]
+- Morling, J. R., Broderick, C., Yeoh, S. E., & Kolbach, D. N. (2018). Rutosides for treatment of post-thrombotic syndrome. *Cochrane Database of Systematic Reviews*, *2018*(11), CD005625. \[DOI:[10.1002/14651858.cd005625.pub4][M18]]
+- Mueller, A., Dittrich, R., Binder, H., Kuehnel, W., Maltaris, T., Hoffmann, I., & Beckmann, M. W. (2005). High dose estrogen treatment increases bone mineral density in male-to-female transsexuals receiving gonadotropin-releasing hormone agonist in the absence of testosterone. *European Journal of Endocrinology*, *153*(1), 107–113. \[DOI:[10.1530/eje.1.01943][M05]]
+- Mueller, A., Binder, H., Cupisti, S., Hoffmann, I., Beckmann, M., & Dittrich, R. (2006). Effects on the Male Endocrine System of Long-term Treatment with Gonadotropin-releasing Hormone Agonists and Estrogens in Male-to-Female Transsexuals. *Hormone and Metabolic Research*, *38*(3), 183–187. \[DOI:[10.1055/s-2006-925198][M06]]
+- Mueller, A., Zollver, H., Kronawitter, D., Oppelt, P. G., Claassen, T., Hoffmann, I., Beckmann, M. W., & Dittrich, R. (2011). Body composition and bone mineral density in male-to-female transsexuals during cross-sex hormone therapy using gonadotrophin-releasing hormone agonist. *Experimental and Clinical Endocrinology & Diabetes*, *119*(2), 95–100. \[DOI:[10.1055/s-0030-1255074][M11]] \[[表格][table11]]
+- Nachtigall, L. E., Raju, U., Banerjee, S., Wan, L., & Levitz, M. (2000). Serum Estradiol-Binding Profiles in Postmenopausal Women Undergoing Three Common Estrogen Replacement Therapies. *Menopause*, *7*(4), 243–250. \[DOI:[10.1097/00042192-200007040-00006][N00]]
+- Nelson, M. D., Szczepaniak, L. S., Wei, J., Szczepaniak, E., Sánchez, F. J., Vilain, E., Stern, J. H., Bergman, R. N., Bairey Merz, C. N., & Clegg, D. J. (2016). Transwomen and the Metabolic Syndrome: Is Orchiectomy Protective? *Transgender Health*, *1*(1), 165–171. \[DOI:[10.1089/trgh.2016.0016][N16]]
+- Nolan, B. J., & Cheung, A. S. (2020). Estradiol Therapy in the Perioperative Period: Implications for Transgender People Undergoing Feminizing Hormone Therapy. *The Yale Journal of Biology and Medicine*, *93*(4), 539–548. \[[PubMed][NC20-PM]] \[[PubMed Central][NC20-PMC]]
+- Nolan, B. J., & Cheung, A. S. (2021). Relationship Between Serum Estradiol Concentrations and Clinical Outcomes in Transgender Individuals Undergoing Feminizing Hormone Therapy: A Narrative Review. *Transgender Health*, *6*(3), 125–131. \[DOI:[10.1089/trgh.2020.0077][NC20]]
+- Nolan, I. T., Haley, C., Morrison, S. D., Pannucci, C. J., & Satterwhite, T. (2021). Estrogen Continuation and Venous Thromboembolism in Penile Inversion Vaginoplasty. *The Journal of Sexual Medicine*, *18*(1), 193–200. \[DOI:[10.1016/j.jsxm.2020.10.018][N21]]
+- Ockrim, J., & Abel, P. D. (2009). Androgen deprivation therapy for prostate cancer – the potential of parenteral estrogen. *Central European Journal of Urology*, *62*, 132–140. \[DOI:[10.5173/ceju.2009.03.art1][OA09]]
+- Odlind, V., Milsom, I., Persson, I., & Victor, A. (2002). Can changes in sex hormone binding globulin predict the risk of venous thromboembolism with combined oral contraceptive pills?: A discussion based on recent recommendations from the European agency for evaluation of medicinal products regarding third generation oral contraceptive pills. *Acta Obstetricia et Gynecologica Scandinavica*, *81*(6), 482–490. \[DOI:[10.1080/j.1600-0412.2002.810603.x][O02-DOI]] \[[网址][O02]]
+- Oger, E., & (2000). Incidence of Venous Thromboembolism: A Community-based Study in Western France. *Thrombosis and Haemostasis*, *83*(5), 657–660. \[DOI:[10.1055/s-0037-1613887][O00]]
+- Ohlander, S. J., Varghese, B., & Pastuszak, A. W. (2018). Erythrocytosis Following Testosterone Therapy. *Sexual Medicine Reviews*, *6*(1), 77–85. \[DOI:[10.1016/j.sxmr.2017.04.001][OVP18]]
+- Olié, V., Canonico, M., & Scarabin, P. (2010). Risk of venous thrombosis with oral versus transdermal estrogen therapy among postmenopausal women. *Current Opinion in Hematology*, *17*(5), 457–463. \[DOI:[10.1097/moh.0b013e32833c07bc][OCS10]]
+- Olié, V., Plu-Bureau, G., Conard, J., Horellou, M., Canonico, M., & Scarabin, P. (2011). Hormone therapy and recurrence of venous thromboembolism among postmenopausal women. *Menopause*, *18*(5), 488–493. \[DOI:[10.1097/gme.0b013e3181f9f7c3][O11]]
+- Oliver-Williams, C., Glisic, M., Shahzad, S., Brown, E., Pellegrino Baena, C., Chadni, M., Chowdhury, R., Franco, O. H., & Muka, T. (2018). The route of administration, timing, duration and dose of postmenopausal hormone therapy and cardiovascular outcomes in women: a systematic review. *Human Reproduction Update*, *25*(2), 257–271. \[DOI:[10.1093/humupd/dmy039][OW19]]
+- Olov Hedlund, P., Damber, J., Hagerman, I., Haukaas, S., Henriksson, P., Iversen, P., Johansson, R., Klarskov, P., Lundbeck, F., Rasmussen, F., Varenhorst, E., Viitanen, J., Olov Hedlund, P., Damber, J., Hagerman, I., Haukaas, S., Henriksson, P., Iversen, P., Johansson, R., Klarskov, P., Lundbeck, F., Rasmussen, F., Varenhorst, E., Viitanen, J., & The SPCG-5 Study Group. (2008). Parenteral estrogen versus combined androgen deprivation in the treatment of metastatic prostatic cancer: Part 2. Final evaluation of the Scandinavian Prostatic Cancer Group (SPCG) Study No. 5. *Scandinavian Journal of Urology and Nephrology*, *42*(3), 220–229. \[DOI:[10.1080/00365590801943274][HEDL08]]
+- Park, W. (2002). Selective estrogen receptor modulators (SERMS) and their roles in breast cancer prevention. *Trends in Molecular Medicine*, *8*(2), 82–88. \[DOI:[10.1016/s1471-4914(02)02282-7][PJ02]]
+- Patel, K. T., Adeel, S., Rodrigues Miragaya, J., & Tangpricha, V. (2022). Progestogen Use in Gender-Affirming Hormone Therapy: A Systematic Review. *Endocrine Practice*, *28*(12), 1244–1252. \[DOI:[10.1016/j.eprac.2022.08.012][P22]]
+- Peck-Radosavljevic, M. (2007). Review article: coagulation disorders in chronic liver disease. *Alimentary Pharmacology & Therapeutics*, *26*, 21–28. \[DOI:[10.1111/j.1365-2036.2007.03509.x][PR07]]
+- Pfeifer, S., Butts, S., Dumesic, D., Fossum, G., Gracia, C., La Barbera, A., Mersereau, J., Odem, R., Penzias, A., Pisarska, M., Rebar, R., Reindollar, R., Rosen, M., Sandlow, J., Sokol, R., Vernon, M., & Widra, E. (2017). Combined hormonal contraception and the risk of venous thromboembolism: a guideline. *Fertility and Sterility*, *107*(1), 43–51. \[DOI:[10.1016/j.fertnstert.2016.09.027][PCA17]]
+- Phillips, I., Shah, S. I., Duong, T., Abel, P., & Langley, R. E. (2014). Androgen Deprivation Therapy and the Re-emergence of Parenteral Estrogen in Prostate Cancer. *Oncology & Hematology Review*, *10*(1), 42–47. \[[PubMed Central][PHIL14]] \[DOI:[10.17925/ohr.2014.10.1.42][PHIL14-DOI]] \[[网址][PHIL14-TOC]]
+- Plu-Bureau, G., Maitrot-Mantelet, L., Hugon-Rodin, J., & Canonico, M. (2013). Hormonal contraceptives and venous thromboembolism: An epidemiological update. *Best Practice & Research Clinical Endocrinology & Metabolism*, *27*(1), 25–34. \[DOI:[10.1016/j.beem.2012.11.002][PB13]]
+- Pomp, E. R., Rosendaal, F. R., & Doggen, C. J. (2008). Smoking increases the risk of venous thrombosis and acts synergistically with oral contraceptive use. *American Journal of Hematology*, *83*(2), 97–102. \[DOI:[10.1002/ajh.21059][PRD08]]
+- Pond, S. M., & Tozer, T. N. (1984). First-Pass Elimination. *Clinical Pharmacokinetics*, *9*(1), 1–25. \[DOI:[10.2165/00003088-198409010-00001][PT84]]
+- Prentice, R. L., & Anderson, G. L. (2008). The Women’s Health Initiative: Lessons Learned. *Annual Review of Public Health*, *29*(1), 131–150. \[DOI:[10.1146/annurev.publhealth.29.020907.090947][PA08]]
+- Prentice, R. (2014). Postmenopausal Hormone Therapy and the Risks of Coronary Heart Disease, Breast Cancer, and Stroke. *Seminars in Reproductive Medicine*, *32*(6), 419–425. \[DOI:[10.1055/s-0034-1384624][P14]]
+- Pyra, M., Casimiro, I., Rusie, L., Ross, N., Blum, C., Keglovitz Baker, K., Baker, A., & Schneider, J. (2020). An Observational Study of Hypertension and Thromboembolism Among Transgender Patients Using Gender-Affirming Hormone Therapy. *Transgender Health*, *5*(1), 1–9. \[DOI:[10.1089/trgh.2019.0061][P20]]
+- Quinton, R., & Swee, D. S. (2019). Hormone replacement therapy: transgender studies show safety of estradiol. *BMJ*, *364*, l600. \[DOI:[10.1136/bmj.l600][Q19]]
+- Rabe, T., Luxembourg, B., Ludwig, M., Dinger, J. C., Bauersachs, R., Rott, H., Mueck, A. O., & Albring, C. (2011). Contraception and Thrombophilia - A statement from the German Society of Gynecological Endocrinology and Reproductive Medicine (DGGEF e. V.) and the Professional Association of the German Gynaecologists (BVF e. V.). *Journal für Reproduktionsmedizin und Endokrinologie-Journal of Reproductive Medicine and Endocrinology*, *8*(Special Issue 1), 178–218. \[[网址][RABE11]]
+- Raps, M., Helmerhorst, F., Fleischer, K., Thomassen, S., Rosendaal, F., Rosing, J., Ballieux, B., & Van Vliet, H. (2012). Sex hormone‐binding globulin as a marker for the thrombotic risk of hormonal contraceptives. *Journal of Thrombosis and Haemostasis*, *10*(6), 992–997. \[DOI:[10.1111/j.1538-7836.2012.04720.x][R12]]
+- Ravery, V., Fizazi, K., Oudard, S., Drouet, L., Eymard, J., Culine, S., Gravis, G., Hennequin, C., & Zerbib, M. (2011). The use of estramustine phosphate in the modern management of advanced prostate cancer. *BJU International*, *108*(11), 1782–1786. \[DOI:[10.1111/j.1464-410x.2011.10201.x][R11]]
+- Reda, S., Morimont, L., Douxfils, J., & Rühl, H. (2020). Can We Measure the Individual Prothrombotic or Prohemorrhagic Tendency by Global Coagulation Tests? *Hämostaseologie*, *40*(3), 364–378. \[DOI:[10.1055/a-1153-5824][R20]]
+- Renoux, C., Dell’Aniello, S., & Suissa, S. (2010). Hormone replacement therapy and the risk of venous thromboembolism: a population-based study. *Journal of Thrombosis and Haemostasis*, *8*(5), 979–986. \[DOI:[10.1111/j.1538-7836.2010.03839.x][RDS10]]
+- Renoux, C., Dell’Aniello, S., Garbe, E., & Suissa, S. (2010). Transdermal and oral hormone replacement therapy and the risk of stroke: a nested case-control study. *BMJ*, *340*, c2519. \[DOI:[10.1136/bmj.c2519][R10]]
+- Roach, R., Lijfering, W., Helmerhorst, F., Cannegieter, S., Rosendaal, F., & van Hylckama Vlieg, A. (2013). The risk of venous thrombosis in women over 50 years old using oral contraception or postmenopausal hormone therapy. *Journal of Thrombosis and Haemostasis*, *11*(1), 124–131. \[DOI:[10.1111/jth.12060][R13]]
+- Roach, R. E., Lijfering, W. M., Rosendaal, F. R., Cannegieter, S. C., & le Cessie, S. (2014). Sex Difference in Risk of Second but Not of First Venous Thrombosis. *Circulation*, *129*(1), 51–56. \[DOI:[10.1161/circulationaha.113.004768][R14]]
+- Rooijen, M., Silveira, A., Hamsten, A., & Bremme, K. (2004). Sex hormone–binding globulin—A surrogate marker for the prothrombotic effects of combined oral contraceptives. *American Journal of Obstetrics and Gynecology*, *190*(2), 332–337. \[DOI:[10.1016/s0002-9378(03)00950-5][R04]]
+- Ropponen, A., Aittomäki, K., Vihma, V., Tikkanen, M. J., & Ylikorkala, O. (2005). Effects of Oral and Transdermal Estradiol Administration on Levels of Sex Hormone-Binding Globulin in Postmenopausal Women with and without a History of Intrahepatic Cholestasis of Pregnancy. *The Journal of Clinical Endocrinology & Metabolism*, *90*(6), 3431–3434. \[DOI:[10.1210/jc.2005-0352][ROPP05]]
+- Rosendaal, F. R. (2005). Venous thrombosis: the role of genes, environment, and behavior. *Hematology American Society of Hematology Education Program*, *2005*(1), 1–12. \[[Google 学术][R05-GS]] \[DOI:[10.1182/asheducation-2005.1.1][R05-DOI]] \[[网址][R05-URL]] [.][R05]
+- Rosendaal, F. R. (2016). Causes of venous thrombosis. *Thrombosis Journal*, *14*(Suppl 1) \[*State of the Art 2016: Research and Review from the 9th Congress of the Asian-Pacific Society on Thrombosis and Hemostasis*], 24. \[DOI:[10.1186/s12959-016-0108-y][R16]]
+- Rott, H. (2019). Birth Control Pills and Thrombotic Risks: Differences of Contraception Methods with and without Estrogen. *Hämostaseologie*, *39*(1), 42–48. \[DOI:[10.1055/s-0039-1677806][R19]]
+- Rova, K., Passmark, H., & Lindqvist, P. G. (2012). Venous thromboembolism in relation to in vitro fertilization: an approach to determining the incidence and increase in risk in successful cycles. *Fertility and Sterility*, *97*(1), 95–100. \[DOI:[10.1016/j.fertnstert.2011.10.038][RPL12]]
+- Rovinski, D., Ramos, R. B., Fighera, T. M., Casanova, G. K., & Spritzer, P. M. (2018). Risk of venous thromboembolism events in postmenopausal women using oral versus non-oral hormone therapy: A systematic review and meta-analysis. *Thrombosis Research*, *168*, 83–95. \[DOI:[10.1016/j.thromres.2018.06.014][R18]]
+- Ruiz Garcia, V., López-Briz, E., Carbonell Sanchis, R., Gonzalvez Perales, J. L., & Bort-Martí, S. (2013). Megestrol acetate for treatment of anorexia-cachexia syndrome. *Cochrane Database of Systematic Reviews*, *2019*(3), CD004310. \[DOI:[10.1002/14651858.cd004310.pub3][G13]]
+- Russell, N., Cheung, A., & Grossmann, M. (2017). Estradiol for the mitigation of adverse effects of androgen deprivation therapy. *Endocrine-Related Cancer*, *24*(8), R297–R313. \[DOI:[10.1530/erc-17-0153][R17]]
+- Sahlin, L., & Schoultz, B. V. (1999). Liver Inclusive Protein, Lipid and Carbohydrate Metabolism. In Oettel, M., & Schillinger, E. (Eds.). *Estrogens and Antiestrogens II: Pharmacology and Clinical Application of Estrogens and Antiestrogen* (Handbook of Experimental Pharmacology, Volume 135, Part 2) (pp. 163–178). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-642-60107-1\_8][SS99-DOI]] \[[PDF][SS99]]
+- Scarabin, P. (2018). Progestogens and venous thromboembolism in menopausal women: an updated oral versus transdermal estrogen meta-analysis. *Climacteric*, *21*(4), 341–345. \[DOI:[10.1080/13697137.2018.1446931][S18]]
+- Scarabin, P., Canonico, M., Plu-Bureau, G., & Oger, E. (2020). Menopause and hormone therapy in the 21st century: why promote transdermal estradiol and progesterone? *Heart*, *106*(16), 1278–1278. \[DOI:[10.1136/heartjnl-2020-316907][S20]]
+- Scheres, L. J., van Hylckama Vlieg, A., Ballieux, B. E., Fauser, B. C., Rosendaal, F. R., Middeldorp, S., & Cannegieter, S. C. (2019). Endogenous sex hormones and risk of venous thromboembolism in young women. *Journal of Thrombosis and Haemostasis*, *17*(8), 1297–1304. \[DOI:[10.1111/jth.14474][S19]]
+- Scheres, L. J., Selier, N. L., Nota, N. M., van Diemen, J. J., Cannegieter, S. C., & den Heijer, M. (2021). Effect of gender‐affirming hormone use on coagulation profiles in transmen and transwomen. *Journal of Thrombosis and Haemostasis*, *19*(4), 1029–1037. \[DOI:[10.1111/jth.15256][S21]]
+- Schindler, A. E. (2003). Differential effects of progestins on hemostasis. *Maturitas*, *46*, 31–37. \[DOI:[10.1016/j.maturitas.2003.09.016][S03]]
+- Schock, H., Zeleniuch-Jacquotte, A., Lundin, E., Grankvist, K., Lakso, H., Idahl, A., Lehtinen, M., Surcel, H., & Fortner, R. T. (2016). Hormone concentrations throughout uncomplicated pregnancies: a longitudinal study. *BMC Pregnancy and Childbirth*, *16*(1), 146. \[DOI:[10.1186/s12884-016-0937-5][S16]]
+- Schröder, F. H., & Radlmaier, A. (2002). Steroidal Antiandrogens. In Jordan, C. V., & Furr, B. J. A. (Eds.). *Hormone Therapy in Breast and Prostate Cancer* (pp. 325–346). Totowa, New Jersey: Humana Press. \[DOI:[10.1007/978-1-59259-152-7\_15][SR02]]
+- Sciarra, A., Gentile, V., Cattarino, S., Gentilucci, A., Alfarone, A., D’Eramo, G., & Salciccia, S. (2014). Oral ethinylestradiol in castration-resistant prostate cancer: A 10-year experience. *International Journal of Urology*, *22*(1), 98–103. \[DOI:[10.1111/iju.12613][SCIA14]]
+- Seaman, H. E., Langley, S. E., Farmer, R. D., & de Vries, C. S. (2007). Venous thromboembolism and cyproterone acetate in men with prostate cancer: a study using the General Practice Research Database. *BJU International*, *99*(6), 1398–1403. \[DOI:[10.1111/j.1464-410x.2007.06859.x][S07]]
+- Shatzel, J. J., Connelly, K. J., & DeLoughery, T. G. (2017). Thrombotic issues in transgender medicine: A review. *American Journal of Hematology*, *92*(2), 204–208. \[DOI:[10.1002/ajh.24593][SCD17]]
+- Shifren, J. L., Rifai, N., Desindes, S., McIlwain, M., Doros, G., & Mazer, N. A. (2008). A Comparison of the Short-Term Effects of Oral Conjugated Equine Estrogens Versus Transdermal Estradiol on C-Reactive Protein, Other Serum Markers of Inflammation, and Other Hepatic Proteins in Naturally Menopausal Women. *The Journal of Clinical Endocrinology & Metabolism*, *93*(5), 1702–1710. \[DOI:[10.1210/jc.2007-2193][S08]]
+- Simon, T., De Jonage-Canonico, M. B., Oger, E., Wahl, D., Conard, J., Meyer, G., Emmerich, J., Barrellier, M., Guiraud, A., & Scarabin, P. (2006). Indicators of lifetime endogenous estrogen exposure and risk of venous thromboembolism. *Journal of Thrombosis and Haemostasis*, *4*(1), 71–76. \[DOI:[10.1111/j.1538-7836.2005.01693.x][S06]]
+- Singla, N., Ghandour, R. A., & Raj, G. V. (2019). Investigational luteinizing hormone releasing hormone (LHRH) agonists and other hormonal agents in early stage clinical trials for prostate cancer. *Expert Opinion on Investigational Drugs*, *28*(3), 249–259. \[DOI:[10.1080/13543784.2019.1570130][SGR19]]
+- Sitruk-Ware, R., & Nath, A. (2011). Metabolic effects of contraceptive steroids. *Reviews in Endocrine and Metabolic Disorders*, *12*(2), 63–75. \[DOI:[10.1007/s11154-011-9182-4][SN11]]
+- Sitruk-Ware, R., & Nath, A. (2013). Characteristics and metabolic effects of estrogen and progestins contained in oral contraceptive pills. *Best Practice & Research Clinical Endocrinology & Metabolism*, *27*(1), 13–24. \[DOI:[10.1016/j.beem.2012.09.004][SWN13]]
+- Skouby, S. O., & Sidelmann, J. J. (2018). Impact of progestogens on hemostasis. *Hormone Molecular Biology and Clinical Investigation*, *37*(2), 20180041. \[DOI:[10.1515/hmbci-2018-0041][SS18]]
+- Smith, K., Galazi, M., Openshaw, M. R., Wilson, P., Sarker, S. J., O’Brien, N., Alifrangis, C., Stebbing, J., & Shamash, J. (2020). The Use of Transdermal Estrogen in Castrate-resistant, Steroid-refractory Prostate Cancer. *Clinical Genitourinary Cancer*, *18*(3), e217–e223. \[DOI:[10.1016/j.clgc.2019.09.019][SMITH19]]
+- Smith, N. L. (2004). Esterified Estrogens and Conjugated Equine Estrogens and the Risk of Venous Thrombosis. *JAMA*, *292*(13), 1581–1587. \[DOI:[10.1001/jama.292.13.1581][S04]]
+- Smith, N. L., Blondon, M., Wiggins, K. L., Harrington, L. B., van Hylckama Vlieg, A., Floyd, J. S., Hwang, M., Bis, J. C., McKnight, B., Rice, K. M., Lumley, T., Rosendaal, F. R., Heckbert, S. R., & Psaty, B. M. (2014). Lower Risk of Cardiovascular Events in Postmenopausal Women Taking Oral Estradiol Compared With Oral Conjugated Equine Estrogens. *JAMA Internal Medicine*, *174*(1), 25–34. \[DOI:[10.1001/jamainternmed.2013.11074][S14]]
+- Speroff, L. (1996). The Comparative Effect on Bone Density, Endometrium, and Lipids of Continuous Hormones as Replacement Therapy (CHART Study). *JAMA*, *276*(17), 1397–1403. \[DOI:[10.1001/jama.1996.03540170041030][S96]]
+- Stanczyk, F. Z., Archer, D. F., & Bhavnani, B. R. (2013). Ethinyl estradiol and 17β-estradiol in combined oral contraceptives: pharmacokinetics, pharmacodynamics and risk assessment. *Contraception*, *87*(6), 706–727. \[DOI:[10.1016/j.contraception.2012.12.011][SAB13]]
+- Stanczyk, F. Z., Mathews, B. W., & Cortessis, V. K. (2017). Does the type of progestin influence the production of clotting factors? *Contraception*, *95*(2), 113–116. \[DOI:[10.1016/j.contraception.2016.07.007][SMC17]]
+- Stege, R., Carlström, K., Collste, L., Eriksson, A., Henriksson, P., & Pousette, Å. (1988). Single Drug Polyestradiol Phosphate Therapy in Prostatic Cancer. *American Journal of Clinical Oncology*, *11*(Suppl 2), S101–S103. \[DOI:[10.1097/00000421-198801102-00024][S88]]
+- Stegeman, B., Raps, M., Helmerhorst, F., Vos, H., van Vliet, H., Rosendaal, F., & van Hylckama Vlieg, A. (2013). Effect of ethinylestradiol dose and progestagen in combined oral contraceptives on plasma sex hormone‐binding globulin levels in premenopausal women. *Journal of Thrombosis and Haemostasis*, *11*(1), 203–205. \[DOI:[10.1111/jth.12054][S13]]
+- Stuenkel, C. A., Davis, S. R., Gompel, A., Lumsden, M. A., Murad, M. H., Pinkerton, J. V., & Santen, R. J. (2015). Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline. *The Journal of Clinical Endocrinology & Metabolism*, *100*(11), 3975–4011. \[DOI:[10.1210/jc.2015-2236][S15]]
+- Sudhir, K., & Komesaroff, P. A. (1999). Cardiovascular Actions of Estrogens in Men. *The Journal of Clinical Endocrinology & Metabolism*, *84*(10), 3411–3415. \[DOI:[10.1210/jcem.84.10.5954][SK99]]
+- Swee, D. S., Javaid, U., & Quinton, R. (2019). Estrogen Replacement in Young Hypogonadal Women—Transferrable Lessons From the Literature Related to the Care of Young Women With Premature Ovarian Failure and Transgender Women. *Frontiers in Endocrinology*, *10*, 685. \[DOI:[10.3389/fendo.2019.00685][SJQ19]]
+- Tadd, W., & Bayer, A. (2006). Dignity in health and social care for older Europeans: implications of a European project. *Aging Health*, *2*(5), 771–779. \[DOI:[10.2217/1745509x.2.5.771][TTR06]]
+- Taylor, J. K., & Pendleton, N. (2016). Progesterone therapy for the treatment of non-cancer cachexia: a systematic review. *BMJ Supportive & Palliative Care*, *6*(3), 276–286. \[DOI:[10.1136/bmjspcare-2015-001041][TP16]]
+- Tchaikovski, S. N., & Rosing, J. (2010). Mechanisms of Estrogen-Induced Venous Thromboembolism. *Thrombosis Research*, *126*(1), 5–11. \[DOI:[10.1016/j.thromres.2010.01.045][TR10]]
+- Tepper, N. K., Whiteman, M. K., Marchbanks, P. A., James, A. H., & Curtis, K. M. (2016). Progestin-only contraception and thromboembolism: A systematic review. *Contraception*, *94*(6), 678–700. \[DOI:[10.1016/j.contraception.2016.04.014][T16]]
+- Tepper, N. K., Jeng, G., Curtis, K. M., Boutot, M. E., Boulet, S. L., & Whiteman, M. K. (2019). Venous Thromboembolism Among Women Initiating Depot Medroxyprogesterone Acetate Immediately Postpartum. *Obstetrics & Gynecology*, *133*(3), 533–540. \[DOI:[10.1097/aog.0000000000003135][T19]]
+- The Coronary Drug Project Research Group. (1970). The Coronary Drug Project. *JAMA*, *214*(7), 1303–1313. \[DOI:[10.1001/jama.1970.03180070069012][CDP70]]
+- The Coronary Drug Project Research Group. (1973). The Coronary Drug Project. *JAMA*, *226*(6), 652–657. \[DOI:[10.1001/jama.1973.03230060030009][CDP73]]
+- The Oral Contraceptive and Hemostasis Study Group. (1999). An open label, randomized study to evaluate the effects of seven monophasic oral contraceptive regimens on hemostatic variables. *Contraception*, *59*(6), 345–355. \[DOI:[10.1016/s0010-7824(99)00044-x][OCHSG99]]
+- Timp, J. F., Braekkan, S. K., Versteeg, H. H., & Cannegieter, S. C. (2013). Epidemiology of cancer-associated venous thrombosis. *Blood*, *122*(10), 1712–1723. \[DOI:[10.1182/blood-2013-04-460121][T13]]
+- Toorians, A. W., Thomassen, M. C., Zweegman, S., Magdeleyns, E. J., Tans, G., Gooren, L. J., & Rosing, J. (2003). Venous Thrombosis and Changes of Hemostatic Variables during Cross-Sex Hormone Treatment in Transsexual People. *The Journal of Clinical Endocrinology & Metabolism*, *88*(12), 5723–5729. \[DOI:[10.1210/jc.2003-030520][T03]]
+- Totaro, M., Palazzi, S., Castellini, C., Parisi, A., D’Amato, F., Tienforti, D., Baroni, M. G., Francavilla, S., & Barbonetti, A. (2021). Risk of Venous Thromboembolism in Transgender People Undergoing Hormone Feminizing Therapy: A Prevalence Meta-Analysis and Meta-Regression Study. *Frontiers in Endocrinology*, *12*, 741866. \[DOI:[10.3389/fendo.2021.741866][T21]]
+- Trémollieres, F. (2012). Contraception orale estro-progestative: quelle différence entre éthinylestradiol et estradiol? \[Oral combined contraception: Is there any difference between ethinyl-estradiol and estradiol?] *Gynécologie Obstétrique & Fertilité*, *40*(2), 109–115. \[DOI:[10.1016/j.gyobfe.2011.10.009][T12]]
+- Turo, R., Smolski, M., Esler, R., Kujawa, M. L., Bromage, S. J., Oakley, N., Adeyoju, A., Brown, S. C., Brough, R., Sinclair, A., & Collins, G. N. (2013). Diethylstilboestrol for the treatment of prostate cancer: past, present and future. *Scandinavian Journal of Urology*, *48*(1), 4–14. \[DOI:[10.3109/21681805.2013.861508][T14]]
+- van Hylckama Vlieg, A., Helmerhorst, F. M., & Rosendaal, F. R. (2010). The Risk of Deep Venous Thrombosis Associated With Injectable Depot–Medroxyprogesterone Acetate Contraceptives or a Levonorgestrel Intrauterine Device. *Arteriosclerosis, Thrombosis, and Vascular Biology*, *30*(11), 2297–2300. \[DOI:[10.1161/atvbaha.110.211482][HVHR10]]
+- Van Kesteren, P. J., Asscheman, H., Megens, J. A., & Gooren, L. J. (1997). Mortality and morbidity in transsexual subjects treated with cross-sex hormones. *Clinical Endocrinology*, *47*(3), 337–343. \[DOI:[10.1046/j.1365-2265.1997.2601068.x][VK97]]
+- van Vliet, H. A., Frolich, M., Christella, M., Thomassen, L., Doggen, C. J., Rosendaal, F. R., Rosing, J., & Helmerhorst, F. M. (2005). Association between sex hormone-binding globulin levels and activated protein C resistance in explaining the risk of thrombosis in users of oral contraceptives containing different progestogens. *Human Reproduction*, *20*(2), 563–568. \[DOI:[10.1093/humrep/deh612][V05]]
+- Vinogradova, Y., Coupland, C., & Hippisley-Cox, J. (2015). Use of combined oral contraceptives and risk of venous thromboembolism: nested case-control studies using the QResearch and CPRD databases. *BMJ*, *350*, h2135. \[DOI:[10.1136/bmj.h2135][VCH15]]
+- Vinogradova, Y., Coupland, C., & Hippisley-Cox, J. (2019). Use of hormone replacement therapy and risk of venous thromboembolism: nested case-control studies using the QResearch and CPRD databases. *BMJ*, *364*, k4810. \[DOI:[10.1136/bmj.k4810][VCH19]]
+- von Schoultz, B., Carlström, K., Collste, L., Eriksson, A., Henriksson, P., Pousette, Å., & Stege, R. (1989). Estrogen therapy and liver function—metabolic effects of oral and parenteral administration. *The Prostate*, *14*(4), 389–395. \[DOI:[10.1002/pros.2990140410][VS89]]
+- Walker, I. D. (2010). Obstetrics, Contraception, and Estrogen Replacement. In Key, N., Makris, M., O’Shaughnessy, D., & Lillicrap, D. (Eds.). *Practical Hemostasis and Thrombosis, 2nd Edition* (pp. 247–257). Oxford: Wiley-Blackwell. \[DOI:[10.1002/9781444306286.ch24][W09]]
+- Weinand, J. D., & Safer, J. D. (2015). Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals. *Journal of Clinical & Translational Endocrinology*, *2*(2), 55–60. \[DOI:[10.1016/j.jcte.2015.02.003][WS15]]
+- Westerlund, E., Henriksson, P., Wallén, H., Hovatta, O., Wallberg, K. R., & Antovic, A. (2012). Detection of a procoagulable state during controlled ovarian hyperstimulation for in vitro fertilization with global assays of haemostasis. *Thrombosis Research*, *130*(4), 649–653. \[DOI:[10.1016/j.thromres.2011.11.024][W12]]
+- White, C. M., Ferraro‐Borgida, M. J., Fossati, A. T., McGill, C. C., Ahlberg, A. W., Feng, Y. J., Heller, G. V., & Chow, M. S. (1998). The Pharmacokinetics of Intravenous Estradiol—A Preliminary Study. *Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy*, *18*(6), 1343–1346. \[DOI:[10.1002/j.1875-9114.1998.tb03157.x][W98]]
+- Wiegratz, I., & Kuhl, H. (2006). Metabolic and clinical effects of progestogens. *The European Journal of Contraception & Reproductive Health Care*, *11*(3), 153–161. \[DOI:[10.1080/13625180600772741][WK06]]
+- Wierckx, K., Elaut, E., Declercq, E., Heylens, G., De Cuypere, G., Taes, Y., Kaufman, J. M., & T’Sjoen, G. (2013). Prevalence of cardiovascular disease and cancer during cross-sex hormone therapy in a large cohort of trans persons: a case–control study. *European Journal of Endocrinology*, *169*(4), 471–478. \[DOI:[10.1530/eje-13-0493][W13]]
+- Writing Group for the Women’s Health Initiative Investigators. (2002). Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women’s Health Initiative Randomized Controlled Trial. *JAMA*, *288*(3), 321–333. \[DOI:[10.1001/jama.288.3.321][R02]]
+- Zhang, M., Zhu, S., Yang, W., Huang, Q., & Ho, C. (2021). The biological fate and bioefficacy of citrus flavonoids: bioavailability, biotransformation, and delivery systems. *Food & Function*, *12*(8), 3307–3323. \[DOI:[10.1039/d0fo03403g][Z21]]
+- Zhao, J., Yang, J., & Xie, Y. (2019). Improvement strategies for the oral bioavailability of poorly water-soluble flavonoids: An overview. *International Journal of Pharmaceutics*, *570*, 118642. \[DOI:[10.1016/j.ijpharm.2019.118642][ZYX19]]
+- Zucker, R., Reisman, T., & Safer, J. D. (2021). Minimizing Venous Thromboembolism in Feminizing Hormone Therapy: Applying Lessons From Cisgender Women and Previous Data. *Endocrine Practice*, *27*(6), 621–625. \[DOI:[10.1016/j.eprac.2021.03.010][ZRS21]]
+
 --------
 
 ## 译文修订历史 {#revise-history}
@@ -558,6 +803,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 ```csv
 时间,备注
 2022 年 12 月 12 日,首次翻译。
+2023 年 4 月 3 日,第一次修订，增补“参考文献”，更新个别叙述。
 ```
 
 <!-- 内置图片 -->
@@ -569,20 +815,18 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 
 <!-- 站内资源 -->
 [A20-SHBG-E]: https://transfemscience.org/articles/shbg/#effects-of-sex-hormones-on-shbg-production
-[KL99]: https://files.transfemscience.org/pdfs/Kuhl%20\(1999\)%20-%20Hormonal%20Contraception%20[In%20Estrogens%20and%20Antiestrogens%20II%20-%20Pharmacology%20and%20Clinical%20Application%20of%20Estrogens%20and%20Antiestrogens%20\(Lauritzen%20et%20al.,%201999\)].pdf#page=3
-[L21-PDF]: https://files.transfemscience.org/pdfs/Langley%20et%20al.%20\(2021\)%20-%20Transdermal%20Oestradiol%20for%20Androgen%20Suppression%20in%20Prostate%20Cancer.pdf
+[K99-PDF]: https://files.transfemscience.org/pdfs/Kuhl%20(1999)%20-%20Hormonal%20Contraception%20[In%20Estrogens%20and%20Antiestrogens%20II%20-%20Pharmacology%20and%20Clinical%20Application%20of%20Estrogens%20and%20Antiestrogens%20(Lauritzen%20et%20al.,%201999)].pdf#page=3
+[L21-PDF]: https://files.transfemscience.org/pdfs/Langley%20et%20al.%20(2021)%20-%20Transdermal%20Oestradiol%20for%20Androgen%20Suppression%20in%20Prostate%20Cancer.pdf
 [AW19-HDTE]: https://transfemscience.org/articles/high-dose-transdermal-e2/
 [A20-BC]: https://transfemscience.org/articles/breast-cancer/
 [A18-INTRO-TS]: https://transfemscience.org/articles/transfem-intro/#gonadal-suppression
 [A20-EED]: https://transfemscience.org/articles/e2-equivalent-doses/
 [A18-OPLL]: https://transfemscience.org/articles/oral-p4-low-levels/
-[SS99]: https://files.transfemscience.org/pdfs/Sahlin%20&%20von%20Schoultz%20\(1999\)%20-%20Liver%20Inclusive%20Protein,%20Lipid%20and%20Carbohydrate%20Metabolism%20[In%20Estrogens%20and%20Antiestrogens%20II%20\(Lauritzen\).pdf#page=2
-[tfsci-8092b611]: https://transfemscience.org/about/#aly
+[SS99]: https://files.transfemscience.org/pdfs/Sahlin%20&%20von%20Schoultz%20(1999)%20-%20Liver%20Inclusive%20Protein,%20Lipid%20and%20Carbohydrate%20Metabolism%20[In%20Estrogens%20and%20Antiestrogens%20II%20(Lauritzen).pdf
 [A20-GUIDE]: https://transfemscience.org/articles/transfem-hormone-guidelines/
-[S20-VTA]: https://transfemscience.org/articles/vte-transfem-analysis/
 [S20-PCA]: https://transfemscience.org/articles/pep-cardiovascular-analysis/
-[K98]: https://files.transfemscience.org/pdfs/Kuhl%20\(1998\)%20-%20Adverse%20Effects%20of%20Estrogen%20Treatment_%20Natural%20versus%20Synthetic%20Estrogens.pdf
-[L21-SUPPL]: https://files.transfemscience.org/pdfs/Langley%20et%20al.%20\(2021\)%20[Appendix]%20-%20Transdermal%20Oestradiol%20for%20Androgen%20Suppression%20in%20Prostate%20Cancer.pdf
+[K98]: https://files.transfemscience.org/pdfs/Kuhl%20(1998)%20-%20Adverse%20Effects%20of%20Estrogen%20Treatment_%20Natural%20versus%20Synthetic%20Estrogens.pdf
+[L21-SUPPL]: https://files.transfemscience.org/pdfs/Langley%20et%20al.%20(2021)%20[Appendix]%20-%20Transdermal%20Oestradiol%20for%20Androgen%20Suppression%20in%20Prostate%20Cancer.pdf
 [A20-CM]: https://transfemscience.org/articles/cpa-meningioma/
 [L19-ST]: https://transfemscience.org/articles/serms-transfem/
 [A21-IEMA-I]: https://transfemscience.org/articles/injectable-e2-meta-analysis/#insights-for-clinical-guidelines-and-dosing-recommendations
@@ -599,21 +843,22 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [table3]: https://en.wikipedia.org/wiki/Template:Oral_potencies_of_estrogens
 [table4]: https://web.archive.org/web/20220222083101/https://en.wikipedia.org/wiki/Template:Dose_of_ethinylestradiol_in_birth_control_pills_and_risk_of_venous_thromboembolism
 [table5]: https://en.wikipedia.org/wiki/Template:Results_of_the_Women's_Health_Initiative_menopausal_hormone_therapy_randomized_controlled_trials
-[table6]: https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_\(QResearch/CPRD\)
+[table6]: https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD)
 [table7]: https://en.wikipedia.org/wiki/Template:Venous_thromboembolism_incidence_during_pregnancy_and_the_postpartum_period
 [table8]: https://en.wikipedia.org/wiki/Template:Biochemical_parameters_affected_by_estrogen_therapy
 [table9]: https://en.wikipedia.org/wiki/Template:Tissue-specific_estrogenic_and_antiestrogenic_activity_of_SERMs
+[table10]: https://imgur.com/a/ix69nXr
 
 <!-- 有作者、年份的文献 -->
 
-[C12]: https://www.wpath.org/media/cms/Documents/SOC%20v7/Standards%20of%20Care%20V7%20-%202011%20WPATH.pdf#page=39
+[C12]: https://www.wpath.org/media/cms/Documents/SOC%20v7/SOC%20V7_English2012.pdf#page=39
 [FG06]: https://web.archive.org/web/20210416001940/https://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Guidelines-primarycare.pdf
 [MDM15]: https://doi.org/10.2147/TCRM.S92222
-[B98]: https://doi.org/10.1016/S0140-6736\(97\)10018-6
-[R04]: https://doi.org/10.1016/S0002-9378\(03\)00950-5
+[B98]: https://doi.org/10.1016/S0140-6736(97)10018-6
+[R04]: https://doi.org/10.1016/S0002-9378(03)00950-5
 [K19]: https://doi.org/10.1373/clinchem.2018.288316
 [BSM17]: https://doi.org/10.1089/jwh.2016.6151
-[VCH19b]: https://doi.org/10.1136/bmj.h2135
+[VCH15]: https://doi.org/10.1136/bmj.h2135
 [OCS10]: https://doi.org/10.1097/MOH.0b013e32833c07bc
 [S21]: https://doi.org/10.1111/jth.15256
 [R10]: https://doi.org/10.1136/bmj.c2519
@@ -624,17 +869,17 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [S96]: https://doi.org/10.1001/jama.1996.03540170041030
 [OW19]: https://doi.org/10.1093/humupd/dmy039
 [G18]: https://doi.org/10.7326/M17-2785
-[OCHSG99]: https://doi.org/10.1016/S0010-7824\(99\)00044-X
+[OCHSG99]: https://doi.org/10.1016/S0010-7824(99)00044-X
 [SAB13]: https://doi.org/10.1016/j.contraception.2012.12.011
 [ODLI02]: https://www.tandfonline.com/doi/abs/10.1080/j.1600-0412.2002.810603.x
 [HSW16]: https://doi.org/10.1007/s11239-015-1311-6
 [ROPP05]: https://doi.org/10.1210/jc.2005-0352
 [GILB18]: https://doi.org/10.1111/bju.14153
 [S15]: https://doi.org/10.1210/jc.2015-2236
-[M90]: https://doi.org/10.1016/0010-7824\(90\)90052-W
+[M90]: https://doi.org/10.1016/0010-7824(90)90052-W
 [R13]: https://doi.org/10.1111/jth.12060
 [C15]: https://doi.org/10.1016/j.jbiosc.2014.12.012
-[ROACH13]: https://doi.org/10.1161/CIRCULATIONAHA.113.004768
+[R14]: https://doi.org/10.1161/CIRCULATIONAHA.113.004768
 [GFB17]: https://doi.org/10.1080/13625187.2017.1372571
 [RDS10]: https://doi.org/10.1111/j.1538-7836.2010.03839.x
 [NC20]: https://doi.org/10.1089/trgh.2020.0077
@@ -648,8 +893,8 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [R20]: https://doi.org/10.1055/a-1153-5824
 [DG04]: https://doi.org/10.1002/cncr.20347
 [OVP18]: https://doi.org/10.1016/j.sxmr.2017.04.001
-[L13]: https://doi.org/10.1016/S1470-2045\(13\)70025-1
-[HEDL11]: https://doi.org/10.3109/00365599.2011.585820
+[L13]: https://doi.org/10.1016/S1470-2045(13)70025-1
+[H11]: https://doi.org/10.3109/00365599.2011.585820
 [G05]: https://doi.org/10.1210/jc.2005-0173
 [PA08]: https://doi.org/10.1146/annurev.publhealth.29.020907.090947
 [RPL12]: https://doi.org/10.1016/j.fertnstert.2011.10.038
@@ -658,10 +903,10 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [HONT21]: https://doi.org/10.1097/PRS.0000000000007786
 [S03]: https://doi.org/10.1016/j.maturitas.2003.09.016
 [T13]: https://doi.org/10.1182/blood-2013-04-460121
-[G19]: https://doi.org/10.1210/er.2018-00158
+[GROS18]: https://doi.org/10.1210/er.2018-00158
 [S07]: https://doi.org/10.1111/j.1464-410X.2007.06859.x
 [C14]: https://doi.org/10.1097/GME.0b013e31829752e0
-[EA87]: https://doi.org/10.1016/0022-4731\(87\)90197-x
+[EA87]: https://doi.org/10.1016/0022-4731(87)90197-x
 [L20]: https://doi.org/10.1210/clinem/dgaa262
 [C13]: https://doi.org/10.1093/humrep/det092
 [H17]: https://doi.org/10.1210/jc.2017-01658
@@ -679,7 +924,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [R12]: https://doi.org/10.1111/j.1538-7836.2012.04720.x
 [B19]: https://doi.org/10.1016/j.thromres.2019.03.015
 [SMC17]: https://doi.org/10.1016/j.contraception.2016.07.007
-[KUHL97]: https://doi.org/10.1007/PL00003042
+[K97]: https://doi.org/10.1007/PL00003042
 [CDP70]: https://doi.org/10.1001/jama.1970.03180070069012
 [S06]: https://doi.org/10.1111/j.1538-7836.2005.01693.x
 [R16]: https://doi.org/10.1186/s12959-016-0108-y
@@ -687,6 +932,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [W98]: https://doi.org/10.1002/j.1875-9114.1998.tb03157.x
 [H08]: https://doi.org/10.1016/j.fertnstert.2007.07.1298
 [CONA04]: https://doi.org/10.1016/j.contraception.2004.07.009
+[P22]: https://doi.org/10.1016/j.eprac.2022.08.012
 [J10]: https://doi.org/10.1016/j.physbeh.2009.08.013
 [M12]: https://doi.org/10.1136/bmj.e4944
 [N00]: https://doi.org/10.1097/00042192-200007040-00006
@@ -698,7 +944,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [SCD17]: https://doi.org/10.1002/ajh.24593
 [FLC82]: https://doi.org/10.1530/acta.0.1010592
 [D05]: https://doi.org/10.1055/s-2005-865900
-[L89]: https://doi.org/10.1016/0167-5273\(89\)90102-2
+[L89]: https://doi.org/10.1016/0167-5273(89)90102-2
 [R02]: https://doi.org/10.1001/jama.288.3.321
 [M20]: https://doi.org/10.1001/jamainternmed.2019.6108
 [DMH16]: https://doi.org/10.1016/j.contraception.2016.06.010
@@ -710,9 +956,9 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [SR02]: https://doi.org/10.1007/978-1-59259-152-7_15
 [S16]: https://doi.org/10.1186/s12884-016-0937-5
 [S13]: https://doi.org/10.1111/jth.12054
-[K97]: https://doi.org/10.1046/j.1365-2265.1997.2601068.x
-[PJ02]: https://doi.org/10.1016/S1471-4914\(02\)02282-7
-[GRAND20]: https://doi.org/10.1080/17512433.2020.1750365
+[VK97]: https://doi.org/10.1046/j.1365-2265.1997.2601068.x
+[PJ02]: https://doi.org/10.1016/S1471-4914(02)02282-7
+[G20]: https://doi.org/10.1080/17512433.2020.1750365
 [GFB22]: https://doi.org/10.1080/13625187.2022.2029397
 [I12]: https://doi.org/10.1016/j.ctrv.2011.06.009
 [CM17]: https://doi.org/10.3945/ajcn.116.136051
@@ -726,7 +972,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [KS19]: https://doi.org/10.1016/B978-0-323-46202-0.00031-5
 [KOHLI04]: https://doi.org/10.1200/jco.2004.22.90140.4726
 [KS06]: https://doi.org/10.1080/09513590600717368
-[O02]: https://doi.org/10.1034/j.1600-0412.2002.810603.x
+[O02]: https://www.tandfonline.com/doi/abs/10.1080/j.1600-0412.2002.810603.x
 [KD15]: https://doi.org/10.1016/j.eururo.2015.06.022
 [SCIA14]: https://doi.org/10.1111/iju.12613
 [T19]: https://doi.org/10.1097/AOG.0000000000003135
@@ -746,14 +992,14 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [H20]: https://doi.org/10.1002/14651858.CD013138.pub2
 [M18]: https://doi.org/10.1002/14651858.CD005625.pub4
 [B16]: https://doi.org/10.3109/13697137.2015.1129166
-[S89]: https://doi.org/10.1002/pros.2990140410
+[VS89]: https://doi.org/10.1002/pros.2990140410
 [FK05]: https://doi.org/10.1200/JCO.2005.11.005
-[HR17]: https://doi.org/10.1080/1354750X.2016.1204010
-[K96]: https://doi.org/10.1016/0378-5122\(96\)00994-2
+[HR16]: https://doi.org/10.1080/1354750X.2016.1204010
+[K96]: https://doi.org/10.1016/0378-5122(96)00994-2
 [C10]: https://doi.org/10.1111/j.1538-7836.2010.03930.x
-[L21]: https://doi.org/10.1016/S0140-6736\(21\)00100-8
-[M92]: https://doi.org/10.1016/S0889-8588\(18\)30273-9
-[L87]: https://doi.org/10.1016/0022-4731\(87\)90198-1
+[L21]: https://doi.org/10.1016/S0140-6736(21)00100-8
+[M92]: https://doi.org/10.1016/S0889-8588(18)30273-9
+[L87]: https://doi.org/10.1016/0022-4731(87)90198-1
 [L14]: https://doi.org/10.1517/14740338.2014.950654
 [J12]: https://doi.org/10.1172/JCI61228
 [A11]: https://doi.org/10.1530/eje-10-1038
@@ -765,14 +1011,14 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [MZ16]: https://doi.org/10.1002/14651858.CD003229.pub3
 [I19]: https://doi.org/10.1177/2042018819871166
 [BR87]: https://doi.org/10.1111/j.1365-2036.1987.tb00634.x
-[B73]: https://doi.org/10.1002/1097-0142\(197311\)32:5%3C1126::AID-CNCR2820320518%3E3.0.CO;2-C
+[B73]: https://doi.org/10.1002/1097-0142(197311)32:5%3C1126::AID-CNCR2820320518%3E3.0.CO;2-C
 [D19]: https://doi.org/10.1016/j.maturitas.2019.08.010
-[VCH19a]: https://doi.org/10.1136/bmj.k4810
+[VCH19]: https://doi.org/10.1136/bmj.k4810
 [M10]: https://doi.org/10.1007/s11239-009-0365-8
 [M21]: https://doi.org/10.3389/fendo.2021.769187
 [T16]: https://doi.org/10.1016/j.contraception.2016.04.014
 [ZYX19]: https://doi.org/10.1016/j.ijpharm.2019.118642
-[SULT15]: https://dx.doi.org/10.1136/bmjopen-2015-008864
+[AS15]: https://dx.doi.org/10.1136/bmjopen-2015-008864
 [H21]: https://doi.org/10.1097/SAP.0000000000002300
 [PT84]: https://doi.org/10.2165/00003088-198409010-00001
 [A14]: https://doi.org/10.1111/and.12150
@@ -798,10 +1044,10 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [S14]: https://doi.org/10.1001/jamainternmed.2013.11074
 [C08]: https://doi.org/10.1136/bmj.39555.441944.BE
 [SS18]: https://doi.org/10.1515/hmbci-2018-0041
-[AGE89]: https://doi.org/10.1016/0026-0495\(89\)90233-3
+[AGE89]: https://doi.org/10.1016/0026-0495(89)90233-3
 [PB13]: https://doi.org/10.1016/j.beem.2012.11.002
 [E19]: https://doi.org/10.1097/MBC.0000000000000784
-[A03]: https://doi.org/10.1016/s0010-7824\(03\)00164-1
+[DA03]: https://doi.org/10.1016/s0010-7824(03)00164-1
 [C19]: https://doi.org/10.1161/HYPERTENSIONAHA.119.13080
 [K99]: https://doi.org/10.1007/978-3-642-60107-1_18
 [M14]: https://doi.org/10.2174/1389200216666150206123719
@@ -831,10 +1077,52 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [M99]: https://pubmed.ncbi.nlm.nih.gov/10230677/
 [PHIL14]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052190/
 [R05]: https://pubmed.ncbi.nlm.nih.gov/16304352/
-[NC20-NIH]: https://pubmed.ncbi.nlm.nih.gov/33005118/
+[NC20-PM]: https://pubmed.ncbi.nlm.nih.gov/33005118/
 [EA79]: https://pubmed.ncbi.nlm.nih.gov/400323/
 [H16]: https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/flavonoids
 [D16]: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=26
+
+[KM01]: https://files.transfemscience.org/pdfs/Kohli%20&%20McClellan%20(2001)%20-%20Parenteral%20Estrogen%20Therapy%20in%20Advanced%20Prostate%20Cancer_%20Retrospective%20Analysis%20of%20Intra-Muscular%20Estradiol%20Valerate%20in%20Hormone%20Refractory%20Prostate%20Disease%20%5BIn%20Proceedings%20of%20ASCO%5D.pdf
+[M05]: https://doi.org/10.1530/eje.1.01943
+[M06]: https://doi.org/10.1055/s-2006-925198
+[K09]: https://doi.org/10.1530/EJE-09-0265
+
+[B20-GS]: https://scholar.google.com/scholar?cluster=7921894596634632019
+[B20-DOI]: https://doi.org/10.1097/HS9.0000000000000444
+[C12-DOI]: https://doi.org/10.1080/15532739.2011.700873
+[C12-URL]: https://www.wpath.org/publications/soc
+[D16-URL]: https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy
+[EA79-GS]: https://scholar.google.com/scholar?cluster=1480967669946783606
+[FG06-GS]: https://scholar.google.com/scholar?cluster=17174906979463350213
+[FG06-PDF]: https://www.cpath.ca/wp-content/uploads/2009/12/guidelines-primcare.pdf
+[HIBBS08-GS]: https://scholar.google.com/scholar?cluster=3696609100523897729
+[KM01-ISSN]: https://portal.issn.org/resource/ISSN/1081-0641/
+[KM01-GS]: https://scholar.google.com/scholar?cluster=13464348720429057889
+[KM01-WC1]: https://www.worldcat.org/title/thirty-seventh-annual-meeting-of-the-american-society-of-clinical-oncology-programproceedings/oclc/107121093
+[KM01-WC2]: https://www.worldcat.org/title/american-society-of-clinical-oncology-thirty-seventh-annual-meeting-published-only-abstracts/oclc/107121085
+[KM01-WC3]: https://www.worldcat.org/title/programproceedings/oclc/1132117477
+[KOHLI04-GS]: https://books.google.com/books?id=gvVJAQAAIAAJ
+[KOHLI04-PDF]: https://files.transfemscience.org/pdfs/Kohli%20et%20al.%20%282004%29%20-%20Phase%20I%20trial%20of%20Intramuscular%20estradlol%20valerate%20%28I_M-E%29%20in%20hormone%20refractory%20prostate%20cancer%20[In%20Proceedings%20of%20ASCO].pdf#page=7
+[K90-GS1]: https://scholar.google.com/scholar?cluster=12629435037274430637
+[K90-GS2]: https://scholar.google.com/scholar?cluster=4937187795787505269
+[K90-PM]: https://pubmed.ncbi.nlm.nih.gov/2086334/
+[K90-DOI]: https://doi.org/10.1055/s-2008-1026392
+[K98-GS]: https://scholar.google.com/scholar?cluster=8881969116915222573
+[K98-GB]: https://books.google.com/books?id=rfT4wAEACAAJ
+[K99-PDF]: https://files.transfemscience.org/pdfs/Kuhl%20%281999%29%20-%20Hormonal%20Contraception%20[In%20Estrogens%20and%20Antiestrogens%20II%20-%20Pharmacology%20and%20Clinical%20Application%20of%20Estrogens%20and%20Antiestrogens%20%28Lauritzen%20et%20al.,%201999%29].pdf
+[K05-PDF]: https://hormonebalance.org/images/documents/Kuhl%2005%20%20Pharm%20Estro%20Progest%20Climacteric_1311166827.pdf
+[VAC67-GS]: https://scholar.google.com/scholar?cluster=3476368531220581066
+[M99-GS]: https://scholar.google.com/scholar?cluster=14911734016908647419
+[M99-PDF]: https://files.transfemscience.org/pdfs/Mikkola%20et%20al.%20%281999%29%20-%20The%20Role%20of%20Parenteral%20Polyestradiol%20Phosphate%20in%20the%20Treatment%20of%20Advanced%20Prostatic%20Cancer%20on%20the%20Threshold%20of%20the%20New%20Millenium.pdf
+[table11]: https://imgur.com/a/sz1L4le
+[NC20-PMC]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7513447
+[O02-DOI]: https://doi.org/10.1080/j.1600-0412.2002.810603.x
+[PHIL14-DOI]: https://doi.org/10.17925/ohr.2014.10.1.42
+[PHIL14-TOC]: https://touchoncology.com/genitourinary-cancers/journal-articles/androgen-deprivation-therapy-and-the-re-emergence-of-parenteral-estrogen-in-prostate-cancer/
+[R05-GS]: https://scholar.google.com/scholar?cluster=3214955143978928909
+[R05-DOI]: https://doi.org/10.1182/asheducation-2005.1.1
+[R05-URL]: https://ashpublications.org/hematology/article/2005/1/1/177755/Venous-Thrombosis-The-Role-of-Genes-Environment
+[SS99-DOI]: https://doi.org/10.1007/978-3-642-60107-1_8
 
 <!-- 维基百科、词典条目 -->
 
@@ -842,7 +1130,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [wiki-07d9950b]: https://en.wikipedia.org/wiki/Thrombus
 [wiki-0886077a]: https://en.wikipedia.org/wiki/Heart
 [wiki-09a10b8c]: https://en.wikipedia.org/wiki/Polycythemia
-[wiki-0a373afc]: https://en.wikipedia.org/wiki/Estrone_\(medication\)
+[wiki-0a373afc]: https://en.wikipedia.org/wiki/Estrone_(medication)
 [wiki-0ba28372]: https://en.wikipedia.org/wiki/Exercise
 [wiki-0e64ba0d]: https://en.wikipedia.org/wiki/Artery
 [wiki-0fe3719d]: https://en.wikipedia.org/wiki/Arterial_embolism
@@ -856,10 +1144,10 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [wiki-1b813b47]: https://en.wikipedia.org/wiki/Estrogen_conjugate
 [wiki-1ce10da2]: https://en.wikipedia.org/wiki/Diethylstilbestrol
 [wiki-1e7b235a]: https://en.wikipedia.org/wiki/Megestrol_acetate
-[wiki-1ef56d4d]: https://en.wikipedia.org/wiki/Conjugation_\(biochemistry\)
+[wiki-1ef56d4d]: https://en.wikipedia.org/wiki/Conjugation_(biochemistry)
 [wiki-201bbf07]: https://en.wikipedia.org/wiki/Fulvestrant
 [wiki-28597a32]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_patches
-[wiki-2a7854c7]: https://en.wikipedia.org/wiki/Estetrol_\(medication\)
+[wiki-2a7854c7]: https://en.wikipedia.org/wiki/Estetrol_(medication)
 [wiki-2b02dbc6]: https://en.wikipedia.org/wiki/Observational_study
 [wiki-2b20ba63]: https://en.wikipedia.org/wiki/Angiotensinogen
 [wiki-2eefe991]: https://en.wikipedia.org/wiki/Flavonoid
@@ -879,12 +1167,12 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [wiki-41106e41]: https://en.wikipedia.org/wiki/Weight_loss
 [wiki-42191de3]: https://en.wikipedia.org/wiki/Stroke
 [wiki-42c54932]: https://en.wikipedia.org/wiki/Risk%E2%80%93benefit_analysis
-[wiki-4350a5c8]: https://en.wikipedia.org/wiki/Potency_\(pharmacology\)
+[wiki-4350a5c8]: https://en.wikipedia.org/wiki/Potency_(pharmacology)
 [wiki-438516b9]: https://en.wikipedia.org/wiki/Full_agonist
 [wiki-449d8316]: https://en.wikipedia.org/wiki/Coagulation_factor
 [wiki-4500ed81]: https://en.wikipedia.org/wiki/Prodrug
 [wiki-46bec2e4]: https://en.wikipedia.org/wiki/Sampling_error
-[wiki-48b59ec7]: https://en.wikipedia.org/wiki/Estrogen_\(medication\)
+[wiki-48b59ec7]: https://en.wikipedia.org/wiki/Estrogen_(medication)
 [wiki-492d817e]: https://en.wikipedia.org/wiki/Causality
 [wiki-4a25e445]: https://en.wikipedia.org/wiki/Factor_VII
 [wiki-4bfc85f0]: https://en.wikipedia.org/wiki/Norethisterone
@@ -918,7 +1206,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [wiki-76405fbd]: https://en.wikipedia.org/wiki/Binding_protein
 [wiki-780ff88a]: https://en.wikipedia.org/wiki/Vein
 [wiki-781641ea]: https://en.wikipedia.org/wiki/Anticoagulant
-[wiki-79aca78b]: https://en.wikipedia.org/wiki/Progestogen_\(medication\)
+[wiki-79aca78b]: https://en.wikipedia.org/wiki/Progestogen_(medication)
 [wiki-7c4664db]: https://en.wikipedia.org/wiki/High-dose_estrogen
 [wiki-7cb48fd1]: https://en.wikipedia.org/wiki/Direct_Xa_inhibitor
 [wiki-7cc814be]: https://en.wikipedia.org/wiki/Pregnancy
@@ -966,7 +1254,7 @@ PATCH 的研究者从其大有前景的用药安全性资料出发，表示治�
 [wiki-c12904ac]: https://en.wikipedia.org/wiki/Antiestrogen
 [wiki-c1e60351]: https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin
 [wiki-c3bed08c]: https://en.wikipedia.org/wiki/Binding_selectivity
-[wiki-c3e10184]: https://en.wikipedia.org/wiki/Estradiol_\(medication\)
+[wiki-c3e10184]: https://en.wikipedia.org/wiki/Estradiol_(medication)
 [wiki-c4f2617f]: https://en.wikipedia.org/wiki/Estrone_sulfate
 [wiki-c6f50a02]: https://en.wikipedia.org/wiki/Ethynyl_group
 [wiki-c7a5095a]: https://en.wikipedia.org/wiki/Postpartum
