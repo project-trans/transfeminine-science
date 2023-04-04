@@ -38,6 +38,14 @@ DHT:
   origin: Dihydrotestosterone
   title: 双氢睾酮
   href: https://en.wikipedia.org/wiki/Dihydrotestosterone
+LH:
+  origin: Luteinizing hormone
+  title: 促黄体激素
+  href: https://en.wikipedia.org/wiki/Luteinizing_hormone
+FSH:
+  origin: Follicle-stimulating hormone
+  title: 促卵泡激素
+  href: https://en.wikipedia.org/wiki/Follicle-stimulating_hormone
 AR:
   origin: Androgen Receptor
   title: 雄激素受体
@@ -127,6 +135,11 @@ VTE:
   origin: Venous thromboembolism
   title: 静脉血栓
   href: https://en.wikipedia.org/wiki/Venous_thrombosis
+
+SHBG:
+  origin: Sex hormone-binding globulin
+  title: 性激素结合球蛋白
+  href: https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin
 
 CPA:
   origin: Cyproterone acetate
