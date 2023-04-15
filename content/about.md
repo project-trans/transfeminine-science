@@ -119,12 +119,12 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ### 其他来自 tfsci-sc 项目的译者 {#list-of-tfsci-sc-translators}
 
-本站成立之前，还有三名 *Transfeminine Science* 的热心读者曾在原 *Limelight* 社区与 <https://github.com/tfsci-sc/articles> 项目上发表译文。**在此感谢 ta 们早前的卓越贡献。** 没有 ta 们先行，就没有如今的这个存档站。\
-Ta 们目前与 Project Trans 团体尚无直接联系。
+本站成立之前，还有三名 *Transfeminine Science* 的热心读者曾在原 *Limelight* 社区与 <https://github.com/tfsci-sc/articles> 项目上发表译文。**在此感谢 ta 们早前的卓越贡献。** 没有 ta 们先行，就没有如今的这个存档站。
 
 #### yucandy {#yucandy}
 
-GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 项目的创始人。曾翻译两篇文章，也参与了“[性别烦躁指南](https://genderdysphoria.fyi/zh)”（*This is Gender Dysphoria, FYI*）的翻译。
+GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 项目的创始人。曾翻译两篇文章，也参与了“[性别烦躁指南](https://genderdysphoria.fyi/zh)”（*This is Gender Dysphoria, FYI*）的翻译。\
+现已加入本站翻译组。
 
 #### 昭心 {#昭心}
 
