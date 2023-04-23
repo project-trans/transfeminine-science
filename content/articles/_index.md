@@ -10,6 +10,7 @@ layout: single
 
 - [女性倾向跨性别者的激素治疗简介]({{< ref "transfem-intro" >}}) (Aly, 2018)
 - [对非二元女性倾向跨性别者的激素治疗可能性的探索]({{< ref "nonbinary-transfem-overview" >}}) (Aly, 2019)
+- [有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述]({{< ref "puberty-blockers" >}}) (Mitzi, 2022)
 
 ## 特定主题类 {#special-topics}
 
