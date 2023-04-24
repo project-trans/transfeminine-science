@@ -45,8 +45,7 @@ Note that the original articles in English might be revised by their authors *at
 
 ## Acknowledgements
 
-We express our gratitude to [Aly][aly], the maintainer and one of the authors of *Transfeminine Science*, for granting permission for this project.\
-We also acknowledge the invaluable contribution of contributors from the previous translating project [tfsci-sc/articles][origin-cn]; without their hard work, this project may not have been established.
+We express our gratitude to [Aly][aly], the maintainer and one of the authors of *Transfeminine Science*, for granting permission for this project. We also acknowledge the invaluable contribution of contributors from the previous translating project [tfsci-sc/articles][origin-cn]; without their hard work, this project may not have been established.
 
 The archive site is built with [Hugo][hugo], and deployed onto [Cloudflare Pages][site-url].
 
