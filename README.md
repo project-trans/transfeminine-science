@@ -4,7 +4,7 @@
 
 欢迎来到 [Project Trans][team] 附属的“女性倾向跨性别者科学”（*[Transfeminine Science][origin]*）中文译本存档站。原文由一群非相关专业出身、却热情洋溢的多国跨性别人士所作，旨在为**女性化激素治疗**提供力所能及的指引，行文严谨、讨论细致、引经据典，具有相当的可信度。本项目则旨在**忠实转达**这些文章的内容和观点，以资参考。
 
-为便于翻阅、减少翻译工作量，本站译者会从上百篇原文当中精心挑选一部分进行翻译；同时，边翻译边学习，促进 <https://MtF.wiki> 内容的完善。因此，本站内容可视作对 MtF.wiki 药物板块的先行或拓展参考。\
+为便于翻阅、减少翻译工作量，本站译者会从上百篇原文当中精心挑选一部分进行翻译；同时，边翻译边学习，促进 [MtF.wiki](https://mtf.wiki) 内容的完善。因此，本站内容可视作对 MtF.wiki 药物板块的先行或拓展参考。\
 由于原文内容随时会修订，而本站译者不一定有时间与精力实时跟进；因此，**译文修订间隔**暂定为 **3 - 12 个月**。如有不便，敬请谅解。
 
 > 本站除簡體中文外，還提供繁體中文版本，以便港澳台用戶閱覽；需要注意，此版本從簡體中文底稿自動轉換而來，或與港澳台地區語言習慣不符。
@@ -37,7 +37,7 @@
 
 We extend a warm welcome to the Archive Repository of Chinese Translations on the *[Transfeminine Science website][origin]*, provided to you by the community-based [Project Trans][team]. The original articles, authored by non-professional yet dedicated transgender scholars from various countries, provide valuable knowledge on *feminizing hormone therapy*, including highly reliable causal analysis, detailed discussions, and extensive references.
 
-Our goal is to accurately and fluently bring these invaluable contents to Chinese readers for their reference. To improve the translation experience and minimize the workload, the Translators will carefully select a subset of original articles to translate, supplementing the information on <https://MtF.wiki>. Therefore, this site serves as a reference or a pilot discussion for the topic of medical transition on MtF.wiki.
+Our goal is to accurately and fluently bring these invaluable contents to Chinese readers for their reference. To improve the translation experience and minimize the workload, the Translators will carefully select a subset of original articles to translate, supplementing the information on [MtF.wiki](https://mtf.wiki). Therefore, this site serves as a reference or a pilot discussion for the topic of medical transition on MtF.wiki.
 
 Note that the original articles in English might be revised by their authors *at any time*, and the Translators may have limited time to track such changes. Hence, **the interval of full revision** on translations has been determined to be approximately **3 - 12 months**. We apologize for any inconvenience caused by outdated content.
 
