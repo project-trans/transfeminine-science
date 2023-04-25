@@ -2,7 +2,7 @@
 title: 关于本站
 linkTitle: 关于
 description: 关于 Transfeminine Science 以及中文译本存档站的详情
-trackHash: 60de3f6740360e6ac761d81d521035122b917466
+trackHash: d4870caa9d833f7b0b62263044e8b851dbeb8d98
 weight: 4
 ---
 
@@ -34,10 +34,10 @@ weight: 4
 Aly （代词：她）来自美国加利福尼亚州，是一名跨性别女性。她对女性化激素疗法抱有浓厚兴趣。Aly 于 2010 年代初开始了性别转变过程，此后热衷于探究跨性别医学文献的工作。她以优异成绩毕业于[加州大学][wiki-uc]，取得学士学位。Aly 还完成了若干医学预科课程，并在加州大学的研究室担任一年的助教。
 
 Aly 已作为志愿者在英文维基百科社区活跃多年。她曾在数年间连续位列维基百科医学栏目最佳编辑者前十名之内。\
-Aly 在性激素药理学方面耕耘多年，贡献颇多；从她的[编辑历史][aly-stat]<sup>([备用链接][aly-stat-alt])</sup>、[最佳条目][aly-top]、[新建文章][aly-create]与[已上传图片][aly-image]<sup>([备用链接][aly-image-alt])</sup>等记录中可见一斑。Aly 有时也在维基百科上简短引用本站内容，其中绝大部分来自她本人的文章。\
+Aly 在性激素药理学方面耕耘多年，贡献颇多；从她的[编辑历史][aly-stat]<sup>([备用链接][aly-stat-alt])</sup>、[最佳条目][aly-top]、[新建文章][aly-create]与[已上传图片][aly-image]<sup>([备用链接][aly-image-alt])</sup>等记录中可见一斑。Aly 有时也在维基百科上简短引用本站内容，其中绝大部分来自她本人的文章。
+
 Aly 多年来曾活跃于 Reddit 与 Discord 等平台上跨性别网络社群。在 Reddit 的数年间，她曾领导 <https://reddit.com/r/MtFHRT> 栏目（现为 <https://reddit.com/r/TransfemScience> 栏目）的运转；参与 <https://reddit.com/r/AskMtFHRT> 和 <https://reddit.com/r/TransBreastTimelines> 栏目的创立；也曾担任 <https://reddit.com/r/TransDIY> 栏目的版主。
 
-如需联系 Aly，可发送邮件到 <aly@transfemscience.org> 。如需询问有关激素治疗的事项（如治疗建议），不妨移步至[网络社群][misc-com]。
 
 ### Mitzi {#mitzi}
 
@@ -76,12 +76,12 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ## 联系我们 {#contact}
 
-如需联系本站撰稿人，上文已列出各自的邮箱地址。对于大多数情况下的问询（例如媒体问询），宜先联系 [Mitzi]({{< ref "#mitzi" >}})（<mitzi@transfemscience.org>）。除邮件外，还可在 [Reddit][r-tfsci]、[推特][twi-tfsci] 与 [Discord][dc-tfsci] 等社交平台联系到诸撰稿人。我们欢迎任何关于我们的文章内容的反馈，以及其它重要的问询。\
+如需联系本站撰稿人，上文已列出各自的邮箱地址。对于大多数情况下的问询，宜先联系 [Mitzi]({{< ref "#mitzi" >}})（<mitzi@transfemscience.org>）。我们欢迎任何关于我们的文章内容的反馈，以及其它重要的问询。\
 不过，如需询问有关激素治疗的问题（如治疗建议），请移步至[跨性别网上社区][misc-com]。
 
 ## 免责声明 {#disclaimer}
 
-本站的撰稿人<sup>（也包括译者）</sup>皆非医学专业或学术研究人士。本站文章已经过其他撰稿人的非正式[同行评议][wiki-pr]，但从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与绝大部分医学文献的一种指引性或补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。
+本站的撰稿人<sup>（也包括译者）</sup>基本上只是兴趣使然的外行人，并非医学专业或学术研究人士。本站文章已经过其他撰稿人的非正式[同行评议][wiki-pr]，但从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与绝大部分医学文献的一种指引性或补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。
 
 不过，我们知悉许多女性倾向跨性别者正在其激素治疗中[自行安排用药][wiki-diy]，我们也打算帮助这些医疗资源匮乏的重要人群普及相关知识。
 
@@ -165,10 +165,6 @@ Project Trans 团体成员，高级前端工程师。设计并开发 <https://Mt
 [aly-image]: https://commons.wikimedia.org/wiki/Special:ListFiles?limit=500&user=Medgirl131
 [aly-image-alt]: https://commons.wikimedia.org/wiki/Category:Medication_time%E2%80%93concentration_curves
 
-<!-- Reddit 栏目 -->
-
-[r-tfsci]: https://reddit.com/r/TransfemScience
-
 <!-- 维基百科条目 -->
 
 [wiki-uc]: https://en.wikipedia.org/wiki/University_of_California
@@ -187,5 +183,4 @@ Project Trans 团体成员，高级前端工程师。设计并开发 <https://Mt
 [dancesafe]: https://dancesafe.org/
 [twi-thn]: https://twitter.com/transhealthnet
 [gck]: https://genderkit.org.uk/
-[twi-tfsci]: https://twitter.com/TransfemScience
 [dc-tfsci]: https://discord.gg/76YN4Kvy3c
