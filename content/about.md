@@ -2,7 +2,7 @@
 title: 关于本站
 linkTitle: 关于
 description: 关于 Transfeminine Science 以及中文译本存档站的详情
-trackHash: d4870caa9d833f7b0b62263044e8b851dbeb8d98
+trackHash: 2beea1f4b4c5aab5015ab4a8020bea6fc544c28e
 weight: 4
 ---
 
@@ -12,12 +12,6 @@ weight: 4
 **以下翻译自原站点“[关于本站](https://transfemscience.org/about/)”页面；关于本翻译项目请见[下文]({{< ref "#translation-project" >}})。**
 
 </section>
-
-## 本站创立的由来 {#history}
-
-本站基于多名女性倾向跨性别者在社交网站 Reddit 创建的女性化激素疗法相关内容而创立。\
-本站仍在 Reddit 栏目：<https://reddit.com/r/TransfemScience> 继续保持活跃，有新文章发布时也会在此贴出链接。\
-更多详情可见《[建站声明]({{< ref "announcement" >}})》一文。
 
 ## 作者一览 {#list-of-authors}
 
@@ -31,12 +25,12 @@ weight: 4
 
 ### Aly {#aly}
 
-Aly （代词：她）来自美国加利福尼亚州，是一名跨性别女性。她对女性化激素疗法抱有浓厚兴趣。Aly 于 2010 年代初开始了性别转变过程，此后热衷于探究跨性别医学文献的工作。她以优异成绩毕业于[加州大学][wiki-uc]，取得学士学位。Aly 还完成了若干医学预科课程，并在加州大学的研究室担任一年的助教。
+Aly （代词：她）来自美国加利福尼亚州，是一名跨性别女性。她对女性化激素疗法抱有浓厚兴趣。Aly 于 2010 年代初开始了性别转变过程，此后热衷于探究跨性别医学文献的工作。她以最优异成绩毕业于[加州大学][wiki-uc]，取得学士学位。Aly 还完成了若干医学预科课程，并在加州大学的研究室担任一年的助教。
 
-Aly 已作为志愿者在英文维基百科社区活跃多年。她曾在数年间连续位列维基百科医学栏目最佳编辑者前十名之内。\
-Aly 在性激素药理学方面耕耘多年，贡献颇多；从她的[编辑历史][aly-stat]<sup>([备用链接][aly-stat-alt])</sup>、[最佳条目][aly-top]、[新建文章][aly-create]与[已上传图片][aly-image]<sup>([备用链接][aly-image-alt])</sup>等记录中可见一斑。Aly 有时也在维基百科上简短引用本站内容，其中绝大部分来自她本人的文章。
+Aly 已作为志愿者在维基百科社区活跃多年。她曾在数年间连续位列维基百科医学栏目最佳编辑者前十名之内。\
+Aly 在性激素药理学方面耕耘多年，贡献颇多。Aly 有时也在维基百科上简短引用本站内容，其中绝大部分来自她本人的文章。
 
-Aly 多年来曾活跃于 Reddit 与 Discord 等平台上跨性别网络社群。在 Reddit 的数年间，她曾领导 <https://reddit.com/r/MtFHRT> 栏目（现为 <https://reddit.com/r/TransfemScience> 栏目）的运转；参与 <https://reddit.com/r/AskMtFHRT> 和 <https://reddit.com/r/TransBreastTimelines> 栏目的创立；也曾担任 <https://reddit.com/r/TransDIY> 栏目的版主。
+Aly 多年来曾活跃于 Reddit 与 Discord 等平台上跨性别网络社群。在 Reddit 的数年间，她曾领导 <https://reddit.com/r/MtFHRT> 栏目的运转；参与 <https://reddit.com/r/AskMtFHRT> 和 <https://reddit.com/r/TransBreastTimelines> 栏目的创立；也曾担任 <https://reddit.com/r/TransDIY> 栏目的版主。
 
 
 ### Mitzi {#mitzi}
@@ -65,8 +59,6 @@ Sam （代词：她）来自英国伦敦，是一名跨性别女性。她未曾�
 
 Sam 参与本站工作已有数年，期间撰写了数篇文章；不过，她后来离开了，不再为本站撰稿。
 
-如需联系 Sam，可发送邮件至 <sam@transfemscience.org>。
-
 ### Luna {#luna}
 
 Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非二元跨性别者，也是计算机科学家。
@@ -81,7 +73,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ## 免责声明 {#disclaimer}
 
-本站的撰稿人<sup>（也包括译者）</sup>基本上只是兴趣使然的外行人，并非医学专业或学术研究人士。本站文章已经过其他撰稿人的非正式[同行评议][wiki-pr]，但从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与绝大部分医学文献的一种指引性或补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。
+本站的撰稿人<sup>（也包括译者）</sup>皆非医学专业或学术研究人士。本站文章以学术期刊文章的形式撰写，这种形式用于学术写作非常合适；但是，本站本身并非学术期刊。本站文章从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与绝大部分医学文献的一种补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。
 
 不过，我们知悉许多女性倾向跨性别者正在其激素治疗中[自行安排用药][wiki-diy]，我们也打算帮助这些医疗资源匮乏的重要人群普及相关知识。
 
@@ -90,7 +82,7 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 [原文]({{< ref "license" >}})
 
 > 本站版权归 Aly 及本站其他撰稿人所有；
-> 保留一切权利。未经 Aly 允许，请勿对本站内容进行二次创作（如翻译项目）。
+> 保留一切权利。未经 Aly 允许，读者不得对本站内容进行二次创作（如翻译项目）。
 > 如获得许可，请准确署名，并设置指向本站原文的链接。
 
 --------
@@ -156,15 +148,6 @@ Project Trans 团体成员，高级前端工程师。设计并开发 <https://Mt
 [simulator-adv]: https://transfemscience.org/misc/injectable-e2-simulator-advanced/
 [guidelines]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 
-<!-- Aly 的贡献 -->
-
-[aly-stat]: https://xtools.wmflabs.org/ec/en.wikipedia.org/Medgirl131
-[aly-stat-alt]: https://en.wikiscan.org/utilisateur/Medgirl131
-[aly-top]: https://xtools.wmflabs.org/topedits/en.wikipedia.org/Medgirl131
-[aly-create]: https://xtools.wmflabs.org/pages/en.wikipedia.org/Medgirl131
-[aly-image]: https://commons.wikimedia.org/wiki/Special:ListFiles?limit=500&user=Medgirl131
-[aly-image-alt]: https://commons.wikimedia.org/wiki/Category:Medication_time%E2%80%93concentration_curves
-
 <!-- 维基百科条目 -->
 
 [wiki-uc]: https://en.wikipedia.org/wiki/University_of_California
@@ -174,7 +157,6 @@ Project Trans 团体成员，高级前端工程师。设计并开发 <https://Mt
 [wiki-dpa]: https://en.wikipedia.org/wiki/Drug_Policy_Alliance
 [wiki-ssdp]: https://en.wikipedia.org/wiki/Students_for_Sensible_Drug_Policy
 [wiki-maps]: https://en.wikipedia.org/wiki/Multidisciplinary_Association_for_Psychedelic_Studies
-[wiki-pr]: https://en.wikipedia.org/wiki/Peer_review
 [wiki-spr]: https://en.wikipedia.org/wiki/Scholarly_peer_review
 [wiki-diy]: https://en.wikipedia.org/wiki/Self-medication
 
