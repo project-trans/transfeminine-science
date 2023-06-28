@@ -25,7 +25,7 @@ jobs:
       - run: ./scripts/opencc.sh
       - run: hugo --minify
         env:
-          HUGO_DISABLELANGUAGES: ''
+          HUGO_DISABLELANGUAGES: ' '
       - run: npx wrangler pages publish public --project-name tfsci --branch main
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
