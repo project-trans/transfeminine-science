@@ -87,6 +87,10 @@ main > .container {
     }
   }
 
+  .box {
+    word-wrap: break-word;
+  }
+
   li > ul:last-child,
   li > ol:last-child {
     margin-top: 0.25em;
