@@ -11,7 +11,9 @@ hasCJKLanguage: true
 defaultContentLanguage: zh-cn
 defaultContentLanguageInSubdir: true
 disableKinds: [taxonomy, term]
-disableLanguages: [zh-tw, zh-hk]
+disableLanguages:
+  - zh-hk
+  - zh-tw
 enableGitInfo: true
 enableRobotsTXT: true
 googleAnalytics: G-TKT26VDTW3
