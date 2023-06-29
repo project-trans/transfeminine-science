@@ -9,6 +9,8 @@ translated: 2022-11-16
 translators:
   - Bersella AI
 trackHash: fdd701930bcb4e0f6f2c2ca8df31b80ae016e9a0
+notice: 原文已被下线，本译文仅作存档之用。
+hidden: true
 ---
 
 我们曾在 2017 年末在 Reddit 创建了新栏目 <https://reddit.com/r/MtFHRT>，旨在创建、收集、分享有关女性化激素疗法的资讯内容。
