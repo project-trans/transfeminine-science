@@ -31,6 +31,8 @@
 
 此外，本站设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
 
+**注意：** 本站分类为“杂项”（Misc.）的文章与 *Transfeminine Science* 无关。Project Trans 团体迄今未翻译任何来自原站的“杂项”类内容，且尚无任何此类内容的引进计划。
+
 --------
 
 ## Introduction
@@ -57,7 +59,9 @@ Before making new translations, please refer to the [Guidelines][guideline] for 
 
 ## License
 
-All translations on this site comply with the [License][license] from *Transfeminine Science*. The graphs and other supplementary materials of this site are copyrighted by Project Trans and are licensed under the [Creative Commons Attribution-ShareAlike 4.0][license2] license.
+All translations on this site comply with the [License][license] from *Transfeminine Science*. The graphs and other supplementary materials of this site are copyrighted by Project Trans and are licensed under the [Creative Commons Attribution-ShareAlike License, Version 4.0][license2].
+
+**Disclaimer:** The translations categorized in *Miscellaneous*（杂项） are NOT affiliated with *Transfeminine Science*. We have not translated any of the contents from *Misc.* in *Transfeminine Science*, and we have no plans on their adaptions.
 
 [team]: https://project-trans.org
 [origin]: https://transfemscience.org

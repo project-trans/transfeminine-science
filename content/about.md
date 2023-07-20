@@ -2,7 +2,7 @@
 title: 关于本站
 linkTitle: 关于
 description: 关于 Transfeminine Science 以及中文译本存档站的详情
-trackHash: 2beea1f4b4c5aab5015ab4a8020bea6fc544c28e
+trackHash: b0a00949619dee91a3a87bb796f5f6fa962c7158
 weight: 4
 ---
 
@@ -27,8 +27,7 @@ weight: 4
 
 Aly （代词：她）来自美国加利福尼亚州，是一名跨性别女性。她对女性化激素疗法抱有浓厚兴趣。Aly 于 2010 年代初开始了性别转变过程，此后热衷于探究跨性别医学文献的工作。她以最优异成绩毕业于[加州大学][wiki-uc]，取得学士学位。Aly 还完成了若干医学预科课程，并在加州大学的研究室担任一年的助教。
 
-Aly 已作为志愿者在维基百科社区活跃多年。她曾在数年间连续位列维基百科医学栏目最佳编辑者前十名之内。\
-Aly 在性激素药理学方面耕耘多年，贡献颇多。Aly 有时也在维基百科上简短引用本站内容，其中绝大部分来自她本人的文章。
+Aly 曾作为志愿者在维基百科社区活跃多年。她长期以来曾在维基百科医学栏目做出丰硕成果，在性激素药理学方面贡献颇多；此后她决定退出维基百科的编辑工作。Aly 曾在维基百科上简短引用本站内容，其中绝大部分来自她本人的文章。
 
 Aly 多年来曾活跃于 Reddit 与 Discord 等平台上跨性别网络社群。在 Reddit 的数年间，她曾领导 <https://reddit.com/r/MtFHRT> 栏目的运转；参与 <https://reddit.com/r/AskMtFHRT> 和 <https://reddit.com/r/TransBreastTimelines> 栏目的创立；也曾担任 <https://reddit.com/r/TransDIY> 栏目的版主。
 
@@ -68,8 +67,12 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ## 联系我们 {#contact}
 
-如需联系本站撰稿人，上文已列出各自的邮箱地址。对于大多数情况下的问询，宜先联系 [Mitzi]({{< ref "#mitzi" >}})（<mitzi@transfemscience.org>）。我们欢迎任何关于我们的文章内容的反馈，以及其它重要的问询。\
-不过，如需询问有关激素治疗的问题（如治疗建议），请移步至[跨性别网上社区][misc-com]。
+本站已停止接受一般的问询；但有关本站文章的除外，如文章作者在此尚留有邮箱地址，可与之联系。\
+有关激素治疗的问题请移步至[跨性别网络社区][misc-com]查询。
+
+## 本站历史 {#history}
+
+本站源自由一批女性倾向跨性别者在社交媒体网站 Reddit 之上的 <https://reddit.com/r/MtFHRT> 社群所创作的一系列有关女性化激素治疗的信息性内容。Aly 自 2018 年八月起开始创作，此后多名作者加入。本站于 2020 年十月上线后，这些文章被改编并迁移至此；此后本站作为这些文章及后续补充内容的独家发布平台服务至今。
 
 ## 免责声明 {#disclaimer}
 
@@ -133,6 +136,13 @@ GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 
 
 撰写新译文之前，宜参考《[翻译指南]({{< ref "newcomer-guidelines" >}})》，其中的要求和案例会有助于提升译文质量和可读性。
 
+## 译者版权声明 {#license2}
+
+**本站译文适用于 *Transfeminine Science* 的[版权声明]({{< ref "#license" >}})。**\
+此外，本站设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
+
+**注意：** 本站分类为“杂项”（Misc.）的文章与 *Transfeminine Science* 无关。Project Trans 团体迄今未翻译任何来自原站的“杂项”类内容，且尚无任何此类内容的引进计划。
+
 ## 本存档站技术支持 {#supports}
 
 [septs](https://github.com/septs)
@@ -166,3 +176,4 @@ Project Trans 团体成员，高级前端工程师。设计并开发 <https://Mt
 [twi-thn]: https://twitter.com/transhealthnet
 [gck]: https://genderkit.org.uk/
 [dc-tfsci]: https://discord.gg/76YN4Kvy3c
+[license2]: https://creativecommons.org/licenses/by-sa/4.0/
