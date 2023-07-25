@@ -5,7 +5,7 @@ description: 对非二元（女性倾向）激素治疗的需求正日益增多�
 author: Aly
 published: 2019-06-13
 updated: 2022-09-26
-translated: 2022-11-22
+translated: 2023-07-25
 translators:
   - yucandy
   - Bersella AI
