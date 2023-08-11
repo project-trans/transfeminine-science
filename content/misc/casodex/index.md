@@ -385,7 +385,7 @@ Casodex 的初始剂量为 12.5 mg。本品剂量对每个患者精准滴定，�
 - *CAS 代码：[90357-06-5](https://commonchemistry.cas.org/detail?ref=90357-06-5)*
 - 化学结构式：
 
-{{< figure src="https://scimg.chem960.com/cas/150/90357-06-5.png" width="50%" >}}
+{{< figure src="https://scimg.chem960.com/cas/0/90357-06-5.png" width="50%" >}}
 
 比卡鲁胺为白色或类白色粉末，几乎不溶于 37&deg;C 的水（每升溶解 5 mg），略溶于氯仿与无水乙醇，微溶于甲醇，溶于丙酮与四氢呋喃。
 
