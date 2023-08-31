@@ -2,7 +2,7 @@
 title: 关于本站
 linkTitle: 关于
 description: 关于 Transfeminine Science 以及中文译本存档站的详情
-trackHash: b0a00949619dee91a3a87bb796f5f6fa962c7158
+trackHash: 3b8aec69d9ff0fe9aee4de5969d7dbaead1ddaa5
 weight: 4
 ---
 
@@ -39,8 +39,6 @@ Mitzi 常在线上和线下，对跨性别者遭遇无家可归、家庭暴力�
 
 Mitzi 对医学界有广泛兴趣，而对内分泌学与精神药理学尤为关注。她对英国的跨性别医疗系统作了直言不讳的批评，在其性别转变过程中也采取了自行用药的方式。
 
-如需联系 Mitzi，可发送邮件到 <mitzi@transfemscience.org>。
-
 ### Lain {#lain}
 
 Lain （代词：Ta）是一名非二元（女性倾向）跨性别者。Ta 在纽约[罗彻斯特理工学院][wiki-rit]获得应用数学学士学位，学习了生物信息学与计算生物学。Ta 后来退出了博士学位的攻读，随后迁至气候温暖的旧金山湾区，在科技岗位述职。
@@ -63,11 +61,10 @@ Sam 参与本站工作已有数年，期间撰写了数篇文章；不过，她�
 Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非二元跨性别者，也是计算机科学家。
 她对 [Aly]({{< ref "#aly" >}}) 所作[注射用雌二醇模拟器][simulator]的代码做了[修改与优化][simulator-adv]。
 
-如需联系 Luna，可发送邮件至 <luna@transfemscience.org>。
 
 ## 联系我们 {#contact}
 
-本站已停止接受一般的问询；但有关本站文章的除外，如文章作者在此尚留有邮箱地址，可与之联系。\
+本站已停止接受一切联络及问询。\
 有关激素治疗的问题请移步至[跨性别网络社区][misc-com]查询。
 
 ## 本站历史 {#history}
@@ -92,9 +89,9 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ## 关于此翻译项目 {#translation-project}
 
-本站系对“女性倾向跨性别者科学”（[Transfeminine Science](https://transfemscience.org)）网站之原创文章的中文翻译存档站点，2022 年十月创立。\
-本站基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 Project Trans 志愿者团体[自主维护](https://github.com/project-trans/transfeminine-science)。\
-更多详情可见本站的《[开放声明]({{< ref "announcement-mtfwiki" >}})》。
+本项目于 2022 年十月创立，旨在对“女性倾向跨性别者科学”（[Transfeminine Science](https://transfemscience.org)）网站之原创文章、以及诸 GAHT 常用药品说明书等补充内容进行翻译并存档，作为 <https://MtF.wiki> 主站药物板块的理论支持和拓展阅读材料，倡导科学、安全用药。\
+本项目基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 Project Trans 志愿者团体[自主维护](https://github.com/project-trans/transfeminine-science)。\
+更多详情可见本项目的《[开放声明]({{< ref "announcement-mtfwiki" >}})》。
 
 原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本站工作，并授权本站仅存档简体中文/繁体中文内容。
 
@@ -102,24 +99,28 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ### Bersella AI {#bersella-ai}
 
-跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇文章的翻译。\
-随后加入 Project Trans 团体，正式开始系统性整理工作。
+跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇文章的翻译；随后加入 Project Trans 团体，正式开始系统性整理工作。\
+Bersella 精通英语，对日语较为熟悉。截至 2023 年八月，已发表或修订总计逾 23 万字的译文。
 
-如需联系 Bersella AI，可发送邮件至 <tfsci@mtf.wiki>。
+如需联系 Bersella，可发送邮件至 <tfsci@mtf.wiki>。
 
 ### Aquaticat {#aquaticat}
 
 [GitHub 用户](https://github.com/Aquaticat)，已协助翻译了一篇此项目的文章。
 也参与了 [One Among Us](https://oneamong.us) 的翻译（中译英）。
 
+### Arts Suraimu {#arts-suraimu}
+
+旅德人士，Project Trans 志愿者，协助翻译德语材料。
+
 ### 其他来自 tfsci-sc 项目的译者 {#list-of-tfsci-sc-translators}
 
-本站成立之前，还有三名 *Transfeminine Science* 的热心读者曾在原 *Limelight* 社区与 <https://github.com/tfsci-sc/articles> 项目上发表译文。**在此感谢 ta 们早前的卓越贡献。** 没有 ta 们先行，就没有如今的这个存档站。
+本项目成立之前，还有三名 *Transfeminine Science* 的热心读者曾在原 *Limelight* 社区与 <https://github.com/tfsci-sc/articles> 项目上发表译文。**在此感谢 ta 们早前的卓越贡献。** 没有 ta 们先行，就没有如今的这个存档站。
 
 #### yucandy {#yucandy}
 
 GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 项目的创始人。曾翻译两篇文章，也参与了“[性别烦躁指南](https://genderdysphoria.fyi/zh)”（*This is Gender Dysphoria, FYI*）的翻译。\
-现已加入本站翻译组。
+曾加入本项目翻译组，现已离开。
 
 #### 昭心 {#昭心}
 
@@ -131,23 +132,23 @@ GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 
 
 ## 联系译者 {#contact-translators}
 
-如有任何对本站及诸译文的改进建议、勘误等，或希望投递其它未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
-此外，还可通过提交 [Pull Request](https://github.com/project-trans/transfeminine-science/pulls) 对译文、简繁术语对照表等进行改进。
+如有任何对本项目及诸译文的改进建议、勘误等，或希望投递新译文（包括但不限于 *Transfeminine Science* 未翻译文章），可发送邮件至专用邮箱 <tfsci@mtf.wiki>，或提交 [Issue](https://github.com/project-trans/transfeminine-science/issues)；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
+此外，还可通过 [Pull Request](https://github.com/project-trans/transfeminine-science/pulls) 提交新译文，或对译文、简繁术语对照表等进行改进。
 
-撰写新译文之前，宜参考《[翻译指南]({{< ref "newcomer-guidelines" >}})》，其中的要求和案例会有助于提升译文质量和可读性。
+撰写新译文之前，宜参考《[翻译指南]({{< ref "newcomer-guidelines" >}})》，其中的要求和案例会有助于提升译文质量和可读性。不过，该《指南》并非强制要求，在译文尚有一定可读性的情况下，我们也会给予力所能及的改进提示和帮助。
 
 ## 译者版权声明 {#license2}
 
-**本站译文适用于 *Transfeminine Science* 的[版权声明]({{< ref "#license" >}})。**\
-此外，本站设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
+**本项目译文适用于 *Transfeminine Science* 的[版权声明]({{< ref "#license" >}})。**\
+此外，本项目设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
 
-**注意：** 本站分类为“杂项”（Misc.）的文章与 *Transfeminine Science* 无关。Project Trans 团体迄今未翻译任何来自原站的“杂项”类内容，且尚无任何此类内容的引进计划。
+**注意：** 本项目分类为“杂项”（Misc.）的文章与 *Transfeminine Science* 无关。Project Trans 团体迄今未翻译任何来自原站的“杂项”类内容，且尚无任何此类内容的引进计划。
 
 ## 本存档站技术支持 {#supports}
 
 [septs](https://github.com/septs)
 
-Project Trans 团体成员，高级前端工程师。设计并开发 <https://MtF.wiki>、<https://2345.LGBT> 等站点。
+Project Trans 项目管理员（Owner），高级前端工程师。设计并开发 <https://MtF.wiki>、<https://2345.LGBT> 等站点。
 
 <!-- 页内跳转 -->
 
