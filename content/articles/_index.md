@@ -33,6 +33,7 @@ layout: single
 ### 孕激素 {#progestogens}
 
 - [口服孕酮及其引起的低孕酮水平与较弱效力的简论]({{< ref "oral-p4-low-levels" >}}) (Aly, 2018)
+- [关于孕激素在乳房发育过程中有何潜在作用及影响的随笔]({{< ref "progestogens-breast-dev" >}}) (Aly, 2020)
 
 ### 激素治疗引起的普遍效果与风险 {#general-effects-and-risks}
 

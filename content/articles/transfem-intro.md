@@ -3,8 +3,8 @@ title: 女性倾向跨性别者的激素治疗简介
 description: 本文旨在对与女性化激素治疗（FHT）有关的各方面进行全方面介绍及科普。
 author: Aly
 published: 2018-08-04
-updated: 2023-03-15
-translated: 2023-06-03
+updated: 2023-06-17
+translated: 2023-11-02
 translators:
   - yucandy
   - Bersella AI
@@ -19,15 +19,15 @@ tags:
   - 螺内酯
   - GnRH 类似物
   - 用药安全
-trackHash: 2beea1f4b4c5aab5015ab4a8020bea6fc544c28e
-keywords: [MtF, HRT, 用药指导]
+trackHash: 140e07d414b5b67c93e24a68e50eb9ad2a64c1a6
+keywords: [MtF, HRT, GAHT, 用药指导]
 ---
 
 ## 译者按 {#notice}
 
 1. **<u>⚠免责声明：本文不构成任何医疗、处方建议。如有医疗需要，应于专业医师指导下进行。</u>**
-1. **本文旨在对与女性化激素治疗（FHT）有关的各方面进行全方面介绍及科普**，形式上与诸权威机构发表的跨性别健康护理指南相似，因此全文篇幅很长（译文共计约 2.6 万个汉字），需耐心阅读。
-  关于激素替代疗法（HRT）的简略说明可见 <https://MtF.wiki> 主站。
+1. **本文旨在对与女性化激素治疗（FHT）有关的各方面进行全方面介绍及科普**，形式上与诸权威机构发表的跨性别健康护理指南相似，因此全文篇幅很长（译文共计约 2.6 万个汉字），需耐心阅读。  
+  关于性别肯定激素治疗（GAHT）的简略说明可见 <https://MtF.wiki> 主站。
 1. 因译者能力所限，部分术语之翻译或有纰漏，烦请指正。
 
 --------
@@ -213,8 +213,8 @@ keywords: [MtF, HRT, 用药指导]
 在性腺完整的女性倾向跨性别者当中，[生理性][wiki128]水平下的雌二醇，通常不足以将其睾酮水平抑制到女性范围。因此，雌二醇通常会合并一种抗雄制剂或孕激素，用于女性化激素治疗。这使得雌二醇部分抑制睾酮水平的同时，剩余睾酮会被抗雄制剂、孕激素抑制或阻塞。不过，抗雄制剂或孕激素的加入也会增加药物的副作用、风险与开销。\
 作为替代，女性倾向跨性别者可单独使用高剂量——即[超生理][wiki320]剂量——的雌二醇治疗；这样对睾酮的抑制作用会更强，并将睾酮水平抑制到女性范围。
 
-在没有雄激素的情况下，雌激素的女性化作用在低剂量下也可达到最大。目前已知除了睾酮抑制作用更强之外，较高剂量雌激素并不会更好地促进女性化<sup>([Deutsch, 2016][D16]; [Nolan & Cheung, 2021][NC21])</sup>。事实上，有迹象表明，如在治疗早期引入更高的雌激素剂量，则可能会导致乳房发育效果欠妥（本站未来将就此话题另行探讨）。因此，女性化激素治疗的临床目标更倾向于对睾酮的抑制，而非让雌二醇水平达到某个值。\
-更高剂量的雌激素（包括雌二醇）也有更大的不良健康影响的风险，如血栓和心血管问题 <sup>([Aly, 2020][AW20-EBC])</sup>；因此，最好使用生理剂量的雌二醇。不过与此同时，大剂量雌激素会有利于抑制睾酮；而且[非口服][wiki129]形式的雌二醇所带来的绝对风险很低——这对于有特定[风险因素][wiki130]的人群尤为重要。这些风险因素包括：年龄大、缺乏运动、肥胖、孕激素的合并使用、吸烟、手术和罕见的[血栓指标异常][wiki131]等。而对于没有相关风险因素的健康年轻人群，略微超生理剂量的非口服雌二醇应当足够安全<sup>([Aly, 2020][AW20-EBC])</sup>。
+在没有雄激素的情况下，雌激素的女性化作用在低剂量下也可达到最大。目前已知除了睾酮抑制作用更强之外，较高剂量雌激素并不会更好地促进女性化<sup>([Deutsch, 2016][D16]; [Nolan & Cheung, 2021][NC21])</sup>。事实上，有迹象表明，如在治疗早期引入更高的雌激素剂量，则可能会导致乳房发育效果欠妥。因此，女性化激素治疗的临床目标更倾向于对睾酮的抑制，而非让雌二醇水平达到某个值。\
+更高剂量的雌激素（包括雌二醇）也有更大的不良健康影响的风险，如血栓和心血管问题 <sup>([Aly, 2020][AW20-EBC])</sup>；因此，最好使用生理剂量的雌二醇。不过与此同时，大剂量雌激素会有利于抑制睾酮；而且[非口服][wiki129]形式的雌二醇所带来的绝对风险很低——这对于有特定[风险因素][wiki130]的人群尤为重要。这些风险因素包括：年龄大、缺乏运动、肥胖、孕激素的合并使用、吸烟、手术和罕见的[血栓指标异常][wiki131]等。而对于没有相关风险因素的健康年轻人群，为充分抑制睾酮而使用的、略微超生理剂量的非口服雌二醇应当足够安全<sup>([Aly, 2020][AW20-EBC])</sup>。
 
 在女性化激素治疗当中，雌二醇与雌二醇酯通常以口服、舌下含服、透皮、注射（肌注或皮下注射）的形式使用<sup>([维基][wiki110-roa])</sup>。
 
@@ -689,7 +689,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 
 
 + [阿巴瑞克][wiki270]与[地加瑞克][wiki271]——最早研发的几种 GnRH 拮抗剂，每月皮下或肌肉注射一次；
-+ [恶拉戈利][wiki177]与[瑞格列克][wiki269]——近年研发并引入医疗用途的 GnRH 拮抗剂，每日口服 1–2 次。
++ [恶拉戈利][wiki177]与[瑞卢戈利][wiki269]——近年研发并引入医疗用途的 GnRH 拮抗剂，每日口服 1–2 次。
 
 <section class="box">
 
@@ -723,7 +723,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 | [阿巴瑞克][wiki270] (Abarelix) | Plenaxis | 肌肉注射 | 悬浮液 | 113 mg/月 |
 | [地加瑞克][wiki271] (Degarelix) | Firmagon | 皮下注射 | 溶液 | 80 mg/月<sup>(1)</sup> |
 | [恶拉戈利][wiki177] (Elagolix) | Orilissa | 口服 | 片剂 | 150–200 mg 1–2x/天<sup>(2)</sup> |
-| [瑞格列克][wiki269] (Relugolix) | Relumina | 口服 | 片剂 | 20–120 mg/天<sup>(3)</sup> |
+| [瑞卢戈利][wiki269] (Relugolix) | Relumina | 口服 | 片剂 | 20–120 mg/天<sup>(3)</sup> |
 
 (1) 第一个月使用 240 mg，此后每月 80 mg。\
 (2) 每日一次 150 mg 并不及每日两次 200 mg 有效（后者在顺性别女性中可最大程度地抑制性激素从性腺的分泌）<sup>([维基][wiki177-pd])</sup>。\
@@ -793,7 +793,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Bessone, F., Lucena, M., Roma, M. G., Stephens, C., Medina-Cáliz, I., Frider, B., Tsariktsian, G., Hernández, N., Bruguera, M., Gualano, G., Fassio, E., Montero, J., Reggiardo, M. V., Ferretti, S., Colombato, L., Tanno, F., Ferrer, J., Zeno, L., Tanno, H., & Andrade, R. J. (2015). Cyproterone acetate induces a wide spectrum of acute liver damage including corticosteroid-responsive hepatitis: report of 22 cases. *Liver International*, *36*(2), 302–310. \[DOI:[10.1111/liv.12899][B16]]
 - Bowen, R., Benavides, R., Colón-Franco, J. M., Katzman, B. M., Muthukumar, A., Sadrzadeh, H., Straseski, J., Klause, U., & Tran, N. (2019). Best practices in mitigating the risk of biotin interference with laboratory testing. *Clinical Biochemistry*, *74*, 1–11. \[DOI:[10.1016/j.clinbiochem.2019.08.012][B19]]
 - Brown, J., Farquhar, C., Lee, O., Toomath, R., & Jepson, R. G. (2009). Spironolactone versus placebo or in combination with steroids for hirsutism and/or acne. *Cochrane Database of Systematic Reviews*, *2009*(2), CD000194. \[DOI:[10.1002/14651858.cd000194.pub2][B09]]
-- Burinkul, S., Panyakhamlerd, K., Suwan, A., Tuntiviriyapun, P., & Wainipitapong, S. (2021). Anti-Androgenic Effects Comparison Between Cyproterone Acetate and Spironolactone in Transgender Women: A Randomized Controlled Trial. *The Journal of Sexual Medicine*, *18*(7), 1299–1307. \[DOI:[10.1016/j.jsxm.2021.05.003][B21]]
+- Burinkul, S., Panyakhamlerd, K., Suwan, A., Tuntiviriyapun, P., & Wainipitapong, S. (2021). Anti-Androgenic Effects Comparison Between Cyproterone Acetate and Spironolactone in Transgender Women: A Randomized Controlled Trial. *The Journal of Sexual Medicine*, *18*(7), 1299–1307. \[DOI:[10.1016/j.jsxm.2021.05.003][B21]] \[[PDF][B21-PDF]]
 - Callen-Lorde Community Health Center. (2018). *Protocols for the Provision of Hormone Therapy*. New York City: Callen-Lorde Community Health Center. \[[URL][CL18-URL]] \[[PDF][CL18]]
 - Cappelletti, M., & Wallen, K. (2016). Increasing women’s sexual desire: The comparative effectiveness of estrogens and androgens. *Hormones and Behavior*, *78*, 178–193. \[DOI:[10.1016/j.yhbeh.2015.11.003][CW16]]
 - Carmina, E., Stanczyk, F. Z., & Lobo, R. A. (2019). Evaluation of Hormonal Status. In Strauss, J. F., & Barbieri, R. L. (Eds.). *Yen and Jaffe’s Reproductive Endocrinology: Physiology, Pathophysiology, and Clinical Management, 8th Edition* (pp. 887–915.e4). Philadelphia: Elsevier. \[DOI:[10.1016/b978-0-323-47912-7.00034-2][CSL19]]
@@ -961,7 +961,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 
 --------
 
-## 译文修订历史 {#revise-history}
+## 译文修订历史 {#revision-history}
 
 ```csv
 时间,备注
@@ -971,6 +971,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 2022 年 11 月 28 日,移除已删除的站内原文链接。
 2023 年 3 月 18 日,**第二次修订**：\n跟进原文的新增内容，包括新的“表四”和螺内酯、比卡鲁胺的副作用部分等；\n补足链接，移除已撤下的原文链接；\n更正 retroprogesterone（逆孕酮）的称谓；\n修复格式。
 2023 年 6 月 3 日,**第三次修订**：\n增补“**参考文献**”；更正“sign”“progestin”译文；移除已下线的原文链接。
+2023 年 11 月 2 日,**第四次修订**：\n跟进原文已修订内容；\n依国家卫健委[公开文件](http://www.nhc.gov.cn/yaozs/pqt/202310/07b0a7916455410dbfcbc296ea33a7ae.shtml)，修订 Relugolix 译名。
 ```
 
 <!-- 内置图片 -->
@@ -1677,7 +1678,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 
 [BC09-URN]: https://nbn-resolving.org/urn:nbn:de:bvb:19-99840
 [BC09-PDF]: https://edoc.ub.uni-muenchen.de/9984/2/Bazarra-Castro_Maria_Angeles.pdf
-
+[B21-PDF]: https://files.transfemscience.org/pdfs/Burinkul%20et%20al.%20%282021%29%20-%20Anti-Androgenic%20Effects%20Comparison%20Between%20Cyproterone%20Acetate%20and%20Spironolactone%20in%20Transgender%20Women_%20A%20Randomized%20Controlled%20Trial.pdf
 [CL18-URL]: https://callen-lorde.org/transhealth/
 [C93-GB]: https://books.google.com/books?id=WshsAAAAMAAJ
 [C93-OL]: https://openlibrary.org/works/OL19002388W/Textbook_of_reproductive_medicine

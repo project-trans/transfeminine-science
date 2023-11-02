@@ -4,7 +4,7 @@ description: 本文汇总了文献上 GnRH 类似物作为青春期阻断剂用�
 author: Mitzi
 published: 2022-01-30
 updated: 2022-01-31
-translated: 2023-04-15
+translated: 2023-11-02
 translators:
   - Bersella AI
 tags:
@@ -46,7 +46,7 @@ GnRH 激动剂与 [GnRH 受体][wiki11]结合并激活之，使其持续处于�
 
 GnRH 激动剂可作为注射剂开出，每 1–6 个月注射一次；作为小球每年植入一次；或者作为鼻腔喷雾剂，每日 2–3 次。其也有每日一次的短效注射剂，但临床实践中不用于青春期阻断。其常见种类有：[亮丙瑞林][wiki12] (Lupron; Eligard)、[曲普瑞林][wiki13] (Decapeptyl)、[戈舍瑞林][wiki14] (Zoladex)、[组胺瑞林][wiki15] (Supprelin LA)、[那法瑞林][wiki16] (Synarel) 和[布舍瑞林][wiki17] (Suprefact) 等。
 
-而 [GnRH 拮抗剂][wiki18]会像激动剂一样结合于 GnRH 受体，但不同的是，其不会激发之；实际上，其会与体内 GnRH 发生竞争，使后者失效。于是，其可在不引起激素水平升高的情况下产生同等效果。还有一点不同：GnRH 拮抗剂有口服剂型，其中部分可每日一服。其常见种类有：[恶拉戈利][wiki19] (Orilissa)、[地加瑞克][wiki20] (Firmagon)、[西曲瑞克][wiki21] (Cetrotide)、[加尼瑞克][wiki22] (Orgalutran; Antagon) 和[瑞格列克][wiki23] (Orgovyx; Relumina) 等。\
+而 [GnRH 拮抗剂][wiki18]会像激动剂一样结合于 GnRH 受体，但不同的是，其不会激发之；实际上，其会与体内 GnRH 发生竞争，使后者失效。于是，其可在不引起激素水平升高的情况下产生同等效果。还有一点不同：GnRH 拮抗剂有口服剂型，其中部分可每日一服。其常见种类有：[恶拉戈利][wiki19] (Orilissa)、[地加瑞克][wiki20] (Firmagon)、[西曲瑞克][wiki21] (Cetrotide)、[加尼瑞克][wiki22] (Orgalutran; Antagon) 和[瑞卢戈利][wiki23] (Orgovyx; Relumina) 等。\
 可惜的是，GnRH 拮抗剂推出很晚，故目前尚未被作为青春期阻断剂普及开来。
 
 用于有性别焦虑的青年人时，GnRH 激动剂会在其青春期开始后引入。GnRH 激动剂不用于未开始青春期的儿童；但是，其可在青春期当中任意时刻引入，以中断身体进一步的改变<sup>([Hembree et al., 2017][H17])</sup>。
@@ -409,6 +409,7 @@ CGAS 等标准化测试表明，该群体的心理功能随时间改善，抑郁
 ```csv
 日期,详情
 2023 年 4 月 15 日,初次翻译。
+2023 年 11 月 2 日,依国家卫健委[公开文件](http://www.nhc.gov.cn/yaozs/pqt/202310/07b0a7916455410dbfcbc296ea33a7ae.shtml)，修订 Relugolix 译名。
 ```
 
 [fig1]: https://transfemscience.org/assets/images/puberty-blockers/costa2015.png
