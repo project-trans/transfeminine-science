@@ -18,7 +18,7 @@
 
 ## 联系方式
 
-如有任何对本站及诸译文的改进建议、勘误等，或希望投递未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@mtf.wiki>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
+如有任何对本站及诸译文的改进建议、勘误等，或希望投递未翻译文章的译文，可发送邮件至专用邮箱 <tfsci@project-trans.org>；不过，涉及到原文观点的应向 *Transfeminine Science* 的撰稿人直接反馈。\
 此外，还可通过提交 Pull Request 对译文、[简繁术语对照表](scripts/CustomTW.txt)等进行改进。
 
 撰写新译文之前，宜参考《[翻译指南][guideline]》，其中的要求和案例会有助于提升译文质量和可读性。不过，该《指南》并非强制要求，在译文尚有一定可读性的情况下，我们也会给予力所能及的改进提示和帮助。
@@ -53,7 +53,7 @@ The archive site is built with [Hugo][hugo], and deployed onto [Cloudflare Pages
 
 ## Contact Us
 
-Please feel free to contact us via e-mail at <tfsci@mtf.wiki> for any advice, errata, or new translation requests for other articles. However, for any discussion on ideas from the articles, please contact their corresponding authors instead. We welcome pull requests as well.
+Please feel free to contact us via e-mail at <tfsci@project-trans.org> for any advice, errata, or new translation requests for other articles. However, for any discussion on ideas from the articles, please contact their corresponding authors instead. We welcome pull requests as well.
 
 Before making new translations, please refer to the [Guidelines][guideline] for instructions and examples that would help you enhance the quality and readability of translations. However, these guidelines are not compulsory, and we would make suggestions as detailed as we could on your translations (unless those written too poorly to be qualified).
 
