@@ -23,9 +23,9 @@ jobs:
       - uses: addnab/docker-run-action@v3
         with:
           image: peterdavehello/opencc:latest
-          options: -v ${{ github.workspace }}:/repo -w /repo
           run: |
-            /repo/scripts/opencc.sh
+            echo "Running OpenCC"
+            /github/workspace/scripts/opencc.sh
       - run: npm ci
       - run: hugo --minify
         env:
