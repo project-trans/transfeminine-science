@@ -20,14 +20,14 @@ jobs:
         with:
           hugo-version: latest
           extended: true
-      - uses: addnab/docker-run-action@v3
-        with:
-          image: peterdavehello/opencc:latest
-          run: |
-            echo "Running OpenCC"
-            /github/workspace/scripts/opencc.sh
+      - run: sudo apt install opencc
+        name: Prepare OpenCC
+      - run: ./scripts/opencc.sh
+        name: Execute OpenCC
       - run: npm ci
+        name: Prepare Node.js packages
       - run: hugo --minify
+        name: Generate webpages for production
         env:
           HUGO_DISABLELANGUAGES: 'en'
       - run: npx wrangler pages deploy public --project-name tfsci --branch main
@@ -35,3 +35,4 @@ jobs:
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        name: Upload to CloudFlare
