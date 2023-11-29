@@ -20,9 +20,13 @@ jobs:
         with:
           hugo-version: latest
           extended: true
-      - run: sudo apt-get install opencc
+      - uses: kohlerdominik/docker-run-action@v1
+        with:
+          image: peterdavehello/opencc:latest
+          volumes: ${{ github.workspace }}:/repo
+          workdir: /repo
+          run: ./scripts/opencc.sh
       - run: npm ci
-      - run: ./scripts/opencc.sh
       - run: hugo --minify
         env:
           HUGO_DISABLELANGUAGES: 'en'
