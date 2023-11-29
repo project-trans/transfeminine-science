@@ -11,10 +11,8 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
-    container:
-      image: peterdavehello/opencc:latest
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -22,8 +20,8 @@ jobs:
         with:
           hugo-version: latest
           extended: true
-      - run: opencc --version
-        name: Check OpenCC
+      - run: sudo apt install -y opencc
+        name: Prepare OpenCC
       - run: ./scripts/opencc.sh
         name: Execute OpenCC
       - run: npm ci
