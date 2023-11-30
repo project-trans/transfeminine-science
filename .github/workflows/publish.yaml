@@ -26,6 +26,7 @@ jobs:
             nodejs
             npm
             opencc
+            git
       - name: Execute OpenCC in Alpine
         run: bash ./scripts/opencc.sh
         shell: alpine.sh {0}
