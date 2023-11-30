@@ -15,24 +15,32 @@ jobs:
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-      - uses: peaceiris/actions-hugo@v2
+      - name: Prepare Alpine Linux with tools (latest)
+        uses: jirutka/setup-alpine@v1
         with:
-          hugo-version: latest
-          extended: true
-      - run: sudo apt install -y opencc
-        name: Prepare OpenCC
-      - run: ./scripts/opencc.sh
-        name: Execute OpenCC
-      - run: npm ci
-        name: Prepare Node.js packages
-      - run: hugo --minify
-        name: Generate webpages for production
+          extra-repositories: |
+            https://dl-cdn.alpinelinux.org/alpine/edge/community
+          packages: >
+            bash
+            hugo
+            nodejs
+            npm
+            opencc
+      - name: Execute OpenCC in Alpine
+        run: bash ./scripts/opencc.sh
+        shell: alpine.sh {0}
+      - name: Prepare Node.js packages in Alpine
+        run: npm ci
+        shell: alpine.sh {0}
+      - name: Build the site in Alpine
+        run: hugo --minify
         env:
           HUGO_DISABLELANGUAGES: 'en'
-      - run: npx wrangler pages deploy public --project-name tfsci --branch main
+        shell: alpine.sh {0}
+      - name: Upload to CloudFlare
+        run: npx wrangler pages deploy public --project-name tfsci --branch main
         if: github.ref == 'refs/heads/main'
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-        name: Upload to CloudFlare
+        shell: bash
