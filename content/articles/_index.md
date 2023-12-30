@@ -41,5 +41,6 @@ layout: single
 
 ### 数据、分析与相关文献
 
+- [可提供女性化激素治疗相关信息的临床指南一览]({{< ref "transfem-hormone-guidelines" >}}) (Aly, 2020)
 - [雌二醇在不同途径下的大致等效剂量]({{< ref "e2-equivalent-doses" >}}) (Aly, 2020)
 - [顺性别女性发育期的激素水平]({{< ref "hormone-levels-female-puberty" >}}) (Aly, 2020)

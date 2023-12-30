@@ -148,33 +148,33 @@ CPA:
 
 WPATH:
   origin: the World Professional Association for Transgender Health
-  title: 世界跨性别人士健康专业协会
-  href: https://en.wikipedia.org/wiki/World_Professional_Association_for_Transgender_Health
+  title: 世界跨性别健康专业协会
+  href: https://wpath.org/
 SOC8:
-  origin: Standards of Care for the Health of Transgender and Gender Diverse People Version 8
-  title: 跨性别及性别多元化人群健康护理标准（第八版）
+  origin: Standards of Care for the Health of Transgender and Gender Diverse People
+  title: 跨性别和多元性别人群健康照护指南
   href: https://en.wikipedia.org/wiki/Standards_of_Care_for_the_Health_of_Transgender_and_Gender_Diverse_People
 EPATH:
   origin: European Professional Association for Transgender Health
-  title: 欧洲跨性别人士健康专业协会
+  title: 欧洲跨性别健康专业协会
   href: https://epath.eu/
 USPATH:
   origin: The United States Professional Association for Transgender Health
-  title: 美国跨性别人士健康专业协会
+  title: 美国跨性别健康专业协会
   href: https://wpath.org/uspath
 AsiaPATH:
   origin: Asian Professional Association for Transgender Health
-  title: 亚洲跨性别人士健康专业协会
+  title: 亚洲跨性别健康专业协会
   href: https://www.asiapath.org/
 CPATH:
   origin: Canadian Professional Association for Transgender Health
-  title: 加拿大跨性别人士健康专业协会
+  title: 加拿大跨性别健康专业协会
   href: https://cpath.ca/en/
 AusPATH:
   origin: Australian Professional Association for Transgender Health
-  title: 澳大利亚跨性别人士健康专业协会
+  title: 澳大利亚跨性别健康专业协会
   href: https://auspath.org.au/
 PATHA:
   origin: The Professional Association for Transgender Health Aotearoa
-  title: 新西兰跨性别人士健康专业协会
+  title: 新西兰跨性别健康专业协会
   href: https://patha.wildapricot.org/

@@ -16,10 +16,11 @@ enableGitInfo: true
 enableRobotsTXT: true
 googleAnalytics: G-TKT26VDTW3
 
-author:
-  name: Project Trans
-  url: https://project-trans.org
-  email: tfsci@mtf.wiki
+params:
+  author:
+    name: Project Trans
+    url: https://project-trans.org
+    email: tfsci@mtf.wiki
 
 # params:
 #   ContentSecurityPolicy:
