@@ -47,6 +47,7 @@ layout: single
 - [雌二醇片（诺坤复）说明书]({{< ref "estrofem" >}})
 - [雌二醇凝胶（美国 Estrogel）说明书]({{< ref "estrogel-us" >}})
 - [雌二醇外用贴片（Estraderm）说明书]({{< ref "estraderm" >}})
+- [雌二醇透皮贴片（日本久光 Estrana Tapes）说明书]({{< ref "estrana-tapes" >}})
 - [戊酸雌二醇注射剂（Estraproval Depot）说明书]({{< ref "estraproval-depot" >}})
 - [戊酸雌二醇注射剂（Progynon Depot/富士日雌）说明书]({{< ref "progynon-depot" >}})
 
