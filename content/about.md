@@ -99,10 +99,11 @@ Luna（大青鲨型）（代词：她/Ta）来自英国，是一名女性和非�
 
 ### Bersella AI {#bersella-ai}
 
-跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇文章的翻译；随后加入 Project Trans 团体，正式开始系统性整理工作。\
-Bersella 精通英语，对日语较为熟悉。截至 2023 年八月，已发表或修订总计逾 23 万字的译文。
+跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，她密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇 *Transfeminine Science* 文章的翻译稿；随后加入 Project Trans 团体，正式开始诸译文的系统性整理工作。目前她是 MtF.wiki 药物板块的常驻编者。
 
-如需联系 Bersella，可发送邮件至 <tfsci@mtf.wiki>。
+Bersella 精通英语，对日语较为熟悉；截至 2023 年八月，已发表或修订总计逾 23 万字的译文。
+
+如需联系 Bersella，可发送邮件至 <bersella@project-trans.org>。
 
 ### Aquaticat {#aquaticat}
 
@@ -142,13 +143,11 @@ GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 
 **本项目译文适用于 *Transfeminine Science* 的[版权声明]({{< ref "#license" >}})。**\
 此外，本项目设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
 
-**注意：** 本项目分类为“杂项”（Misc.）的文章与 *Transfeminine Science* 无关。Project Trans 团体迄今未翻译任何来自原站的“杂项”类内容，且尚无任何此类内容的引进计划。
+**注意：** 本项目分类为“杂项”（Misc.）的文章或译文均与 *Transfeminine Science* 无关。Project Trans 团体迄今未翻译任何来自原站的“杂项”类内容，且尚无任何此类内容的引进计划。
 
 ## 本存档站技术支持 {#supports}
 
-[septs](https://github.com/septs)
-
-Project Trans 项目管理员（Owner），高级前端工程师。设计并开发 <https://MtF.wiki>、<https://2345.LGBT> 等站点。
+存档站原由 septs 设计并开发。由于人手不足，目前由 Bersella AI 暂行兼顾技术支持；如有界面、部署、简繁自动转换等问题，可以提交 [Issue](https://github.com/project-trans/transfeminine-science/issues)，但因技术和经验所限，Bersella 不能保证及时、流畅处置工单，敬请谅解。
 
 <!-- 页内跳转 -->
 

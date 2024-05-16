@@ -10,7 +10,7 @@ weight: 1
 
 本站旨在将来自 *[Transfeminine Science](https://transfemscience.org) （女性倾向跨性别者科学）* 的优秀且高质量的原创文章翻译为中文，为中文读者**普及科学用药知识、传达国际先进医疗经验**。我们筹备本站也出于多项动机：
 
-1. **确保译文的可访问性，促进译文传播。** 原 Limelight 社区曾在 2022 年中叶暂停开放数周，导致译文传播受阻。这个问题本不应发生，毕竟处于 Wiki 栏目的帖子和主要讨论区并无瓜葛。
+1. **确保译文的可访问性，促进译文传播。** 原 Limelight 社区曾在 2022 年中叶暂停开放数周，导致译文传播受阻。这个问题本不应发生，毕竟处于“知识库”栏目的帖子和主要讨论区并无瓜葛。
 1. **原生 Markdown 语言以及 [Discourse] 编辑器的样式与功能有限。** 这点和[原站点所述]({{< ref "announcement" >}})如出一辙；我们也需要一个高度可定制、且易于阅读及引用的展示平台。
 1. **将整个翻译项目规范化。** 在原 Limelight 社区发布的内容不仅很零散，而且在本人开始投入翻译项目之前，译文普遍具有不够通顺、部分叙述有误的问题。
   例如，对于《[简介]({{< ref "transfem-intro" >}})》当中的“孕酮酯”，[@yucandy][] 译文为“与雌二醇不同，注射用孕酮酯在化学上是不可能拥有比孕酮本身更长的持续时间的”，更遑论与孕酮的比较——这个也是翻译过《[口服孕酮]({{< ref "oral-p4-low-levels" >}})》才知道有这么一回事，也就知道《简介》所谈何故。
@@ -26,12 +26,10 @@ weight: 1
 
 特别感谢 [@yucandy][]、`@昭心` 与 [@Sue-e89893][] 三位先行者！没有 ta 们的引领就没有今天的这个站点！
 
-—— Project Trans 志愿团体 TFSci 项目成员：\
-[Bersella AI]({{< ref "about#bersella-ai" >}})\
-[septs]({{< ref "about#supports" >}})\
+—— Project Trans 志愿团体\
 二〇二二年十二月二日
 
-*修订于二〇二三年六月廿九日*
+*修订于二〇二四年五月十六日*
 
 [origin]: https://github.com/tfsci-sc/articles
 [wiki-pr]: https://en.wikipedia.org/wiki/Peer_review
