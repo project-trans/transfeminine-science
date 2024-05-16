@@ -58,6 +58,7 @@ layout: single
 + [醋酸环丙孕酮（南非 Androcur）说明书]({{< ref "androcur-za" >}})  
   注：规格 10 mg
 + [醋酸环丙孕酮（新西兰 Siterone）说明书]({{< ref "siterone-nz" >}})
++ [醋酸甲羟孕酮（Provera）说明书]({{< ref "provera" >}})
 + [比卡鲁胺（Casodex）说明书]({{< ref "casodex" >}})
 + [帕莫酸曲普瑞林（美国 Trelstar）处方说明书]({{< ref "trelstar" >}})
 
