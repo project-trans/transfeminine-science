@@ -15,6 +15,7 @@ trackHash: 7c0fcdfb01927eca734fd2e08cb627d54cb23f7a
 keywords: [雌激素, 孕激素, 副作用, 血栓, 凝血]
 aliases:
   - estrogens-coagulation-blood-clots
+  - /articles/estrogens-blood-clots
 ---
 
 ## 译者按 {#notice}

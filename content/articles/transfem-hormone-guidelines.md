@@ -12,6 +12,7 @@ tags:
   - 女性化激素治疗
 trackHash: 140e07d414b5b67c93e24a68e50eb9ad2a64c1a6
 keywords: [HRT, GAHT, 用药指导, 临床指南]
+aliases: /articles/transfem-hormone-guidelines
 ---
 
 ## 摘要 {#abstract}

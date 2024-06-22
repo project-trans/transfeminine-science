@@ -12,6 +12,7 @@ tags:
   - 用药途径与剂量
 trackHash: a1ecdfa409b2f259a36571f1867efd3d05925d6d
 keywords: [雌二醇片, 戊酸雌二醇片, 雌二醇凝胶, 雌二醇贴片, 日雌, 用量, 用药指导, hrt, mtf]
+aliases: /articles/e2-equivalent-doses
 ---
 
 ## 译者按 {#notice}

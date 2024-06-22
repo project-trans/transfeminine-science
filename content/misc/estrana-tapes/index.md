@@ -3,6 +3,7 @@ title: 雌二醇透皮贴片（日本久光 Estrana Tapes）说明书
 weight: 1000
 description: 本文为日本久光制药株式会社的雌二醇透皮吸收贴片制剂（Estrana Tapes）说明书翻译。
 keywords: [戊酸雌二醇, 注射剂, 日雌, Progynon Depot]
+aliases: /misc/estrana-tapes
 ---
 
 <section class="box">

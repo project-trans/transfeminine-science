@@ -3,6 +3,7 @@ title: 比卡鲁胺（Casodex）说明书
 weight: 1000
 description: 本文为美国阿斯利康公司的 Casodex 药品（50 mg）说明书翻译。
 keywords: [比卡鲁胺, Casodex]
+aliases: /misc/casodex
 ---
 
 <section class="box">

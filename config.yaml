@@ -6,21 +6,19 @@ copyright: >-
   [Transfeminine Science](https://transfemscience.org) and
   [Project Trans](https://project-trans.org)
 
-languageCode: zh-cn
 hasCJKLanguage: true
 defaultContentLanguage: zh-cn
 defaultContentLanguageInSubdir: true
 disableKinds: [taxonomy, term]
-disableLanguages: ["zh-hk", "zh-tw"]
+disableLanguages: ['zh-hk', 'zh-tw']
 enableGitInfo: true
 enableRobotsTXT: true
-googleAnalytics: G-TKT26VDTW3
 
 params:
   author:
     name: Project Trans
     url: https://project-trans.org
-    email: tfsci@mtf.wiki
+    email: tfsci@project-trans.org
 
 # params:
 #   ContentSecurityPolicy:
@@ -53,18 +51,25 @@ languages:
     title: 女性倾向跨性别者科学
     contentDir: content
     languageName: 大陆简体
+    languageCode: zh-CN
     weight: 1
   zh-tw:
     title: 女性傾向跨性別者科學
     contentDir: content.zh-tw
     languageName: 臺灣正體
+    languageCode: zh-TW
     weight: 2
   zh-hk:
     title: 女性傾向跨性別者科學
     contentDir: content.zh-hk
     languageName: 香港繁體
+    languageCode: zh-HK
     weight: 3
 
 security:
   funcs:
     getenv: ['^HUGO_', CI]
+
+services:
+  GoogleAnalytics:
+    ID: G-TKT26VDTW3

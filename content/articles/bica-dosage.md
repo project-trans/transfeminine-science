@@ -16,6 +16,7 @@ trackHash: 4d216758025cbd15e98fa4433399df4ac902d492
 keywords: [比卡鲁胺, 抗雄, 青春期阻断, 用法用量]
 notice: 原文 [最初以 Reddit 帖子的形式发布]({{< ref "announcement" >}})，在迁移至本站之后，其尚未得到适当或全面的修订。<br>另请注意，本文为较早前所作，可能已过时。
 hidden: true
+aliases: /articles/bica-dosage
 ---
 
 ## 译者按 {#notice}

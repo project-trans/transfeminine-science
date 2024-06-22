@@ -13,6 +13,7 @@ tags:
   - 用药途径与剂量
 trackHash: 3c4d492c3e8603f615912ed9a1779664352f97d2
 keywords: [雌二醇注射剂, 富士日雌, Depo-Estradiol, 用法用量]
+aliases: /articles/injectable-e2-meta-analysis
 ---
 
 ## 译者按 {#notice}

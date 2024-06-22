@@ -2,6 +2,7 @@
 title: Transfeminine Science LICENSE
 description: Transfeminine Science is Copyright of Aly and the other authors of Transfeminine Science.
 hidden: true
+aliases: /misc/LICENSE
 ---
 
 Transfeminine Science is [copyright](https://en.wikipedia.org/wiki/Copyright) of [Aly][aly].

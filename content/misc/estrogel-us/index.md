@@ -3,6 +3,7 @@ title: 雌二醇凝胶（美国 Estrogel）说明书
 weight: 1000
 description: 本文为法杏制药（Besins Healthcare）旗下子公司美国 Ascend Therapeutics 公司的雌二醇凝胶（EstroGel）说明书，已被美国 FDA 批准。
 keywords: [雌二醇, 凝胶, Estrogel, Gynokadin]
+aliases: /misc/estrogel-us
 ---
 
 <section class="box">

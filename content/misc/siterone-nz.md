@@ -3,6 +3,7 @@ title: 醋酸环丙孕酮（新西兰 Siterone）说明书
 weight: 1000
 description: 本文为新西兰 REX 公司的 Siterone 药品（50 mg、100 mg）说明书翻译。
 keywords: [醋酸环丙孕酮, 色谱龙, 色普龙, Siterone]
+aliases: /misc/siterone-nz
 ---
 
 <section class="box">

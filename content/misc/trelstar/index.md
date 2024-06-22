@@ -3,6 +3,7 @@ title: 帕莫酸曲普瑞林（美国 Trelstar）处方说明书
 weight: 1000
 description: 本文为美国 Verity 制药公司的帕莫酸曲普瑞林悬浮液注射剂（美国 Trelstar）处方说明书的中文翻译。
 keywords: [曲普瑞林, Trelstar, GnRH 类似物, GnRH 激动剂]
+aliases: /misc/trelstar
 ---
 
 <section class="box">

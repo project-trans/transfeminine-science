@@ -21,6 +21,6 @@
 {{- with resources.Get "main.ts" | js.Build | minify | fingerprint }}
 <script src="{{ .Permalink }}"></script>
 {{- end }}
-{{- if not .Site.IsServer }}
+{{- if not hugo.IsServer }}
 {{- partial "head/google-analytics" . }}
 {{- end }}

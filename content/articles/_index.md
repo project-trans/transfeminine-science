@@ -4,6 +4,7 @@ linkTitle: 文章
 description: 本页面整理了已翻译文章的分类
 weight: 1
 layout: single
+aliases: /articles
 ---
 
 ## 综合性文章 {#general-articles}

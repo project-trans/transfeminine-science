@@ -14,6 +14,7 @@ tags:
   - 孕激素
 trackHash: 802de46c25d83106f6b875fc02d91ff2d69202bf
 keywords: [激素治疗, 雌激素, 乳腺癌, 安全性]
+aliases: /articles/breast-cancer
 ---
 
 ## 译者按 {#notice}

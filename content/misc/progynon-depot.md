@@ -3,6 +3,7 @@ title: 戊酸雌二醇注射剂（Progynon Depot/富士日雌）说明书
 weight: 1000
 description: 本文为日本富士制药工业株式会社的戊酸雌二醇注射剂（Progynon Depot，10 mg）说明书翻译。
 keywords: [戊酸雌二醇, 注射剂, 日雌, Progynon Depot]
+aliases: /misc/progynon-depot
 ---
 
 <section class="box">

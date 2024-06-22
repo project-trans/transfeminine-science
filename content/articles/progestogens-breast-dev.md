@@ -17,6 +17,7 @@ tags:
 notice: 原文 [最初以 Reddit 帖子的形式发布]({{< ref "announcement" >}})，在迁移至本站之后，其尚未得到适当或全面的修订。译文共约 8000 个汉字。
 trackHash: 140e07d414b5b67c93e24a68e50eb9ad2a64c1a6
 keywords: [孕激素, 醋酸环丙孕酮, 醋酸甲羟孕酮, 黄体酮, 乳房发育]
+aliases: /articles/progestogens-breast-dev
 ---
 
 ## 现有关于女性倾向跨性别者采用孕激素治疗后的乳房发育情况的研究汇总 {#studies-of-progestogen-therapy-and-breast-development-in-transfeminine-people}

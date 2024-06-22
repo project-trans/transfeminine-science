@@ -17,6 +17,7 @@ tags:
 notice: 原文 [最初以 Reddit 帖子的形式发布]({{< ref "announcement" >}})，在迁移至本站之后，其尚未得到适当或全面的修订。
 trackHash: b0a00949619dee91a3a87bb796f5f6fa962c7158
 keywords: [HRT, 非二元, 激素治疗, non-binary, SERM, MtX]
+aliases: /articles/nonbinary-transfem-overview
 ---
 
 ## 译者按 {#notice}

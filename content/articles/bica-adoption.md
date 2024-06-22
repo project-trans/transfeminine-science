@@ -14,6 +14,7 @@ tags:
   - 用药安全
 trackHash: 802de46c25d83106f6b875fc02d91ff2d69202bf
 keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
+aliases: /articles/bica-adoption
 ---
 
 ## 译者按 {#notice}

@@ -13,6 +13,7 @@ tags:
   - 青春期阻断
 trackHash: b93d40b3a3b8de1372451fb90439ff1e7173102f
 keywords: [GnRH 类似物, 抗雄激素制剂, 青春期阻断]
+aliases: /articles/puberty-blockers
 ---
 
 ## 译者按 {#notice}

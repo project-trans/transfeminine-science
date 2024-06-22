@@ -3,6 +3,7 @@ title: 克龄蒙说明书
 description: 本页面为“克龄蒙”（戊酸雌二醇/雌二醇环丙孕酮片复合包装）的说明书。
 keywords: [Climen, 克龄蒙, 雌二醇环丙孕酮片]
 weight: 1000
+aliases: /misc/climen
 ---
 
 <section class="box">

@@ -3,6 +3,7 @@ title: 爱斯妥（雌二醇凝胶）说明书
 description: 本页面为“爱斯妥”（雌二醇凝胶）的说明书
 keywords: [爱斯妥, 雌二醇凝胶, oestrogel, 用法]
 weight: 1000
+aliases: /misc/oestrogel
 ---
 
 <section class="box">

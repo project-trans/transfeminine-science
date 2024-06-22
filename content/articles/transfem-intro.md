@@ -21,6 +21,7 @@ tags:
   - 用药安全
 trackHash: 140e07d414b5b67c93e24a68e50eb9ad2a64c1a6
 keywords: [MtF, HRT, GAHT, 用药指导]
+aliases: /articles/transfem-intro
 ---
 
 ## 译者按 {#notice}

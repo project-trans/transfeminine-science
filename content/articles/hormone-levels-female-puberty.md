@@ -9,6 +9,7 @@ translators: [Aquaticat, Bersella AI]
 tags: [雌激素, 孕激素, 孕酮]
 trackHash: 3ac09e2d47f5b3ae425b142525f5bbae87275dc9
 keywords: [青春期, 发育期, 雌激素, 孕激素, 孕酮, 激素水平]
+aliases: /articles/hormone-levels-female-puberty
 ---
 
 ## 译者按 {#notice}

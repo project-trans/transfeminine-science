@@ -3,6 +3,7 @@ title: 螺内酯（Aldactone）处方说明书
 weight: 1000
 description: 本文为美国辉瑞公司的螺内酯（Aldactone）处方说明书的中文翻译。
 keywords: [螺内酯, Aldactone]
+aliases: /misc/aldactone
 ---
 
 <section class="box">

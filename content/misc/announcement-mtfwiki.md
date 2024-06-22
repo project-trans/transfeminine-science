@@ -2,6 +2,7 @@
 title: MtF.wiki 附属项目：Transfeminine Science 中文译本存档站开放声明
 linkTitle: Transfeminine Science 中文译本存档站开放声明
 weight: 1
+aliases: /misc/announcement-mtfwiki
 ---
 
 起初，这只是 GitHub 上[一个不起眼的项目][origin]；起初，这里只有四位在原 Limelight 社区<sup>(基于 [Discourse] 开发)</sup>和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——

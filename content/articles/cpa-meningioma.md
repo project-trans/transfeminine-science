@@ -16,6 +16,7 @@ tags:
   - 抗雄激素制剂
   - 孕激素
 keywords: [醋酸环丙孕酮, 色谱龙, 抗雄激素, 脑膜瘤, 副作用, 用法用量]
+articles: /articles/cpa-meningioma
 ---
 
 ## 译者按 {#notice}

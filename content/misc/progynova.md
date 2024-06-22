@@ -3,6 +3,7 @@ title: 戊酸雌二醇片（补佳乐）说明书
 description: 本页为在中国大陆销售的戊酸雌二醇片（补佳乐）的原厂中文说明书。
 keywords: [Progynova, 补佳乐, 泰补, 戊酸雌二醇]
 weight: 1000
+aliases: /misc/progynova
 ---
 
 <section class="box">

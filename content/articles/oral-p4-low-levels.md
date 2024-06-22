@@ -13,6 +13,7 @@ tags:
   - 用药途径与剂量
 trackHash: de0d53fef4248f1c371ac32f35a7c09ef5b911dc
 keywords: [孕激素, 孕酮, 黄体酮, 空孕, 副作用, 用法, 用量]
+aliases: /articles/oral-p4-low-levels
 ---
 
 ## 摘要 {#abstract}

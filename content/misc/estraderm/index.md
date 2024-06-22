@@ -3,6 +3,7 @@ title: 雌二醇外用贴片（Estraderm）说明书
 weight: 1000
 description: 本文为美国诺华制药公司的雌二醇外用贴片（Estraderm）说明书的中文翻译，略有改动。
 keywords: [雌二醇, 贴片, Estraderm]
+aliases: /misc/estraderm
 ---
 
 <section class="box">

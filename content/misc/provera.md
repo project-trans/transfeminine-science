@@ -3,6 +3,7 @@ title: 醋酸甲羟孕酮（Provera）说明书
 weight: 1000
 description: 本文为美国辉瑞公司的醋酸甲羟孕酮（Provera）说明书翻译。
 keywords: [醋酸甲羟孕酮, MPA, Provera]
+aliases: /misc/provera
 ---
 
 <section class="box">

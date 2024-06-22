@@ -15,6 +15,7 @@ trackHash: 31d3a25fc063955d3f51b504b7c6219f532a7d3
 keywords: [HRT, 雌激素, SHBG, 性激素结合球蛋白]
 aliases:
   - shbg
+  - /articles/shbg-unimportant
 ---
 
 ## 译者按 {#notice}

@@ -3,6 +3,7 @@ title: 戊酸雌二醇注射剂（Estraproval Depot）说明书
 weight: 1000
 description: 本文为印度那格浦尔市 Modern Agencies 公司的戊酸雌二醇注射剂（Estraproval Depot，10 mg）说明书翻译。
 keywords: [戊酸雌二醇, 注射剂, 印雌, 日雌, Estraproval Depot]
+aliases: /misc/estraproval-depot
 ---
 
 <section class="box">

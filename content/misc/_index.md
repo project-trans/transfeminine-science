@@ -4,6 +4,7 @@ linkTitle: 杂项
 description: 收录各类指南和各类药品说明书
 weight: 3
 layout: single
+aliases: /misc
 ---
 
 > 本类别收录通行性指南和各类药品的说明书，含已于中国大陆通行的药品说明书以及世界各地经批准的药品说明书译文等。  

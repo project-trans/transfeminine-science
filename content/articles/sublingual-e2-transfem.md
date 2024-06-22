@@ -13,6 +13,7 @@ tags:
   - 用药途径与剂量
 trackHash: 43539e195ce7f91fa48a5c855392656dc179226d
 keywords: [补佳乐, 诺坤复, 雌二醇, 舌下含服, 用法用量]
+aliases: /articles/sublingual-e2-transfem
 ---
 
 ## 译者按 {#notice}

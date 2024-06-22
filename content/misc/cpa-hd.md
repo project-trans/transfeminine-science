@@ -3,6 +3,7 @@ title: 华典醋酸环丙孕酮片说明书
 weight: 1000
 description: 本页面为“华典醋酸环丙孕酮片”的说明书。
 keywords: [醋酸环丙孕酮, 色谱龙, 色普龙, 华典]
+aliases: /misc/cpa-hd
 ---
 
 <section class="box">

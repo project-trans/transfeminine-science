@@ -3,6 +3,7 @@ title: 盐酸雷洛昔芬（美国 Evista）处方说明书
 weight: 1000
 description: 本文为美国 Lilly 公司的盐酸雷洛昔芬（美国 Evista，“易维特”）处方说明书的中文翻译。
 keywords: [雷洛昔芬, Evista, SERM]
+aliases: /misc/evista
 ---
 
 <section class="box">

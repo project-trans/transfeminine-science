@@ -16,6 +16,7 @@ trackHash: 6eafba48a577e780bbff63d0a7a71b7029f7e2f9
 keywords: [螺内酯, 抗雄, 激素水平, 用法用量]
 aliases:
   - spiro-hormone-levels-men-transfem
+  - /articles/spiro-testosterone
 ---
 
 ## 译者按 {#notice}

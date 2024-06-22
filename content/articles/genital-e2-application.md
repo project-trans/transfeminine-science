@@ -14,6 +14,7 @@ tags:
   - 用药途径与剂量
 trackHash: 43539e195ce7f91fa48a5c855392656dc179226d
 keywords: [雌二醇凝胶, 雌二醇贴片, 阴囊, 生殖器]
+aliases: /articles/genital-e2-application
 ---
 
 ## 译者按 {#notice}

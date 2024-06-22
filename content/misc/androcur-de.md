@@ -1,14 +1,19 @@
 ---
 title: 醋酸环丙孕酮（德国 Androcur）说明书
 weight: 1000
-description: 本文为拜耳德国魏玛公司 / 耶拿药厂（Jenapharm）的 Androcur 药品（50 mg）说明书的简体中文释义。
+description: 本文为拜耳德国魏玛公司 / 耶拿药厂（Jenapharm）的 Androcur 药品（50 mg）说明书翻译。
 keywords: [醋酸环丙孕酮, 色谱龙, 色普龙, Androcur]
+aliases: /misc/androcur-de
 ---
 
 <section class="box">
 
-**译者按：** 本文为拜耳德国魏玛公司 / 耶拿药厂（Jenapharm）的 Androcur 药品（50 mg）说明书的简体中文翻译。说明书原文：<https://www.jenapharm.de/download/14/149/1372.pdf> \[[备份链接](https://web.archive.org/web/20230509070621if_/https://www.jenapharm.de/download/14/149/1372.pdf)]\
+**译者按：** 本文为拜耳德国魏玛公司 / 耶拿药厂（Jenapharm）的 Androcur 药品（50 mg）说明书的翻译。说明书原文：<https://www.jenapharm.de/download/14/149/1372.pdf> \[[备份链接](https://web.archive.org/web/20230509070621if_/https://www.jenapharm.de/download/14/149/1372.pdf)]\
 **警告！以下用法用量可能不适用于[跨性别激素治疗]({{< ref "cpa-dosage" >}})，仅供参考。本药物未被欧洲药品管理局（EMA）正式批准用于跨性别激素治疗。**
+
+**关于翻译质量所致限制性的声明：** 本文基于 Google 德-英机器翻译结果二次翻译而来，内容可能不准确，请务必审慎对待。采用 Google 翻译的原因如下：
+1. 本文译者（Bersella AI）不熟悉德语；
+1. 通过和[南非版说明书]({{< ref "androcur-za" >}})比较发现，Google 翻译中的德-英翻译结果非常接近于南非版，且较中文更为准确，译者有能力依据南非版修正翻译结果。
 
 修改日期：2020 年 4 月\
 **请仔细阅读说明书并在医师指导下使用**
