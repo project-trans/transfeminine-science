@@ -14,6 +14,7 @@ hugo.linux
 
 # Node.js
 /node_modules
+package-lock.json
 
 # I18n
 /content.zh-tw

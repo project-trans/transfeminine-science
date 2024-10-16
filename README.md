@@ -27,7 +27,7 @@
 
 本站译文适用于 *Transfeminine Science* 的版权声明（[原文][license]）：
 
-> 本站版权归 Aly 及本站其他撰稿人所有；保留一切权利。未经 Aly 允许，读者不得对本站内容进行二次创作（如翻译项目）。如获得许可，请准确署名，并设置指向本站原文的链接。
+> 本站版权归 Aly 及本站其他撰稿人所有；保留一切权利。未经 Aly 允许，读者不得对本站内容进行二次创作（如翻译项目）。如已获得二次创作许可，请准确署名，并设置指向本站原文的链接。
 
 此外，本站设计元素与其它补充内容的版权归 Project Trans 团体所有，并遵守 [Creative Commons 署名-相同方式演绎 4.0][license2] 许可协议。
 
@@ -61,7 +61,7 @@ Before making new translations, please refer to the [Guidelines][guideline] for 
 
 All translations on this site comply with the [License][license] from *Transfeminine Science*. The graphs and other supplementary materials of this site are copyrighted by Project Trans and are licensed under the [Creative Commons Attribution-ShareAlike License, Version 4.0][license2].
 
-**Disclaimer:** The translations categorized in *Miscellaneous* (杂项) are NOT affiliated with *Transfeminine Science*. We have not translated any of the contents from *Misc.* in *Transfeminine Science*, and we have no plans on their adaptions.
+**Disclaimer:** The translations categorized in *Miscellaneous* (杂项) are NOT affiliated with *Transfeminine Science*. We have not translated any of the contents from the *Misc.* section on *Transfeminine Science*, and we have no plans on their adaptions.
 
 [team]: https://project-trans.org
 [origin]: https://transfemscience.org

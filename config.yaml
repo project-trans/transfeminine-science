@@ -2,7 +2,7 @@ title: 女性倾向跨性别者科学
 baseURL: https://tfsci.mtf.wiki
 theme: tfsci
 copyright: >-
-  &copy; 2023
+  &copy; 2022-2024
   [Transfeminine Science](https://transfemscience.org) and
   [Project Trans](https://project-trans.org)
 
@@ -19,6 +19,9 @@ params:
     name: Project Trans
     url: https://project-trans.org
     email: tfsci@project-trans.org
+  social:
+    twitter: '@MtFwiki'
+    telegram: '@MtFwiki'
 
 # params:
 #   ContentSecurityPolicy:
@@ -27,10 +30,6 @@ params:
 #     - style-src 'self' 'unsafe-inline'
 #     - script-src 'self' https://www.googletagmanager.com
 #     - connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com
-
-social:
-  twitter: '@MtFwiki'
-  telegram: '@MtFwiki'
 
 markup:
   tableOfContents:

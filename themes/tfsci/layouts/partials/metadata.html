@@ -46,7 +46,7 @@
   <dd>{{ .Format (T "date-format") }}</dd>
 {{- end }}
 {{- with .Params.trackHash }}
-{{- if site.IsServer }}
+{{- if hugo.IsServer }}
   <dt>Track</dt>
   <dd><a href="https://github.com/mtf-wiki/tfsci-track/compare/{{ . }}..HEAD">{{ . }}</a></dd>
 {{- end }}
