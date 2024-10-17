@@ -1,4 +1,4 @@
-{{- $defines := dict "MEASUREMENT_ID" (jsonify .Site.GoogleAnalytics) -}}
+{{- $defines := dict "MEASUREMENT_ID" (jsonify .Site.Config.Services.GoogleAnalytics.ID) -}}
 {{- $page := . -}}
 {{- with resources.Get "gtag.ts" | js.Build (dict "defines" $defines) | minify | fingerprint }}
 <script src="{{ .Permalink }}"></script>
