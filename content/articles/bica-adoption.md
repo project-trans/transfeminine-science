@@ -4,15 +4,15 @@ linkTitle: 比卡鲁胺在女性化激素治疗上的使用与接受情况
 description: 比卡鲁胺尚未得到充分研究，其安全性也令人堪忧，使用范围仍很有限。
 author: Aly
 published: 2020-07-01
-updated: 2023-02-27
-translated: 2023-03-28
+updated: 2024-04-06
+translated: 2024-10-18
 translators:
   - Bersella AI
 tags:
   - 比卡鲁胺
   - 抗雄激素制剂
   - 用药安全
-trackHash: 802de46c25d83106f6b875fc02d91ff2d69202bf
+trackHash: c17ddbc53fcd09bfbdc87887cbb4dd94e778dc48
 keywords: [比卡鲁胺, 抗雄激素, 激素治疗, 安全性]
 aliases: /articles/bica-adoption
 ---
@@ -49,7 +49,7 @@ aliases: /articles/bica-adoption
 ## 一些和比卡鲁胺有关的，限制了其使用率的担忧 {#concerns-about-bicalutamide-limiting-its-use}
 
 目前为止，跨性别医学界并不大愿意认可比卡鲁胺在女性倾向跨性别者的使用。这是因为，关于女性倾向跨性别者使用之的研究与描述还很稀缺，尤其是在安全性方面。有一些担忧是和患有前列腺癌的男性当中由比卡鲁胺引起[肝衰竭][wiki41]的罕见案例相关的。这些有关比卡鲁胺之肝毒性的已报告病例，一般发病很突然、且症状严重。对患有前列腺癌的男性而言，比卡鲁胺治疗其癌症的收益[远大于][wiki42]概率极低的肝毒性之风险，因此这种风险足可容忍。不过，对一般既年轻而又健康的女性倾向跨性别者而言，比卡鲁胺并非用于治疗绝症；一旦因其患上肝衰竭而亡，那便得不偿失了。也正因如此，[加州大学旧金山分校][wiki43]（UCSF）编纂的跨性别护理指南警告称，出于潜在肝脏风险的考虑，当下不应将比卡鲁胺用于女性倾向跨性别者<sup>([Deutsch, 2016][D16])</sup>。\
-除了风险以外，目前还缺少可供指导适合女性倾向跨性别者使用的比卡鲁胺剂量之数据<sup>([Aly, 2019][A19-BD])</sup>。目前普遍推荐使用的典型剂量，是 50 mg/天，但该剂量应该是缺少数据支持的情况下的主观臆断。
+除了风险以外，目前还缺少可供指导适合女性倾向跨性别者使用的比卡鲁胺剂量之数据。目前普遍推荐使用的典型剂量，是 50 mg/天，但该剂量应该是缺少数据支持的情况下的主观臆断。
 
 目前为止，已有 10 例和比卡鲁胺有关的严重[肝毒性][wiki44]病例被公开发表<sup>([表格][table1])</sup>。这些病例皆为患有前列腺癌的男性，且皆在开始比卡鲁胺疗法的六个月内发病，其中两例随后死亡。尽管这些病例不多，看上去多少令人安心，但需要注意，已公开发表的不良反应病例数往往远低于其实际发生率。\
 例如，对于醋酸环丙孕酮，迄今有大约 50 例脑膜炎病例被公开发表<sup>([表格][table2])</sup>；但法国政府在近期的一项大规模研究发现，仅在法国就有逾 500 例和持续服用 8 年以上的高剂量醋酸环丙孕酮相关的脑膜炎病例*进行了手术*<sup>([Aly, 2020][A20-CM])</sup>。\
@@ -96,7 +96,7 @@ aliases: /articles/bica-adoption
 
 ### 后记三：Coleman 等人 (2022) 所作 WPATH SOC8《指南》 {#update-3-coleman-et-al-2022-wpath-soc8-guidelines}
 
-2022 年 9 月，[世界跨性别人士健康专业协会][wpath]（WPATH）发布了第八版《[跨性别及性别多元化人群健康护理标准][soc8]》（SOC8）<sup>([Coleman et al., 2022][C22])</sup>。该《标准》是现有最权威的跨性别护理指南之一，由健康护理专家担任顾问。此指南在以下两个片段中简要讨论了比卡鲁胺：
+2022 年 9 月，[世界跨性别人士健康专业协会][wpath]（WPATH）发布了《[跨性别及性别多元化人群健康护理标准][soc8]》第八版（SOC8）<sup>([Coleman et al., 2022][C22])</sup>。该《标准》是现有最权威的跨性别护理指南之一，由健康护理专家担任顾问。此指南在以下两个片段中简要讨论了比卡鲁胺：
 
 > 比卡鲁胺是一种抗雄制剂，用于治疗前列腺癌。其竞争性结合于雄激素受体，从而阻止雄激素与受体结合。有关比卡鲁胺用于女性倾向跨性别群体的数据非常稀少，其安全性资料也很缺乏。有一项小型研究探索了将 50 mg/天的比卡鲁胺作为青春期阻断剂，用于 23 名无法获得 GnRH 类似物治疗的青少年女性倾向跨性别者<sup>(Neyman et al., 2019)</sup>。这 23 人均发生了乳房发育——这与接受比卡鲁胺治疗的前列腺癌患者的普遍现象一致。\
 > 比卡鲁胺已被指出可引起罕见的暴发性肝中毒，并导致死亡<sup>(O’Bryant et al., 2008)</sup>。考虑到比卡鲁胺用于女性倾向跨性别者的情况尚未得到充分研究，我们并不推荐其用于常规治疗。
@@ -105,29 +105,98 @@ aliases: /articles/bica-adoption
 
 如上文所述，由于缺乏相关研究、且有潜在风险，《标准》并未建议将比卡鲁胺用于女性倾向跨性别者的常规治疗。本文也已提到，在比卡鲁胺得到主流《跨性别护理指南》的认可之前，可能还需要更多研究探索其用于女性倾向跨性别者的情况。
 
-### 后记四：Jamie Reed 报告的因比卡鲁胺引起肝毒性的病例 {#update-4-jamie-reed-bicalutamide-liver-toxicity-case}
+### 后记四：Jamie Reed 于 2023 年报告的比卡鲁胺所致肝毒性病例 {#update-4-jamie-reed-bicalutamide-liver-toxicity-case}
 
-2023 年二月，曾在美国密苏里州[圣路易斯儿童医院][wiki57]的[华盛顿大学跨性别中心][WUTC]担任个案经理的 Jamie Reed，在保守派网络媒体《[自由报][wiki58]》上发表了一篇专栏文章《[我曾认为我在拯救跨性别儿童，但现在我要告发][R23]》。Reed 写道，她对青年跨性别者的医疗服务大失所望，并为此表达不满。不过，她简略提到一起传闻在该中心发生的、因比卡鲁胺引起肝毒性的女性倾向跨性别者病例。据称该病例年龄为 15 岁，接受该中心的联合创始人之一：[Christopher Lewis][WUSTL-profile] 博士开出的比卡鲁胺（作为青春期阻断剂）治疗；其随后出现肝毒性，停用了比卡鲁胺。其母亲在联系该中心时说：“你们该庆幸，我们不是那种讼棍。”此案例连同 Reed 的专栏文章，在福克斯新闻、《每日邮报》等保守派媒体当中被广泛传播<sup>([Google 搜索][google-search])</sup>。\
-除了这篇专栏文章，Reed 还向密苏里州的共和党检察长 [Andrew Bailey][wiki59] 递交了一份经宣誓的证词，此后该检察长发起了对这家诊所的调查<sup>([密苏里州政府, 2023][MG23])</sup>。该证词的部分内容如下：
+2023 年二月，曾述职于美国密苏里州[圣路易斯儿童医院][wiki57]附属[华盛顿大学跨性别中心][WUTC]的原个案经理 Jamie Reed，在保守派网络媒体《[自由报][wiki58]》上发表了一篇专栏文章《[我曾以为我在拯救跨性别儿童，但现在我要告发][R23]》。Reed 写道，她对青年跨性别者的医疗服务大失所望，并为此表达不满。不过，她简略提到一起传闻在该中心发生的、因比卡鲁胺引起肝毒性的女性倾向跨性别者病例。据称该病例年龄为 15 岁，接受该中心的联合创始人之一：[Christopher Lewis][WUSTL-profile] 博士开出的比卡鲁胺（作为青春期阻断剂）治疗；其随后出现肝毒性，停用了比卡鲁胺。其母亲在联系该中心时说：“你们该庆幸，我们不是那种讼棍。”此案例连同 Reed 的专栏文章，在福克斯新闻、《每日邮报》等保守派媒体当中被广泛传播<sup>([Google 搜索][google-search])</sup>。\
+除了这篇专栏文章，Reed 还向密苏里州的共和党检察长 [Andrew Bailey][wiki59] 递交了一份经宣誓的证词，此后该检察长发起了对这家诊所的调查<sup>([密苏里州政府, 2023a][MG23])</sup>。该证词的部分内容如下：
 
 > 该中心的其中一位医生：Chris Lewis 博士，向其病人开出一种叫比卡鲁胺的药物。这种药物可合法用于胰腺癌（*原文如此*）的治疗，但其有引起乳房发育的副作用，且对肝脏有毒性。尚无任何有关这种药物用于性别转变的临床研究，该药物也无任何公认的标准疗法。
 >
-> 考虑到上述风险及相关研究的缺失，其它性别转变中心不会使用比卡鲁胺。华盛顿大学附属的成人中心也不会使用之。但儿童中心却使用了它。
+> 考虑到上述风险及相关研究的缺失，其它性别转变中心不会使用比卡鲁胺。华盛顿大学附属的成人中心也不会使用。但儿童中心却使用了它。
 >
-> 据我所知，该中心至少有一名患者因发生肝脏损伤，被肾脏科建议停用比卡鲁胺。其家长通过在线自评病历（MyChart）向该中心报告此事。家长说道，尽管他们并非讼棍，但“这会给你们带来很大的公关麻烦”。
+> 据我所知，该中心至少有一名患者因发生肝脏损伤，被肾脏科建议停用比卡鲁胺。其家长通过在线自填病历（MyChart）向该中心报告此事。家长说道，尽管他们并非讼棍，但“这会给你们带来很大的公关麻烦”。
 
-此前有关女性倾向跨性别者因比卡鲁胺引起肝毒性的报告，很多都未公开或未确认；而这是迄今资料最完善的一起相关病例。对于比卡鲁胺用于女性化激素治疗的进一步普及，其并不会起到积极作用。
+此前有关女性倾向跨性别者因比卡鲁胺引起肝毒性的报告，很多都未公开或未确认；而这是迄今资料最完善的一起相关病例。该病例未披露更多临床方面的细节，尚不清楚它（*比卡鲁胺*）是否引起了重度肝毒性、或仅仅是无症状的肝功能结果异常，或者某种介于二者之间的临床状况。无论如何，可以明确的是，对于比卡鲁胺用于女性化激素治疗的进一步普及，此事并不会起到积极作用。
+
+在该诊所的调查开始之后，2023 年四月，密苏里州对面向跨性别青年及成人的性别肯定照护作出了大幅限制，其中部分措施不仅在美国已有施行，严苛程度亦是数一数二的<sup>([美联社, 2023a][BH23]; [密苏里州政府, 2023b][mo-704f2159])</sup>。比卡鲁胺及其肝毒性未得到进一步解释。该州对性别肯定照护的管制令于 2023 年 8 月 28 日起生效；不久后，华盛顿大学宣布将停止向跨性别青年开出青春期阻断剂和激素处方<sup>([美联社, 2023b][SB23])</sup>。
+
+《纽约时报》同样在事后刊登了一篇文章，其中提供有关此病例的更多细节<sup>([Ghorayshi, 2023][G23] \[[摘要][G23-EXC]])</sup>。其提到，这名青年曾服用比卡鲁胺长达一年，且可以肯定发生了肝毒性。但是，青年其人有着复杂病史：包括免疫力下降、近期曾感染新冠病毒、曾服用另一种已知与肝毒性有关的药物等。因此，该病例的肝毒性不能完全归咎于比卡鲁胺，但同时也不能排除比卡鲁胺在其中的作用或因果关系。
+
+#### Burgener 等人（2023、2024）后续研究的结果 {#subsequent-burgener-et-al-2023-2024-findings}
+
+继上述病例之后，Lewis 及其同行继续为一项有关比卡鲁胺用于跨性别青年和年轻成人的研究发表会议纪要和预印本；其中他们声明，比卡鲁胺在该群体中并未使肝转化酶增加<sup>([Burgener et al., 2023][B23-PDF2]; [Burgener et al., 2024][B24])</sup>。然而，细看其数据会发现，比卡鲁胺相对其它抗雄制剂*确确实实* 引起了某些肝脏指标的有统计意义的上升——即[天门冬氨酸转氨酶][wiki60]（AST）升高的发生率（实验组、对照组达正常范围上限的分别占 10.7%、1.5%，*P* = 0.02）<sup>([Burgener et al., 2024][B24])</sup>。无独有偶，[谷丙转氨酶][wiki61]（ALT）升高的发生率亦有增长趋势，但不具统计意义（实验组、对照组达正常范围上限的分别占 16.7%、11.6%，*P* = 0.37）<sup>([Burgener et al., 2024][B24])</sup>。无论如何，在本研究中出现肝转化酶临床显著性上升（即三倍于正常范围上限）的发生率未见明显增加。
+
+以针对男性前列腺癌患者的相关研究<sup>([维基百科][wiki51-lt])</sup>为基线来看，Lewis 及其同行的研究仅有 84 名女性倾向跨性别者作为受试者来评价肝功能改变，其样本规模是严重[不足][wiki62]的。据有关高剂量比卡鲁胺单药用于男性前列腺癌患者的研究：“[早期前列腺癌试验][wiki49]”之结果，比卡鲁胺引起肝转化酶上升的发生率相较安慰剂仅高出约 1.5%，即每 66 人多发生一例<sup>([维基百科][wiki51-lt])</sup>。基于[样本效力分析][clincalc-1f907031]，要确保统计学证据充分，且有机会实现统计显著性，则需要远大于此的样本规模。
+
+综上，笔者关于比卡鲁胺用于女性倾向跨性别者不会引起肝酶升高的论断可能言之过早了。
+
+Lewis 及其同行并未在论文中提及上述由 Jamie Reed 报告的跨性别青年肝毒性病例，亦未发布相关的病例报告；其论文内仅作了如下描述：
+
+> 据一份 2024 年发表的病例报告所述，一名被给予比卡鲁胺 50 mg/天的跨性别女性青年因肝毒性而就医，肝毒性随比卡鲁胺的停用而缓解<sup>(Wilde et al., 2024)</sup>。这应该是迄今第一例记录在案的、发生于跨性别女性的比卡鲁胺所致肝毒性病例。
+
+尽管病人凑巧也是 17 岁的女性倾向跨性别青年<sup>([Wilde et al., 2024][W24])</sup>，但从病史和该报告的作者/院校判断，此病例和 Lewis 博士所引用 Jamie Reed 的病例应该是两回事。
+
+不过，Lewis 及其同行的论文中还有这么一个片段，似乎说的正是 Jamie Reed 的病例：
+
+> 本研究中有一人在研究规定的跟踪期后停用了比卡鲁胺。此人在新冠流行期后出现 ALT、AST 超标两倍以上，并接受了全面肝脏病学检查。鉴于 ALT、AST 未曾出现超标三倍以上的情况，未建议停用比卡鲁胺；但最终经临床决策，决定终止用药，此后 ALT、AST 恢复正常。
+
+另一项对 Lewis 及同行所著论文的顾虑，体现在以下段落：
+
+> 用于前列腺癌的比卡鲁胺剂量高达 150 mg；相比之下，用于出生指派性别为男（AMAB）的女性倾向跨性别者之照护的剂量要小得多（25～50 mg/天）。
+
+> 用于前列腺癌的比卡鲁胺剂量可高达 150 mg。尽管用于 AMAB 女性倾向跨性别者的剂量要小很多（约 25～50 mg/天），但出于对肝毒性的担忧，比卡鲁胺尚未被作为抗雄制剂的常规用药用于该群体。
+
+事实上，比卡鲁胺最常见的用途，就是作为联合雄激素阻断疗法（合用手术或药物去势）的一部分用于前列腺癌治疗，剂量为 50 mg/天；而在不常用的单药疗法下，其剂量为 150 mg/天<sup>([维基百科][wiki1])</sup>。此外在美国，单药疗法未被批准，使用的剂量仅有 50 mg/天。现有男性前列腺癌患者中所报告的比卡鲁胺所致肝毒性病例当中，有一半服用了 50 mg/天，另一半则服用 80～150 mg/天<sup>([维基百科][table1])</sup>。有两例因比卡鲁胺所致肝毒性而死亡的病例，均曾服用 50 mg/天。尽管目前尚无证据表明比卡鲁胺的肝毒性在临床剂量范围内和剂量相关<sup>([维基百科][wiki51-lt])</sup>，但保险起见，为女性倾向跨性别者采取最低有效剂量的做法似乎是明智的。  
+综上，和 Lewis 及同行的观点相反，比卡鲁胺在 50 mg/天的剂量下并不比治疗前列腺癌所用的要少，且明显仍保有一定的肝毒性潜力。
+
+### 后记五：2022～2024 年间新发表的比卡鲁胺相关文献 {#update-5-new-bicalutamide-publications-in-2022-through-2024}
+
+- Angus, L., Nolan, B., Zajac, J., & Cheung, A. (November 2022). Use of bicalutamide as an androgen receptor antagonist in transgender women. *ESA/SRB/APEG/NZSE ASM 2022, November 13-16, Christchurch, Abstracts and Programme*, 127–127 (abstract no. 280). \[[URL][A22]] \[[PDF][A22-PDF]] \[[摘要全文][A22-ABS]]
+- Angus, L. M., Nolan, B. J., Zajac, J. D., & Cheung, A. S. (November 2023). Bicalutamide as an anti-androgen in trans people: a cross-sectional study. *AusPATH 2023 Symposium*. \[[URL][A23]] \[[PDF][A23-PDF]] \[[幻灯片][A23-PPT]] \[[跨性别健康研究小组博客文章][A23-THR]]
+- Bambilla, A., Beal, C., & Vigil, P. (2023). Improving Access to Bicalutamide in Gender Affirming Medical Care. \[Unpubished/pending publication] \[[QueerCME 博客文章][BBV23]]
+- Burgener, K., DeBosch, B., Lewis, C., Wallendorf, M., & Herrick, C. (May 2023). Assessment of Liver Function and Toxicity in Transgender Female Adolescents Prescribed Bicalutamide. *Hormone Research in Paediatrics*, *96*(Suppl 3 \[*Abstracts of the 2023 Pediatric Endocrine Society (PES) Annual Meeting’ to Hormone Research in Paediatrics*]), 377–378 (abstract no. 6232). \[DOI:[10.1159/000531602][B23]] \[[PDF][B23-PDF]]
+- Gómez-Aguilar, F., Martínez-Sánchez, L., Arias-Constantí, V., Muñoz-Santanach, D., & Sarquella-Brugada, G. (2023). QT prolongation and Torsade de Pointes in a 13-year-old transgender adolescent in treatment with bicalutamide and tacrolimus. *Clinical Toxicology*, *61*(Suppl 1 \[*43rd International Congress of the European Association of Poisons Centres and Clinical Toxicologists (EAPCCT), 23–26 May 2023, Palma de Mallorca, Spain*]), 81–82 (abstract no. 170). \[DOI:[10.1080/15563650.2023.2192024][GA23]] \[[PDF][GA23-PDF]] \[[Reactions Weekly][GA23-RW]]
+- Karakılıç Özturan, E., Öztürk, A. P., Baş, F., Erdoğdu, A. B., Kaptan, S., Kardelen Al, A. D., Poyrazoğlu, Ş., Yıldız, M., Direk, N., Yüksel, Ş., & Darendeliler, F. (2023). Endocrinological Approach to Adolescents with Gender Dysphoria: Experience of a Pediatric Endocrinology Department in a Tertiary Center in Turkey. *Journal of Clinical Research in Pediatric Endocrinology*, *15*(3), 276–284. \[DOI:[10.4274/jcrpe.galenos.2023.2023-1-13][KO23]]
+- Vierregger, K., Tetzlaff, M., Zimmerman, B., Dunn, N., Finney, N., Lewis, K., Slomoff, R., & Strutner, S. (May 2023). Bicalutamide Use as Antiandrogen in Trans Feminine Adults - A Safety Profile. *National Transgender Health Summit (NTHS) 2023 Symposium*. \[[会议日程 PDF][V23A-PDF]] \[[座谈会][V23A]] \[[座谈会摘要/意见书][V23A-NTHS]]
+- Vierregger, K., Tetzlaf, M., Zimmerman, B., Dunn, N., Finney, N., Lewis, K., Slomoff, R., & Strutner, S. (November 2023). Bicalutamide Use as Antiandrogen in Trans Feminine Adults - A Safety Profile. *USPATH Scientific Symposium, November 1-5, 2023, The Westin Westminster, Westminster, Colorado, Abstract Submissions*, 96–96 (abstract no. SAT-B2-T4). \[[座谈会日程][V23B-SS]] \[[PDF][V23B]] \[[摘要全文][V23B-ABS]]
+- Warus, J., Rincon, M. G., Salvetti, B., & Olson-Kennedy, J. (November 2023). Safety of Bicalutamide as Anti-Androgenic Therapy in Gender Affirming Care for Adolescents and Young Adults: A Retrospective Chart Review. *USPATH Scientific Symposium, November 1-5, 2023, The Westin Westminster, Westminster, Colorado, Abstract Submissions*, 124–124 (abstract no. SUN-B1-T5). \[[座谈会日程][V23B-SS]] \[[PDF][W23]] \[[摘要全文][W23-ABS]]
+- Wilde, B., Diamond, J. B., Laborda, T. J., Frank, L., O’Gorman, M. A., & Kocolas, I. (2023). Bicalutamide-Induced Hepatotoxicity in a Transgender Male-to-Female Adolescent. *Journal of Adolescent Health*, *74*(1), 202–204. \[DOI:[10.1016/j.jadohealth.2023.08.024][W24]]
+- Burgener, K., DeBosch, B., Wang, J., Lewis, C., & Herrick, C. J. (2024). Bicalutamide does not raise transaminases in comparison to alternative anti-androgen regimens among transfeminine adolescents and young adults: a retrospective cohort study. *medRxiv*, preprint. \[DOI:[10.1101/2024.02.21.24302999v1][B24]] \[[PDF][B24-PDF]]
+- Fuqua, J. S., Shi, E., & Eugster, E. A. (2024). A retrospective review of the use of bicalutamide in transfeminine youth; a single center experience. *International Journal of Transgender Health*, advance online publication. \[DOI:[10.1080/26895269.2023.2294321][FSE24]]
+- Shumer, D., & Roberts, S. A. (2024). Placing a Report of Bicalutamide-Induced Hepatotoxicity in the Context of Current Standards of Care for Transgender Adolescents. *Journal of Adolescent Health*, *74*(1), 5–6. \[DOI:[10.1016/j.jadohealth.2023.10.010][SR24]]
+
+### 后记六：Sam 本人的比卡鲁胺与肝、肺毒性分析结果 {#update-6-original-bicalutamide-liver-and-lung-toxicity-analysis-by-sam}
+
+几年前的 2021 年，本站撰稿人 Sam 曾自发就已发表临床试验文献中比卡鲁胺所致肝、肺毒性发生率开展了一次分析；该项目未曾完成或对外界公开。但是，随着比卡鲁胺用于女性倾向跨性别者这一用途日益得到更多研究和认可，该项目的价值和相关性看来是蒸蒸日上了。因此，我们决定在这节篇幅发表 Sam 的分析成果。
+
+Sam 的分析详情可见于[这份文档][S21]。研究方法方面，她检索了 [PubMed][pubmed1] 数据库中一切针对比卡鲁胺的临床研究，将相关结果整理到一张表格，随后从这些数据计算出重度肝毒性和肺毒性的发生率。临床试验中，不良事件依严重程度进行分级；其中**三级事件**指的是“严重”不良事件，**四级**即“可威胁生命的”，**五级**即“导致死亡的”<sup>([维基百科][wiki63])</sup>。
+
+229 个检索结果中有 33 项试验被认为具有相关性而予以收录；其中大多数的试验对象是患前列腺癌的男性，但也有少量是以患癌症的妇女、患性早熟的男孩为对象的。在 7703 名可评价受试者中，Sam 发现有 2 例比卡鲁胺所致重度肝毒性、2 例重度肺毒性病例；二者的发生率均为 0.026%（95% 置信区间 0.003～0.094%），或大致每 3,846 人一例。结合二者来看，比卡鲁胺所致重度肝毒性、*或* 肺毒性的总发生率为 0.052%（95% 置信区间：0.014～0.133%），或大致每 1,923 人一例。观察到的一切毒性事件均被列为**三级**或**四级**不良事件。  
+需要说明，比卡鲁胺相关临床试验一般都有完备的实验室监测和临床不良事件评价机制，并会在实验室结果出现不良改变时指令中止用药。
+
+尽管 Sam 的分析中[置信区间][wiki64]（CI）大，从而估计值不甚精确，但基于高质量的临床资料可以得知，比卡鲁胺对女性倾向跨性别者具有潜在的、实质的重度毒性风险。还需说明，在这批研究中不会出现不良事件[漏报][wiki65]的问题——这在已发表[病例报告][wiki66]、[药物警戒数据库][wiki67]和某些类别的[观察性研究][wiki68]上时有发生。但是，Sam 的分析也有其局限性，包括：
+
+1. 对于未给予比卡鲁胺治疗的对照组，未就毒性事件发生率进行分析；
+1. 大多数受试者年龄较大且患有癌症，其结论是否能够推广到健康女性倾向跨性别者群体尚不完全清楚。
+
+无论如何，当第一次接触到她的分析结果时，笔者对（毒性）事件发生率之高感到了惊诧；笔者相信其他人亦或如是。
 
 ## 参考文献 {#references}
 
 - Anderson, J. (2003). The role of antiandrogen monotherapy in the treatment of prostate cancer. *BJU International*, *91*(5), 455–461. \[DOI:[10.1046/j.1464-410X.2003.04026.x][A03]]
+- Angus, L., Nolan, B., Zajac, J., & Cheung, A. (2022). Use of bicalutamide as an androgen receptor antagonist in transgender women. *ESA/SRB/APEG/NZSE ASM 2022, November 13-16, Christchurch, Abstracts and Programme*, 127–127 (abstract no. 280). \[[URL][A22]] \[[PDF][A22-PDF]] \[[摘要全文][A22-ABS]]
+- Angus, L. M., Nolan, B. J., Zajac, J. D., & Cheung, A. S. (2023). Bicalutamide as an anti-androgen in trans people: a cross-sectional study. *AusPATH 2023 Symposium*. \[[URL][A23]] \[[PDF][A23-PDF]] \[[Slides][A23-PPT]] \[[跨性别健康研究小组博客文章][A23-THR]]
 - Arya, V. B., & Davies, J. H. (2019). Idiopathic gonadotropin-independent precocious puberty - is regular surveillance required? *Journal of Pediatric Endocrinology & Metabolism: JPEM*, *32*(4), 403–407. \[DOI:[10.1515/jpem-2018-0419][AD19]]
 - Asscheman, H., Gooren, L. J., & Peereboom-Wynia, J. D. (1989). Reduction in undesired sexual hair growth with anandron in male-to-female transsexuals—experiences with a novel androgen receptor blocker. *Clinical and Experimental Dermatology*, *14*(5), 361–363. \[DOI:[10.1111/j.1365-2230.1989.tb02585.x][AGP89]]
 - Asscheman, H., & Gooren, L. J. (1992). Hormone Treatment in Transsexuals. In Bocking, W. O., Coleman, E. (Eds). *Gender Dysphoria: Interdisciplinary Approaches in Clinical Management* (pp. 39–54). Binghamton: Haworth Press. / *Journal of Psychology & Human Sexuality*, *5*(4), 39–54. \[[Google 学术][AG92-GS]] \[[Google 阅读][AG92-GB]] \[DOI:[10.1300/J056v05n04\_03][AG92]]
 - AstraZeneca. (2008). *Clinical Review. NDA. 22-310/S-001. Casodex (bicalutamide) for Testotoxicosis.* Food and Drug Administration/AstraZeneca Pharmaceuticals. \[[URL][AZ08-FDA]] \[[PDF][AZ08-PDF]]
 - Bahceci, M., Tuzcu, A., Canoruc, N., Tuzun, Y., Kidir, V., & Aslan, C. (2004). Serum C-reactive protein (CRP) levels and insulin resistance in non-obese women with polycystic ovarian syndrome, and effect of bicalutamide on hirsutism, CRP levels and insulin resistance. *Hormone Research in Paediatrics*, *62*(6), 283–287. \[DOI:[10.1159/000081973][B04]]
-- Bailey, A. (2023 February 9). *Missouri Attorney General Andrew Bailey Confirms Launch of Multi-Agency Investigation into St. Louis Transgender Center for Harming Hundreds of Children.* Attorney General Andrew Bailey, Missouri Government. \[[URL][MG23]] \[[Jamie Reed 的证词全文][MG23-PDF]]
+- Bailey, A. (2023 April 13). *Missouri Attorney General Andrew Bailey Confirms Launch of Multi-Agency Investigation into St. Louis Transgender Center for Harming Hundreds of Children.* Attorney General Andrew Bailey, Missouri Government. \[[URL][MG23]] \[[紧急管制令文件][MG23-PDF]]
+- Ballentine, S., & Hollingsworth, H. (2023 April 13). Missouri to limit gender-affirming care for minors, adults. *Associated Press.* \[[URL][BH23]]
+- Bambilla, A., Beal, C., & Vigil, P. (2023). Improving Access to Bicalutamide in Gender Affirming Medical Care. \[Unpubished/pending publication] \[[QueerCME 博客文章][BBV23]]
 - Blackledge, G. R. P. (1996). Clinical progress with a new antiandrogen, Casodex™ (bicalutamide). *European Urology*, *29*(Suppl 2), 96–104. \[DOI:[10.1159/000473847][B96]]
+- Burgener, K., DeBosch, B., Lewis, C., Wallendorf, M., & Herrick, C. (2023). Assessment of Liver Function and Toxicity in Transgender Female Adolescents Prescribed Bicalutamide. *Hormone Research in Paediatrics*, *96*(Suppl 3 \[*Abstracts of the 2023 Pediatric Endocrine Society (PES) Annual Meeting’ to Hormone Research in Paediatrics*]), 377–378 (abstract no. 6232). \[DOI:[10.1159/000531602][B23]] \[[PDF][B23-PDF]]
+- Burgener, K., DeBosch, B., Wang, J., Lewis, C., & Herrick, C. J. (2024). Bicalutamide does not raise transaminases in comparison to alternative anti-androgen regimens among transfeminine adolescents and young adults: a retrospective cohort study. *medRxiv*, preprint. \[DOI:[10.1101/2024.02.21.24302999v1][B24]] \[[PDF][B24-PDF]]
 - Cocchetti, C., Ristori, J., Romani, A., Maggi, M., & Fisher, A. D. (2020). Hormonal Treatment Strategies Tailored to Non-Binary Transgender Individuals. *Journal of Clinical Medicine*, *9*(6), 1609. \[DOI:[10.3390/jcm9061609][C20]]
 - Coleman, E., Radix, A. E., Bouman, W. P., Brown, G. R., de Vries, A. L., Deutsch, M. B., Ettner, R., Fraser, L., Goodman, M., Green, J., Hancock, A. B., Johnson, T. W., Karasic, D. H., Knudson, G. A., Leibowitz, S. F., Meyer-Bahlburg, H. F., Monstrey, S. J., Motmans, J., Nahata, L., … & Arcelus, J. (2022). \[World Professional Association for Transgender Health (WPATH)] Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. *International Journal of Transgender Health*, *23*(Suppl 1), S1–S259. \[DOI:[10.1080/26895269.2022.2100644][C22]] \[[URL][C22-WPATH]] \[[PDF][C22-PDF]]
 - Dahl, M., Feldman, J. L., Goldberg, J. M., & Jaberi, A. (2006). Physical aspects of transgender endocrine therapy. *International Journal of Transgenderism*, *9*(3–4), 111–134. \[DOI:[10.1300/J485v09n03\_06][D06a]]
@@ -140,6 +209,9 @@ aliases: /articles/bica-adoption
 - Finkle, A., Zavertnik, S., Myers, S., Cormier, D., Heithaus, J., & Augustyn, M. (2020). Growing Up Fast: Managing Autism Spectrum Disorder and Precocious Puberty. *Journal of Developmental and Behavioral Pediatrics: JDBP*, *41*(9), 740–742. \[DOI:[10.1097/DBP.0000000000000865][F20]]
 - Fishman, S. L., Paliou, M., Poretsky, L., & Hembree, W. C. (2019). Endocrine Care of Transgender Adults. In Poretsky, L., & Hembree, W. C. (Eds.). *Transgender Medicine* (pp. 143–163). Cham: Humana Press. \[DOI:[10.1007/978-3-030-05683-4\_8][FPPH19]]
 - Food and Drug Administration (FDA). (2017). *CASODEX (bicalutamide) tablet, for oral use.* \[[URL][FDA17-FDA]] \[[PDF][FDA17]] \[[中译本]({{< ref "casodex" >}})]
+- Fuqua, J. S., Shi, E., & Eugster, E. A. (2024). A retrospective review of the use of bicalutamide in transfeminine youth; a single center experience. *International Journal of Transgender Health*, advance online publication. \[DOI:[10.1080/26895269.2023.2294321][FSE24]]
+- Ghorayshi, A. (2023 August 29). How a Small Gender Clinic Landed in a Political Storm. *The New York Times*. \[[URL][G23]]
+- Gómez-Aguilar, F., Martínez-Sánchez, L., Arias-Constantí, V., Muñoz-Santanach, D., & Sarquella-Brugada, G. (2023). QT prolongation and Torsade de Pointes in a 13-year-old transgender adolescent in treatment with bicalutamide and tacrolimus. *Clinical Toxicology*, *61*(Suppl 1 \[*43rd International Congress of the European Association of Poisons Centres and Clinical Toxicologists (EAPCCT), 23–26 May 2023, Palma de Mallorca, Spain*]), 81–82 (abstract no. 170). \[DOI:[10.1080/15563650.2023.2192024][GA23]] \[[PDF][GA23-PDF]] \[[Reactions Weekly][GA23-RW]]
 - Gooren, L., Spinder, T., Spijkstra, J. J., Van Kessel, H., Smals, A., Rao, B. R., & Hoogslag, M. (1987). Sex steroids and pulsatile luteinizing hormone release in men. Studies in estrogen-treated agonadal subjects and eugonadal subjects treated with a novel nonsteroidal antiandrogen. *The Journal of Clinical Endocrinology & Metabolism*, *64*(4), 763–770. \[DOI:[10.1210/jcem-64-4-763][G87]]
 - Gooren, L. J. G. (1999). Hormonal Sex Reassignment. *International Journal of Transgenderism*, *3*(3), 1–7. \[[Google 学术][G99-GS]] \[[URL][G99]] \[[Alt][G99-ALT]]
 - Gooren, L. J. (2011). Care of transsexual persons. *New England Journal of* Medicine, *364*(13), 1251–1257. \[DOI:[10.1056/NEJMcp1008161][G11]]
@@ -151,9 +223,10 @@ aliases: /articles/bica-adoption
 - Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., Rosenthal, S. M., Safer, J. D., Tangpricha, V., & T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline. *The Journal of Clinical Endocrinology and Metabolism*, *102*(11), 3869–3903. \[DOI:[10.1210/jc.2017-01658][H17]] \[[PDF][H17-PDF]]
 - Ismail, F. F., Meah, N., de Carvalho, L. T., Bhoyrul, B., Wall, D., & Sinclair, R. (2020). Safety of oral bicalutamide in female pattern hair loss: A retrospective review of 316 patients. *Journal of the American Academy of Dermatology*, *83*(5), 1478–1479. \[DOI:[10.1016/j.jaad.2020.03.034][I20]]
 - Israel, G. E., & Tarver, D. E. (1997). *Transgender Care: Recommended Guidelines, Practical Information, and Personal Accounts* (p. 66). Philadelphia: Temple University Press. \[[Google 学术][IT97-GS]] \[[Google 阅读][IT97]]
-- Iversen, P., Johansson, J. E., Lodding, P., Lukkarinen, O., Lundmo, P., Klarskov, P., Tammela, T. L., Tasdemir, I., Morris, T., Carroll, K., & Scandinavian Prostatic Cancer Group (2004). Bicalutamide (150 mg) versus placebo as immediate therapy alone or as adjuvant to therapy with curative intent for early nonmetastatic prostate cancer: 5.3-year median followup from the Scandinavian Prostate Cancer Group Study Number 6. *The Journal of Urology*, *172*(5 Part 1), 1871–1876. \[DOI:[10.1097/01.ju.0000139719.99825.54][I04]]
+- Iversen, P., Johansson, J. E., Lodding, P., Lukkarinen, O., Lundmo, P., Klarskov, P., Tammela, T. L., Tasdemir, I., Morris, T., Carroll, K., & Scandinavian Prostatic Cancer Group. (2004). Bicalutamide (150 mg) versus placebo as immediate therapy alone or as adjuvant to therapy with curative intent for early nonmetastatic prostate cancer: 5.3-year median followup from the Scandinavian Prostate Cancer Group Study Number 6. *The Journal of Urology*, *172*(5 Part 1), 1871–1876. \[DOI:[10.1097/01.ju.0000139719.99825.54][I04]]
 - Iwamoto, S. J., Defreyne, J., Rothman, M. S., Van Schuylenbergh, J., Van de Bruaene, L., Motmans, J., & T’Sjoen, G. (2019). Health considerations for transgender women and remaining unknowns: a narrative review. *Therapeutic Advances in Endocrinology and Metabolism*, *10*, 2042018819871166. \[DOI:[10.1177/2042018819871166][I19]]
 - Johannes, F. L. M., van Kemenade, M. A., Cohen-Kettenis, P. T., Cohen, L., & Gooren, L. J. G. (1987). Effects of RU 23.903 (Anandron) on Lateralization and Spatial Ability in Male-to-Female-Transsexuals. *Tenth International Symposium on Gender Dysphoria, Diagnosis and Treatment of Transsexualism, Vrije Universiteit Amsterdam, The Netherlands, June 9–12, 1987.* Harry Benjamin International Gender Dysphoria Association. \[[PDF][J87]]
+- Karakılıç Özturan, E., Öztürk, A. P., Baş, F., Erdoğdu, A. B., Kaptan, S., Kardelen Al, A. D., Poyrazoğlu, Ş., Yıldız, M., Direk, N., Yüksel, Ş., & Darendeliler, F. (2023). Endocrinological Approach to Adolescents with Gender Dysphoria: Experience of a Pediatric Endocrinology Department in a Tertiary Center in Turkey. *Journal of Clinical Research in Pediatric Endocrinology*, *15*(3), 276–284. \[DOI:[10.4274/jcrpe.galenos.2023.2023-1-13][KO23]]
 - Kolvenbag, G. J., & Blackledge, G. R. (1996). Worldwide activity and safety of bicalutamide: a summary review. *Urology*, *47*(1), 70–79. \[DOI:[10.1016/S0090-4295(96)80012-4][KB96]]
 - Kor, Y. (2018). Central precocious puberty in a case of late-diagnosed familial testotoxicosis and long-term treatment monitoring. *Hormones*, *17*(2), 275–278. \[DOI:[10.1007/s42000-018-0029-1][K18]]
 - Kreher, N. C., Pescovitz, O. H., Delameter, P., Tiulpakov, A., & Hochberg, Z. E. (2006). Treatment of familial male-limited precocious puberty with bicalutamide and anastrozole. *The Journal of Pediatrics*, *149*(3), 416–420. \[DOI:[10.1016/j.jpeds.2006.04.027][K06]]
@@ -166,28 +239,34 @@ aliases: /articles/bica-adoption
 - Mitchell, F. (2020). Guy T’Sjoen: collaborating to improve transgender wellbeing. *The Lancet Diabetes & Endocrinology*, *8*(7), 568–568. \[DOI:[10.1016/S2213-8587(20)30192-3][M20]]
 - Mitre, N., & Lteif, A. (2009). Treatment of familial male-limited precocious puberty (testotoxicosis) with anastrozole and bicalutamide in a boy with a novel mutation in the luteinizing hormone receptor. *Journal of Pediatric Endocrinology and Metabolism*, *22*(12), 1163–1168. \[DOI:[10.1515/JPEM.2009.22.12.1163][ML09]]
 - Moreno-Pérez, Ó., De Antonio, I. E., & Grupo de Identidad y Diferenciación Sexual de la SEEN (GIDSEEN. (2012). Clinical practice guidelines for assessment and treatment of transsexualism. SEEN Identity and Sexual Differentiation Group (GIDSEEN). *Endocrinología y Nutrición (English Edition)*, *59*(6), 367–382. \[DOI:[10.1016/j.endoen.2012.07.004][MP12]]
-- Moretti, C. G., Guccione, L., Di Giacinto, P., Cannuccia, A., Meleca, C., Lanzolla, G., Andreadi, A., & Lauro, D. (2016). Efficacy and Safety of Myo-Inositol Supplementation in the Treatment of Obese Hirsute PCOS Women: Comparative Evaluation with OCP+Bicalutamide Therapy. *Endocrine Reviews*, *37*(2 Suppl 1) (SUN-153). \[[URL][M16]] \[DOI:[10.1093/edrv/37.supp.1][M16-DOI]]
+- Moretti, C. G., Guccione, L., Di Giacinto, P., Cannuccia, A., Meleca, C., Lanzolla, G., Andreadi, A., & Lauro, D. (2016). Efficacy and Safety of Myo-Inositol Supplementation in the Treatment of Obese Hirsute PCOS Women: Comparative Evaluation with OCP+Bicalutamide Therapy. *Endocrine Reviews*, *37*(2 Suppl 1), ?–? (abstract no. SUN-153). \[[URL][M16]] \[DOI:[10.1093/edrv/37.supp.1][M16-DOI]]
 - Moretti, C., Guccione, L., Di Giacinto, P., Simonelli, I., Exacoustos, C., Toscano, V., Motta, C., De Leo, V., Petraglia, F., & Lenzi, A. (2018). Combined oral contraception and bicalutamide in polycystic ovary syndrome and severe hirsutism: a double-blind randomized controlled trial. *The Journal of Clinical Endocrinology & Metabolism*, *103*(3), 824–838. \[DOI:[10.1210/jc.2017-01186][M18]]
 - Moussa, A., Kazmi, A., Bokhari, L., & Sinclair, R. D. (2022). Bicalutamide improves minoxidil-induced hypertrichosis in female pattern hair loss: A retrospective review of 35 patients. *Journal of the American Academy of Dermatology*, *87*(2), 488-490. \[DOI:[10.1016/j.jaad.2021.10.048][M21]]
 - Muderris, I. I., Bayram, F., & Guven, M. (1999). Bicalutamide 25 mg/day in the treatment of hirsutism. *Human Reproduction*, *14*(Suppl 3), 366–366 (R-196). \[DOI:[10.1093/humrep/14.Suppl\_3.366-a][MBG99]]
 - Müderris, I. I., Bayram, F., Özçelik, B., & Güven, M. (2002). New alternative treatment in hirsutism: bicalutamide 25 mg/day. *Gynecological Endocrinology*, *16*(1), 63–66. \[DOI:[10.1080/gye.16.1.63.66][M02]]
 - Müderris, İ. İ., & Öner, G. (2009). Hirsutizm Tedavisinde Flutamid ve Bikalutamid Kullanımı. \[Flutamide and Bicalutamide Treatment in Hirsutism.] *Türkiye Klinikleri Endokrinoloji-Özel Dergisi*, *2*(2), 110–112. \[ISSN:[1308-0954][MO09-ISSN]] \[[URL][MO09]] \[[PDF][MO09-PDF]] \[[英译本][MO09-ENG]]
 - Nabhan, Z. M., & Eugster, E. A. (2019). Testotoxicosis with an episodic course: an unusual case within a series. *AACE Clinical Case Reports*, *5*(1), e50–e53. \[DOI:[10.4158/ACCR-2018-0246][NE19]]
-- Neyman, A., Fuqua, J. S., & Eugster, E. A. (2017). Bicalutamide as an Androgen Blocker with Secondary Effect of Promoting Feminization in Male to Female (MTF) Transgender Adolescents. 10th Individual Abstracts for International Meeting of Pediatric Endocrinology: Free Communication and Poster Sessions, Abstracts. *Hormone Research in Paediatrics*, *88*(Suppl 1), 1–628 (477; P3-605). \[DOI:[10.1159/000481424][NFE17-DOI]] \[[PDF][NFE17]]
+- Neyman, A., Fuqua, J. S., & Eugster, E. A. (2017). Bicalutamide as an Androgen Blocker with Secondary Effect of Promoting Feminization in Male to Female (MTF) Transgender Adolescents. *Hormone Research in Paediatrics*, *88*(Suppl 1 \[*10th Individual Abstracts for International Meeting of Pediatric Endocrinology: Free Communication and Poster Sessions, Abstracts*]), 477–477 (abstract no. P3-605). \[DOI:[10.1159/000481424][NFE17-DOI]] \[[PDF][NFE17]]
 - Neyman, A., Fuqua, J. S., & Eugster, E. A. (2019). Bicalutamide as an androgen blocker with secondary effect of promoting feminization in male-to-female transgender adolescents. *Journal of Adolescent Health*, *64*(4), 544–546. \[DOI:[10.1016/j.jadohealth.2018.10.296][NFE19]]
 - Özcabı, B., Ceylaner, S., Özcan, R., Büyükünal, C., Ercan, O., Tüysüz, B., & Evliyaoğlu, O. (2015). Testotoxicosis: Report of Two Cases, One with a Novel Mutation in LHCGR Gene. *Journal of Clinical Research in Pediatric Endocrinology*, *7*(3), 242–248. \[DOI:[10.4274/jcrpe.2067][O15]]
 - Randolph Jr, J. F. (2018). Gender-Affirming Hormone Therapy for Transgender Females. *Clinical Obstetrics and Gynecology*, *61*(4), 705–721. \[DOI:[10.1097/GRF.0000000000000396][R18]] \[[URL][R18-URL]]
 - Rao, B. R., De Voogt, H. J., Geldof, A. A., Gooren, L. J. G., & Bouman, F. G. (1988). Merits and considerations in the use of anti-androgen. *Journal of Steroid Biochemistry*, *31*(4), 731–737. \[DOI:[10.1016/0022-4731(88)90024-6][R88]]
 - Reed, J. (2023 February 9). I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle. *The Free Press*. \[[URL][R23]]
 - Reiter, E. O., Mauras, N., McCormick, K., Kulshreshtha, B., Amrhein, J., De Luca, F., O’Brien, S., Armstrong, J., & Melezinkova, H. (2010). Bicalutamide plus anastrozole for the treatment of gonadotropin-independent precocious puberty in boys with testotoxicosis: a phase II, open-label pilot study (BATT). *Journal of Pediatric Endocrinology & Metabolism: JPEM*, *23*(10), 999–1009. \[DOI:[10.1515/jpem.2010.161][R10]]
-- Schellhammer, P. F., Sharifi, R., Block, N. L., Soloway, M. S., Venner, P. M., Patterson, A. L., Sarosdy, M. F., Vogelzang, N. J., Schellenger, J. J., Kolvenbag, G. J., & Casodex Combination Study Group (1997). Clinical benefits of bicalutamide compared with flutamide in combined androgen blockade for patients with advanced prostatic carcinoma: final report of a double-blind, randomized, multicenter trial. *Urology*, *50*(3), 330–336. \[DOI:[10.1016/s0090-4295(97)00279-3][S97]]
-- See, W. A., Wirth, M. P., McLeod, D. G., Iversen, P., Klimberg, I., Gleason, D., Chodak, G., Montie, J., Tyrrell, C., Wallace, D. M., Delaere, K. P., Vaage, S., Tammela, T. L., Lukkarinen, O., Persson, B. E., Carroll, K., Kolvenbag, G. J., & Casodex Early Prostate Cancer Trialist Group (2002). Bicalutamide as immediate therapy either alone or as adjuvant to standard care of patients with localized or locally advanced prostate cancer: first analysis of the early prostate cancer program. *The Journal of Urology*, *168*(2), 429–435. \[DOI:[10.1016/S0022-5347(05)64652-6][S02]]
+- Salter, J., & Ballentine, S. (2023 September 12). Missouri clinics halt transgender care for minors in wake of new state law. *Associated Press.* \[[URL][SB23]]
+- Schellhammer, P. F., Sharifi, R., Block, N. L., Soloway, M. S., Venner, P. M., Patterson, A. L., Sarosdy, M. F., Vogelzang, N. J., Schellenger, J. J., Kolvenbag, G. J., & Casodex Combination Study Group. (1997). Clinical benefits of bicalutamide compared with flutamide in combined androgen blockade for patients with advanced prostatic carcinoma: final report of a double-blind, randomized, multicenter trial. *Urology*, *50*(3), 330–336. \[DOI:[10.1016/s0090-4295(97)00279-3][S97]]
+- Shumer, D., & Roberts, S. A. (2024). Placing a Report of Bicalutamide-Induced Hepatotoxicity in the Context of Current Standards of Care for Transgender Adolescents. *Journal of Adolescent Health*, *74*(1), 5–6. \[DOI:[10.1016/j.jadohealth.2023.10.010][SR24]]
+- See, W. A., Wirth, M. P., McLeod, D. G., Iversen, P., Klimberg, I., Gleason, D., Chodak, G., Montie, J., Tyrrell, C., Wallace, D. M., Delaere, K. P., Vaage, S., Tammela, T. L., Lukkarinen, O., Persson, B. E., Carroll, K., Kolvenbag, G. J., & Casodex Early Prostate Cancer Trialist Group. (2002). Bicalutamide as immediate therapy either alone or as adjuvant to standard care of patients with localized or locally advanced prostate cancer: first analysis of the early prostate cancer program. *The Journal of Urology*, *168*(2), 429–435. \[DOI:[10.1016/S0022-5347(05)64652-6][S02]]
 - Stenger, P. J., Wagner, L., Egelhoff, J., & Rose, S. R. (2009). Bicalutamide and letrozole treatment of precocious puberty due to elevated levels of human chorionic gonadotropin (hCG). *Hormone Research* \[*in Paediatrics*], *72*(Suppl 3), 391–391 (PO3-149). \[[Google 学术][S09-GS]] \[DOI:[10.1159/000239668][S09]]
 - Tessaris, D., Matarazzo, P., Mussa, A., Tuli, G., Verna, F., Fiore, L., & Lala, R. (2012). Combined treatment with bicalutamide and anastrozole in a young boy with peripheral precocious puberty due to McCune-Albright Syndrome. *Endocrine Journal*, *59*(2), 111–117. \[DOI:[10.1507/endocrj.ej11-0214][T12]]
 - Thole, Z., Manso, G., Salgueiro, E., Revuelta, P., & Hidalgo, A. (2004). Hepatotoxicity induced by antiandrogens: a review of the literature. *Urologia Internationalis*, *73*(4), 289–295. \[DOI:[10.1159/000081585][T04]]
 - Thompson, J., Hopwood, R. A., deNormand, S., & Cavanaugh, T. (2021). *Medical Care of Trans and Gender Diverse Adults.* Boston: Fenway Health. \[[URL][T21]] \[[PDF][T21-PDF]]
 - Tomson, A., McLachlan, C., Wattrus, C., Adams, K., Addinall, R., Bothma, R., Jankelowitz, L., Kotze, E., Luvuno, Z., Madlala, N., Matyila, S., Padavatan, A., Pillay, M., Rakumakoe, M. D., Tomson-Myburgh, M., Venter, W., & de Vries, E. (2021). Southern African HIV Clinicians’ Society gender-affirming healthcare guideline for South Africa. *Southern African Journal of HIV Medicine*, *22*(1), a1299. \[DOI:[10.4102/sajhivmed.v22i1.1299][SAHIV21]] \[[PDF][SAHIV21-PDF]]
 - van Kemenade, J. F., Cohen-Kettenis, P. T., Cohen, L., & Gooren, L. J. (1989). Effects of the pure antiandrogen RU 23.903 (anandron) on sexuality, aggression, and mood in male-to-female transsexuals. *Archives of Sexual Behavior*, *18*(3), 217–228. \[DOI:[10.1007/BF01543196][VK89]]
+- Vierregger, K., Tetzlaff, M., Zimmerman, B., Dunn, N., Finney, N., Lewis, K., Slomoff, R., & Strutner, S. (2023). Bicalutamide Use as Antiandrogen in Trans Feminine Adults - A Safety Profile. *National Transgender Health Summit (NTHS) 2023 Symposium*. \[[会议日程 PDF][V23A-PDF]] \[[座谈会记录][V23A]] \[[座谈会摘要/意见书][V23A-NTHS]]
+- Vierregger, K., Tetzlaf, M., Zimmerman, B., Dunn, N., Finney, N., Lewis, K., Slomoff, R., & Strutner, S. (2023). Bicalutamide Use as Antiandrogen in Trans Feminine Adults - A Safety Profile. *USPATH Scientific Symposium, November 1-5, 2023, The Westin Westminster, Westminster, Colorado, Abstract Submissions*, 96–96 (abstract no. SAT-B2-T4). \[[座谈会日程][V23B-SS]] \[[PDF][V23B]] \[[摘要全文][V23B-ABS]]
+- Warus, J., Rincon, M. G., Salvetti, B., & Olson-Kennedy, J. (2023). Safety of Bicalutamide as Anti-Androgenic Therapy in Gender Affirming Care for Adolescents and Young Adults: A Retrospective Chart Review. *USPATH Scientific Symposium, November 1-5, 2023, The Westin Westminster, Westminster, Colorado, Abstract Submissions*, 124–124 (abstract no. SUN-B1-T5). \[[座谈会日程][V23B-SS]] \[[PDF][W23]] \[[摘要全文][W23-ABS]]
+- Wilde, B., Diamond, J. B., Laborda, T. J., Frank, L., O’Gorman, M. A., & Kocolas, I. (2023). Bicalutamide-Induced Hepatotoxicity in a Transgender Male-to-Female Adolescent. *Journal of Adolescent Health*, *74*(1), 202–204. \[DOI:[10.1016/j.jadohealth.2023.08.024][W24]]
 
 --------
 
@@ -197,6 +276,7 @@ aliases: /articles/bica-adoption
 时间,备注
 2022 年 11 月 14 日,首次翻译。
 2023 年 3 月 28 日,第一次修订，增补“后记四”内容，更正若干不当叙述，补齐链接。
+2024 年 10 月 18 日,第二次修订，增补后记四、五、六等新内容，更新链接。
 ```
 
 [G11]: http://doi.org/10.1056/NEJMcp1008161
@@ -220,7 +300,7 @@ aliases: /articles/bica-adoption
 [M02]: https://doi.org/10.1080/gye.16.1.63.66
 [B04]: https://doi.org/10.1159/000081973
 [MO09]: https://www.turkiyeklinikleri.com/article/en-hirsutizm-tedavisinde-flutamid-ve-bikalutamid-kullanimi-55753.html
-[M16]: https://endo.confex.com/endo/2016endo/webprogram/Paper26631.html
+[M16]: https://web.archive.org/web/20221108144934/https://endo.confex.com/endo/2016endo/webprogram/Paper26631.html
 [M18]: https://doi.org/10.1210/jc.2017-01186
 [K06]: https://doi.org/10.1016/j.jpeds.2006.04.027
 [L09]: https://doi.org/10.1159/000239668
@@ -243,7 +323,6 @@ aliases: /articles/bica-adoption
 [faers]: https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-public-dashboard
 [GAP02]: https://doi.org/10.1002/0470853093.ch17
 [D16]: https://transcare.ucsf.edu/guidelines
-[A19-BD]: https://transfemscience.org/articles/bica-dosage/
 [A20-CM]: https://transfemscience.org/articles/cpa-meningioma/
 [A03]: https://doi.org/10.1046/j.1464-410X.2003.04026.x
 [I04]: https://doi.org/10.1097/01.ju.0000139719.99825.54
@@ -274,12 +353,12 @@ aliases: /articles/bica-adoption
 [SOC8]: https://en.wikipedia.org/wiki/Standards_of_Care_for_the_Health_of_Transgender_and_Gender_Diverse_People
 [C22]: https://doi.org/10.1080/26895269.2022.2100644
 [R23]: https://www.thefp.com/p/i-thought-i-was-saving-trans-kids
-[MG23]: https://ago.mo.gov/home/news/2023/02/09/missouri-attorney-general-andrew-bailey-confirms-launch-of-multi-agency-investigation-into-st.-louis-transgender-center-for-harming-hundreds-of-children
+[MG23]: https://web.archive.org/web/20230828192422/https://ago.mo.gov/home/news/2023/02/09/missouri-attorney-general-andrew-bailey-confirms-launch-of-multi-agency-investigation-into-st.-louis-transgender-center-for-harming-hundreds-of-children
 [AG92-GS]: https://scholar.google.com/scholar?cluster=3926911364428297742
 [AG92-GB]: https://books.google.com/books?id=fny-DwAAQBAJ&pg=PT38
 [AZ08-FDA]: https://www.fda.gov/media/75809/
 [AZ08-PDF]: https://www.fda.gov/media/75809/download
-[MG23-PDF]: https://ago.mo.gov/docs/default-source/press-releases/2-07-2023-reed-affidavit---signed.pdf
+[MG23-PDF]: https://ago.mo.gov/docs/default-source/press-releases/2023-04-13---emergency-reg.pdf
 [C22-WPATH]: https://www.wpath.org/publications/soc
 [C22-PDF]: https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644
 [D06b-GS]: https://scholar.google.com/scholar?cluster=10288793516023166968
@@ -299,6 +378,39 @@ aliases: /articles/bica-adoption
 [NFE17-DOI]: https://doi.org/10.1159/000481424
 [R18-URL]: https://www.ingentaconnect.com/content/wk/cobg/2018/00000061/00000004/art00008
 [S09-GS]: https://scholar.google.com/scholar?cluster=9944726539277415138
+[G23]: https://www.nytimes.com/2023/08/23/health/transgender-youth-st-louis-jamie-reed.html
+[G23-EXC]: https://archive.is/oqLqD
+[B23-PDF2]: https://karger.com/hrp/article-pdf/96/Suppl.%203/1/4008437/000531602.pdf#page=377
+[B24]: https://www.medrxiv.org/content/10.1101/2024.02.21.24302999v1
+[W24]: https://doi.org/10.1016/j.jadohealth.2023.08.024
+[A22]: https://esa-srb-apeg-nzse-2022.p.asnevents.com.au/days/2022-11-14/abstract/85266
+[A22-PDF]: https://files.transfemscience.org/pdfs/Angus%20et%20al.%20%282022%29%20-%20Use%20of%20bicalutamide%20as%20an%20androgen%20receptor%20antagonist%20in%20transgender%20women%20%28ESA-SRB-APEG-NZSE%20ASM%202022,%20abstract%20no.%20280%29.pdf
+[A22-ABS]: https://www.endocrinesociety.org.au/esa-srb-apeg-nzse-2022-program_abstracts.pdf#page=127
+[A23]: https://ashm.eventsair.com/QuickEventWebsitePortal/auspath-conference-2023/aus24/Agenda/AgendaItemDetail?id=0c7c2d1d-21c4-4b21-920f-99446f96a548
+[A23-PDF]: https://az659834.vo.msecnd.net/eventsairaueprod/production-ashm-public/071ac7b75cbe4d35a6fa168110ea3070
+[A23-PPT]: https://files.transfemscience.org/pdfs/misc/Angus%20et%20al.%20AUSPATH%202023%20Bicalutamide%20Study%20Slides.pdf
+[A23-THR]: https://www.transresearch.org.au/post/2023_auspath
+[BBV23]: https://www.queercme.com/blog/bicalutamide-prescribing-in-gender-affirming-care
+[B23]: https://doi.org/10.1159/000531602
+[B23-PDF]: https://files.transfemscience.org/pdfs/Burgener%20et%20al.%20%282023%29%20-%20Assessment%20of%20Liver%20Function%20and%20Toxicity%20in%20Transgender%20Female%20Adolescents%20Prescribed%20Bicalutamide%20%28PES%202023,%20abstract%20ID%206232%29.pdf
+[GA23]: https://doi.org/10.1080/15563650.2023.2192024
+[GA23-PDF]: https://www.eapcct.org/publicfile.php?folder=congress&file=Abstracts_Mallorca23.pdf#page=81
+[GA23-RW]: https://doi.org/10.1007/s40278-023-45800-4
+[KO23]: https://doi.org/10.4274/jcrpe.galenos.2023.2023-1-13
+[V23A-PDF]: https://web.archive.org/web/20240321010915/https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/files/nyhs_202305_agenda_pdf_lbjyz.pdf
+[V23A]: https://whova.com/embedded/session/D7SYg0LqOnCqwqXqLsWNIdaSkH1LCYZ1IG6HZi0Pc-U=/3000743/
+[V23A-NTHS]: https://prevention.ucsf.edu/transhealth/education/nths
+[V23B-SS]: https://www.wpath.org/media/cms/Upcoming%20Conferences/2023/Schedules/Final%20USPATH%202023%20Scientific%20Symposium%20Main%20Program%20-%20Full%20Schedule.pdf
+[V23B]: https://files.transfemscience.org/pdfs/Vierregger%20et%20al.%20%282023%29%20-%20Bicalutamide%20Use%20as%20Antiandrogen%20in%20Trans%20Feminine%20Adults%20-%20A%20Safety%20Profile%20%28USPATH%202023,%20abstract%20no.%20SAT-B2-T4%29.pdf
+[V23B-ABS]: https://files.transfemscience.org/pdfs/wpath-symposia-materials/USPATH%202023%20Symposium%20Abstracts.pdf#page=96
+[W23]: https://files.transfemscience.org/pdfs/Warus%20et%20al.%20%282023%29%20-%20Safety%20of%20Bicalutamide%20as%20Anti-Androgenic%20Therapy%20in%20Gender%20Affirming%20Care%20for%20Adolescents%20and%20Young%20Adults_%20A%20Retrospective%20Chart%20Review%20%28USPATH%202023,%20abstract%20no.%20SUN-B1-T5%29.pdf
+[W23-ABS]: https://files.transfemscience.org/pdfs/wpath-symposia-materials/USPATH%202023%20Symposium%20Abstracts.pdf#page=124
+[B24-PDF]: https://www.medrxiv.org/content/medrxiv/early/2024/02/23/2024.02.21.24302999.full.pdf
+[FSE24]: https://doi.org/10.1080/26895269.2023.2294321
+[SR24]: https://doi.org/10.1016/j.jadohealth.2023.10.010
+[S21]: https://files.transfemscience.org/pdfs/docs/Supplementary%20Material_%20Liver%20and%20Lung%20Toxicity%20with%20Bicalutamide%20in%20Clinical%20Trials.pdf
+[BH23]: https://apnews.com/article/transgender-gender-affirming-care-restrictions-missouri-4def2189dac9979a00d298efb3baf12a
+[SB23]: https://apnews.com/article/transgender-care-minors-missouri-b65a81c842c6add70529acec231858cd
 
 [table1]: https://en.wikipedia.org/wiki/Template:Published_case_reports_of_bicalutamide-associated_liver_injury
 [table2]: https://en.wikipedia.org/wiki/Template:Published_case_reports_of_cyproterone_acetate-associated_meningioma
@@ -367,12 +479,25 @@ aliases: /articles/bica-adoption
 [wiki57]: https://en.wikipedia.org/wiki/St._Louis_Children%27s_Hospital
 [wiki58]: https://en.wikipedia.org/wiki/The_Free_Press_(media_company)
 [wiki59]: https://en.wikipedia.org/wiki/Andrew_Bailey_(politician)
+[wiki60]: https://en.wikipedia.org/wiki/Aspartate_transaminase
+[wiki61]: https://en.wikipedia.org/wiki/Alanine_transaminase
+[wiki62]: https://en.wikipedia.org/wiki/Power_of_a_test
+[wiki63]: https://en.wikipedia.org/wiki/Common_Terminology_Criteria_for_Adverse_Events
+[wiki64]: https://en.wikipedia.org/wiki/Confidence_interval
+[wiki65]: https://en.wikipedia.org/wiki/Under-reporting
+[wiki66]: https://en.wikipedia.org/wiki/Case_report
+[wiki67]: https://en.wikipedia.org/wiki/Pharmacovigilance
+[wiki68]: https://en.wikipedia.org/wiki/Observational_study
 
-[CL-AR]: https://callen-lorde.org/providers/asa-radix/
-[CL-ZG]: https://callen-lorde.org/providers/zil-goldstein/
+[CL-AR]: https://web.archive.org/web/20230321104049/https://callen-lorde.org/providers/asa-radix/
+[CL-ZG]: https://web.archive.org/web/20221208035109/https://callen-lorde.org/providers/zil-goldstein/
 [QD]: https://queerdoc.com/how-do-you-know-which-t-blocker-to-take-what-is-going-on-with-bica/
 [WUTC]: https://physicians.wustl.edu/specialties/lgbtq-health/washington-university-transgender-center/
 [SAHIV]: https://sahivsoc.org/
 
 [WUSTL-profile]: https://profiles.wustl.edu/en/persons/christopher-lewis
 [google-search]: https://www.google.com/search?q=%22jamie+reed%22+bicalutamide+transgender+OR+trans+OR+gender-affirming&tbs=cdr%3A1%2Ccd_min%3A2%2F9%2F2023%2Ccd_max%3A2%2F28%2F2023
+[clincalc-1f907031]: https://clincalc.com/stats/samplesize.aspx
+[pdf-6a22ac1a]: https://files.transfemscience.org/pdfs/translations/M%C3%BCderris%20&%20%C3%96ner%20%282009%29%20-%20Hirsutizm%20Tedavisinde%20Flutamid%20ve%20Bikalutamid%20Kullan%C4%B1m%C4%B1.pdf
+[mo-704f2159]: https://ago.mo.gov/home/news/2023/04/13/missouri-attorney-general-andrew-bailey-promulgates-emergency-regulation-targeting-gender-transition-procedures-for-minors
+[pubmed1]: https://pubmed.ncbi.nlm.nih.gov/
