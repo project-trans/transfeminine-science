@@ -4,8 +4,8 @@ linkTitle: 低剂量醋酸环丙孕酮足可高效抑制睾酮
 description: 本文探讨了以更低剂量服用 CPA，并深入论证了低剂量的合理性。
 author: Aly
 published: 2019-07-01
-updated: 2023-03-31
-translated: 2023-04-05
+updated: 2024-03-30
+translated: 2024-10-27
 translators:
   - Bersella AI
 tags:
@@ -127,7 +127,7 @@ CPA 是一种强效孕激素，当用于顺性别妇女时，1 mg/天的剂量�
 
 多项研究中，将雌二醇与高剂量 CPA（50–100 mg/天）合并用于女性倾向跨性别者时，其将睾酮水平抑制到了女性正常范围内（50 ng/dL 或 1.7 nmol/L 以下）<sup>([Giltay & Gooren, 2000][GG00]; [Giltay et al., 2000][G00]; [Giltay et al., 2003][G03]; [Giltay et al., 2004][G04]; [Toorians et al., 2003][T03]; [T’Sjoen et al., 2005][TS05]; [Slagter et al., 2006][S06]; [T’Sjoen et al., 2009][TS09]; [Ott et al., 2011][O11]; [Wierckx et al., 2012][W12]; [Wierckx et al., 2014][W14]; [Zubiaurre-Elorza et al., 2014][ZE14]; [Fuss et al., 2015][F15]; [Van Caenegem et al., 2015][VC15]; [Gava et al., 2016][G16]; [Bultynck et al., 2017][B17]; [Fung, Hellstern-Layefsky, & Lega, 2017][FHL17]; [Kranz et al., 2017][K17]; [Tack et al., 2017][T17]; [Wiepjes et al., 2017][W17]; [de Blok et al., 2018][DB17]; [Defreyne et al., 2018][D18]; [Vita et al., 2018][V18]; [Angus et al., 2019][A19]; [Chen et al., 2019][C19]; [Scharff et al., 2019][S19]; [van Dijk et al., 2019][VD19]; [van Velzen et al., 2019][VV19]; [Vereecke, 2019][V19]; [Vlot et al., 2019][VLOT19]; [Wiepjes et al., 2019][W19]; [Kranz, Kaufmann, & Lanzenberger, 2020][KKL20]; [Meyer et al., 2020][M20]; [Gava et al., 2020][G20]; [Sofer et al., 2020][S20]; [Vereecke et al., 2021][V21])</sup>。
 
-1980 和 1990 年代，针对前列腺癌患者的临床研究发现，将高剂量孕激素（例如每日 100–300 mg 的 CPA、或 40–160 mg 的[醋酸甲地孕酮][wiki12]）结合低剂量雌激素（例如每日 0.1–0.2 mg 的[己烯雌酚][wiki14]、或 0.5–1.5 mg 的雌二醇）使用，可完全抑制性腺的睾酮分泌，并将睾酮水平降至去势后的范围（小于 50 ng/dL）<sup>([Geller et al., 1981a][G81a]; [Geller et al., 1981b][G81b]; [Geller & Albert, 1983][GA83]; [Goldenberg et al., 1988][G88]; [Johnson et al., 1988][J88]; [Geller, 1988][GEL88]; [Venner et al., 1988][V88]; [Geller, 1991][G91-PDF]; [Goldenberg & Bruchovsky, 1991][GB91]; [Bruchovsky et al., 1993][B93]; [Goldenberg et al., 1996][G96])</sup>。与此类似，一份 1989 年的病例系列报告也披露，有 3 名女性倾向跨性别者在以 100 mg/天的 CPA 合并较低剂量雌激素治疗后，取得了同样疗效<sup>([Jequier, Bullimore, & Bishop, 1989][JBB89])</sup>。\
+1980 和 1990 年代，针对前列腺癌患者的临床研究发现，将高剂量孕激素（例如每日 100–300 mg 的 CPA、或 40–160 mg 的[醋酸甲地孕酮][wiki12]）结合低剂量雌激素（例如每日 0.1–0.2 mg 的[己烯雌酚][wiki14]、或 0.5–1.5 mg 的雌二醇）使用，可完全抑制性腺的睾酮分泌，并将睾酮水平降至去势后的范围（小于 50 ng/dL）<sup>([Geller et al., 1981a][G81a]; [Geller et al., 1981b][G81b]; [Geller & Albert, 1983][GA83]; [Goldenberg et al., 1988][G88]; [Johnson et al., 1988][J88]; [Geller, 1988][GEL88]; [Venner et al., 1988][V88]; [Geller, 1991][G91]; [Goldenberg & Bruchovsky, 1991][GB91]; [Bruchovsky et al., 1993][B93]; [Goldenberg et al., 1996][G96])</sup>。与此类似，一份 1989 年的病例系列报告也披露，有 3 名女性倾向跨性别者在以 100 mg/天的 CPA 合并较低剂量雌激素治疗后，取得了同样疗效<sup>([Jequier, Bullimore, & Bishop, 1989][JBB89])</sup>。\
 这里有一篇文献摘录对 CPA 用于前列腺癌治疗的情况做了详述：
 
 > 如前所述，CPA 并未完全抑制血浆睾酮浓度：其被抑制了 70% 左右，但数值仍相当于去势后浓度的三倍。为系统研究该问题，Rennie 等 (59) 调查并对比了 12 种睾酮除去法。他们发现，将 CPA 与极低剂量的己烯雌酚（0.1 mg/天）合用，可高效去除雄激素（例如血浆睾酮、组织内的双氢睾酮）。该团队随后还发现，每日 200mg、甚至 100mg 的 CPA 足以获得相似的内分泌反馈，这也和其第二阶段临床治疗的相当正面的反馈具有关联性 (60,61)。从内分泌学视角而言，这项研究法不仅具有较多潜在优势，而且逻辑性很强：这种给药方案可结合两种制剂的抗雄效果；仅需少量雌激素，即可将血浆睾酮水平降低至经过去势的程度。一旦睾酮达到去势后水平，只需少量 CPA 即可中和剩余雄激素（主要来自肾上腺）的作用。在第三阶段疗程里，并未将合用低剂量 CPA 及己烯雌酚的疗法，与常规疗法进行比较。考虑到现有内分泌反馈与观察结果，二者合用的疗法应该具有相对其它常规疗法的竞争力。([Schröder & Radlmaier, 2002][SR02])
@@ -329,9 +329,37 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 
 论文作者指出，在本研究中，接受激素治疗的女性倾向跨性别者的睾酮水平，与顺性别妇女接近或稍低于之。
 
+### 后记六：Warzywoda 等人 (2024) 的 GoLoCypro 研究报告 {#update-6-warzywoda-et-al-2024-golocypro-study}
+
+2024 年二月，由 Judith Dean 及同行进行的 GoLoCypro 研究被在线发表：
+
+- Warzywoda, S., Fowler, J. A., Wood, P., Bisshop, F., Russell, D., Luu, H., Kelly, M., Featherstone, V., & Dean, J. A. (2024). How low can you go? Titrating the lowest effective dose of cyproterone acetate for transgender and gender diverse people who request feminizing hormones. *International Journal of Transgender Health*, advance online publication. \[DOI:[10.1080/26895269.2024.2317395][W24]]
+
+其中部分片段摘录如下：
+
+> 完成试验的受试者中，有 74.0%（34/46）的睾酮水平达到了目标范围（0.5～1.5 nmol/L），有 41.3%（19/46）的 CPA 剂量被滴定到最低值（每周两次 12.5 mg 环丙孕酮）。
+
+> 绝大多数（91.30%，42/46）完成试验的受试者的 CPA 剂量处于第三阶梯（每日 12.5 mg 或隔日 25 mg）或以下，其中 69.0%（29/42）的睾酮水平达到目标范围；此外，完成试验的受试者有 41.3%（19/46）服用最低剂量（每周两次 12.5 mg 环丙孕酮），其中 57.9%（11/19）的睾酮水平达到目标范围。
+
+> 研究结果显示，对于部分患者，隔日 12.5 mg 或以下的 CPA 剂量成功地将睾酮降至绝经前范围，且没有过度抑制之。
+
+> 本研究发现，可采取低于标准剂量（每日 12.5 mg 或隔日 25 mg）的 CPA 来抑制睾酮。有多项研究支持此法，其中发现用于接受女性化激素治疗之个体的 CPA 在较低剂量下（10 mg/天）可有效降低睾酮<sup>([Even Zohar et al., 2021][EZ21]; [Kuijpers et al., 2021][K21])</sup>。在本研究中，尽管并非所有受试者均得以下调 CPA 剂量，但完成试验的受试者有四分之一在每周两次 12.5 mg（等效于 3.5 mg/天）的 CPA 剂量下达成了目标睾酮范围。据我们所知，本研究首度揭示了低于 10 mg/天、隔日或每周两次剂量下的 CPA 对降低睾酮并维持于目标范围具有临床有效性。
+
+### 后记七：2023～2024 年新发表的低剂量 CPA 相关研究 {#update-7-more-new-low-dose-cpa-studies-20232024}
+
+2023 至 2024 年间新发表的、有关低剂量 CPA 用于女性倾向跨性别者的研究有：
+
+- Angus, L. M., Leemaqz, S., Zajac, J. D., & Cheung, A. S. (November 2023). A randomised controlled trial of spironolactone versus cyproterone in trans people commencing estradiol. *AusPATH 2023 Symposium*. \[[URL][A23A]] \[[PDF][A23A-PDF]] \[[跨性别健康研究小组博客文章][A23A-THR]]
+- Angus, L. M., Leemaqz, S. Y., Zajac, J. D., & Cheung, A. S. (November 2023). The effect of cyproterone and spironolactone on breast development in transgender women: a randomised controlled trial. *ESA/SRB/ENSA 2023 ASM 26-29 November, Brisbane*, 54–55 (abstract no. 132). \[[URL][A23B]] \[[PDF][A23B-PDF]] \[[摘要全文][A23B-EXC]] \[[跨性别健康研究小组博客文章][A23B-THR]]
+- Flamant, T., Vervalcke, J., & T’Sjoen, G. (November 2023). Dose Reduction of Cyproterone Acetate in Trans Women and the Effect on Patient-reported Outcomes: Results from the ENIGI Study. *Endocrine Abstracts*, *97* \[*Belgian Endocrine Society 2023*], 5–5 (abstract no. 007). \[[URL][FVT23]] \[[PDF][FVT23-PDF]]
+- Korpaisarn, S., Arunakul, J., Chaisuksombat, K., & Rattananukrom, T. (2023). A Low Dose Cyproterone Acetate In Feminizing Hormone Treatment. *Journal of the Endocrine Society*, *7*(Suppl 1), A1098–A1099 (abstract no. SAT397/bvad114.2068). \[DOI:[10.1210/jendso/bvad114.2068][K23]]
+- Yang, W., Hong, T., Chang, X., Han, M., Gao, H., Pan, B., Zhao, Z., & Liu, Y. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. *International Journal of Transgender Health*, advance online publication. \[DOI:[10.1080/26895269.2024.2323514][Y24]]
+
 ## 参考文献 {#references}
 
 - Angus, L., Leemaqz, S., Ooi, O., Cundill, P., Silberstein, N., Locke, P., Zajac, J. D., & Cheung, A. S. (2019). Cyproterone acetate or spironolactone in lowering testosterone concentrations for transgender individuals receiving oestradiol therapy. *Endocrine Connections*, *8*(7), 935–940. \[DOI:[10.1530/ec-19-0272][A19]]
+- Angus, L. M., Leemaqz, S., Zajac, J. D., & Cheung, A. S. (2023). A randomised controlled trial of spironolactone versus cyproterone in trans people commencing estradiol. *AusPATH 2023 Symposium*. \[[URL][A23A]] \[[PDF][A23A-PDF]] \[[跨性别健康研究小组博客文章][A23A-THR]]
+- Angus, L. M., Leemaqz, S. Y., Zajac, J. D., & Cheung, A. S. (2023). The effect of cyproterone and spironolactone on breast development in transgender women: a randomised controlled trial. *ESA/SRB/ENSA 2023 ASM 26-29 November, Brisbane*, 54–55 (abstract no. 132). \[[URL][A23B]] \[[PDF][A23B-PDF]] \[[摘要全文][A23B-EXC]] \[[跨性别健康研究小组博客文章][A23B-THR]]
 - Asscheman, H., & Gooren, L. J. (1992). Hormone Treatment in Transsexuals. In Bocking, W. O., Coleman, E. (Eds). *Gender Dysphoria: Interdisciplinary Approaches in Clinical Management* (pp. 39–54). Binghamton: Haworth Press. / *Journal of Psychology & Human Sexuality*, *5*(4), 39–54. \[[Google 学术][AG93-GS]] \[[Google 阅读][AG93-GB]] \[DOI:[10.1300/J056v05n04\_03][AG93]]
 - Athanasoulia-Kaspar, A. P., & Stalla, G. K. (2019). Endokrinologische Betreuung von Patienten mit Transsexualität. *Geburtshilfe und Frauenheilkunde*, *79*(7), 672–675. \[DOI:[10.1055/a-0801-3319][AKS19]]
 - Bastianelli, C., Farris, M., Rosato, E., Brosens, I., & Benagiano, G. (2018). Pharmacodynamics of combined estrogen-progestin oral contraceptives 3. Inhibition of ovulation. *Expert Review of Clinical Pharmacology*, *11*(11), 1085–1098. \[DOI:[10.1080/17512433.2018.1536544][B18]]
@@ -348,6 +376,7 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 - Even-Zohar, N., Sofer, Y., Yaish, I., Serebro, M., Tordjman, K., & Greenman, Y. (2020). SUN-042 Low Dose Cyproterone Acetate for the Treatment of Transgender Women - a Retrospective Study. *Journal of the Endocrine Society*, *4*(Suppl 1), A715–A715. \[DOI:[10.1210/jendso/bvaa046.1412][EZ20]]
 - Even Zohar, N., Sofer, Y., Yaish, I., Serebro, M., Tordjman, K., & Greenman, Y. (2021). Low-Dose Cyproterone Acetate Treatment for Transgender Women. *The Journal of Sexual Medicine*, *18*(7), 1292–1298. \[DOI:[10.1016/j.jsxm.2021.04.008][EZ21]]
 - Fink, G. (1979). Feedback Actions of Target Hormones on Hypothalamus and Pituitary With Special Reference to Gonadal Steroids. *Annual Review of Physiology*, *41*(1), 571–585. \[DOI:[10.1146/annurev.ph.41.030179.003035][FINK79]]
+- Flamant, T., Vervalcke, J., & T’Sjoen, G. (2023). Dose Reduction of Cyproterone Acetate in Trans Women and the Effect on Patient-reported Outcomes: Results from the ENIGI Study. *Endocrine Abstracts*, *97* \[*Belgian Endocrine Society 2023*], 5–5 (abstract no. 007). \[[URL][FVT23]] \[[PDF][FVT23-PDF]]
 - Føgh, M., Corker, C. S., Hunter, W. M., McLean, H., Philip, J., Schou, G., & Shakkebæk, N. E. (1979). The effects of low doses of cyproterone acetate on some functions of the reproductive system in normal men. *Acta Endocrinologica*, *91*(3), 545–552. \[DOI:[10.1530/acta.0.0910545][F79]]
 - Føgh, M., Knudsen, J. B., & Gormsen, J. (1980). Effect of cyproterone acetate on platelet aggregability, fibrinolytic activity and fibrinolytic capacity in normal men. *Acta Endocrinologica*, *94*(3), 430–432. \[DOI:[10.1530/acta.0.0940430][F80]]
 - Foegh, M. (1983). Evaluation of Steroids as COntraceptives in Men. *Acta Endocrinologica*, *104*(3 Suppl b), S9–S48. \[DOI:[10.1530/acta.0.104s009][F83]]
@@ -361,14 +390,14 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 - Geller, J., Albert, J., Yen, S. S., Geller, S., & Loza, D. (1981). Medical castration with megestrol acetate and minidose of diethylstilbestrol. *Urology*, *17*(4 Suppl), 27–33. \[[Google 学术][G81b-GS]] \[[PubMed][G81b]]
 - Geller, J., & Albert, J. D. (1983). Comparison of various hormonal therapies for prostatic carcinoma. *Seminars in Oncology*, *10*(4 Suppl 4), 34–41. \[[Google 学术][GA83-GS]] \[[PubMed][GA83-PM]] \[[PDF][GA83]]
 - Geller, J. (1988). Megestrol acetate and minidose estrogen in prostatic carcinoma. *Urology*, *32*(3), 281–282. \[DOI:[10.1016/0090-4295(88)90402-5][GEL88]]
-- Geller J. (1991). Megestrol acetate plus low-dose estrogen in the management of advanced prostatic carcinoma. *The Urologic Clinics of North America*, *18*(1), 83–91. \[DOI:[10.1016/S0094-0143(21)01395-1][G91]] \[[PDF][G91-PDF]]
+- Geller J. (1991). Megestrol Acetate Plus Low-Dose Estrogen in the Management of Advanced Prostatic Carcinoma. *The Urologic Clinics of North America*, *18*(1), 83–91. \[DOI:[10.1016/S0094-0143(21)01395-1][G91]] \[[Archive.org][G91-ARC]] \[[PDF][G91-PDF]]
 - Giltay, E. J., & Gooren, L. J. (2000). Effects of Sex Steroid Deprivation/Administration on Hair Growth and Skin Sebum Production in Transsexual Males and Females. *The Journal of Clinical Endocrinology & Metabolism*, *85*(8), 2913–2921. \[DOI:[10.1210/jcem.85.8.6710][GG00]]
 - Giltay, E. J., Gooren, L. J., Emeis, J. J., Kooistra, T., & Stehouwer, C. D. (2000). Oral, but Not Transdermal, Administration of Estrogens Lowers Tissue-Type Plasminogen Activator Levels in Humans Without Affecting Endothelial Synthesis. *Arteriosclerosis, Thrombosis, and Vascular Biology*, *20*(5), 1396–1403. \[DOI:[10.1161/01.atv.20.5.1396][G00]]
 - Giltay, E. J., Verhoef, P., Gooren, L. J., Geleijnse, J. M., Schouten, E. G., & Stehouwer, C. D. (2003). Oral and transdermal estrogens both lower plasma total homocysteine in male-to-female transsexuals. *Atherosclerosis*, *168*(1), 139–146. \[DOI:[10.1016/s0021-9150(03)00090-x][G03]]
 - Giltay, E. J., Gooren, L. J., Toorians, A. W., Katan, M. B., & Zock, P. L. (2004). Docosahexaenoic acid concentrations are higher in women than in men because of estrogenic effects. *The American Journal of Clinical Nutrition*, *80*(5), 1167–1174. \[DOI:[10.1093/ajcn/80.5.1167][G04]]
 - Glintborg, D., T’Sjoen, G., Ravn, P., & Andersen, M. S. (2021). MANAGEMENT OF ENDOCRINE DISEASE: Optimal feminizing hormone treatment in transgender people. *European Journal of Endocrinology*, *185*(2), R49–R63. \[DOI:[10.1530/eje-21-0059][G21]]
 - Goldenberg, S. L., Bruchovsky, N., Rennie, P. S., & Coppin, C. M. (1988). The Combination of Cyproterone Acetate and Low Dose Diethylstilbestrol in the Treatment of Advanced Prostatic Carcinoma. *Journal of Urology*, *140*(6), 1460–1465. \[DOI:[10.1016/s0022-5347(17)42073-8][G88]]
-- Goldenberg, S. L., & Bruchovsky, N. (1991). Use of cyproterone acetate in prostate cancer. *The Urologic Clinics of North America*, *18*(1), 111–122. \[DOI:[10.1016/S0094-0143(21)01398-7][GB91]] \[[PDF][GB91-PDF]]
+- Goldenberg, S. L., & Bruchovsky, N. (1991). Use of Cyproterone Acetate in Prostate Cancer. *The Urologic Clinics of North America*, *18*(1), 111–122. \[DOI:[10.1016/S0094-0143(21)01398-7][GB91]]  \[[Archive.org][GB91-ARC]] \[[PDF][GB91-PDF]]
 - Goldenberg, S., Bruchovsky, N., Gleave, M., & Sullivan, L. (1996). Low-dose cyproterone acetate plus mini-dose diethylstilbestrol—A protocol for reversible medical castration. *Urology*, *47*(6), 882–884. \[DOI:[10.1016/s0090-4295(96)00048-9][G96]]
 - Gooren, L. J., Giltay, E. J., & Bunck, M. C. (2008). Long-Term Treatment of Transsexuals with Cross-Sex Hormones: Extensive Personal Experience. *The Journal of Clinical Endocrinology & Metabolism*, *93*(1), 19–25. \[DOI:[10.1210/jc.2007-1809][GGB08]]
 - Gräf, K., Brotherton, J., & Neumann, F. (1974). Clinical Uses of Antiandrogens. In Hughes, A., Hasan, S. H., Oertel, G. W., Voss, H. E., Bahner, F., Neumann, F., Steinbeck, H., Gräf, K.-J., Brotherton, J., Horn, H. J., & Wagner, R. K. (Eds.). *Androgens II and Antiandrogens / Androgene II und Antiandrogene* (*Handbuch der experimentellen Pharmakologie/Handbook of Experimental Pharmacology, Volume 35, Part 2*) (pp. 485–542). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-642-80859-3\_7][GBN74]]
@@ -380,13 +409,14 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 - Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., Rosenthal, S. M., Safer, J. D., Tangpricha, V., & T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society\* Clinical Practice Guideline \[2nd Version]. *The Journal of Clinical Endocrinology & Metabolism*, *102*(11), 3869–3903. \[DOI:[10.1210/jc.2017-01658][H17]] \[[PDF][H17-PDF]]
 - Jacobeit, J. W. (2019). Die hormonelle Behandlung von adulten Trans\*Personen (in Deutschland). \[Hormonal treatment of adult trans\* persons (in Germany).] *Journal für Klinische Endokrinologie und Stoffwechsel*, *12*(3), 102–110. \[DOI:[10.1007/s41969-019-00080-x][J19]]
 - Jacobi, G. H., Altwein, J. E., Kurth, K. H., Basting, R., & Hohenfellner, R. (1980). Treatment of Advanced Prostatic Cancer with Parenteral Cyproterone Acetate: A Phase III Randomised Trial\*. *British Journal of Urology*, *52*(3), 208–215. \[DOI:[10.1111/j.1464-410x.1980.tb02961.x][J80]]
-- Jacobi, G. H., Tunn, U., & Senge, T. (1982). Clinical experience with cyproterone acetate for palliation of inoperable prostate cancer. In Jacobi, G. H., & Hohenfellner, R. (Eds.). *Prostate Cancer*, *3*, 305–319. Baltimore: Williams & Wilkins. \[[Google 学术][JTS82-GS]] \[[PDF][JTS82]]
+- Jacobi, G. H., Tunn, U., & Senge, T. (1982). Clinical experience with cyproterone acetate for palliation of inoperable prostate cancer. In Jacobi, G. H., & Hohenfellner, R. (Eds.). *Prostate Cancer* (*International Perspectives in Urology, Volume 3*) (pp. 305–319). Baltimore: Williams & Wilkins.  \[[Google 学术][JTS82-GS]] \[[Google 阅读][JTS82-GB]] \[[OpenLibrary][JTS82-OL]] \[[WorldCat][JTS82-WC]] \[[Archive.org][JTS82-ARC]] \[[PDF][JTS82]]
 - Jain, J., Kwan, D., & Forcier, M. (2019). Medroxyprogesterone Acetate in Gender-Affirming Therapy for Transwomen: Results From a Retrospective Study. *The Journal of Clinical Endocrinology & Metabolism*, *104*(11), 5148–5156. \[DOI:[10.1210/jc.2018-02253][JKF19]]
 - Jequier, A. M., Bullimore, N. J., & Bishop, M. J. (1989). Cyproterone Acetate and a Small Dose of Oestrogen in the Pre-operative Management of Male Transsexuals. A Report of Three Cases. \[Cyproteronacetat und kleine Östrogendosis in dem präoperativen Management männlicher Transsexueller. Bericht über drei Fälle.] *Andrologia*, *21*(5), 456–461. \[DOI:[10.1111/j.1439-0272.1989.tb02447.x][JBB89]]
 - Johnson, D. E., Babaian, R. J., Swanson, D. A., Von Eschenbach, A. C., Wishnow, K. I., & Tenney, D. (1988). Medical castration using megestrol acetate and minidose estrogen. *Urology*, *31*(5), 371–374. \[DOI:[10.1016/0090-4295(88)90726-1][J88]]
 - Knuth, U. A., Hano, R., & Nieschlag, E. (1984). Effect of Flutamide or Cyproterone Acetate on Pituitary and Testicular Hormones in Normal Men. *The Journal of Clinical Endocrinology & Metabolism*, *59*(5), 963–969. \[DOI:[10.1210/jcem-59-5-963][KHN84]]
 - Koch, U. J., Lorenz, F., Danehl, K., & Hammerstein, J. (1975). Über die Verwendbarkeit von Cyproteronacetat zur Fertilitätshemmung beim Mann. Morphologische Veränderungen und Einflüsse auf die Spermienmotilität. *Archiv für Gynäkologie*, *219*(1–4), 581–582. \[DOI:[10.1007/bf00669258][K75]]
 - Koch, U., Lorenz, F., Danehl, K., Ericsson, R., Hasan, S., Keyserlingk, D., Lübke, K., Mehring, M., Römmler, A., Schwartz, U., & Hammerstein, J. (1976). Continuous oral low-dosage cyproterone acetate for fertility regulation in the male? A trend analysis in 15 volunteers. *Contraception*, *14*(2), 117–135. \[DOI:[10.1016/0010-7824(76)90081-0][K76]]
+- Korpaisarn, S., Arunakul, J., Chaisuksombat, K., & Rattananukrom, T. (2023). A Low Dose Cyproterone Acetate In Feminizing Hormone Treatment. *Journal of the Endocrine Society*, *7*(Suppl 1), A1098–A1099 (abstract no. SAT397/bvad114.2068). \[DOI:[10.1210/jendso/bvad114.2068][K23]]
 - Kranz, G. S., Seiger, R., Kaufmann, U., Hummer, A., Hahn, A., Ganger, S., Tik, M., Windischberger, C., Kasper, S., & Lanzenberger, R. (2017). Effects of sex hormone treatment on white matter microstructure in individuals with gender dysphoria. *NeuroImage*, *150*, 60–67. \[DOI:[10.1016/j.neuroimage.2017.02.027][K17]]
 - Kranz, G. S., Kaufmann, U., & Lanzenberger, R. (2020). Probing the Impact of Gender-Affirming Hormone Treatment on Odor Perception. *Chemical Senses*, *45*(1), 37–44. \[DOI:[10.1093/chemse/bjz069][KKL20]]
 - Kuijpers, S. M., Wiepjes, C. M., Conemans, E. B., Fisher, A. D., T’Sjoen, G., & den Heijer, M. (2021). Toward a Lowest Effective Dose of Cyproterone Acetate in Trans Women: Results From the ENIGI Study. *The Journal of Clinical Endocrinology & Metabolism*, *106*(10), e3936–e3945. \[DOI:[10.1210/clinem/dgab427][K21]]
@@ -435,12 +465,14 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 - Vita, R., Settineri, S., Liotta, M., Benvenga, S., & Trimarchi, F. (2018). Changes in hormonal and metabolic parameters in transgender subjects on cross-sex hormone therapy: A cohort study. *Maturitas*, *107*, 92–96. \[DOI:[10.1016/j.maturitas.2017.10.012][V18]]
 - Vlot, M. C., Wiepjes, C. M., Jongh, R. T., T’Sjoen, G., Heijboer, A. C., & den Heijer, M. (2019). Gender‐Affirming Hormone Treatment Decreases Bone Turnover in Transwomen and Older Transmen. *Journal of Bone and Mineral Research*, *34*(10), 1862–1872. \[DOI:[10.1002/jbmr.3762][VLOT19]]
 - Wang, C., & Yeung, K. (1980). Use of low-dosage oral cyproterone acetate as a male contraceptive. *Contraception*, *21*(3), 245–272. \[DOI:[10.1016/0010-7824(80)90005-0][WY80]]
+- Warzywoda, S., Fowler, J. A., Wood, P., Bisshop, F., Russell, D., Luu, H., Kelly, M., Featherstone, V., & Dean, J. A. (2024). How low can you go? Titrating the lowest effective dose of cyproterone acetate for transgender and gender diverse people who request feminizing hormones. *International Journal of Transgender Health*, advance online publication. \[DOI:[10.1080/26895269.2024.2317395][W24]]
 - Wiepjes, C. M., Vlot, M. C., Klaver, M., Nota, N. M., de Blok, C. J., de Jongh, R. T., Lips, P., Heijboer, A. C., Fisher, A. D., Schreiner, T., T’Sjoen, G., & den Heijer, M. (2017). Bone Mineral Density Increases in Trans Persons After 1 Year of Hormonal Treatment: A Multicenter Prospective Observational Study. *Journal of Bone and Mineral Research*, *32*(6), 1252–1260. \[DOI:[10.1002/jbmr.3102][W17]]
 - Wiepjes, C. M., Vlot, M. C., de Blok, C. J., Nota, N. M., de Jongh, R. T., & den Heijer, M. (2019). Bone geometry and trabecular bone score in transgender people before and after short- and long-term hormonal treatment. *Bone*, *127*, 280–286. \[DOI:[10.1016/j.bone.2019.06.029][W19]]
 - Wierckx, K., Mueller, S., Weyers, S., Van Caenegem, E., Roef, G., Heylens, G., & T’Sjoen, G. (2012). Long‐Term Evaluation of Cross‐Sex Hormone Treatment in Transsexual Persons. *The Journal of Sexual Medicine*, *9*(10), 2641–2651. \[DOI:[10.1111/j.1743-6109.2012.02876.x][W12]]
 - Wierckx, K., Van Caenegem, E., Schreiner, T., Haraldsen, I., Fisher, A., Toye, K., Kaufman, J. M., & T’Sjoen, G. (2014). Cross‐Sex Hormone Therapy in Trans Persons Is Safe and Effective at Short‐Time Follow‐Up: Results from the European Network for the Investigation of Gender Incongruence. *The Journal of Sexual Medicine*, *11*(8), 1999–2011. \[DOI:[10.1111/jsm.12571][W14]]
 - Winkler-Crepaz, K., Müller, A., Böttcher, B., & Wildt, L. (2017). Hormonbehandlung bei Transgenderpatienten. \[Hormone treatment of transgender patients.] *Gynäkologische Endokrinologie*, *15*(1), 39–42. \[DOI:[10.1007/s10304-016-0116-9][WC17]]
 - Winters, S. J., Wang, C., & Fortigel Study Group. (2013). LH and Non-SHBG Testosterone and Estradiol Levels During Testosterone Replacement of Hypogonadal Men: Further Evidence That Steroid Negative Feedback Increases as Men Grow Older. *Journal of Andrology*, *31*(3), 281–287. \[DOI:[10.2164/jandrol.109.009035][WWF13]]
+- Yang, W., Hong, T., Chang, X., Han, M., Gao, H., Pan, B., Zhao, Z., & Liu, Y. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. *International Journal of Transgender Health*, advance online publication. \[DOI:[10.1080/26895269.2024.2323514][Y24]]
 - Zitzmann, M., Rohayem, J., Raidt, J., Kliesch, S., Kumar, N., Sitruk-Ware, R., & Nieschlag, E. (2017). Impact of various progestins with or without transdermal testosterone on gonadotropin levels for non-invasive hormonal male contraception: a randomized clinical trial. *Andrology*, *5*(3), 516–526. \[DOI:[10.1111/andr.12328][Z17]]
 - Zubiaurre-Elorza, L., Junque, C., Gómez-Gil, E., & Guillamon, A. (2014). Effects of Cross-Sex Hormone Treatment on Cortical Thickness in Transsexual Individuals. *The Journal of Sexual Medicine*, *11*(5), 1248–1261. \[DOI:[10.1111/jsm.12491][ZE14]]
 
@@ -457,6 +489,7 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 2023 年 3 月 29 日,更新诸后记标题。
 2023 年 4 月 4 日,第三次修订，增补“表一”和诸表格标题，更新个别叙述，添加相关文献。
 2023 年 6 月 29 日,更正“己烯雌酚”译名。
+2024 年 10 月 27 日,第四次修订，增补后记六、七，更新参考文献和链接。
 ```
 
 <!-- 外源图片及表格 -->
@@ -478,7 +511,7 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 [table3]: https://en.wikipedia.org/wiki/Template:Published_case_reports_of_cyproterone_acetate-associated_prolactinoma
 [table4]: https://en.wikipedia.org/wiki/Template:Published_case_reports_of_cyproterone_acetate-associated_liver_toxicity
 
-[pic1]: https://imgur.com/a/SAr46aj
+[pic1]: https://archive.is/0Te66
 
 <!-- 维基百科条目 -->
 
@@ -670,7 +703,7 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 [M82-GS]: https://scholar.google.com/scholar?cluster=9581511158084858663
 [N12-GS]: https://scholar.google.com/scholar?cluster=17139352108227037971
 [O18-PDF]: https://researchcommons.waikato.ac.nz/bitstream/handle/10289/12160/Guidelines%20for%20Gender%20Affirming%20Health%20low%20res.pdf
-[P70C-GB]: https://books.google.com/books?id=bAihBgAAQBAJ&amp%3Bpg=PA428
+[P70C-GB]: https://books.google.com/books?id=bAihBgAAQBAJ&pg=PA428
 [P70C-WC]: https://worldcat.org/title/419096
 [P70C-PDF]: https://files.transfemscience.org/pdfs/Petry%20et%20al.%20%281970%29%20-%20%C3%9Cber%20den%20Einflu%C3%9F%20von%20Cyproteronacetat,%20Norethisteron%C3%B6nanthat%20und%20Gestonoroncapronat%20auf%20die%20Hypophysen-Gonadenachse%20beim%20Mann.pdf
 [P70B-GS]: https://scholar.google.com/scholar?cluster=16507195795753926943
@@ -680,6 +713,25 @@ CPA 剂量,不服用,10 mg/天,25 mg/天,50 mg/天,100 mg/天
 [S87-GS]: https://scholar.google.com/scholar?as_sdt=1%2C5&q=author%3A%22KJ+saborowski%22&hl=en
 [S87-GB]: https://books.google.com/books?id=9JeKGwAACAAJ
 [S87-PDF]: https://files.transfemscience.org/pdfs/Saborowski%20(1987)%20-%20Konservative%20Therapie%20mit%20Cyproteronacetat%20und%20Estradiolundecylat%20beim%20Fortgeschrittenen%20Prostatacarcinom_%20Eine%205-Jahres-Studie.pdf
-[S87-ENG]: https://docs.google.com/document/d/1s_Z4BXEd3chb4jG6eOSHoSbAwRCynhV3LtKKD_ZI3H8/view
+[S87-ENG]: https://files.transfemscience.org/pdfs/translations/Saborowski%20%281987%29%20-%20Konservative%20Therapie%20mit%20Cyproteronacetat%20und%20Estradiolundecylat%20beim%20Fortgeschrittenen%20Prostatacarcinom_%20Eine%205-Jahres-Studie.pdf
 [S20-PDF]: https://files.transfemscience.org/pdfs/Sofer%20et%20al.%20(2020)%20-%20Differential%20Endocrine%20and%20Metabolic%20Effects%20of%20Testosterone%20Suppressive%20Agents%20in%20Transgender%20Women.pdf
 [V88-GS]: https://scholar.google.com/scholar?cluster=2098198133343723877
+
+[W24]: https://doi.org/10.1080/26895269.2024.2317395
+[A23A]: https://ashm.eventsair.com/QuickEventWebsitePortal/auspath-conference-2023/aus24/Agenda/AgendaItemDetail?id=0c7c2d1d-21c4-4b21-920f-99446f96a548
+[A23A-PDF]: https://az659834.vo.msecnd.net/eventsairaueprod/production-ashm-public/edf3c55f8a984f5390d32e5a2c0093fb
+[A23A-THR]: https://www.transresearch.org.au/post/2023_auspath
+[A23B]: https://esa-srb-2023.p.asnevents.com.au/days/2023-11-28/abstract/94713
+[A23B-PDF]: https://files.transfemscience.org/pdfs/Angus%20et%20al.%20%282023%29%20-%20The%20effect%20of%20cyproterone%20and%20spironolactone%20on%20breast%20development%20in%20transgender%20women_%20a%20randomised%20controlled%20trial%20%28ESA-SRB-ENSA%202023,%20abstract%20no.%20132%29.pdf
+[A23B-EXC]: https://www.endocrinesociety.org.au/All%20abstracts%202023%20ESA&SRB.pdf#page=54
+[A23B-THR]: https://medicine.unimelb.edu.au/mms/mms-staff-news/newsletter-issue-30-december-2023/dr-lachlan-angus-awarded-bryan-hudson-clinical-endocrinology-award
+[FVT23]: https://www.endocrine-abstracts.org/ea/0097/ea0097007
+[FVT23-PDF]: https://www.endocrine-abstracts.org/media/031my3zu/bes2023_abstractbook.pdf#page=5
+[GB91-ARC]: https://archive.org/details/sim_urologic-clinics-of-north-america_1991-02_18_1/page/111/
+[G91-ARC]: https://archive.org/details/sim_urologic-clinics-of-north-america_1991-02_18_1/page/83/
+[JTS82-GB]: https://books.google.com/books?id=4HNrAAAAMAAJ
+[JTS82-OL]: https://openlibrary.org/works/OL18872483W/Prostate_cancer
+[JTS82-WC]: https://worldcat.org/title/7812851
+[JTS82-ARC]: https://archive.org/details/prostatecancer0000unse_l5i2/page/305/
+[K23]: https://doi.org/10.1210/jendso/bvad114.2068
+[Y24]: https://doi.org/10.1080/26895269.2024.2323514
