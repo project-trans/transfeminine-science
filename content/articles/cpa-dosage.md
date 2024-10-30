@@ -14,7 +14,7 @@ tags:
   - 抗雄激素制剂
   - 用药安全
   - 用药途径与剂量
-trackHash: 9647d91f8140784cd1b54bab2d3e2a6552fafa9d
+trackHash: 1d825b9085cddad0426e17745913587e7fa6f49d
 keywords: [醋酸环丙孕酮, 色谱龙, 抗雄激素, 副作用, 用法用量]
 aliases: /articles/cpa-dosage
 ---
