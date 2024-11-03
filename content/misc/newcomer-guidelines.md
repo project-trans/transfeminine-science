@@ -7,44 +7,88 @@ aliases: /misc/newcomer-guidelines
 
 为符合原站文章的高标准，并为所有新译文提供一个统一、可重复的指引，特此列出翻译应当注意的要素。其中许多也适用于本站以外的其它翻译要求。
 
-最后更新：2023 年 2 月 28 日
+最后更新：2024 年 11 月 3 日
 
 ## 一、基本要求 {#concepts}
 
 1. **如实、准确传达原文内容。**
 1. 在“如实传达”的基础上，尽量做到“**信达雅**”。
-1. 如以 Markdown 文档的形式投稿，电脑必须已安装 [Hugo](https://gohugo.io)，以便检查格式。
+1. **投稿范围：** 包括但不限于 *Transfeminine Science* 已发表文章的译文，已上市药品说明书的中文抄录本或翻译，基于学术论文风格的原创文章等。
 
 ## 二、细则 {#rules}
 
 1. 用语简练，行文通顺，消除语病。尽量避免口语化的叙述。可以参考中文医学文献，了解如何遣词排句。
-1. 除“参考文献”（References）一节外，正文内容必须全部翻译。\
-  例外：正文中插入的引用文献仅翻译标题，于原标题后括注。
+1. 正文内容必须全部翻译；但是，“参考文献”（References）一节和正文中插入的引用文献不翻译。
 1. 一切医学、统计学等术语应在全站——或*至少* 在同一文章内——有一致、准确的译名。一般绝大多数术语可通过在线词典查询到中文意义，如遇难以检索者，可参考现有译文的解释（另见[附录二]({{< ref "#indefinitive-words" >}})），或尝试搜索“统计学 SD”等。
-1. 一切缩写必须在其初次出现时解释其意义，此后可沿用缩写（但可能造成混淆的除外）。此外，极个别疑似缩写（如斜体字 *P* ——统计学的一种概念 P 值）本身就是全称，无需作解释。\
+1. 一切缩写必须在其初次出现时解释其意义，此后可沿用缩写（但可能造成混淆的除外）。此外，极个别疑似缩写（如斜体字 *P* ——统计学的一种概念 P 值；N——样本数）本身就是全称，无需作解释。\
    缩写译名参考见[附录一]({{< ref "#abbreviations" >}})。
-1. 某些非术语词汇的原意可能并不常用（如“caveat”，常用意“警告”，一说“问题/疑问”）。翻译时必须留意非术语词汇的常用意是否能使整句通顺，并参考在线词典给出的例句。
+1. 某些通用词汇的原意可能并不常用（如“caveat”，常用意“警告”，一说“问题/疑问”）。翻译时必须留意通用词汇的常用意是否能使整句通顺，并参考在线词典给出的例句。
 1. 人名（如 Tanner）一律不译。机构、企业、组织等名称（含缩写）可酌情翻译。
+1. 地名，县级以下不译。
 1. 数字单位一般不译。但有*完整* 英文单词的（如“mg/day”）除外；对此仅翻译其中的*完整* 单词（如译作“mg/天”）。
 1. 图片、表格等应有序号，无论原文是否有之。
 1. **如以 Markdown 文档的形式投稿**，排版、格式须符合 Markdown 语言规范，且原则上尽量接近原文。此外建议如下：
-   - 不建议将链接置于稿件正文内，而应使用“声明式链接”（即正文内链接采用 `[链接][link-tag1]` 的形式，而后将 URL 置于文末：`[link-tag1]: https://www.example.com` ）。
+   - 建议投稿前在自己电脑上预览效果（**非强制**）。需安装 [Hugo](https://gohugo.io)、[Node.js](https://nodejs.org)和 NPM。检查方法见[附录五]({{< ref "#self-check" >}})。
+   - 建议添加 Front Matter（**非强制**），格式见[附录四]({{< ref "#front-matter" >}})和各译文草稿头部。
+   - 不建议将链接置于稿件正文内，而应使用“声明式链接”，以提升草稿整洁度（即正文内链接采用 `[链接][link-tag1]` 的形式，而后将 URL 置于文末：`[link-tag1]: https://www.example.com` ）。
    - 建议为所有在正文内标注引用文献的括注前后分别添加 `<sup>` 和 `</sup>`，使文章更易于阅读。
    - 图片、表格（含附注）上下分别插入 `<section class="box">` 和 `</section>` ，以与正文区分。
    - 图片、表格附注无需使用小号字体，但应为每个序号断行，序号应改为数字（如 `(1)... (2)...` ）。
-   - 表格可使用 CSV 格式，在前后分别插入一行 ` ```csv ` 和 ` ``` `。
+   - 表格可使用 CSV 格式，在前后分别插入一行 ` ```csv ` 和 ` ``` `。列与列之间以逗号 `,` 分隔。
    - 本站提供了若干链接模板（即 Hugo 的 shortcode 功能），便于站内引用、插入图片等，详见 [Hugo 文档](https://gohugo.io/content-management/shortcodes/)。
 1. 未尽事宜可参考 [Bersella AI]({{< ref "about#bersella-ai" >}}) 自行完成的各译文底稿之细节。
+1. 本项目志愿者可能会将新译文转发到 Telegram 频道、𝕏（原 Twitter）平台以及 *[Limonnur](https://forum.limonnur.party/)* 社区（原 *Limelight* 社区）的“知识库”专栏。投稿即视为同意转发。
 
-## 三、可用资源 {#resources}
+## 三、可用资源和辅助工具 {#resources}
 
-- **[有道词典](https://www.youdao.com)**——收录非术语词汇、大多数缩写和医学术语词汇，免费使用。
-- **Markdown 格式原文底稿**——节约排版时间，便于翻译。因涉及版权问题，底稿仅限内部使用，可[联系 MtF.wiki 项目组成员]({{< ref "about#contact-translators" >}})取得底稿。\
-  作为替代，可以考虑使用 HTML 转换为 Markdown 的工具（搜索 `html to markdown`；[这款](https://www.convertsimple.com/convert-html-to-markdown/)经测试效果不错）。转换前，需要在原网页打开开发者选项（`F12` 键），在“元素”或“查看器”处复制 `<div id="article">` 以内所有 HTML 内容。
+> ⚠️ ***警告！*** 利用以下资源或工具的目的<u>应仅限于</u>**志愿参与本项目的工作**。除此以外的二次、三次创作行为均未经授权，涉嫌违反原站[版权声明]({{< ref "#license" >}})。务必在本项目的框架内，和现有志愿者协作进行翻译。
+>
+> **请勿将转换为 Markdown 格式的原文底稿公开流通。**
+>
+> 药品说明书等补充材料的翻译与 *Transfeminine Science* 无关，不适用上述警示语。
+
+### 3.1 Markdown 格式原文底稿 {#markdown-transcription}
+
+Project Trans 内部有经原文转换的 Markdown 底稿，便于编辑；因涉及版权问题，这批底稿仅限于内部流通，敬请谅解。在本项目协作框架内，译者可申请使用指定的底稿材料。
+
+对于药品说明书等附加内容，建议肉眼观察原文，逐字抄录或翻译。已知某些中文说明书经过数字化扫描后，底稿出现若干错别字的问题；扫描后未经核对即投稿者，可能会被驳回。
+
+### 3.2 词汇检索工具 {#dictionary}
+
+- **[有道词典](https://www.youdao.com)**——收录通用词汇、缩写和大多数医学、生物、化学等专业词汇，免费使用。
+- 《牛津高阶英汉词典》——通用词汇权威解释，但查阅纸质书稍显繁琐。专业术语收录极少。
+
+### 3.3 机器翻译工具 {#machine-translation}
+
+**注意： 机器翻译结果不能简单替代人工翻译，而应作翻译过程中的辅助理解之用。如提交明显出自机器翻译、且未经人工核对的译文，有极大可能会被驳回。**
+
+- **[Google 翻译](https://translate.google.com)**：全球都在用的在线翻译平台，支持中文、英文和多国语言。  
+  本站偶有非英语材料的翻译需求（如[德语 Androcur 说明书]({{< ref "androcur-de" >}})）；如对英语熟悉而对其它语言不熟悉，推荐先整体翻译为英文，再人工翻译至中文。Google 翻译中，德-英翻译准确率远高于德-中翻译。
+- **[Pot](https://pot-app.com)**：跨平台翻译工具，原生支持 DeepL、必应（开箱即用）和阿里、智谱、OpenAI 等多种云服务（需手工配置）。
+- **大语言模型**：已确认 OpenAI *ChatGPT*、智谱 *ChatGLM/GLM-4*、阿里“*通义千问*”等模型具备多语言能力，可接受翻译指令。需自行配置相关服务。  
+  但是，也有无需复杂配置的配套客户端，如 [ChatGPT 客户端](https://openai.com/chatgpt/download/)和“[智谱清言](https://chatglm.cn)”。
+
+### 3.4 文本编辑器 {#editors}
+
+- **[Visual Studio Code](https://code.visualstudio.com)**：编辑器的集大成者，Markdown 支持良好，插件充足，有中文界面（需手动安装插件 `Chinese (Simplified/Traditional) Language Pack`）。
+- **[Zed](https://zed.dev)**：新兴的开源编辑器之一。功能多缺失，且仅有英文显示，不推荐新手使用。
+- **GitHub 在线编辑**：可以先分叉（fork）[本项目仓库](https://github.com/project-trans/transfeminine-science)，在自己名下在线编辑译文草稿，保存即视为提交（commit），之后可利用此次 commit 发起 Pull Request。省心省力，但缺点是预览较困难；推荐以 Git 拉取后在本机上预览。  
+
+### 3.5 药品上市状况和说明书查询 {#regulatory-offices}
+
+- 中国[国家药品管理局数据查询](https://www.nmpa.gov.cn/datasearch/home-index.html?category=yp)（中国大陆上市情况）
+- 香港[药剂业及毒药管理局](https://www.drugoffice.gov.hk/gb/unigb/www.drugoffice.gov.hk/eps/do/tc/consumer/search_drug_database2.html)（中国香港上市情况）
+
+
++ 美国[食品药品管理局](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)（FDA）（美国上市状况和药品说明书）
++ 新西兰药品和医疗器械安全管理局（[上市状况](https://www.medsafe.govt.nz/regulatory/dbsearch.asp)；[患者用药品说明书查询](https://www.medsafe.govt.nz/consumers/educational-material.asp)）
++ [Medley.life](https://medley.life/medicines/prescription)（日本上市状况和日语说明书）
++ 欧盟诸国药品管理机构[一览](https://www.ema.europa.eu/en/medicines/national-registers-authorised-medicines)
+   + 德国[联邦药品和医疗器械研究所](https://auth.bfarm.de/sso-home/amguifree)（BfArM）（德国上市状况和德语说明书）
 
 ## 四、示例 {#practices}
 
-最近一位热心读者 [Aquaticat]({{< ref "about#aquaticat" >}}) 联系到 Wiki 项目组成员，希望参与翻译项目；其通过 [Pull Request #7](https://github.com/project-trans/transfeminine-science/pull/7) 投稿，在项目组的指引下前前后后修正超过 50 处问题。尽管该稿件从质量上不尽人意，但其问题基本上覆盖了翻译中常见的错误，具备一定指导意义。勘误细节参见[附录三]({{< ref "#erratum" >}})。
+2023 年初，一位热心读者 [Aquaticat]({{< ref "about#aquaticat" >}}) 联系到项目组成员，希望参与翻译项目；其通过 [Pull Request #7](https://github.com/project-trans/transfeminine-science/pull/7) 投稿，在项目组的指引下先后修正超过 50 处问题。尽管该稿件从质量上不尽人意，但其问题基本上覆盖了翻译中常见的错误，具备一定参考意义。勘误细节参见[附录三]({{< ref "#erratum" >}})。
 
 --------
 
@@ -103,28 +147,30 @@ ND,癸酸诺龙,
 CAIS,完全性雄激素不敏感综合征,
 PCOS,多囊卵巢综合征,
 VTE,静脉血栓栓塞,
+PE,肺栓塞,
 **实验室检测手段**,,
 HPLC-MS,高压液相色谱—质谱联用测定法,可略去“测定”，下同
 LC-MS,液相色谱—质谱联用测定法,
 MS,质谱测定法,
 RIA,放射免疫测定法,
 *Log P*,*亲脂性*,
-**统计学术语**,,**原则上需全部翻译并替换原缩写**
+**统计学术语**,,
 SD,标准差,
 S.I.,*国际单位*,法语缩写
-95% CI,95% 置信区间,一作“95% 可信区间”
+95% CI,95% 置信区间,一作“95% 可信区间”；可不译
 *P*,\-,统计学概念，*P* 越小，结果显著性越高，可不译
-μM,微摩尔浓度,即 μmol/L
-nM,纳摩尔浓度,即 nmol/L
-pM,皮摩尔浓度,即 pmol/L
-**药理学术语**,,
+N,\-,统计学指“样本数”，可不译
+μM,\-,微摩尔浓度，即 μmol/L
+nM,\-,纳摩尔浓度，即 nmol/L
+pM,\-,皮摩尔浓度，即 pmol/L
+**药代动力学术语**,,
 C<sub>max</sub>,血药浓度峰值,可略去“血药”，下同
 T<sub>max</sub>,血药浓度达峰用时,
 C<sub>min</sub>,血药浓度谷值,
 C<sub>avg</sub>,血药综合平均浓度,
 t<sub>1/2</sub>,*血药消除半衰期*,一作“清除半衰期”
 t<sub>90%</sub>,*血药消除 90% 用时*,一作“清除 90% 用时”
-AUC<sub>0-∞</sub>,血药曲线下面积,药理学概念，表示药物的生物利用度
+AUC<sub>0-∞</sub>,血药曲线下面积,药物服用后一定时间内的吸收总量，也译为“总暴露剂量”\n下标“0-∞”即无穷时间内；可能会指定“0-24”，即 24 小时总暴露量
 ```
 
 ## 附录二、未确定的术语译名一览 {#indefinitive-words}
@@ -144,7 +190,7 @@ Transfeminine people,女性倾向跨性别者
 
 ## 附录三、对 Pull Request #7 的勘误 {#erratum}
 
-> 被翻译的原文参见《[顺性别女性发育期的激素水平](https://transfemscience.org/articles/hormone-levels-female-puberty/)》。
+> 被翻译的原文参见《[顺性别女性发育期的激素水平](https://transfemscience.org/articles/hormone-levels-female-puberty/)》（Aly 著）。
 
 ### 原始稿件的勘误 {#errata-unrevised}
 
@@ -178,6 +224,8 @@ Tables. [[PDF](https://web.archive.org/web/20200330030510/https://www.esoterix.c
 ```
 
 此处属于正文内插入的文献，译者也的确翻译了标题。不过“SI”缩写未被解释；尽管其有多个解释，但结合其后的“单位换算”来看，取法文“国际单位”更合理。
+
+现在不再要求翻译正文插入的文献标题。
 
 **第 40~51 行的表格：**
 
@@ -239,7 +287,8 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 | 发育阶段   | 数据个数（n） | 平均年龄       | 雌二醇平均值（pg/mL） | 雌二醇范围（pg/mL） |
 ```
 
-注意“n”的意思。一般指统计学中的“样本数”，但“n”本身可以指人数，也可以指采样次数，应当视上下文变通。此处可以视作人数，而在《注射用雌二醇荟萃分析》中要视为“注射人次”。
+~~注意“n”的意思。一般指统计学中的“样本数”，但“n”本身可以指人数，也可以指采样次数，应当视上下文变通。此处可以视作人数，而在《注射用雌二醇荟萃分析》中要视为“注射人次”。~~  
+更正：目前不再要求翻译“N”。
 
 **第 108~110 行：** 这段引用文献的标题未被翻译。此前已多次提示有遗漏之处。
 
@@ -350,7 +399,7 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 第二次修订后的全文见此 [commit](https://github.com/project-trans/transfeminine-science/pull/7/commits/09755b3b65eef8eec4717bcb2b5932473660b0e7)。
 
 **第 140~147 行表格：** 数据与原文对应的 Madsen et al. (2020) 所列数据南辕北辙。这提示在手打数据时应仔细校对。\
-不过，内部使用的 [Markdown 底稿]({{< ref "#resources" >}})可以避免数据出错。
+不过，内部使用的 [Markdown 底稿]({{< ref "#markdown-transcription" >}})可以减少数据出错的可能性。
 
 **第 167 行：**
 
@@ -384,3 +433,43 @@ Tanner（音译：谭纳）为人名，无需翻译。青春期乳房发育的�
 > 一种新型的血清睾丸激素串联质谱分析法的性能和特点。
 
 细则第 3 条：同一术语应*至少* 在同一文章内有一致的译名。不能这边用“睾丸激素”，那边用“睾酮”。
+
+## 附录四、Front Matter 格式（非强制） {#front-matter}
+
+**Front Matter**，即每篇 *Transfeminine Science* 译文及其草稿头部均附有的额外信息，包括原作者、译者、发布日期等。此处作简要解释。  
+提交新译文时，不要求自行填写 Front Matter，本项目的志愿者可协助填写。
+
+|字段名|介绍|
+|-|-|
+| `title` | 标题全称，示于正文顶部、搜索引擎和社交平台的预览卡片。 |
+| `linkTitle` | 标题简称，示于“存档”一页。 |
+| `description` | 译文摘要，示于“存档”一页、搜索引擎和社交平台的预览卡片。 |
+| `author` | 原作者。以下四者之一：Aly、Sam、Lain 和 Mitzu。 |
+| `translators` | 译者。可多于一人，以列表/数组的形式列出。 |
+| `published` | 首次发表日期。对应原文“First published”，格式为“年-月-日”。 |
+| `updated` | 最后修订日期。对应原文“Last modified”。 |
+| `translated` | 翻译日期，以最近一次编辑为准。<br>如编辑多于一次，宜考虑于译文末尾（参考文献之后）记录修订情况。 |
+| `tags` | 文章标签，供搜索引擎检索，不对外展示。形式为列表或数组。 |
+| `keywords` | 文章关键词，供读者了解译文概要。形式为列表或数组。 |
+| `aliases` | 旧链接地址，便于站内跳转。<br>在本站用于自未指定简体或繁体页面的链接跳转。 |
+| `trackHash` | 内部追溯码，无需填写，也不会对外显示。 |
+
+## 附录五、在自己电脑上检查格式的方法（非强制） {#self-check}
+
+以下方法对 Project Trans 其他项目（如 MtF.wiki）的仓库也适用。MtF.wiki 仓库目前对活跃 Pull Request 提供了在线预览的便利，考虑将来推广到本站仓库。
+
+1. 电脑上安装好 [Hugo](https://gohugo.io)。  
+   在 Windows 上需[自行获取](https://github.com/gohugoio/hugo/releases)其可执行程序文件（`.exe`），可借助命令行上的包管理器 [Chocolatey](https://chocolatey.org/) 取得；  
+   在 Mac OS 上同样需借助包管理器 [Homebrew](https://brew.sh/)；  
+   多种 Linux 发行版有 `hugo` 软件包提供。
+   **注意：** 文件名或版本号后必须有明确 `extended` 后缀；通过命令行键入 `hugo --version` 确认。
+1. 电脑上安装好 [Node.js](https://nodejs.org) 和 NPM。  
+   在 Windows 上，NPM 随 [Node.js 安装包](https://registry.npmmirror.com/binary.html?path=node/latest-jod/) `node-v22.x-x64.msi` 分发；在 Linux 和 Mac OS 上，二者可能分属于独立的软件包，需分别获取。  
+   可能还需配置 NPM 镜像以加快拉取速度；在中国大陆推荐 [NPM Mirror](https://npmmirror.com)。
+1. 安装 Git，拉取本项目仓库。注意：如希望创建 Pull Request，需先分叉（fork）到自己账户上再拉取，确保有权限提交新更改。  
+   替代方案：可下载本项目仓库的 zip 压缩包并解压。这种情况下不支持提交新的分支。
+1. 拉取本仓库以后，在本仓库所在位置打开命令行，执行：`npm i`。
+1. 然后，执行 `hugo server -D`，并通过浏览器访问 `localhost:1313`，即可预览草稿。  
+   如未通过包管理器取得 Hugo，而有独立的可执行文件，需将之复制到本仓库目录下，且将命令中的 `hugo` 替换为 `./hugo`；测试后删除之，避免随草稿一并提交。
+
+如不具备条件，可暂为利用 Visual Studio Code 内置的预览功能（右上角“双面板 + 放大镜”图案）。需要注意，该功能不支持 Hugo shortcode 模板、CSV 表格以及 Front Matter 的预览。
