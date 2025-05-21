@@ -14,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
-      - uses: actions/checkout@v3
+      - name: Check out current branch
+        uses: actions/checkout@v4
       - name: Prepare Alpine Linux with tools (latest)
         uses: jirutka/setup-alpine@v1
         with:
