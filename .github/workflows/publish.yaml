@@ -8,41 +8,36 @@ on:
       - .github
       - README.md
       - LICENSE
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
-      - name: Check out current branch
+      - name: checkout
         uses: actions/checkout@v4
-      - name: Prepare Alpine Linux with tools (latest)
-        uses: jirutka/setup-alpine@v1
         with:
-          extra-repositories: |
-            https://dl-cdn.alpinelinux.org/alpine/edge/community
-          packages: >
-            bash
-            hugo
-            nodejs
-            npm
-            opencc
-            git
-      - name: Execute OpenCC in Alpine
-        run: bash ./scripts/opencc.sh
-        shell: alpine.sh {0}
-      - name: Prepare Node.js packages in Alpine
-        run: npm ci
-        shell: alpine.sh {0}
-      - name: Build the site in Alpine
-        run: hugo --minify
-        env:
-          HUGO_DISABLELANGUAGES: 'en'
-        shell: alpine.sh {0}
-      - name: Upload to CloudFlare
-        run: npx wrangler pages deploy public --project-name tfsci --branch main
-        if: github.ref == 'refs/heads/main'
-        env:
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-        shell: bash
+          fetch-depth: 0
+          submodules: true
+
+      - uses: DeterminateSystems/nix-installer-action@main
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm install
+
+      - name: Build site
+        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo
+
+      - name: Deploy to Cloudflare Pages
+        id: deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: pages deploy public --project-name=tfsci
