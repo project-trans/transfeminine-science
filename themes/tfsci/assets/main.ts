@@ -12,6 +12,7 @@ Promise.resolve()
   .then(onSaveAnchor)
   .then(onRestoreEmailAddress)
   .then(onReferenceLinks)
+  .then(onReferenceSection)
   .then(onAbbreviation)
   .then(onLinkTitle)
 
@@ -65,6 +66,14 @@ function onRestoreEmailAddress() {
       link.textContent = address
     }
   }
+}
+
+function onReferenceSection() {
+  const content = document.querySelector('article.content')
+  if (!content) return
+  const references = content.querySelector('#references + ul')
+  if (!references) return
+  references.classList.add('wrap')
 }
 
 function onReferenceLinks() {

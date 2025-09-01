@@ -95,6 +95,15 @@ main > .container {
   li > ol:last-child {
     margin-top: 0.25em;
   }
+
+  ul.wrap li,
+  ol.wrap li {
+    &,
+    a {
+      text-wrap: wrap;
+      word-break: break-all;
+    }
+  }
 }
 
 .content.archives {
