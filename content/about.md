@@ -2,7 +2,7 @@
 title: 关于本站
 linkTitle: 关于
 description: 关于 Transfeminine Science 以及中文译本存档站的详情
-trackHash: c17ddbc53fcd09bfbdc87887cbb4dd94e778dc48
+trackHash: d145356b41022136cf9bee9202e7723c9ea67bb3
 aliases: /about
 weight: 4
 ---
@@ -10,7 +10,9 @@ weight: 4
 <section class="box">
 
 **本站概况与介绍请见[首页]({{< ref "/" >}})。**\
-**以下翻译自原站点“[关于本站](https://transfemscience.org/about/)”页面；关于本翻译项目请见[下文]({{< ref "#translation-project" >}})。为与原站区分，以下“本站”仅代指本翻译项目。**
+**以下翻译自原站点“[关于本站](https://transfemscience.org/about/)”页面；关于本翻译项目请见[下文]({{< ref "#translation-project" >}})。为与原站区分，以下不再使用“本站”一称。**
+
+最后更新：2025 年 10 月 9 日
 
 </section>
 
@@ -26,9 +28,11 @@ weight: 4
 
 ### Aly {#aly}
 
-Aly （代词：她）来自美国加利福尼亚州，是一名跨性别女性。总的而言，她长期对女性化激素疗法和药理学抱有浓厚兴趣。Aly 于 2010 年代初开始了性别转变过程，并对跨性别医学文献进行了探究。她以最优异成绩毕业于[加州大学][wiki-uc]，取得学士学位。Aly 还完成了若干医学预科课程，并在加州大学的研究室担任一年左右的助教。除医学外，Aly 还拥有计算机编程、网页开发等经验。
+Aly （代词：她）来自美国加利福尼亚州，是一名跨性别女性。总的而言，她长期对女性化激素疗法和药理学抱有浓厚兴趣。Aly 于 2010 年代初开始了性别转变过程，并对跨性别医学文献进行了探究。
 
-Aly 曾作为志愿编辑者，在维基百科社区活跃多年。她长期以来曾在维基百科医学栏目做出丰硕成果，在性激素药理学方面贡献颇多；此后她决定退出维基百科的编辑工作。Aly 曾在维基百科上简短引用 *Transfeminine Science* 内容，其中绝大部分来自她本人的文章。
+她以最优异成绩毕业于[加州大学][wiki-uc]，拥有学士学位。Aly 还完成了若干医学预科课程，并在加州大学的研究室任职约一年。除医学外，Aly 还拥有计算机编程、网页开发等经验。
+
+Aly 是维基百科的志愿编辑者之一。她长期以来在维基百科医学栏目做出丰硕成果，在性激素药理学、精神药理学等方面贡献颇多。Aly 曾在维基百科上简短引用 *Transfeminine Science* 内容，其中绝大部分来自她本人所作的文章。
 
 ### Lain {#lain}
 
@@ -41,11 +45,9 @@ Lain 开始其医学转变过程之后，也开始热衷于对内分泌学与跨
 
 ### Sam {#sam}
 
-Sam （代词：她）来自英国伦敦，是一名跨性别女性。她未曾获得正式的医学或研究证书，但对循证医学有浓厚兴趣，也十分相信科学手段。
-在跨性别健康领域，她主要着眼于由女性倾向跨性别者的激素治疗引起的不寻常、以至罕见的副作用，例如血栓栓塞、冠心病等。具体而言，令她颇为关注的，是在性别肯定激素疗法当中，所用药物在不同类型与剂量下的差异如何。\
-自 2018 年开始激素转变过程起，她曾涉猎并跟踪既有的和新发表的正式医学文献。
+Sam （代词：她）来自英国伦敦，是一名跨性别女性，现居于英格兰北端。自 2018 年开始激素转变过程起，她对正式的医学文献涉猎良多，跟进最新资讯。Sam 的专业技能有计算建模和模拟；她目前受雇于机器学习等大数据行业，为业务决策提供高级咨询服务。
 
-她曾参与 *Transfeminine Science* 工作多年，期间为 *Transfeminine Science* 撰写了数篇文章。
+她已为 *Transfeminine Science* 贡献了数篇文章。她的爱好有徒步旅行、天体物理和星空摄影等等。
 
 ### Mitzi {#mitzi}
 
@@ -75,6 +77,10 @@ Luna（代词：她/Ta）来自英国，是一名女性和非二元跨性别者�
 
 *Transfeminine Science* 并非单纯面向[自行安排激素治疗用药][wiki-diy]的女性倾向跨性别者；实际上，*Transfeminine Science* 面向一切接受激素治疗的女性倾向跨性别者，以及跨性别健康领域的医疗服务者和学者。*Transfeminine Science* 编者认为，如有可能，应与专业医疗人士共同决定如何进行治疗。不过，我们知悉有许多人出于（医疗）选择和环境等因素而未接受专业指导，我们也希望帮助这些重要、却被忽视（*undeserved*）的群体普及相关知识。
 
+## 公众认可度 {#recognition}
+
+*Transfeminine Science* 已被多名学术研究者在其公开发表的科学文献中予以引用、提及和/或认可。部分例子可见于[他处][recog]，含摘录和引文片段。
+
 ## 版权声明 {#license}
 
 [原文]({{< ref "license" >}})
@@ -91,15 +97,15 @@ Luna（代词：她/Ta）来自英国，是一名女性和非二元跨性别者�
 本项目基于 GitHub 仓库：<https://github.com/tfsci-sc/articles> 的早前工作而建，现正由 Project Trans 志愿者团体[自主维护](https://github.com/project-trans/transfeminine-science)。\
 更多详情可见本项目的《[开放声明]({{< ref "announcement-mtfwiki" >}})》。
 
-原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本站工作，并授权本站仅存档简体中文/繁体中文内容。
+原站撰稿人兼维护者：[Aly]({{< ref "#aly" >}}) 已知悉本项目工作，并授权本项目仅存档简体中文/繁体中文内容。
 
 ## 译者一览 {#list-of-translators}
 
 ### Bersella AI {#bersella-ai}
 
-跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，她密切关注跨性别医学动向，尤其是本站内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇 *Transfeminine Science* 文章的翻译稿；随后加入 Project Trans 团体，正式开始诸译文的系统性整理工作。目前她是 MtF.wiki 药物板块的常驻编者。
+跨性别女性，计算机系出身。自 2021 年十一月开始转变以来，她密切关注跨性别医学动向，尤其是 *Transfeminine Science* 内容；至 2022 年十月止，在原 Limelight 社区总计发布 9 篇 *Transfeminine Science* 文章的翻译稿；随后加入 Project Trans 团体，正式开始诸译文的系统性整理工作。目前她是 MtF.wiki 药物板块的常驻编者之一。
 
-Bersella 精通英语，对日语较为熟悉；截至 2023 年八月，已发表或修订总计逾 23 万字的译文。
+Bersella 精通英语，对日语较为熟悉；截至 2025 年九月，已发表或修订的译文总计逾 31 万个汉字。
 
 如需联系 Bersella，可发送邮件至 <bersella@project-trans.org>。
 
@@ -154,6 +160,7 @@ GitHub 与原 *Limelight* 社区成员，<https://github.com/tfsci-sc/articles> 
 [simulator]: https://transfemscience.org/misc/injectable-e2-simulator/
 [simulator-adv]: https://transfemscience.org/misc/injectable-e2-simulator-advanced/
 [guidelines]: https://transfemscience.org/articles/transfem-hormone-guidelines/
+[recog]: https://transfemscience.org/recognition/
 
 <!-- 维基百科条目 -->
 
