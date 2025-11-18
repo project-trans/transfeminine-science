@@ -5,7 +5,7 @@ weight: 1
 aliases: /misc/announcement-mtfwiki
 ---
 
-起初，这只是 GitHub 上[一个不起眼的项目][origin]；起初，这里只有四位在原 Limelight 社区<sup>(基于 [Discourse] 开发)</sup>和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——
+起初，这只是 GitHub 上一个仓库[tfsci-sc/articles][origin]的星星之火；起初，这里只有四位在原 Limelight 社区<sup>(基于 [Discourse] 开发)</sup>和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——
 
 **Transfeminine Science 中文译本存档站！** <https://tfsci.mtf.wiki>
 
@@ -13,9 +13,8 @@ aliases: /misc/announcement-mtfwiki
 
 1. **确保译文的可访问性，促进译文传播。** 原 Limelight 社区曾在 2022 年中叶暂停开放数周，导致译文传播受阻。这个问题本不应发生，毕竟处于“知识库”栏目的帖子和主要讨论区并无瓜葛。
 1. **原生 Markdown 语言以及 [Discourse] 编辑器的样式与功能有限。** 这点和[原站点所述]({{< ref "announcement" >}})如出一辙；我们也需要一个高度可定制、且易于阅读及引用的展示平台。
-1. **将整个翻译项目规范化。** 在原 Limelight 社区发布的内容不仅很零散，而且在本人开始投入翻译项目之前，译文普遍具有不够通顺、部分叙述有误的问题。
-  例如，对于《[简介]({{< ref "transfem-intro" >}})》当中的“孕酮酯”，[@yucandy][] 译文为“与雌二醇不同，注射用孕酮酯在化学上是不可能拥有比孕酮本身更长的持续时间的”，更遑论与孕酮的比较——这个也是翻译过《[口服孕酮]({{< ref "oral-p4-low-levels" >}})》才知道有这么一回事，也就知道《简介》所谈何故。
-1. **与 MtF.wiki 的现有内容形成互补。** 当下 wiki 药物板块的内容的确仍较缺乏，尤其是用药安全方面；而原站点的内容讨论细致、分析严密、引经据典，具有相当的可信度，我们也希望借此来拓展、丰富我们的认识，完善 wiki。
+1. **推进翻译项目规范化。** 本项目在原 Limelight 社区发布内容的基础上，将其编辑整理为统一索引的独立网站。同时，我们也修订了原翻译中一些表达或用词不顺畅的地方。
+1. **与 MtF.wiki 的现有内容形成互补。** 当下 MtF.wiki 药物板块的内容的确仍较缺乏，尤其是用药安全方面；而原站点的内容讨论细致、分析严密、引经据典，具有相当的可信度，我们也希望借此来拓展、丰富我们的认识，完善 MtF.wiki。
 
 不过也需要指出，原站点有如下[免责声明]({{< ref "about#disclaimer" >}})：
 
@@ -27,10 +26,10 @@ aliases: /misc/announcement-mtfwiki
 
 特别感谢 [@yucandy][]、`@昭心` 与 [@Sue-e89893][] 三位先行者！没有 ta 们的引领就没有今天的这个站点！
 
-—— Project Trans 志愿团体\
+—— Project Trans 医学与药物工作组\
 二〇二二年十二月二日
 
-*修订于二〇二四年五月十六日*
+*最后一次修订于二〇二五年十一月十八日*
 
 [origin]: https://github.com/tfsci-sc/articles
 [wiki-pr]: https://en.wikipedia.org/wiki/Peer_review
