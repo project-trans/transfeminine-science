@@ -5,7 +5,7 @@ weight: 1
 aliases: /misc/announcement-mtfwiki
 ---
 
-起初，这只是 GitHub 上一个仓库[tfsci-sc/articles][origin]的星星之火；起初，这里只有四位在原 Limelight 社区<sup>(基于 [Discourse] 开发)</sup>和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——
+起初，这只是 GitHub 上一个仓库[tfsci-sc/articles][origin]中的星星之火；起初，这里只有四位在原 Limelight 社区<sup>(基于 [Discourse] 开发)</sup>和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——
 
 **Transfeminine Science 中文译本存档站！** <https://tfsci.mtf.wiki>
 
