@@ -1,41 +1,41 @@
 ---
-title: MtF.wiki 附属项目：Transfeminine Science 中文译本存档站开放声明
-linkTitle: Transfeminine Science 中文译本存档站开放声明
+title: Transfeminine Science 中文译本存档站开放三周年：Project Trans 致广大读者的一封信
+linkTitle: Project Trans 致广大存档站读者的一封信
 weight: 1
 aliases: /misc/announcement-mtfwiki
 ---
 
-起初，这只是 GitHub 上一个仓库[tfsci-sc/articles][origin]中的星星之火；起初，这里只有四位在原 Limelight 社区<sup>(基于 [Discourse] 开发)</sup>和 GitHub 默默耕耘的热心读者；起初，我们不得不在有限的 Markdown 格式和字数限制内玩出花样。但我们的工作引起 MtF.wiki 的重视之后，这一切开始有了改变。经过近两个月的筹备，这个项目终于有了全新的家——
+##### 各位亲爱的读者：
 
-**Transfeminine Science 中文译本存档站！** <https://tfsci.mtf.wiki>
+大家好，欢迎来到本存档站，**我们在此将来自同为跨性别者的 Aly、Sam 等几位老师的真知灼见带给大家**。我们注意到，在中文跨性别社群里，和性别肯定激素治疗（GAHT，社群一般称 HRT）相关的中文文献或科普文章极度稀缺，这就导致了许多有 GAHT/HRT 需求的伙伴缺乏对此类治疗的系统性认知，从而出现药物过量、疗效欠佳、副作用增加等问题；而社群里的经验之谈多出于主观臆断，缺乏循证、客观依据，预期收益不明，甚至可能有害健康；我们也希望在 MtF.wiki 将具备科学性、安全性的药物相关知识传授给大家。有鉴于此，我们决定引进一批优秀的外文 GAHT/HRT 科普文章并加以翻译，以飨读者。
 
-本站旨在将来自 *[Transfeminine Science](https://transfemscience.org) （女性倾向跨性别者科学）* 的优秀且高质量的原创文章翻译为中文，为中文读者**普及科学用药知识、传达国际先进医疗经验**。我们筹备本站也出于多项动机：
+在本项目立项之前，社群中已经有人开始着手改变上述现状：其中三位分别是 <u>**[@yucandy]、昭心和 [@Sue-e89893]**</u>。他们活跃于 [GitHub 平台][origin]和名为 Limelight 的跨性别交流社区（现已关闭），为至少上千名 Limelight 用户无私贡献了对英语 GAHT/HRT 科普网站 *[Transfeminine Science][tfsci]* 所载文章的翻译稿件。这些译文也帮助本项目的参与者之一：[Bersella]({{< ref "about#bersella-ai" >}})，照亮了她医学转变的道路，激励她攀登“一览众山小”的学术高地。值得注意的是，*Transfeminine Science* **所有文章的作者均为跨性别者**；从我们自身视角所作的循证医学内容是十分珍贵的，其观点在跨性别医学界甚至具有开创性意义——例如 Aly 老师[就雌二醇注射剂所作的荟萃分析]({{< ref "injectable-e2-meta-analysis" >}})得到了多篇科学文献的引用，并促使医学界重新思考[主流医疗指南]({{< ref "transfem-hormone-guidelines" >}})的合理性。*Transfeminine Science* 以及这三位先行者的杰出贡献将永载史册。
 
-1. **确保译文的可访问性，促进译文传播。** 原 Limelight 社区曾在 2022 年中叶暂停开放数周，导致译文传播受阻。这个问题本不应发生，毕竟处于“知识库”栏目的帖子和主要讨论区并无瓜葛。
-1. **原生 Markdown 语言以及 [Discourse] 编辑器的样式与功能有限。** 这点和[原站点所述]({{< ref "announcement" >}})如出一辙；我们也需要一个高度可定制、且易于阅读及引用的展示平台。
-1. **推进翻译项目规范化。** 本项目在原 Limelight 社区发布内容的基础上，将其编辑整理为统一索引的独立网站。同时，我们也修订了原翻译中一些表达或用词不顺畅的地方。
-1. **与 MtF.wiki 的现有内容形成互补。** 当下 MtF.wiki 药物板块的内容的确仍较缺乏，尤其是用药安全方面；而原站点的内容讨论细致、分析严密、引经据典，具有相当的可信度，我们也希望借此来拓展、丰富我们的认识，完善 MtF.wiki。
+**我们的工作正是建立在 Transfeminine Science 和这三位先驱者的肩膀上，将其无私奉献、普济众生的精神发扬光大，拥抱科学、扫除愚昧，为中文跨性别社群照亮前进的通路。** 我们于立项之初的 2022 年，基于原 Limelight 社区和 [GitHub 仓库][origin]的现有成果做了硬分叉；取得 Aly 老师的改编授权后，我们在尽可能保留译文风格的基础上，作出以下改进：
 
-不过也需要指出，原站点有如下[免责声明]({{< ref "about#disclaimer" >}})：
+1. 整理行文，重新比对原文并修改不恰当之处；
+2. 规范稿件格式；
+3. 追加了 *Transfeminine Science* 其他文章的翻译；
+4. 引进了海内外上市的诸 GAHT/HRT 常用药品的说明书或其译文；
+5. 为回馈社区，在原 Limelight 社区同步发表或修订译文，直至其关闭。
 
-> 本站的撰稿人皆非医学专业或学术研究人士。本站文章已经过其他撰稿人的非正式[同行评议][wiki-pr]，但从未正式发表或经过[学术同行评议][wiki-spr]。读者不应将本站内容奉为圭臬，而只应视为对现有[跨性别护理指南][guidelines]与绝大部分医学文献的一种指引性或补充性资料。建议应尽可能与专业医疗人士共同决定如何进行治疗。\
-> 不过，我们知悉许多女性倾向跨性别者正在其激素治疗中[自行安排用药][wiki-diy]，我们也打算帮助这些医疗资源匮乏的重要人群普及相关知识。
+尽管我们当下公开的译文相比于原始版本已经大相径庭，有的甚至是另起炉灶，但我们一直保留三位先驱者的署名，以示敬意。我们还注意到，自本项目上线以来，本项目刊载的译文——特别是某些热门药品说明书的译文，在搜索引擎结果里得到了越来越多的点击量，排名不断上升；正所谓星星之火可以燎原，我们在此对支持我们、助力 GAHT/HRT 相关科学知识传播的广大读者表示衷心感谢。
 
-我们也建议，如有可能，**尽量寻求正规治疗途径并规范用药**。因此，本站内容仅供参考，应对此持审慎态度。\
-愿各位科学用药，活到老、学到老！
+另外我们得知，还有许多伙伴出于各种原因而无法得到正规的医疗支持，转而谋求[自行用药][wiki-diy]；我们对此深表同情，也相信本项目所载译文会对这些伙伴有所帮助——不过，我们必须强调的是，**如果有可能，还是应当寻求正规的医疗手段，在医师指导下用药**；正如 *Transfeminine Science* 所作“[免责声明]({{< ref "about#disclaimer" >}})”那样：
 
-特别感谢 [@yucandy][]、`@昭心` 与 [@Sue-e89893][] 三位先行者！没有 ta 们的引领就没有今天的这个站点！
+> *Transfeminine Science* 编者认为，如有可能，应与专业医疗人士共同决定如何进行治疗。不过，我们知悉有许多人出于（医疗）选择和环境等因素而未接受专业指导，我们也希望帮助这些重要、却被忽视（*undeserved*）的群体普及相关知识。
 
+##### 让我们携手并进，倡导健康、安全用药，向理想的彼岸前行！群星永远为你我闪耀！
+
+此致\
 —— Project Trans 医学与药物工作组\
-二〇二二年十二月二日
+二〇二五年十一月廿二日
 
-*最后一次修订于二〇二五年十一月十八日*
+原作于二〇二二年十二月二日
 
+[tfsci]: https://transfemscience.org
 [origin]: https://github.com/tfsci-sc/articles
-[wiki-pr]: https://en.wikipedia.org/wiki/Peer_review
-[wiki-spr]: https://en.wikipedia.org/wiki/Scholarly_peer_review
 [guidelines]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 [wiki-diy]: https://en.wikipedia.org/wiki/Self-medication
-[Discourse]: https://www.discourse.org/
 [@yucandy]: https://github.com/tfsci-sc/articles/commits?author=yucandy
 [@Sue-e89893]: https://github.com/tfsci-sc/articles/commits?author=Sue-e89893
