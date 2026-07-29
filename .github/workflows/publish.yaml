@@ -21,6 +21,7 @@ jobs:
           submodules: true
 
       - uses: DeterminateSystems/nix-installer-action@main
+        name: Prepare NixOS env
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -32,7 +33,7 @@ jobs:
         run: npm install
 
       - name: Build site
-        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo
+        run: nix run github:nixos/nixpkgs/nixos-unstable#hugo -- --minify --enableGitInfo
 
       - name: Deploy to Cloudflare Pages
         id: deploy

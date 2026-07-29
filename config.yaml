@@ -2,7 +2,7 @@ title: 女性倾向跨性别者科学
 baseURL: https://tfsci.mtf.wiki
 theme: tfsci
 copyright: >-
-  &copy; 2022-2025
+  &copy; 2022-2026
   [Transfeminine Science](https://transfemscience.org) and
   [Project Trans](https://project-trans.org)
 
@@ -49,20 +49,20 @@ languages:
   zh-cn:
     title: 女性倾向跨性别者科学
     contentDir: content
-    languageName: 大陆简体
-    languageCode: zh-CN
+    label: 大陆简体
+    locale: zh-CN
     weight: 1
   zh-tw:
     title: 女性傾向跨性別者科學
     contentDir: content.zh-tw
-    languageName: 臺灣正體
-    languageCode: zh-TW
+    label: 臺灣正體
+    locale: zh-TW
     weight: 2
   zh-hk:
     title: 女性傾向跨性別者科學
     contentDir: content.zh-hk
-    languageName: 香港繁體
-    languageCode: zh-HK
+    label: 香港繁體
+    locale: zh-HK
     weight: 3
 
 security:

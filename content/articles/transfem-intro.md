@@ -3,8 +3,8 @@ title: 女性倾向跨性别者的激素治疗简介
 description: 本文旨在对与女性化激素治疗（FHT）有关的各方面进行全方面介绍及科普。
 author: Aly
 published: 2018-08-04
-updated: 2025-05-08
-translated: 2025-06-21
+updated: 2025-12-17
+translated: 2026-07-29
 translators:
   - yucandy
   - Bersella AI
@@ -19,7 +19,7 @@ tags:
   - 螺内酯
   - GnRH 类似物
   - 用药安全
-trackHash: db9dfb8b7e5bb055797fe1a005bb6c972857d602
+trackHash: 17cd82bd6dc0382220b4c3fa80b27dd8e5e84309
 keywords: [MtF, HRT, GAHT, 用药指导]
 aliases: /articles/transfem-intro
 ---
@@ -108,7 +108,7 @@ aliases: /articles/transfem-intro
 绝经前女性的平均雌二醇水平约为 100 pg/mL（合 367 pmol/L），男性则为 25 pg/mL（合 92 pmol/L）；女性平均雌二醇水平的 [95% 分布范围][wiki319]是 50–250 pg/mL（180–918 pmol/L）<sup>(例如 [Abbott, 2009][A09], [图表][graph2]; [Verdonk et al., 2019][V19], [图表][graph1])</sup>。而绝经前女性整个月经周期（即一个月）内由卵巢分泌的雌二醇平均约有 6 mg<sup>([Rosenfield et al., 2008][R08])</sup>；这相当于约 200 μg/天的平均产出速率。女性在正常经历[青春期][wiki25]时，雌二醇水平会缓慢上升，同时发生乳房发育与女性化过程。在青春期不同阶段，平均雌二醇水平都相当之低——直至后期也仍低于 50–60 pg/mL（180–220 pmol/L）左右<sup>([Aly, 2020][A20-HLFP])</sup>。\
 而当女性[绝经后][wiki308]，其卵巢不再分泌大量雌激素，此时雌二醇水平一般低于 10–20 pg/mL（37–73 pmol/L）<sup>([Nakamoto, 2016][N16])</sup>。成人[围绝经期症状][wiki309]与低于 50 pg/mL（184 pmol/L）的雌二醇水平相关，且浓度决定症状轻重；这些症状包括[潮热][wiki310]、[抑郁情绪][wiki252]、[去女性化][wiki311]（如[乳房萎缩][wiki312]，[脂肪分布女性化][wiki21]程度降低等）、[皮肤老化][wiki313]加速、以及[骨质流失][wiki314]（增加[骨折][wiki315]风险）等。
 
-至于睾酮水平，绝经前女性平均约为 30 ng/dL（1.0 nmol/L），男性则为 600 ng/dL（21 nmol/L）。由此可见，男性的睾酮水平平均比女性高约 20 倍。男性在接受[性腺切除术][wiki66]（去势或摘除睾丸）之后，睾酮水平与女性相似 (&lt;50 ng/dL，合 1.7 nmol/L)<sup>([Nishiyama, 2014][N14]; [Itty & Getzenberg, 2020][IG20])</sup>。\
+至于睾酮水平，绝经前女性平均约为 30 ng/dL（1.0 nmol/L），男性则为 600 ng/dL（21 nmol/L）。由此可见，男性的睾酮水平平均比女性高约 20 倍。男性在接受[性腺切除术][wiki66]（去势或摘除睾丸）之后，睾酮水平与女性相似 (&lt;50 ng/dL，合 1.7 nmol/L)<sup>([Nishiyama, 2014][N14]; [Getzenberg & Itty, 2020][IG20])</sup>。\
 依据多项研究，对于患有[多囊卵巢综合症][wiki68]（PCOS）的女性，其睾酮水平平均值或中位数位于 41–75 ng/dL（1.4–2.6 nmol/L）之间，此时会出现由[雄激素过多][wiki67]引起的一系列显著临床症状（如面部/身体毛发过度生长）<sup>([Balen et al., 1995][B95]; [Steinberger et al., 1998][S98]; [Legro et al., 2010][L10]; [Loh et al., 2020][L20])</sup>。这表明，即使是稍高于女性正常值的睾酮水平也会产生不良的雄激素效应。
 
 需要注意，对激素水平的测定值会受到测定方法带来的局限；由于化验准确性有别，不同测定方法、不同实验室所测出的激素水平差异显著<sup>([Shackleton, 2010][S10]; [Stanczyk & Clarke, 2010][SC10]; [Deutsch, 2016][D16]; [Carmina, Stanczyk, & Lobo, 2019][CSL19])</sup>。目前，在准确性与可靠性上，基于[质谱][wiki283]（MS）的测定方法（如[液相色谱–质谱联用法][wiki64]，LC-MS），被认为要优于[放射免疫法][wiki316]（RIA）、[酶联免疫吸附法][wiki317]（ELISA）等基于[免疫测定法][wiki284]（IA）的方式<sup>([Stanczyk & Clarke, 2010][SC10]; [Carmina, Stanczyk, & Lobo, 2019][CSL19])</sup>。因此，质谱法正逐渐成为实验室测定性激素水平的标准手段。\
@@ -155,21 +155,23 @@ aliases: /articles/transfem-intro
 | 头皮脱发减少与逆转             | 1–3 个月               | 1–2 年               | 可逆             |
 | 皮肤软化，出油与痤疮减少       | 3–6 个月               | 不明                 | 可逆             |
 | 女性化脂肪再分布               | 3–6 个月               | 2–5 年               | 可逆             |
-| 肌肉重量与强度减少             | 3–6 个月               | 1–2 年<sup>(3)</sup> | 可逆             |
+| 肌肉重量与力量减少             | 3–6 个月               | 1–2 年<sup>(3)</sup> | 可逆             |
 | 骨盆变宽和变圆<sup>(4)</sup>   | 不明                 | 不明                 | 永久             |
 | 情绪、情感和行为的变化         | 立即发生             | 不明                 | 可逆             |
 | 性欲和自发性勃起减少           | 1–3 月               | 3–6 月               | 可逆             |
 | 勃起功能障碍和射精量减少       | 1–3 月               | 各异                 | 可逆             |
 | 精子产量减少和不育             | 不明                 | >3 年                | 不定<sup>(5)</sup> |
 | 睾丸体积缩小                   | 3–6 月               | 2–3 年               | 不明             |
-| 声音变化 (例如，音调/共鸣下降) | 无<sup>(6)</sup>       | N/A                  | N/A              |
+| 声音变化 (例如，音调/共鸣更接近女性) | 无<sup>(6)</sup>       | N/A                  | N/A              |
+| 身高变化 (例如变矮) | 无<sup>(7)</sup>       | N/A                  | N/A              |
 
-(1) 由于遗传、饮食/营养、激素水平等因素，个体之间可能有很大差异。\
+(1) 由于遗传、饮食/营养、激素水平等因素，治疗对不同个体的影响可能有很大差异。\
 (2) 激素治疗对女性倾向跨性别者的面部毛发密度的影响通常不大。彻底去除面部和身体毛发可通过以下方法实现：[激光脱毛][wiki81]和[电击脱毛][wiki82]。临时除毛可以使用[刮毛][wiki83]、[拔毛][wiki84]、[蜜蜡脱毛][wiki85]等方式。\
-(3) 可能因体育锻炼量的不同而有很大差异。\
-(4) 只发生在生长板尚未完全闭合的年轻人身上（对于已结束青春期的人可能完全不会发生）。\
+(3) 肌肉重量和力量的下降幅度可能因运动量的不同而有很大差异。\
+(4) 骨盆改变仅发生在生长板尚未完全闭合的年轻人身上（对于已结束青春期的人可能完全不会发生）。\
 (5) 只有雌激素，特别是大剂量的雌激素，似乎有可能导致长期或不可逆的不育；由抗雄激素制剂引起的生育力受损通常在停药后容易恢复。\
-(6) [嗓音训练][wiki86]是实现声音女性化的一种有效方式。
+(6) [嗓音训练][wiki86]是实现声音女性化的一种有效方式。\
+(7) 据临床资料，青年人的身高目标可能降低；但成年人的身高未见有显著性的改变或降低<sup>([Gooren & Bunck, 2004][GB04]; [Ingram & Thomas, 2019][IT19]; [Hilton & Lundberg, 2020][HL20]; [Talathi et al., 2025][T25])</sup>。
 
 </section>
 
@@ -177,7 +179,7 @@ aliases: /articles/transfem-intro
 
 在女性化激素治疗的诸多效果中，讨论最多的一种是[乳房发育][wiki20]<sup>([Masumori et al., 2021][M21]; [Grock et al., 2024][G24])</sup>。这关系到乳房作为女性特征、[性吸引][wiki357]构成要素、性和性别标志的核心所在。女性倾向跨性别者的乳房发育通常于 1–6 个月内开始，后于 1–3 年内完成<sup>(例如 [de Blok et al., 2021][DB21])</sup>。发育完成的乳房从尺寸和外形上看差异很大，这与原生女性的情况一致<sup>([de Blok et al., 2021][DB21])</sup>。基于现有高质量临床研究的结果，女性倾向跨性别者的乳房往往远小于原生女性的平均水平，且该现象与激素治疗方案和引入激素治疗时的年龄均无关<sup>(例如 [de Blok et al., 2021][DB21]; [Boogers et al., 2025][B25])</sup>。其原因尚不明确，但从动物现象来看，有一种比较大的可能：即[胎儿期][wiki358]的雄激素暴露限制了后续的乳房增长潜力。尽管乳房发育往往有限，但不少女性倾向跨性别者仍对总体的发育情况表示满意<sup>([de Blok et al., 2021][DB21]; [Boogers et al., 2025][B25])</sup>。
 
-目前能够永久性促进或改善乳房发育的已知或经证实的手段，除了确保睾酮抑制充分、维持雌二醇水平于某个下限以上之外，再无他法。但有研究表明，避免服用过高剂量的雌二醇或孕激素或许有所裨益。另外，已知较高的雌二醇、孕酮和/或[泌乳素][wiki288]水平可通过促进局部液体潴留、[小泡/小叶成熟][wiki338]等方式，引起短暂、可逆的乳房紧张感和乳房增大，类似于正常月经周期和妊娠期间的改变<sup>([Aly, 2020][A20-PBD])</sup>；然而，这种改变较为轻微，且高激素水平伴随着健康风险<sup>([Aly, 2020][A20-PBD])</sup>。如对乳房尺寸不满意，可以考虑[隆胸手术][wiki359]。某些女性倾向跨性别者可能希望避免乳房增长或使之最小化，例如非二元性别人士；对此也有其它可行的治疗选项<sup>([Aly, 2019][A19-NTO-POBD])</sup>。
+目前能够永久性促进或改善乳房发育的已知或经证实的手段，除了确保睾酮抑制充分、维持雌二醇水平于某个下限以上之外，再无他法。但有研究表明，避免服用过高剂量的雌二醇或孕激素或许有所裨益。另外，已知较高的雌二醇、孕酮和/或[泌乳素][wiki288]水平可通过促进局部液体潴留、[小泡/小叶成熟][wiki338]等方式，引起短暂、可逆的乳房紧张感和乳房增大，类似于正常月经周期和妊娠期间的改变<sup>([Aly, 2020][A20-PBD])</sup>；然而，这种改变较为轻微，且高激素水平伴随着健康风险<sup>([Aly, 2020][A20-PBD])</sup>。如对乳房尺寸不满意，可以考虑[隆胸手术][wiki359]。某些女性倾向跨性别者可能希望避免乳房增长或使之最小化，例如非二元性别人士；对此也有其它可行的治疗选项<sup>([Aly, 2019][A19-NTO])</sup>。
 
 本站于他处也回顾了女性倾向跨性别者的乳房发育情况<sup>(例如 [Aly, 2020][A20-PBD]; [Aly, 2020][A20-PBD-NC])</sup>。如对监测乳房增长过程感兴趣，则有多种测量和跟踪乳房增长的方法可用<sup>([维基百科][wiki360])</sup>。可在社交网站 Reddit 上的 <https://www.reddit.com/r/TransTimelines> 和 <https://reddit.com/r/TransBreastTimelines> 等主题查阅到女性化激素疗法引起的乳房发育与女性化的照片和时间线。
 
@@ -512,7 +514,7 @@ CPA 已知会产生多种副作用；其中包括：
 - 可能一定程度上引起性功能障碍（如性欲降低），甚至大于睾酮抑制的程度<sup>([维基百科][wiki158-hpl]; [Aly, 2019][A19-PSD])</sup>；
 - 较小的抑郁风险<sup>([维基百科][wiki158-dp])</sup>；
 - 在女性倾向跨性别者当中，可引起类似[妊娠][wiki27]的乳房变化（即[乳腺][wiki337] [小叶/小泡的发育][wiki338]）<sup>([Kanhai et al., 2000][K00])</sup>；
-  - 有时还会因此引起[泌乳][wiki193]<sup>([Gooren, Harmsen-Louman, & van Kessel, 1985][GHK85]; [Schlatterer et al., 1998][SCHL98]; [Bazarra-Castro, 2009][BC09])</sup>。
+  - 有时还会因此引起[泌乳][wiki193]<sup>([Dewhurst & Underhill, 1979][DU79]; [Gooren, Harmsen-Louman, & van Kessel, 1985][GHK85]; [Schlatterer et al., 1998][SCHL98]; [Bazarra-Castro, 2009][BC09])</sup>。
 - 还有人担忧，过早地引入孕激素——尤其是高剂量 CPA——可能会对乳房发育造成负面影响<sup>([Aly, 2020][A20-PBD])</sup>。但是目前基本没有关于人类的数据证实这点。
 
 CPA 的副作用被认为与剂量相关；为将副作用降至最小，应尽量使用最小有效剂量。
@@ -528,7 +530,7 @@ CPA 作为孕激素时，与如下风险有关（即便以极低剂量，如 2 m
 - 特定的、通常[良性][wiki339]的[脑瘤][wiki194]，包括：
   - [泌乳素瘤][wiki157]<sup>([McFarlane, Zajac, & Cheung, 2018][MZC18]; [Nota et al., 2018][N18]; [维基百科][wiki158-bt])</sup>；以及
   - [脑膜瘤][wiki156]<sup>([McFarlane, Zajac, & Cheung, 2018][MZC18]; [Nota et al., 2018][N18]; [Millward et al., 2021][M21]; [Weill et al., 2021][W21]; [Aly, 2020][A20-CM]; [维基百科][wiki158-bt])</sup>。\
-   上述风险同样由其孕激素活性引起，且明显与剂量相关，可通过更少的剂量而控制到最小。
+    上述风险同样由其孕激素活性引起，且明显与剂量相关，可通过更少的剂量而控制到最小。
 - 除孕激素活性以外，还在肝脏内表达很弱、但明显的雄激素效力，从而会对[血脂][wiki340]产生不利影响——例如：
   - [高密度脂蛋白][wiki195]（HDL；“良性”）胆固醇水平降低<sup>([Coleman et al., 2022][C22]; [维基百科][wiki78-wpaa])</sup>；
   - 长此以往，可能增加[冠心病][wiki48]的风险。
@@ -572,8 +574,8 @@ CPA 具有较长的[清除半衰期][wiki353]，约达 1.6–4.3 天<sup>([维�
 - 与其它利钾药物合用——这些药物包括[保钾利尿剂][wiki219]（如[阿米洛利][wiki224]，品牌有 Midamor；[氨苯蝶啶][wiki225]，品牌有 Dyrenium；以及其它抗盐皮质激素制剂），[血管紧张素转化酶（ACE）抑制剂][wiki220]，[血管紧张素 II 受体阻断剂][wiki221]，[甲氧苄啶][wiki222]（一种[抗生素][wiki342]；品牌 Bactrim），等等<sup>([Kim & Rosso, 2012][KR12]; [Salem et al., 2014][S14])</sup>；
 - [钾补剂][wiki291]或含钾[代用盐][wiki223]的服用等。
 
-有一项例子可表明利钾药物的相互作用：在老年群体（&gt;65 岁）当中，同时服用螺内酯与甲氧苄啶可引起严重高钾血症以及猝死<sup>([Antoniou et al., 2011][A11]; [Antoniou et al., 2015][A15])</sup>。\
-建议有上述风险因素的人群，在以螺内酯进行治疗时应监测血钾水平（对于非风险人群应无必要）<sup>([Plovanich, Weng, & Mostaghimi, 2015][PWM15]; [Zaenglein et al., 2016][Z16]; [Layton et al., 2017][L17]; [Millington, Liu, & Chan, 2019][MLC19]; [Wang & Lipner, 2020][WL20]; [Gupta et al., 2022][G22]; [Hayes et al., 2022][H22])</sup>。
+有一项例子可表明利钾药物的相互作用：在老年群体当中，同时服用螺内酯与甲氧苄啶可引起严重高钾血症以及猝死<sup>([Antoniou et al., 2011][A11]; [Antoniou et al., 2015][A15])</sup>。\
+建议有上述风险因素的人群，在以螺内酯进行治疗时应监测血钾水平（对于非风险人群应无必要）<sup>([Plovanich, Weng, & Mostaghimi, 2015][PWM15]; [Zaenglein et al., 2016][Z16]; [Layton et al., 2017][L17]; [Millington, Liu, & Chan, 2019][MLC19]; [Wang & Lipner, 2020][WL20];  [Barbieri et al., 2021][BMM21]; [Gupta et al., 2022][G22]; [Hayes et al., 2022][H22])</sup>。
 
 对于有高钾血症风险的人群，通常建议在饮食中限制富钾食品的摄入量<sup>([Roscioni et al., 2012][R12]; [Cupisti et al., 2018][C18])</sup>。这也常在跨性别健康话题当中提及，例如女性倾向跨性别者会被告诫“不要吃香蕉”，因为“香蕉富含钾”。然而，通过限制钾的摄入来预防螺内酯引起的高钾血症，仅有理论可能，未被[循证医学][wiki343]支持；事实上，现有数据否定了此法的有效性<sup>([St-Jules, Goldfarb, & Sevick, 2016][SGS16]; [St-Jules & Fouque, 2021][SF21]; [Babich, Kalantar-Zadeh, & Joshi, 2022][BKJ22]; [St-Jules & Fouque, 2022][SF22])</sup>。\
 因此，可能并无必要在服用螺内酯的同时限制钾的日常摄入。
@@ -781,6 +783,35 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Abbott Laboratories. (2009). *Estradiol. Architect System.* Abbott Park, Illinois/Wiesbaden, Germany: Abbott Laboratories. \[[PDF][A09]]
 - Ahmad, S. R., & Graham, D. J. (2003). Pneumonitis with Antiandrogens. *Annals of Internal Medicine*, *139*(6), 528–529. \[DOI:[10.7326/0003-4819-139-6-200309160-00023][AG03]]
 - Allen, A. N., Jiao, R., Day, P., Pagels, P., Gimpel, N., & SoRelle, J. A. (2020). Dynamic Impact of Hormone Therapy on Laboratory Values in Transgender Patients over Time. *The Journal of Applied Laboratory Medicine*, *6*(1), 27–40. \[DOI:[10.1093/jalm/jfaa192][A21]]
+- Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. \[[URL][A18-ST]]
+- Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. \[[URL][A18-TI]]
+- Aly. (2018). Buserelin, a Gonadotropin-Releasing Hormone Agonist, is Inexpensively Available as a Nasal Spray From Online Pharmacies. *Transfeminine Science*. \[[URL][A18-BI]]
+- Aly. (2018). EC508 (Estradiol Aminosulfonylbenzoylproline), a Unique and Highly Promising Estradiol Ester and Possible Oral Estradiol Form of the Future. *Transfeminine Science*. \[[URL][A18-EC508]]
+- Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. \[[URL][A18-OPLL]]
+- Aly. (2019). A Review of Studies on Estradiol Levels and Testosterone Suppression with High-Dose Transdermal Estradiol Gel and Ointment in Cisgender Men with Prostate Cancer. *Transfeminine Science*. \[[URL][A19-HDTE]]
+- Aly. (2019). An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People. *Transfeminine Science*. \[[URL][A19-NTO]]
+- Aly. (2019). Analysis of Estradiol and Testosterone Levels with Oral Estradiol in Transfeminine People Based on Leinung et al. (2018). *Transfeminine Science*. \[[URL][A19-OEL2]]
+- Aly. (2019). Aqueous Suspensions of Sex Hormones and How Depot Injectables Work. *Transfeminine Science*. \[[URL][A19-AS]]
+- Aly. (2019). Genital Application via the Scrotum and Neolabia for Greatly Enhanced Absorption of Transdermal Estradiol in Transfeminine People. *Transfeminine Science*. \[[URL][A19-GEA]]
+- Aly. (2019). Literature on Early Progestogen Exposure and Breast Development. *Transfeminine Science*. \[[URL][A19-PEEBD]]
+- Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. \[[URL][A19-CD]]
+- Aly. (2019). Published Case Reports of Lactation and/or Breastfeeding in Transfeminine People. *Transfeminine Science*. \[[URL][A19-TLL]]
+- Aly. (2019). Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People. *Transfeminine Science*. \[[URL][A19-SEV]]
+- Aly. (2020). A Comprehensive Review of the Potential of Progestogens for Enhancing Breast Development in Transfeminine People. *Transfeminine Science*. \[[URL][A20-PBD]]
+- Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. *Transfeminine Science*. \[[URL][A20-EED]]
+- Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][A20-BA]]
+- Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. \[[URL][A20-BC]]
+- Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][A20-THG]]
+- Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. \[[URL][A20-EBC]]
+- Aly. (2020). Hormone Levels During Normal Puberty in Cisgender Girls. *Transfeminine Science*. \[[URL][A20-HLFP]]
+- Aly. (2020). Nandrolone as a Potential Alternative Androgen with Reduced Androgenic Side Effects for Transfeminine and Transmasculine People. *Transfeminine Science*. \[[URL][A20-NAND]]
+- Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. \[[URL][A20-CM]]
+- Aly. (2020). Spironolactone and Claims About Increased Visceral Fat in Transfeminine People. *Transfeminine Science*. \[[URL][A20-SVF]]
+- Aly. (2020). The Influence of Progesterone and Other Progestogens on Sexual Desire and Function. *Transfeminine Science*. \[[URL][A20-PSD]]
+- Aly. (2020). The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][A20-SU]]
+- Aly. (2020). The Possible Role of a Second X Chromosome in Breast Cancer Risk. *Transfeminine Science*. \[[URL][A20-BCS]]
+- Aly. (2021). An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations. *Transfeminine Science*. \[[URL][A21-IEMA]]
+- Aly. (2021). An Interactive Web Simulator for Estradiol Levels with Injectable Estradiol Esters. *Transfeminine Science*. \[[URL][A21-IESR]]
 - Angus, L., Leemaqz, S., Ooi, O., Cundill, P., Silberstein, N., Locke, P., Zajac, J. D., & Cheung, A. S. (2019). Cyproterone acetate or spironolactone in lowering testosterone concentrations for transgender individuals receiving oestradiol therapy. *Endocrine Connections*, *8*(7), 935–940. \[DOI:[10.1530/ec-19-0272][A19]]
 - Angus, L. M., Nolan, B. J., Zajac, J. D., & Cheung, A. S. (2020). A systematic review of antiandrogens and feminization in transgender women. *Clinical Endocrinology*, *94*(5), 743–752. \[DOI:[10.1111/cen.14329][ANGUS21]]
 - Antoniou, T., Gomes, T., Mamdani, M. M., Yao, Z., Hellings, C., Garg, A. X., Weir, M. A., & Juurlink, D. N. (2011). Trimethoprim-sulfamethoxazole induced hyperkalaemia in elderly patients receiving spironolactone: nested case-control study. *BMJ*, *343*, d5228. \[DOI:[10.1136/bmj.d5228][A11]]
@@ -790,6 +821,8 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Avram, M. M. (2004). Cellulite: a review of its physiology and treatment. *Journal of Cosmetic and Laser Therapy*, *6*(4), 181–185. \[DOI:[10.1080/14764170410003057][A04]]
 - Babich, J. S., Kalantar-Zadeh, K., & Joshi, S. (2022). Taking the Kale out of Hyperkalemia: Plant Foods and Serum Potassium in Patients With Kidney Disease. *Journal of Renal Nutrition*, *32*(6), 641–649. \[DOI:[10.1053/j.jrn.2022.01.013][BKJ22]]
 - Bäckström, T., Haage, D., Löfgren, M., Johansson, I., Strömberg, J., Nyberg, S., Andréen, L., Ossewaarde, L., van Wingen, G., Turkmen, S., & Bengtsson, S. (2011). Paradoxical effects of GABA-A modulators may explain sex steroid induced negative mood symptoms in some persons. *Neuroscience*, *191*, 46–54. \[DOI:[10.1016/j.neuroscience.2011.03.061][B11]]
+- Barbieri, J. S., Margolis, D. J., & Mostaghimi, A. (2021). Temporal Trends and Clinician Variability in Potassium Monitoring of Healthy Young Women Treated for Acne With Spironolactone. *JAMA Dermatology*, *157*(3), 296–296. \[DOI:[10.1001/jamadermatol.2020.5468][BMM21]]
+- Balen, A. H., Conway, G. S., Kaltsas, G., Techatraisak, K., Manning, P. J., West, C., & Jacobs, H. S. (1995). Andrology: Polycystic ovary syndrome: the spectrum of the disorder in 1741 patients. *Human Reproduction*, *10*(8), 2107–2111. \[DOI:[10.1093/oxfordjournals.humrep.a136243][B95]]
 - Barrionuevo, P., Nabhan, M., Altayar, O., Wang, Z., Erwin, P. J., Asi, N., Martin, K. A., & Murad, M. H. (2018). Treatment Options for Hirsutism: A Systematic Review and Network Meta-Analysis. *The Journal of Clinical Endocrinology & Metabolism*, *103*(4), 1258–1264. \[DOI:[10.1210/jc.2017-02052][B18]]
 - Bazarra-Castro, M. A. (2009). *Etiological aspects, therapy regimes, side effects and treatment satisfaction of transsexual patients.* (Doctoral dissertation, Ludwig Maximilian University of Munich.) \[DOI:[10.5282/edoc.9984][BC09]] \[URN:[urn:nbn:de:bvb:19-99840][BC09-URN]] \[[PDF][BC09-PDF]]
 - Belisle, S., & Love, E. J. (1986). Clinical efficacy and safety of cyproterone acetate in severe hirsutism: results of a multicentered Canadian study. *Fertility and Sterility*, *46*(6), 1015–1020. \[DOI:[10.1016/s0015-0282(16)49873-0][BL86]]
@@ -817,8 +850,10 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - de Blok, C. J., Wiepjes, C. M., Nota, N. M., van Engelen, K., Adank, M. A., Dreijerink, K. M., Barbé, E., Konings, I. R., & den Heijer, M. (2019). Breast cancer risk in transgender people receiving hormone treatment: nationwide cohort study in the Netherlands. *BMJ*, *365*, l1652. \[DOI:[10.1136/bmj.l1652][DB19]]
 - de Blok, C. J., Dijkman, B. A., Wiepjes, C. M., Staphorsius, A. S., Timmermans, F. W., Smit, J. M., Dreijerink, K. M., & den Heijer, M. (2021). Sustained Breast Development and Breast Anthropometric Changes in 3 Years of Gender-Affirming Hormone Treatment. *The Journal of Clinical Endocrinology & Metabolism*, *106*(2), e782–e790. \[DOI:[10.1210/clinem/dgaa841][DB21]]
 - de Nie, I., de Blok, C. J., van der Sluis, T. M., Barbé, E., Pigot, G. L., Wiepjes, C. M., Nota, N. M., van Mello, N. M., Valkenburg, N. E., Huirne, J., Gooren, L. J., van Moorselaar, R. J., Dreijerink, K. M., & den Heijer, M. (2020). Prostate Cancer Incidence under Androgen Deprivation: Nationwide Cohort Study in Trans Women Receiving Hormone Treatment. *The Journal of Clinical Endocrinology & Metabolism*, *105*(9), e3293–e3299. \[DOI:[10.1210/clinem/dgaa412][DN20]]
+- de Nie, I., Wiepjes, C. M., Blok, C. J., Moorselaar, R. J., Pigot, G. L., Sluis, T. M., Barbé, E., Voorn, P., Mello, N. M., Huirne, J., & Heijer, M. (2021). Incidence of testicular cancer in trans women using gender‐affirming hormonal treatment: a nationwide cohort study. *BJU International*, *129*(4), 491–497. \[DOI:[10.1111/bju.15575][DN21]]
 - Deng, T., Duan, X., He, Z., Zhao, Z., & Zeng, G. (2020). Association Between 5-Alpha Reductase Inhibitor Use and The Risk of Depression: A Meta-Analysis. *Urology Journal*, *18*(2), 144–150. \[DOI:[10.22037/uj.v16i7.5866][DENG20]]
 - Deutsch, M. B. (2016). Overview of feminizing hormone therapy. In Deutsch, M. B. (Ed.). *Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People, 2nd Edition* (pp. 26–48). San Francisco: University of California, San Francisco/UCSF Transgender Care. \[[URL][D16]] \[[PDF][D16-PDF]]
+- Dewhurst, J., & Underhill, R. (1979). The Suppression of Facial Hair Growth in Transsexuals Using Cyproterone Acetate. *British Journal of Sexual Medicine*, *6*, 19–23. \[[Google Scholar][DU79]] \[[PDF][DU79-PDF]]
 - Dhurat, R., Sharma, A., Rudnicka, L., Kroumpouzos, G., Kassir, M., Galadari, H., Wollina, U., Lotti, T., Golubovic, M., Binic, I., Grabbe, S., & Goldust, M. (2020). 5‐Alpha reductase inhibitors in androgenetic alopecia: Shifting paradigms, current concepts, comparative efficacy, and safety. *Dermatologic Therapy*, *33*(3), e13379. \[DOI:[10.1111/dth.13379][D20]]
 - Drake, L., Hordinsky, M., Fiedler, V., Swinehart, J., Unger, W. P., Cotterill, P. C., Thiboutot, D. M., Lowe, N., Jacobson, C., Whiting, D., Stieglitz, S., Kraus, S. J., Griffin, E. I., Weiss, D., Carrington, P., Gencheff, C., Cole, G. W., Pariser, D. M., Epstein, E. S., Tanaka, W., Dallob, A., Vandormael, K., Geissler, L., & Waldsteicher, J. (1999). The effects of finasteride on scalp skin and serum androgen levels in men with androgenetic alopecia. *Journal of the American Academy of Dermatology*, *41*(4), 550–554. \[DOI:[10.1016/s0190-9622(99)80051-6][D99]]
 - Dyson, T. E., Cantrell, M. A., & Lund, B. C. (2020). Lack of Association between 5α-Reductase Inhibitors and Depression. *Journal of Urology*, *204*(4), 793–798. \[DOI:[10.1097/ju.0000000000001079][DCL20]]
@@ -837,6 +872,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Goletiani, N. V., Keith, D. R., & Gorsky, S. J. (2007). Progesterone: Review of safety for clinical studies. *Experimental and Clinical Psychopharmacology*, *15*(5), 427–444. \[DOI:[10.1037/1064-1297.15.5.427][GKG07]]
 - Goodfellow, A., Alaghband-Zadeh, J., Carter, G., Cream, J., Holland, S., Scully, J., & Wise, P. (1984). Oral spironolactone improves acne vulgaris and reduces sebum excretion. *British Journal of Dermatology*, *111*(2), 209–214. \[DOI:[10.1111/j.1365-2133.1984.tb04045.x][GAZ84]]
 - Gooren, L. J. (2016). The Endocrinology of Sexual Behavior and Gender Identity. In Jameson, J. L., & De Groot, L. J. (Eds.). *Endocrinology: Adult and Pediatric, 7th Edition, Volume 2* (pp. 2163–2176.e4). Philadelphia: Saunders/Elsevier. \[[Google 阅读][G16-GB]] \[DOI:[10.1016/B978-0-323-18907-1.00124-4][G16]]
+- Gooren, L., & Bunck, M. (2004). Transsexuals and competitive sports. *European Journal of Endocrinology*, *151*(4), 425–429. \[DOI:[10.1530/eje.0.1510425][GB04]]
 - Gooren, L. J., Harmsen-Louman, W., & Kessel, H. (1985). Follow-up of prolactin levels in long-term oestrogen-treated male-to-female transsexuals with regard to prolactinoma induction. *Clinical Endocrinology*, *22*(2), 201–207. \[DOI:[10.1111/j.1365-2265.1985.tb01081.x][GHK85]]
 - Gooren, L., Rao, B., van Kessel, H., & Harmsen-Louman, W. (1984). Estrogen positive feedback on LH secretion in transsexuality. *Psychoneuroendocrinology*, *9*(3), 249–259. \[DOI:[10.1016/0306-4530(84)90004-0][G84]]
 - Gormley, G. J., Stoner, E., Rittmaster, R. S., Gregg, H., Thompson, D. L., Lasseter, K. C., Vlasses, P. H., & Stein, E. A. (1990). Effects of Finasteride (MK-906), a 5\_α\_-Reductase Inhibitor, on Circulating Androgens in Male Volunteers. *The Journal of Clinical Endocrinology & Metabolism*, *70*(4), 1136–1141. \[DOI:[10.1210/jcem-70-4-1136][G90]]
@@ -848,11 +884,13 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Heinemann, L. A., Will-Shahab, L., van Kesteren, P., Gooren, L. J., & (1997). Safety of Cyproterone Acetate: Report of Active Surveillance. *Pharmacoepidemiology and Drug Safety*, *6*(3), 169–178. \[DOI:[10.1002/(sici)1099-1557(199705)6:3<169::aid-pds263>3.0.co;2-3][H97]]
 - Hembree, W. C., Cohen-Kettenis, P. T., Gooren, L., Hannema, S. E., Meyer, W. J., Murad, M. H., Rosenthal, S. M., Safer, J. D., Tangpricha, V., & T’Sjoen, G. G. (2017). Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline. *The Journal of Clinical Endocrinology and Metabolism*, *102*(11), 3869–3903. \[DOI:[10.1210/jc.2017-01658][H17]] \[[PDF][H17-PDF]]
 - Herndon, J. S., Maheshwari, A. K., Nippoldt, T. B., Carlson, S. J., Davidge-Pitts, C. J., & Chang, A. Y. (2023). Comparison of the Subcutaneous and Intramuscular Estradiol Regimens as Part of Gender-Affirming Hormone Therapy. *Endocrine Practice*, *29*(5), 356–361. \[DOI:[10.1016/j.eprac.2023.02.006][H23]]
+- Hilton, E. N., & Lundberg, T. R. (2020). Transgender Women in the Female Category of Sport: Perspectives on Testosterone Suppression and Performance Advantage. *Sports Medicine*, *51*(2), 199–214. \[DOI:[10.1007/s40279-020-01389-3][HL20]]
 - Hirshburg, J. M., Kelsey, P. A., Therrien, C. A., Gavino, A. C., & Reichenberg, J. S. (2016). Adverse Effects and Safety of 5-alpha Reductase Inhibitors (Finasteride, Dutasteride): A Systematic Review. *The Journal of Clinical and Aesthetic Dermatology*, *9*(7), 56–62. \[[PubMed][H16-PM]] \[[PubMed Central][H16]]
 - Hopkins, U., & Arias, C. Y. (2013). Large-volume IM injections: a review of best practices. *Oncology Nurse Advisor*, *4*(1), 32–37. \[[Google 学术][HA13-GS]] \[[URL][HA13]] \[[PDF][HA13-PDF]]
 - Horton, R. (1992). Dihydrotestosterone Is a Peripheral Paracrine Hormone. *Journal of Andrology*, *13*(1), 23–27. \[DOI:[10.1002/j.1939-4640.1992.tb01621.x][H92]]
 - Huang, G., & Basaria, S. (2017). The Case for Androgens in Menopausal Women: When and How? In Pal, L., & Sayegh, R. A. (Eds.). *Essentials of Menopause Management: A Case-Based Approach* (pp. 173–196). Cham: Springer International Publishing. \[DOI:[10.1007/978-3-319-42451-4\_10][HB17]]
 - Igo, J., & Visram, H. (2021). Testosterone Suppression With Injectable Estrogen Therapy Alone in Male to Female Transgender Patients. *Canadian Journal of Diabetes*, *45*(7 Suppl), S40–S40 (abstract no. 114). \[DOI:[10.1016/j.jcjd.2021.09.124][doi-c39b6ca1]] \[[URL][IV21]]
+- Ingram, B. J., & Thomas, C. L. (2019). Transgender Policy in Sport, A Review of Current Policy and Commentary of the Challenges of Policy Creation. *Current Sports Medicine Reports*, *18*(6), 239–247. \[DOI:[10.1249/jsr.0000000000000605][IT19]]
 - Irwig, M. S. (2020). Is there a role for 5α‐reductase inhibitors in transgender individuals? *Andrology*, *9*(6), 1729–1731. \[DOI:[10.1111/andr.12881][I20]]
 - Iversen, P., Johansson, J. E., Lodding, P., Lukkarinen, O., Lundmo, P., Klarskov, P., Tammela, T. L., Tasdemir, I., Morris, T., Carroll, K., & Scandinavian Prostatic Cancer Group. (2004). Bicalutamide (150 mg) versus placebo as immediate therapy alone or as adjuvant to therapy with curative intent for early nonmetastatic prostate cancer: 5.3-year median followup from the Scandinavian Prostate Cancer Group Study Number 6. *The Journal of Urology*, *172*(5 Part 1), 1871–1876. \[DOI:[10.1097/01.ju.0000139719.99825.54][I04]]
 - Iversen, P., Johansson, J., Lodding, P., Kylmälä, T., Lundmo, P., Klarskov, P., Tammela, T. L., Tasdemir, I., Morris, T., Armstrong, J., & (2006). Bicalutamide 150 mg in addition to standard care for patients with early non-metastatic prostate cancer Updated results from the Scandinavian Prostate Cancer Period Group-6 Study after a median follow-up period of 7.1 years. *Scandinavian Journal of Urology and Nephrology*, *40*(6), 441–452. \[DOI:[10.1080/00365590601017329][I06]]
@@ -901,7 +939,6 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Nakhjavani, M., Hamidi, S., Esteghamati, A., Abbasi, M., Nosratian-Jahromi, S., & Pasalar, P. (2009). Short term effects of spironolactone on blood lipid profile: a 3-month study on a cohort of young women with hirsutism. *British Journal of Clinical Pharmacology*, *68*(4), 634–637. \[DOI:[10.1111/j.1365-2125.2009.03483.x][N09]]
 - Neyman, A., Fuqua, J. S., & Eugster, E. A. (2019). Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents. *Journal of Adolescent Health*, *64*(4), 544–546. \[DOI:[10.1016/j.jadohealth.2018.10.296][NFE19]]
 - Nguyen, D., Marchese, M., Cone, E. B., Paciotti, M., Basaria, S., Bhojani, N., & Trinh, Q. (2021). Investigation of Suicidality and Psychological Adverse Events in Patients Treated With Finasteride. *JAMA Dermatology*, *157*(1), 35–42. \[DOI:[10.1001/jamadermatol.2020.3385][N20]]
-- Nie, I., Wiepjes, C. M., Blok, C. J., Moorselaar, R. J., Pigot, G. L., Sluis, T. M., Barbé, E., Voorn, P., Mello, N. M., Huirne, J., & Heijer, M. (2021). Incidence of testicular cancer in trans women using gender‐affirming hormonal treatment: a nationwide cohort study. *BJU International*, *129*(4), 491–497. \[DOI:[10.1111/bju.15575][DN21]]
 - Nieschlag, E., Zitzmann, M., & Kamischke, A. (2003). Use of progestins in male contraception. *Steroids*, *68*(10–13), 965–972. \[DOI:[10.1016/s0039-128x(03)00135-1][NZK03]]
 - Nieschlag, E. (2010). Clinical trials in male hormonal contraception. *Contraception*, *82*(5), 457–470. \[DOI:[10.1016/j.contraception.2010.03.020][N10]]
 - Nieschlag, E., & Behre, H. M. (2012). The essential role of testosterone in hormonal male contraception. In Nieschlag, E., Behre, H. M., & Nieschlag, S. (Eds.). *Testosterone: Action · Deficiency · Substitution, 4th Edition* (pp. 470–493). Cambridge/New York: Cambridge University Press. \[DOI:[10.1017/cbo9781139003353.023][NB12]]
@@ -925,6 +962,12 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - Rose, A. J., Hughto, J. M., Dunbar, M. S., Quinn, E. K., Deutsch, M., Feldman, J., Radix, A., Safer, J. D., Shipherd, J. C., Thompson, J., & Jasuja, G. K. (2023). Trends in Feminizing Hormone Therapy for Transgender Patients, 2006–2017. *Transgender Health*, *8*(2), 188–194. \[DOI:[10.1089/trgh.2021.0041][R23]]
 - Rosenfield, R. L., Cooke, D. W., & Radovick, S. (2008). Puberty and its disorders in the female. In Sperling, M. A. (Ed.). *Pediatric Endocrinology, 3rd Edition* (pp. 530–609). Philadelphia: Saunders. \[[Google 学术][R08]] \[[Google 阅读][R08-GB]] \[[OpenLibrary][R08-OL]] \[[WorldCat][R08-WC]]
 - Rosenfield, R. L., Cooke, D. W., & Radovick, S. (2021). Puberty in the Female and Its Disorders. In Sperling, M. A., Majzoub, J. A., Menon, R. K., & Stratakis, C. A. (Eds.). *Sperling Pediatric Endocrinology, 5th Edition* (pp. 528–626). Philadelphia: Elsevier. \[DOI:[10.1016/B978-0-323-62520-3.00016-6][RCR21]]
+- Sam. (2020). A Comparison of Oral and Transdermal Estradiol in Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][S20-OVTE]]
+- Sam. (2020). Analysis of Cardiovascular and Thromboembolic Toxicity with High Dose Parenteral Polyestradiol Phosphate in the Treatment of Prostate Cancer. *Transfeminine Science*. \[[URL][S20-PCA]]
+- Sam. (2020). Excerpts: Perspectives and Opinions of Clinicians and Researchers Concerning the Use of Progestogens in Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][S20-PTE]]
+- Sam. (2020). Progestogens and Breast Cancer in Transgender Women: A Review and Discussion of Risk. *Transfeminine Science*. \[[URL][S20-PBC]]
+- Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. \[[URL][S21-SET]]
+- Sam. (2025). A Review of Pharmaceutical Interventions for Scalp Hair Loss and Implications for Transfeminine People. *Transfeminine Science*. \[[URL][S25-HL]]
 - Samarasinghe, S., Meah, F., Singh, V., Basit, A., Emanuele, N., Emanuele, M. A., Mazhari, A., & Holmes, E. W. (2017). Biotin Interference with Routine Clinical Immunoassays: Understand the Causes and Mitigate the Risks. *Endocrine Practice*, *23*(8), 989–998. \[DOI:[10.4158/ep171761.ra][SAMA17]]
 - Schiller, C. E., Schmidt, P. J., & Rubinow, D. R. (2014). Allopregnanolone as a mediator of affective switching in reproductive mood disorders. *Psychopharmacology*, *231*(17), 3557–3567. \[DOI:[10.1007/s00213-014-3599-x][SSR14]]
 - Schlatterer, K., Yassouridis, A., Werder, K. V., Poland, D., Kemper, J., & Stalla, G. K. (1998). *Archives of Sexual Behavior*, *27*(5), 475–492. \[DOI:[10.1023/a:1018704630036][SCHL98]]
@@ -952,6 +995,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 - T’Sjoen, G. G., Beguin, Y., Feyen, E., Rubens, R., Kaufman, J., & Gooren, L. (2005). Influence of exogenous oestrogen or (anti-) androgen administration on soluble transferrin receptor in human plasma. *Journal of Endocrinology*, *186*(1), 61–67. \[DOI:[10.1677/joe.1.06112][TS05]]
 - T’Sjoen, G., Arcelus, J., Gooren, L., Klink, D. T., & Tangpricha, V. (2018). Endocrinology of Transgender Medicine. *Endocrine Reviews*, *40*(1), 97–117. \[DOI:[10.1210/er.2018-00011][TS19]]
 - Tack, L. J., Heyse, R., Craen, M., Dhondt, K., Bossche, H. V., Laridaen, J., & Cools, M. (2017). Consecutive Cyproterone Acetate and Estradiol Treatment in Late-Pubertal Transgender Female Adolescents. *The Journal of Sexual Medicine*, *14*(5), 747–757. \[DOI:[10.1016/j.jsxm.2017.03.251][T17]]
+- Talathi, R., Juhasz, V., Delgado, M., Quinaglia, T., Ghamari, A., Wang, M., Alhallak, I., Stinebaugh, S., Campbell, S., Stockman, S. L., Ozturk, M. A., Ahmadi, S. M., Looby, S. E., Lee, H., Poteat, T. C., Szczepaniak, L. S., Zanni, M. V., Neilan, T. G., & Toribio, M. (2025). Visceral adipose tissue and liver fat on 17-beta estradiol-dominant gender-affirming hormone therapy: A US-based cohort. *The Journal of Clinical Endocrinology and Metabolism*, online ahead of print. \[DOI:[10.1210/clinem/dgaf665][T25]]
 - Thompson, J., Hopwood, R. A., deNormand, S., & Cavanaugh, T. (2021). *Medical Care of Trans and Gender Diverse Adults.* Boston: Fenway Health. \[[URL][T21]] \[[PDF][T21-PDF]]
 - Toorians, A. W., Thomassen, M. C., Zweegman, S., Magdeleyns, E. J., Tans, G., Gooren, L. J., & Rosing, J. (2003). Venous Thrombosis and Changes of Hemostatic Variables during Cross-Sex Hormone Treatment in Transsexual People. *The Journal of Clinical Endocrinology & Metabolism*, *88*(12), 5723–5729. \[DOI:[10.1210/jc.2003-030520][T03]]
 - Traish, A. M., Krakowsky, Y., Doros, G., & Morgentaler, A. (2019). Do 5α-Reductase Inhibitors Raise Circulating Serum Testosterone Levels? A Comprehensive Review and Meta-Analysis to Explaining Paradoxical Results. *Sexual Medicine Reviews*, *7*(1), 95–114. \[DOI:[10.1016/j.sxmr.2018.06.002][T19]]
@@ -1493,6 +1537,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [wiki379]: https://en.wikipedia.org/wiki/Nandrolone
 
 <!-- 站内文章链接 -->
+[S25-HL]: https://transfemscience.org/articles/hair-loss/
 [A21-IEMA]: https://transfemscience.org/articles/injectable-e2-meta-analysis/
 [A21-IEMA-IFC]: https://transfemscience.org/articles/injectable-e2-meta-analysis/#insights-for-clinical-guidelines-and-dosing-recommendations
 [A21-IEMA-U3]: https://transfemscience.org/articles/injectable-e2-meta-analysis/#update-3-herndon-et-al-2023:~:text=Testosterone%20levels%20in%20those%20with%20gonads
@@ -1501,6 +1546,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [S21-SET]: https://transfemscience.org/articles/sublingual-e2-transfem/
 [A20-BA]: https://transfemscience.org/articles/bica-adoption/
 [A20-BC]: https://transfemscience.org/articles/breast-cancer/
+[A20-BCS]: https://transfemscience.org/articles/breast-cancer-suppl/
 [A20-CM]: https://transfemscience.org/articles/cpa-meningioma/
 [A20-EBC]: https://transfemscience.org/articles/estrogens-blood-clots/
 [A20-EED]: https://transfemscience.org/articles/e2-equivalent-doses/
@@ -1510,19 +1556,26 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [A20-PBD-EPE]: https://transfemscience.org/articles/progestogens-breast-dev/#early-progestogen-exposure-and-the-possibility-of-suboptimal-breast-development
 [A20-PBD-NC]: https://transfemscience.org/articles/progestogens-breast-dev/#non-comparative-clinical-studies-of-breast-development-with-estrogen-and-cyproterone-acetate-in-transfeminine-people
 [A20-PSD]: https://transfemscience.org/articles/progestogens-sexual-desire/
+[A20-SU]: https://transfemscience.org/articles/shbg-unimportant/
 [A20-SVF]: https://transfemscience.org/articles/spiro-visceral-fat/
 [A20-THG]: https://transfemscience.org/articles/transfem-hormone-guidelines/
 [S20-OVTE]: https://transfemscience.org/articles/oral-vs-transdermal-e2/
+[S20-PBC]: https://transfemscience.org/articles/progestogens-breast-cancer/
+[S20-PCA]: https://transfemscience.org/articles/pep-cardiovascular-analysis/
+[S20-PTE]: https://transfemscience.org/articles/progestogens-transfem-excerpts/
 [A19-AS]: https://transfemscience.org/articles/aqueous-suspensions/
 [A19-CD]: https://transfemscience.org/articles/cpa-dosage/
 [A19-CD-TT]: https://transfemscience.org/articles/cpa-dosage/#testosterone-suppression-in-combination-with-estrogen
 [A19-GEA]: https://transfemscience.org/articles/genital-e2-application/
 [A19-HDTE]: https://transfemscience.org/articles/high-dose-transdermal-e2/
-[A19-NTO-POBD]: https://transfemscience.org/articles/nonbinary-transfem-overview/#prevention-of-breast-development
+[A19-NTO]: https://transfemscience.org/articles/nonbinary-transfem-overview/
 [A19-OEL2]: https://transfemscience.org/articles/oral-e2-leinung-2018/
+[A19-PEEBD]: https://transfemscience.org/articles/progestogens-early-exposure-breast-dev/
 [A19-PSD]: https://transfemscience.org/articles/progestogens-sexual-desire/
 [A19-SEV]: https://transfemscience.org/articles/sublingual-ev/
+[A19-TLL]: https://transfemscience.org/articles/transfem-lactation-literature/
 [A18-BI]: https://transfemscience.org/articles/buserelin-inexpensive/
+[A18-EC508]: https://transfemscience.org/articles/ec508/
 [A18-OPLL]: https://transfemscience.org/articles/oral-p4-low-levels/
 [A18-ST]: https://transfemscience.org/articles/spiro-testosterone/
 
@@ -1550,7 +1603,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [R08]: https://scholar.google.com/scholar?cluster=9979206541205334235
 [N14]: https://doi.org/10.1016/j.urolonc.2013.03.007
 [IG20]: https://doi.org/10.4103/aja.aja_139_19
-[B95]: https://doi.org/10.4158/EP.4.1.1
+[B95]: https://doi.org/10.1093/oxfordjournals.humrep.a136243
 [S98]: https://doi.org/10.4158/EP.4.1.1
 [L10]: https://doi.org/10.1210/jc.2010-1123
 [L20]: https://doi.org/10.1007/s42000-020-00210-0
@@ -1565,7 +1618,8 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [SGJ96]: https://doi.org/10.1002/(SICI)1097-0045(199605)28:5%3C307::AID-PROS6%3E3.0.CO;2-8
 [GB04]: https://doi.org/10.1530/eje.0.1510425
 [IT19]: https://doi.org/10.1249/JSR.0000000000000605
-[HL21]: https://doi.org/10.1007/s40279-020-01389-3
+[HL20]: https://doi.org/10.1007/s40279-020-01389-3
+[T25]: https://doi.org/10.1210/clinem/dgaf665
 [W85]: https://doi.org/10.1016/0028-2243(85)90036-X
 [M21]: https://doi.org/10.1111/iju.14499
 [G24]: https://doi.org/10.1007/s42000-024-00532-3
@@ -1620,6 +1674,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [B16]: https://doi.org/10.1111/liv.12899
 [KUMA21]: https://doi.org/10.1016/j.jceh.2021.01.003
 [K00]: https://doi.org/10.1097/00000478-200001000-00009
+[DU79]: https://scholar.google.com/scholar?cluster=103653152682932548
 [GHK85]: https://doi.org/10.1111/j.1365-2265.1985.tb01081.x
 [SCHL98]: https://doi.org/10.1023/A:1018704630036
 [BC09]: https://doi.org/10.5282/edoc.9984
@@ -1633,7 +1688,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [N18]: https://doi.org/10.1093/brain/awy108
 [M21]: https://doi.org/10.1089/trgh.2021.0025
 [W21]: https://doi.org/10.1136/bmj.n37
-[L14]: https://web.archive.org/web/20180304204640/http://press.endocrine.org/doi/abs/10.1210/endo-meetings.2014.RE.2.OR42-1
+[L14]: https://web.archive.org/web/20180304204640/https://press.endocrine.org/doi/abs/10.1210/endo-meetings.2014.RE.2.OR42-1
 [LFJ18]: https://doi.org/10.1089/trgh.2017.0035
 [L18]: https://doi.org/10.4158/ep-2017-0116
 [JKF19]: https://doi.org/10.1210/jc.2018-02253
@@ -1661,6 +1716,7 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [PWM15]: https://doi.org/10.1001/jamadermatol.2015.34
 [MLC19]: https://doi.org/10.1210/js.2019-00030
 [WL20]: https://doi.org/10.1016/j.ijwd.2020.05.002
+[BMM21]: https://doi.org/10.1001/jamadermatol.2020.5468
 [G22]: https://doi.org/10.1016/j.eprac.2022.08.007
 [H22]: https://doi.org/10.1210/jendso/bvac133
 [R12]: https://doi.org/10.1038/nrneph.2012.217
@@ -1745,7 +1801,8 @@ GnRH 激动剂与拮抗剂的种类及用法有：
 [C93-ARCHIVE]: https://archive.org/details/textbookofreprod02edunse/page/207/
 [C22-WPATH]: https://www.wpath.org/publications/soc
 [C22-PDF]: https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644
-[D16-PDF]: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=26
+[D16-PDF]: https://web.archive.org/web/20251005034705/https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=26
+[DU79-PDF]: https://ia601708.us.archive.org/35/items/dewhurst-underhill-1979-the-suppression-of-facial-hair-growth-in-transsexuals-us/Dewhurst%20&%20Underhill%20%281979%29%20-%20The%20Suppression%20of%20Facial%20Hair%20Growth%20in%20Transsexuals%20Using%20Cyproterone%20Acetate.pdf
 [G16-GB]: https://books.google.com/books?id=xmLeBgAAQBAJ&pg=2172
 [H17-PDF]: https://academic.oup.com/jcem/article-pdf/102/11/3869/21533864/jc.2017-01658.pdf
 [H16-PM]: https://pubmed.ncbi.nlm.nih.gov/27672412/

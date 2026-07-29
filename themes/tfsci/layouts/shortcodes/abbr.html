@@ -1,5 +1,5 @@
 {{- $abbr := .Get 0 -}}
-{{- $abbreviation := index .Site.Data (print "abbreviation." .Page.Language.Lang) -}}
+{{- $abbreviation := index hugo.Data (print "abbreviation." .Page.Language.Lang) -}}
 {{- if $abbreviation }}
 {{- with index $abbreviation $abbr -}}
   {{ $html := printf `<abbr title=%q data-origin=%q>%s</abbr>` .origin .title $abbr }}
