@@ -4,15 +4,15 @@ linkTitle: 螺内酯的抗雄激素效力及其与睾酮水平的关系
 description: 螺内酯在多大剂量下有抗雄效果？螺内酯会让睾酮减少吗？本文将一一解读。
 author: Aly
 published: 2018-12-19
-updated: 2024-04-05
-translated: 2025-05-28
+updated: 2025-08-23
+translated: 2026-08-01
 translators:
   - Bersella AI
 tags:
   - 螺内酯
   - 抗雄激素制剂
   - 用药途径与剂量
-trackHash: 1d825b9085cddad0426e17745913587e7fa6f49d
+trackHash: f2fa2a665e6d5e5df367fc89a094b3c5505faae4
 keywords: [螺内酯, 抗雄, 激素水平, 用法用量]
 aliases:
   - spiro-hormone-levels-men-transfem
@@ -194,7 +194,7 @@ aliases:
 还有，在螺内酯作为抗雄制剂应用最广泛的顺性别女性群体中，睾酮平均水平相对较低（约 30 ng/dL），比顺性别男性的平均值（约 600 ng/dL）低约 *95%* <sup>([Aly, 2018][A18-TI-NHL]; 译者注)</sup>。然而，在患有雄激素依赖性状况的顺性别女性当中，有不少还罹患 PCOS，其与睾酮水平的有限升高相关（平均可能在 60 ng/dL 左右）<sup>([Aly, 2018][A18-TI-NHL])</sup>。\
 螺内酯用于治疗顺性别女性的雄激素依赖性状况时，其通常剂量为 50–200 mg/天，在此范围内，其效力可视为与剂量相关；此范围也跟女性倾向跨性别者通常所用的基本一致（不过后者剂量可增至 300–400 mg/天，而这业已为现有指南所接受）<sup>([Aly, 2018][A18-TI-SPIRO]; [Aly, 2020][A20-THG])</sup>。
 
-> **(译者注)** 原文为“about **20-fold** lower”（低约“20 倍”），综合上下文，这个说法并不严谨，故予以更正。
+> **(译者注)** 原文为“about **20-fold** lower”（低约“20 倍”）；汉语和英语对数字差值的表述存在一定差别。
 
 目前已有螺内酯用于治疗顺性别女性的雄激素依赖性状况时的剂量范围试验；虽然资料较少，但足以证明其在临床剂量范围下的有效性是随剂量变化的（已被 [Hammerstein (1990)][H90] 和 [Shaw (1996)][S96] 作了一定回顾）。一项研究对比了螺内酯 50–200 mg/天和安慰剂用于顺性别女性以治疗痤疮的情况，其报道螺内酯的有效性随剂量递增，直至 200 mg/天<sup>([Goodfellow et al., 1984][G84])</sup>。另一项研究亦有类似结果：当用于治疗顺性别女性的痤疮时，随着剂量从 100 mg/天逐渐增至 150、200 mg/天，螺内酯的有效性得到了增强<sup>([Charny, Choi, & James, 2017][CCJ17])</sup>。已有螺内酯在低至 50 mg/天的剂量下，仍对顺性别女性的多毛症有疗效的报道<sup>([Diamanti-Kandarakis, Tolis, & Duleba, 1995][DTD95])</sup>。\
 然而，在一项对比不同剂量螺内酯之有效性的研究中，即使是 100 mg/天也未必对多毛症具备最大疗效；200 mg/天与 100 mg/天相比，在疗效上也仅有接近于统计显著性的增长（毛干直径分别缩小 30% ± 3% 和 19% ± 8%——平均±标准误；*P* = 0.07）<sup>([Lobo et al., 1985][L85])</sup>。该研究中，游离睾酮水平不变，提示螺内酯仅作为雄激素受体拮抗剂发挥作用。\
@@ -254,8 +254,17 @@ aliases:
 - Angus, L. M., Leemaqz, S. Y., Zajac, J. D., & Cheung, A. S. (November 2023). The effect of cyproterone and spironolactone on breast development in transgender women: a randomised controlled trial. ESA/SRB/ENSA 2023 ASM 26-29 November, Brisbane, 54–55 (abstract no. 132). \[[URL][A23B]] \[[PDF][A23B-PDF]] \[[摘要全书][A23B-A]] \[[Trans Health Research 博客文章][A23B-THR]]
 - Miro, E., Rizzone, K., Ho, T., Mark, B., Sullivan, E., & Cushman, D. (2024). 2024 AMSSM Research Podium Presentations: Testosterone Levels Among Transgender Women on Gender-affirming Hormone Therapy. Clinical Journal of Sports Medicine, 34(2), 152–152. \[DOI:[10.1097/JSM.0000000000001212][M24]]
 - Yang, W., Hong, T., Chang, X., Han, M., Gao, H., Pan, B., Zhao, Z., & Liu, Y. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. International Journal of Transgender Health, advance online publication. \[DOI:[10.1080/26895269.2024.2323514][Y24]]
+- Angus, L. M., Leemaqz, S. Y., Kasielska-Trojan, A. K., Mikołajczyk, M., Doery JCG, Zajac, J. D., & Cheung, A. S. (2025). Effect of Spironolactone and Cyproterone Acetate on Breast Growth in Transgender People: A Randomized Clinical Trial. *The Journal of Clinical Endocrinology and Metabolism*, *110*(6), e1874–e1884. \[DOI:[10.1210/clinem/dgae650][A25]]
 
-其中，Angus et al. (2023) 和 Yang et al. (2024) 对比了雌二醇合并螺内酯、雌二醇合并 CPA 的情况；详细讨论可见[另一拙作][A20-PBD-U]。据 Yang et al. (2024) 发现，螺内酯不仅在对睾酮的抑制作用上远弱于 CPA，作为抗雄激素制剂的有效性在多项临床去男性化指标上也弱于 CPA。
+其中，Angus et al. (2023/2025) 和 Yang et al. (2024) 对比了雌二醇合并螺内酯、雌二醇合并 CPA 的情况；详细讨论可见[另一拙作][A20-PBD-U]。据 Yang et al. (2024) 发现，螺内酯不仅在对睾酮的抑制作用上远弱于 CPA，作为抗雄激素制剂的有效性在多项临床去男性化指标上也弱于 CPA。
+
+## 后记三：Bonadonna et al. (2025) {#update-3-bonadonna-et-al-2025}
+
+以下会议纪要于 2025 年八月被在线发表：
+
+- Bonadonna, S., Amer, M., Foletti, F., Federici, S., Persani, L., Bonomi, M. (2025). Evaluation of Antiandrogen Therapy Effectiveness in Transgender individuals Assigned Male At Birth (AMAB). *EPATH 6th Conference, September 4–6, 2025 in Hamburg Germany*. \[[纪要手册 PDF][B25]] \[[PDF][B25-PDF]]
+
+该纪要来自一项回顾性观察性研究，其中对比了螺内酯和 CPA——可以肯定合并了雌激素——用于 149 名女性倾向跨性别者的情况。研究发现，螺内酯治疗组的睾酮和促性腺激素水平高于 CPA 治疗组；此外，相较于 CPA，螺内酯和更弱的性欲及勃起控制能力存在相关性。不过在腰围—臀围比值上，两个组别未见差异。纪要作者总结道，当作为抗雄激素药物用于女性倾向跨性别者时，螺内酯表现出的有效性要弱于 CPA。将来，该研究的完整成果可能将以期刊文章的形式择机发表。
 
 ## 参考文献 {#references}
 
@@ -263,15 +272,22 @@ aliases:
 - Aizawa, H., & Niimura, M. (1992). Oral Spironolactone Therapy in Male Patients with Rosacea. *The Journal of Dermatology*, *19*(5), 293–297. \[DOI:[10.1111/j.1346-8138.1992.tb03227.x][AN92]]
 - Allen, A. N., Jiao, R., Day, P., Pagels, P., Gimpel, N., & SoRelle, J. A. (2020). Dynamic Impact of Hormone Therapy on Laboratory Values in Transgender Patients over Time. *The Journal of Applied Laboratory Medicine*, *6*(1), 27–40. \[DOI:[10.1093/jalm/jfaa192][A21]]
 - Almalki, H. H., Alshibani, T. M., Alhifany, A. A., & Almohammed, O. A. (2020). Comparative efficacy of statins, metformin, spironolactone and combined oral contraceptives in reducing testosterone levels in women with polycystic ovary syndrome: a network meta-analysis of randomized clinical trials. *BMC Women’s Health*, *20*(1), 68. \[DOI:[10.1186/s12905-020-00919-5][A20]]
+- Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. \[[URL][A18-TI]]
+- Aly. (2019). Analysis of Estradiol and Testosterone Levels with Oral Estradiol in Transfeminine People Based on Leinung et al. (2018). *Transfeminine Science*. \[[URL][A19-OEL2]]
+- Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. \[[URL][A19-CD]]
+- Aly. (2020). A Comprehensive Review of the Potential of Progestogens for Enhancing Breast Development in Transfeminine People. *Transfeminine Science*. \[[URL][A20-PBD]]
+- Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][A20-THG]]
 - Amiri, M., Kabir, A., Nahidi, F., Shekofteh, M., & Ramezani Tehrani, F. (2018). Effects of combined oral contraceptives on the clinical and biochemical parameters of hyperandrogenism in patients with polycystic ovary syndrome: a systematic review and meta-analysis. *The European Journal of Contraception & Reproductive Health Care*, *23*(1), 64–77. \[DOI:[10.1080/13625187.2018.1435779][A18]]
 - Angus, L., Leemaqz, S., Ooi, O., Cundill, P., Silberstein, N., Locke, P., Zajac, J. D., & Cheung, A. S. (2019). Cyproterone acetate or spironolactone in lowering testosterone concentrations for transgender individuals receiving oestradiol therapy. *Endocrine Connections*, *8*(7), 935–940. \[DOI:[10.1530/ec-19-0272][A19]]
 - Angus, L. M., Nolan, B. J., Zajac, J. D., & Cheung, A. S. (2021). A systematic review of antiandrogens and feminization in transgender women. *Clinical Endocrinology*, *94*(5), 743–752. \[DOI:[10.1111/cen.14329][ANGUS21]]
 - Angus, L. M., Leemaqz, S., Zajac, J. D., & Cheung, A. S. (November 2023). A randomised controlled trial of spironolactone versus cyproterone in trans people commencing estradiol. AusPATH 2023 Symposium. \[[URL][A23A]] \[[PDF][A23A-PDF]] \[[Trans Health Research 博客文章][A23A-THR]]
 - Angus, L. M., Leemaqz, S. Y., Zajac, J. D., & Cheung, A. S. (November 2023). The effect of cyproterone and spironolactone on breast development in transgender women: a randomised controlled trial. ESA/SRB/ENSA 2023 ASM 26-29 November, Brisbane, 54–55 (abstract no. 132). \[[URL][A23B]] \[[PDF][A23B-PDF]] \[[摘要全书][A23B-A]] \[[Trans Health Research 博客文章][A23B-THR]]
+- Angus, L. M., Leemaqz, S. Y., Kasielska-Trojan, A. K., Mikołajczyk, M., Doery JCG, Zajac, J. D., & Cheung, A. S. (2025). Effect of Spironolactone and Cyproterone Acetate on Breast Growth in Transgender People: A Randomized Clinical Trial. *The Journal of Clinical Endocrinology and Metabolism*, *110*(6), e1874–e1884. \[DOI:[10.1210/clinem/dgae650][A25]]
 - Baba, S. (1977). Antiandrogenic effect of spironolactone. *The Japanese Journal of Urology*, *68*(12), 1184–1192. \[DOI:[10.5980/jpnjurol1928.68.12\_1184][B77]]
 - Baba, S., Murai, M., Jitsukawa, S., Hata, M., & Tazaki, H. (1978). Antiandrogenic Effects of Spironolactone: Hormonal and Ultrastructural Studies in Dogs and Men. *Journal of Urology*, *119*(3), 375–380. \[DOI:[10.1016/s0022-5347(17)57495-9][B78]]
 - Bakker, A. (2021). *Een halve eeuw transgenderzorg aan de VU* \[*Half a Century of Transgender Care at the VU*]. Amsterdam: Boom. \[[Google 阅读][BAKK21-GB]] \[[WorldCat][BAKK21]] \[[URL][BAKK21-URL]]
 - Barrionuevo, P., Nabhan, M., Altayar, O., Wang, Z., Erwin, P. J., Asi, N., Martin, K. A., & Murad, M. H. (2018). Treatment Options for Hirsutism: A Systematic Review and Network Meta-Analysis. *The Journal of Clinical Endocrinology & Metabolism*, *103*(4), 1258–1264. \[DOI:[10.1210/jc.2017-02052][B18]]
+- Bonadonna, S., Amer, M., Foletti, F., Federici, S., Persani, L., Bonomi, M. (2025). Evaluation of Antiandrogen Therapy Effectiveness in Transgender individuals Assigned Male At Birth (AMAB). *EPATH 6th Conference, September 4–6, 2025 in Hamburg Germany*. \[[纪要手册 PDF][B25]] \[[PDF][B25-PDF]]
 - Bonne, C., & Raynaud, J. (1974). Mode of spironolactone anti-androgenic action: Inhibition of androstanolone binding to rat prostate androgen receptor. *Molecular and Cellular Endocrinology*, *2*(1), 59–67. \[DOI:[10.1016/0303-7207(74)90012-4][BR74]]
 - Bonzagni, A. F. (2014). *Understanding the effects of long-term hormone therapy in transgender individuals being provided care at Boston Medical Center Endocrinology Clinic: a quality assurance project.* (Doctoral dissertation, Boston University.) \[[Google 学术][B14-GS]] \[[URL][B14]] \[[PDF][B14-PDF]]
 - Bradstreet, J. J., Smith, S., Granpeesheh, D., El-Dahr, J. M., & Rossignol, D. (2007). Spironolactone might be a desirable immunologic and hormonal intervention in autism spectrum disorders. *Medical Hypotheses*, *68*(5), 979–987. \[DOI:[10.1016/j.mehy.2006.10.015][B07]]
@@ -366,6 +382,7 @@ aliases:
 2023 年 2 月 25 日,更正一处词组的翻译（in notable contrast）。
 2023 年 6 月 11 日,**第一次修订：**\n近乎重新翻译了全文；\n更换了标题及链接。
 2025 年 5 月 28 日,**第二次修订**，增补了后记，更正了多处不当叙述。
+2026 年 8 月 1 日,增补“后记三”，更新参考文献及链接。
 ```
 
 <!-- 维基百科条目 -->
@@ -442,7 +459,7 @@ aliases:
 [MH93]: https://doi.org/10.1007/BF03348960
 [PUBMED]: https://pubmed.ncbi.nlm.nih.gov/
 [GS]: https://scholar.google.com/
-[P74]: https://www.ncbi.nlm.nih.gov/pubmed/4468914
+[P74]: https://pubmed.ncbi.nlm.nih.gov/4468914
 [S75]: https://doi.org/10.1210/jcem-41-4-777
 [WS75]: https://doi.org/10.1016/S0022-5347%2817%2967001-0
 [S76]: https://doi.org/10.1210/jcem-43-6-1386
@@ -553,8 +570,13 @@ aliases:
 [A23B-THR]: https://medicine.unimelb.edu.au/mms/mms-staff-news/newsletter-issue-30-december-2023/dr-lachlan-angus-awarded-bryan-hudson-clinical-endocrinology-award
 [M24]: https://doi.org/10.1097/JSM.0000000000001212
 [Y24]: https://doi.org/10.1080/26895269.2024.2323514
+[A25]: https://doi.org/10.1210/clinem/dgae650
 [A20-PBD-U]: https://transfemscience.org/articles/progestogens-breast-dev/#updates
+[B25]: https://epath.eu/wp-content/uploads/2025/08/Abstract_booklet-1.pdf#page=179
+[B25-PDF]: https://web.archive.org/web/20250817153603/https://rapidshare.io/2lNG/Bonadonna_et_al._%282025%29_-_Evaluation_of_Antiandrogen_Therapy_Effectiveness_in_Transgender_individuals_Assigned_Male_At_Birth_%28AMAB%29.pdf?download_token=6de173d6dd47b65b47872b5ffb856e3286839d3fc357dd20069b3c3993659c56
 
+[A18-TI]: https://transfemscience.org/articles/transfem-intro/
+[A20-PBD]: https://transfemscience.org/articles/progestogens-breast-dev/
 [BAKK21-GB]: https://books.google.com/books?id=kNYvzgEACAAJ
 [BAKK21-URL]: https://vu-shop.nl/product/een-halve-eeuw-transgenderzorg-aan-de-vu-alex-bakker/
 [B14-GS]: https://scholar.google.com/scholar?cluster=17682332655492175835

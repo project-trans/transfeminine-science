@@ -11,7 +11,7 @@ translators:
 tags:
   - 雌激素
   - 用药途径与剂量
-trackHash: db9dfb8b7e5bb055797fe1a005bb6c972857d602
+trackHash: 17cd82bd6dc0382220b4c3fa80b27dd8e5e84309
 keywords: [雌二醇注射剂, 富士日雌, Depo-Estradiol, 用法用量]
 aliases: /articles/injectable-e2-meta-analysis
 ---
@@ -24,7 +24,7 @@ aliases: /articles/injectable-e2-meta-analysis
    如希望了解本文作者推荐的剂量，可查阅[此小节]({{< ref "#insights-for-clinical-guidelines-and-dosing-recommendations" >}})。
 1. 原文还简短讨论了[睾酮注射剂]({{< ref "#duration-of-estradiol-cypionate-in-oil-versus-estradiol-enanthate" >}})。
 
------
+--------
 
 ## 摘要 {#abstract}
 
@@ -796,7 +796,7 @@ Herndon et al. (2023) 的结果与本次荟萃分析的结论相吻合，令人�
 
 一份致编者的信函就 Rothman 及同行的第二份综述表达了一致的看法：
 
-Patel, K. T., & Tangpricha, V. (2024). Parenteral Estradiol for Transgender Women: Time to adjust the dose. *Endocrine Practice*, *30*(9), 893–894. \[DOI:[10.1016/j.eprac.2024.07.005][PT24]]
+- Patel, K. T., & Tangpricha, V. (2024). Parenteral Estradiol for Transgender Women: Time to adjust the dose. *Endocrine Practice*, *30*(9), 893–894. \[DOI:[10.1016/j.eprac.2024.07.005][PT24]]
 
 ### 后记五：Kariyawasam et al. (2024) {#update-5-kariyawasam-et-al-2024}
 
@@ -961,6 +961,12 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 - Aedo, A. R., Landgren, B. M., Johannisson, E., & Diczfalusy, E. (1985). Pharmacokinetic and pharmacodynamic investigations with monthly injectable contraceptive preparations. *Contraception*, *31*(5), 453–469. \[DOI:[10.1016/0010-7824(85)90081-2][A85]]
 - Aisaka, K., Ando, S., Kokubo, K., Yoshida, K., & Mori, H. (1986). いわゆる潜在性高prolactin血症患者におけるprolactin分泌予備能の検討. \[Studies on Prolactin Secreting Capacity in the Ovulatory Infertile Patients with Transient Hyperprolactinemia.] *日本内分泌学会雑誌* / *Nihon Naibunpi Gakkai Zasshi* / *Folia Endocrinologica Japonica*, *62*(5), 662–671. \[DOI:[10.1507/endocrine1927.62.5\_662][A86]]
 - Akande, E. O. (1974). The effect of oestrogen on plasma levels of luteinizing hormone in euthyroid and thyrotoxic postmenopausal women. *The Journal of Obstetrics and Gynaecology of the British Commonwealth* / *BJOG*, *81*(10), 795–803. \[DOI:[10.1111/j.1471-0528.1974.tb00383.x][A74]]
+- Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. \[[URL][A18-TI]]
+- Aly. (2019). Injectable Aqueous Suspensions of Sex Hormones and How Depot Injectables Work. *Transfeminine Science*. \[[URL][A19-AS]]
+- Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. *Transfeminine Science*. \[[URL][A20-EED]]
+- Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. *Transfeminine Science*. \[[URL][A20-THG]]
+- Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. \[[URL][A20-EBC]]
+- Aly. (2021). An Interactive Web Simulator for Estradiol Levels with Injectable Estradiol Esters. *Transfeminine Science*. \[[URL][A21-IESR]]
 - Ballard, B. E. (1978). An Overview of Prolonged Action Drug Dosage Forms. In Robinson, J. R. (Ed.). *Sustained and Controlled Release Drug Delivery Systems* (pp. 1–69). New York/Basel: Marcel Dekker. \[[Google 学术][B78]] \[[Google 阅读][B78-GB]]
 - Behre, H. M., Oberpenning, F., & Nieschlag, E. (1990). Comparative pharmacokinetics of androgen preparations: application of computer analysis and simulation. In Nieschlag, E., & Behre, H. M. (Eds.). *Testosterone: Action · Deficiency · Substitution, 1st Edition* (pp. 115–135). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-662-00814-0\_6][BON90]]
 - Behre, H. M., & Nieschlag, E. (1998). Comparative pharmacokinetics of testosterone esters. In Nieschlag, E., & Behre, H. M. (Eds.). *Testosterone: Action · Deficiency · Substitution, 2nd Edition* (pp. 329–348). Berlin/Heidelberg: Springer. \[DOI:[10.1007/978-3-642-72185-4\_11][BN98]]
@@ -980,7 +986,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 - Cavanaugh, T., Hopwood, R., Gonzalez, A., & Thompson, J. (2015). *The Medical Care of Transgender Persons.* Boston: Fenway Health. \[[网址][C15]] \[[PDF 文档][C15-PDF]]
 - Certara. (2020). *Certara Phoenix Assistance > Modeling > Least-Squares Regression Model Calculations > Pharmacokinetic Models.* \[[网址][C20]]
 - Chantrapanichkul, P., Stevenson, M. O., Suppakitjanusant, P., Goodman, M., & Tangpricha, V. (2021). Serum Hormone Concentrations in Transgender Individuals Receiving Gender-Affirming Hormone Therapy: A Longitudinal Retrospective Cohort Study. *Endocrine Practice*, *27*(1), 27–33. \[DOI:[10.4158/EP-2020-0414][C21]] \[[表格][table58e]]
-- Chien, Y. W. (1981). Long-acting parenteral drug formulations. *Journal of Parenteral Science and Technology* / *PDA Journal of Pharmaceutical Science and Technology*, *35*(3), 106–139. \[[Google 学术][CHIEN81]] \[[网址][CHIEN81-PDA]] \[[PDF 文档][CHIEN81-PDF]]
+- Chien, Y. W. (1981). Long-acting parenteral drug formulations. *Journal of Parenteral Science and Technology* / *PDA Journal of Pharmaceutical Science and Technology*, *35*(3), 106–139. \[[Google 学术][CHIEN81-GS]] \[[网址][CHIEN81]] \[[PDF 文档][CHIEN81-PDF]]
 - Cirrincione, L. R., Winston McPherson, G., Rongitsch, J., Sadilkova, K., Drees, J. C., Krasowski, M. D., Dickerson, J. A., & Greene, D. N. (2021). Sublingual estradiol is associated with higher estrone concentrations than transdermal or injectable preparations in transgender women and gender nonbinary adults. *LGBT Health*, *8*(2), 125–132. \[DOI:[10.1089/lgbt.2020.0249][CWR21]] \[[表格][table58f]]
 - Colburn, W. A. (1981). Simultaneous pharmacokinetic and pharmacodynamic modeling. *Journal of Pharmacokinetics and Biopharmaceutics*, *9*(3), 367–388. \[DOI:[10.1007/BF01059272][COLB81]]
 - Coleman, E., Radix, A. E., Bouman, W. P., Brown, G. R., de Vries, A. L., Deutsch, M. B., Ettner, R., Fraser, L., Goodman, M., Green, J., Hancock, A. B., Johnson, T. W., Karasic, D. H., Knudson, G. A., Leibowitz, S. F., Meyer-Bahlburg, H. F., Monstrey, S. J., Motmans, J., Nahata, L., … & Arcelus, J. (2022). \[World Professional Association for Transgender Health (WPATH)] Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. *International Journal of Transgender Health*, *23*(Suppl 1), S1–S259. \[DOI:[10.1080/26895269.2022.2100644][C22]] \[[网址][C22-WPATH]] \[[PDF 文档][C22-PDF]]
@@ -1001,7 +1007,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 - Espino y Sosa, S., Cortés Fuentes, M., Gómez Rico, J. A., & Cortés Bonilla, M. (2019). Non-polymeric Microspheres for the Therapeutic Use of Estrogens: An Innovative Technology. In Khan, W. A. (Ed.). *Estrogen*. London: IntechOpen. \[DOI:[10.5772/intechopen.82553][ES19]]
 - *Estradurin<sup>®</sup> Polyestradiol Phosphate Labels.* Pharmanovia. \[[网址][estradurin]] \[[DOCs/PDFs][estradurin-pdf]]
 - Fisher, D., & Shafer, S. (2007). *Fisher/Shafer NONMEM Workshop Pharmacokinetic and Pharmacodynamic Analysis with NONMEM. Basic Concepts.* \[[PDF 文档][FS07]]
-- Florence, A. T. (2010). Looking at Formulations. In Florence, A. T. *An Introduction to Clinical Pharmaceutics* (pp. 69–100). London/Chicago: Pharmaceutical Press. \[[Google 学术][F10-GS]] \[[Google 阅读][F10-GB]] [.][F10]
+- Florence, A. T. (2010). Looking at Formulations. In Florence, A. T. *An Introduction to Clinical Pharmaceutics* (pp. 69–100). London/Chicago: Pharmaceutical Press. \[[Google 学术][F10-GS]] \[[Google 阅读][F10]]
 - Fotherby, K., Benagiano, G., Toppozada, H. K., Abdel-Rahman, A., Navaroli, F., Arce, B., Ramos-Cordero, R., Gual, C., Landgren, B. M., & Johannisson, E. (1982). A preliminary pharmacological trial of the monthly injectable contraceptive Cycloprovera. *Contraception*, *25*(3), 261–272. \[DOI:[10.1016/0010-7824(82)90049-X][F82]]
 - Futterweit, W., Gabrilove, J., & Smith, H. (1984). Testicular steroidogenic response to human chorionic gonadotropin of fifteen male transsexuals on chronic estrogen treatment. *Metabolism*, *33*(10), 936–942. \[DOI:[10.1016/0026-0495(84)90248-8][FGS84]] \[[图片][fig58a]]
 - Garner, P. R., & Armstrong, D. T. (1977). The effect of human chorionic gonadotropin and estradiol-17β on the maintenance of the human corpus luteum of early pregnancy. *American Journal of Obstetrics and Gynecology*, *128*(5), 469–475. \[DOI:[10.1016/0002-9378(77)90026-6][GA77]]
@@ -1159,10 +1165,12 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 2023 年 4 月 1 日,**第一次修订：**\n增补“后记”一章；\n更新“推荐剂量剖析”等部分，更正少量叙述；\n修复格式，补足外链。
 2024 年 11 月 19 日,**第二次修订**，增补后记四、五、六，重新整理既往译文、链接和格式。
 2025 年 9 月 23 日,**第三次修订**：重新检查全文，增补后记七至十一。
+2026 年 8 月 1 日,更新引用链接。
 ```
 
 
 <!-- 【链接定义，以出现顺序排序】 -->
+
 <!-- 第一章：前言 -->
 [E59]: https://doi.org/10.1111/j.2042-7158.1959.tb10412.x
 [V19]: https://doi.org/10.1007/978-981-13-3642-3_7
@@ -1294,7 +1302,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 
 [DESMOS]: https://www.desmos.com/calculator/ndgvp2avhj
 
-[G75]: https://www.worldcat.org/oclc/632312599
+[G75]: https://www.worldcat.org/oclc/311708827
 [L75]: https://pubmed.ncbi.nlm.nih.gov/1150068/
 [KJ75]: https://doi.org/10.1210/jcem-41-6-1003
 [S75]: https://doi.org/10.1111/j.1365-2265.1975.tb01534.x
@@ -1455,7 +1463,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 
 [RRH99]: https://doi.org/10.1016/S0010-7824(99)00086-4
 [SINKULA78]: https://scholar.google.com/scholar?cluster=12842077211931556704
-[CHIEN81]: https://journal.pda.org/content/35/3/106.short
+[CHIEN81]: https://journal.pda.org/content/35/3/106
 [M97]: https://jpet.aspetjournals.org/content/281/1/93.short
 [LL09]: https://doi.org/10.1208/s12248-009-9153-9
 [L09]: https://doi.org/10.1517/17425240903307431
@@ -1658,13 +1666,13 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 [wiki148]: https://en.wikipedia.org/wiki/Finasteride
 
 <!-- 参考文献 -->
+[A18-TI]: https://transfemscience.org/articles/transfem-intro/
 [B78-GB]: https://books.google.com/books?id=txptAAAAMAAJ
 [B04-PDF]: https://web.archive.org/web/20210824080706if_/https://www.researchgate.net/profile/Ebo-Nieschlag/publication/264848721_Pharmacology_of_testosterone_preparations/links/543c87090cf24ef33b762c5d/Pharmacology-of-testosterone-preparations.pdf
 [B19-PDF]: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-4TH-EDITION-n7ozcr.pdf
 [CL18-PDF]: https://web.archive.org/web/20221228055728if_/https://callen-lorde.org/graphics/2018/04/Callen-Lorde-TGNC-Hormone-Therapy-Protocols.pdf
 [C15-PDF]: https://www.lgbtqiahealtheducation.org/wp-content/uploads/COM-2245-The-Medical-Care-of-Transgender-Persons-v31816.pdf
-[CHIEN81]: https://scholar.google.com/scholar?cluster=169807409664054263
-[CHIEN81-PDA]: https://journal.pda.org/content/35/3/106
+[CHIEN81-GS]: https://scholar.google.com/scholar?cluster=169807409664054263
 [CHIEN81-PDF]: https://files.transfemscience.org/pdfs/Chien%20%281981%29%20-%20Long-Acting%20Parenteral%20Drug%20Formulations.pdf
 [COLB81]: https://doi.org/10.1007/BF01059272
 [C22-WPATH]: https://www.wpath.org/publications/soc
@@ -1680,11 +1688,10 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 [D14-WC]: https://worldcat.org/title/915549180
 [D14-A]: https://archive.org/details/transbodiestrans0000unse/page/241/
 [D14-PDF]: https://files.transfemscience.org/pdfs/Deutsch%20%282014%29%20-%20Medical%20Transition%20[In%20Erickson-Schroth%20%282014%29%20-%20Trans%20Bodies,%20Trans%20Selves].pdf#page=7
-[D16A-PDF]: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf
-[D16B-PDF]: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=26
+[D16A-PDF]: https://web.archive.org/web/20251005034705/https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf
+[D16B-PDF]: https://web.archive.org/web/20251005034705/https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=26
 [estradurin-pdf]: https://files.transfemscience.org/pdfs/misc/Estradurin%20-%20Pharmanovia.zip
 [F10-GS]: https://scholar.google.com/scholar?cluster=10923988500882019865
-[F10-GB]: https://books.google.com/books?id=5wcyP2OBPhoC&pg=PA69
 [G75-GS]: https://scholar.google.com/scholar?cluster=9665487806883731726
 [G75-PDF]: https://files.transfemscience.org/pdfs/Geppert%20%281975%29%20-%20Untersuchungen%20zur%20Pharmakokinetik%20von%20%C3%96stradiol-17%CE%B2,%20%C3%96stradiol-Benzoat,%20%C3%96stradiol-Valerianat%20und%20%C3%96stradiol-Undezylat%20bei%20der%20Frau%20[...].pdf
 [G75-ENG]: https://files.transfemscience.org/pdfs/translations/Geppert%20%281975%29%20-%20Untersuchungen%20zur%20Pharmakokinetik%20von%20%C3%96stradiol-17%CE%B2,%20%C3%96stradiol-Benzoat,%20%C3%96stradiol-Valerianat%20und%20%C3%96stradiol-Undezylat%20bei%20der%20Frau%20[...].pdf
@@ -1697,9 +1704,9 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 [I96-GS]: https://scholar.google.com/scholar?cluster=10356896144014189338
 [I96-PDF]: https://files.transfemscience.org/pdfs/Ibrahim%20%281996%29%20-%20Pharmakokinetische%20Untersuchungen%20mit%20%C3%96stradiolvalerat%20und%20Hydroxyprogesteroncaproat%20in%20Depotform%20nach%20Einmaliger%20Applikation%20bei%2024%20Postmenopausalen%20Frauen%20[pp.%200%E2%80%9311,%2039%E2%80%9349].pdf
 [IP65-ISSN]: https://portal.issn.org/resource/ISSN/0568-4250
-[IP65-WC1]: https://www.worldcat.org/title/internationales-symposium-der-gynakologischen-endokrinologie-vom-15-18-mai-1963/oclc/320539552
-[IP65-WC2]: https://www.worldcat.org/title/abhandlungen-der-deutschen-akademie-der-wissenschaften-zu-berlin-klasse-fur-medizin/oclc/637443718
-[IP65-WC3]: https://www.worldcat.org/title/abhandlungen-der-deutschen-akademie-der-wissenschaften-klasse-fur-medizin/oclc/263597180
+[IP65-WC1]: https://www.worldcat.org/oclc/320539552
+[IP65-WC2]: https://www.worldcat.org/oclc/637443718
+[IP65-WC3]: https://www.worldcat.org/oclc/263597180
 [IP65-PDF]: https://files.transfemscience.org/pdfs/Ittrich%20&%20Pots%20%281965%29%20-%20%C3%96strogenbestimmungen%20in%20Blut%20und%20Urin%20Nach%20Verabreichung%20von%20%C3%96strogenen%20[Estrogen%20Determinations%20in%20Blood%20and%20Urine%20After%20Administration%20of%20Estrogens].pdf
 [J82-GB]: https://books.google.com/books?id=4HNrAAAAMAAJ
 [K17-GS]: https://scholar.google.com/scholar?cluster=7816417280514016071
@@ -1715,7 +1722,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 [L75-PDF]: https://files.transfemscience.org/pdfs/Leyendecker%20et%20al.%20%281975%29%20-%20Untersuchungen%20zur%20Pharmakokinetik%20von%20%C3%96stradiol-17%CE%B2,%20%C3%96stradiol-Benzoat,%20%C3%96stradiol-Valerianat%20und%20%C3%96stradiol-Undezylat%20bei%20der%20Frau%20[...].pdf
 [L75-ENG]: https://files.transfemscience.org/pdfs/translations/Leyendecker%20et%20al.%20%281975%29%20-%20Untersuchungen%20zur%20Pharmakokinetik%20von%20%C3%96stradiol-17%CE%B2,%20%C3%96stradiol-Benzoat,%20%C3%96stradiol-Valerianat%20und%20%C3%96stradiol-Undezylat%20bei%20der%20Frau%20[...].pdf
 [NB10-PDF]: https://web.archive.org/web/20210824082448if_/http://ssu.ac.ir/cms/fileadmin/user_upload/vonline/etiad/manabeamoozeshi/Andrology_Part_3.pdf
-[OK16-PDF]: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=186
+[OK16-PDF]: https://web.archive.org/web/20251005034705/https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf#page=186
 [SANG87-GS]: https://scholar.google.com/scholar?cluster=15044252211866156137
 [SANG87-CNKI]: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD8589&filename=GLYZ198701001
 [SANG87-PDF]: https://files.transfemscience.org/pdfs/Sang%20et%20al.%20%281987%29%20-%20[Pharmacokinetics%20and%20Pharmacodynamics%20of%20Different%20Doses%20of%20Norethisterone%20Enanthate%20Alone%20and%20in%20Combination%20with%20Estradiol%20Valerate].pdf
@@ -1724,7 +1731,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 [SMM18-GB]: https://books.google.com/books?hl=en&lr=&id=6UjpDwAAQBAJ
 [SINKULA78-PDF]: https://files.transfemscience.org/pdfs/Sinkula%20%281978%29%20-%20Methods%20to%20Achieve%20Sustained%20Drug%20Delivery%20-%20The%20Chemical%20Approach%20[In%20Sustained%20&%20Controlled%20Release%20Drug%20Delivery%20Systems%20%28Robinson%29].pdf
 [S71-GS]: https://scholar.google.com/scholar?cluster=8218988094732310593
-[S71-WC]: https://www.worldcat.org/title/influence-of-progesterone-and-oestradiol-on-migraine/oclc/216701574
+[S71-WC]: https://www.worldcat.org/oclc/216701574
 [S71-PDF]: https://web.archive.org/web/20210701064750/https://unsworks.unsw.edu.au/fapi/datastream/unsworks:65652/SOURCE01?view=true
 [STEGE88-PDF]: https://files.transfemscience.org/pdfs/Stege%20et%20al.%20%281988%29%20-%20Single%20Drug%20Polyestradiol%20Phosphate%20Therapy%20in%20Prostatic%20Cancer.pdf
 [TCB21-PHSA]: http://www.phsa.ca/transcarebc/health-professionals/clinical-resources
@@ -1737,7 +1744,7 @@ Kanin, M., Slack, M., Patel, R., Chen, K. T., Jackson, N., Williams, K. C., & Gr
 [VC57-ENG]: https://files.transfemscience.org/pdfs/translations/Varangot%20&%20Cedard%20%281957%29%20-%20Modifications%20des%20%C5%92strog%C3%A8nes%20Sanguins%20Apr%C3%A8s%20Administration%20Intramusculaire%20de%20Benzoate%20d'%C5%92stradiol.pdf
 [V77-GB]: https://books.google.com/books?id=LQdrAAAAMAAJ&q=%22Transport+and+Distribution+of+Androgens+at+Different+Ages%22+vermeulen
 [V77-OL]: https://openlibrary.org/works/OL6908523W/
-[V77-WC]: https://www.worldcat.org/title/androgens-and-antiandrogens/oclc/925036459
+[V77-WC]: https://www.worldcat.org/oclc/925036459
 [V77-A]: https://archive.org/details/androgensantiand0000inte/page/59/
 [V77-EXCERPT]: https://archive.is/1BCM4
 [V93-GS]: https://scholar.google.com/scholar?cluster=6929403185613656842
